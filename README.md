@@ -15,7 +15,8 @@ To approach word sense disambiguation, we looked into the Lesk algorithm and how
 Proposed Solution Description
 -----------------
 Our basic model is as follows:
-1. Read in a corpus X from author (e.g. Hemingway) 
+
+1. Read in a corpus X from author (e.g. Hemingway)
 2. For each word w in corpus X:
 3.    Increment count of w in dict thesaurus
 4.    Look up all synonyms of w in WordNet
@@ -30,8 +31,11 @@ After developing this basic model, we will embellish it by adding word sense dis
 Responsibilities of Each Team Member
 -----------------------
 Alex: Write the functions to create a dictionary by parsing a corpus and look up the synonyms for each word
+
 Scott: Translate input into output using dictionary
+
 Vikram: Word sense disambiguation (Lesk algorithm)
+
 Everyone: Part of speech tagging, GUI 
 
 Milestones
