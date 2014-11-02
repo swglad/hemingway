@@ -37,6 +37,7 @@ import wordnet as wn
 from nltk.tokenize import RegexpTokenizer    
 import operator
 import random
+import string
 
 
 class WriteLike:
@@ -82,33 +83,35 @@ class WriteLike:
             except UnicodeDecodeError, e:
                 continue
             ### For debugging purposes: (please preserve)
-            print "-----"
+            print "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
             print word, "-->", self.thesaurus[word]
             
             # Check if word is in thesaurus: copy word exactly if not, replace if yes
             if len(self.thesaurus[word]) == 0:
-                #### TEST AND MAKE THIS CHANGE ###
-                # Punctuation directly mapped so don't need to check
-                if word in string.punctuation:
+                # Word not in thesaurus, so copy original word
+                if firstWrite:
                     dest.write(origWord)
+                    firstWrite = False
                 else:
-                    if firstWrite:
-                        dest.write(origWord)
-                        firstWrite = False
-                    else:
-                        dest.write(" " + origWord)
-            else:
+                    dest.write(" " + origWord)
+            
+            else: 
                 # Probalistically choose a synonym in thesaurus[word]
                 weightedKey = self._weighted_choice(word)
                 # Make replaced word uppercase if original word was uppercase
                 if origWord[0].isupper():
                     weightedKey = weightedKey.title()
+
                 # Write to output file
                 if firstWrite:
                     dest.write(weightedKey)
                     firstWrite = False
                 else:
-                    dest.write(" " + weightedKey)
+                    # Don't add a space when printing punctuation
+                    if word in string.punctuation:
+                        dest.write(origWord)
+                    else:
+                        dest.write(" " + weightedKey)
 
         source.close()
         dest.close()
