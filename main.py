@@ -20,12 +20,50 @@
 
 import numpy
 import numpy.linalg
-from collections import defaultdict
+from collections import defaultdict, Counter
 from random import shuffle
 
+import string, re
+
+import wordnet as wn
+
 class WriteLike:
-    def __init__(self):
-        self.author = "Hemingway"
+    def __init__(self, author):
+        self.author = author
+        self.thesaurus = self._make_thesaurus()
+
+    def _make_thesaurus(self):
+    	thesaurus = defaultdict(lambda: Counter())
+
+    	source = open("corpus/" + self.author + ".txt")
+
+    	for line in source:
+    		if self._is_title(line):
+    			continue
+
+    		for word in line.split():
+    			word = word.strip()		\
+    						.lower()	\
+    						.translate(string.maketrans("",""), 
+												string.punctuation)
+
+    			try:
+    				word = word.decode('ascii')
+    			except UnicodeDecodeError, e:
+    				continue
+				
+    			thesaurus[word].update([word])
+
+    			for syn in wn.get_synonyms(word):
+    				syn = syn.name().split(".")[0]
+    				thesaurus[syn].update([word])
+
+    	return thesaurus
+
+    def _is_title(self, line):
+    	return re.match("^[0-9]*\s?[A-Z\s]+[0-9]*$", line) is not None
+
 
 if __name__=='__main__':
-    Hemingway = WriteLike()
+    wl = WriteLike("hemingway_short")
+    print wl.thesaurus
