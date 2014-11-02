@@ -7,6 +7,11 @@ Problem Description and Motivations
 This problem consists of translating input text into text from a given author or
 corpus. Our motivation for the project was to come up with a tool that enables anyone to enter input and learn how Hemingway or another famous author would say that input. 
 
+Requirements
+------------
+1) NLTK
+2) NLTK-Data - wordnet
+
 Survey of Existing Work/Work Already Completed
 --------------
 We have started preliminary background research on writing style imitation. Our research has uncovered previous approaches to translating between writing styles. Sites like LINGOJAM allow users to create manual word/phrase mappings to convert text between authorial styles. For our project, we hope to automate this mapping process. Misha Denil’s “Structured Nonsense: Automatic Imitation of Writing Style” presents an automated system to generate nonsense sentences in a specified style. The article provides a system architecture to add context to given text, which will prove useful when we try to solve the issue of word sense disambiguation for Milestone 2.
