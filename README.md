@@ -18,13 +18,13 @@ Our basic model is as follows:
 
 1. Read in a corpus X from author (e.g. Hemingway)
 2. For each word w in corpus X:
-3.    Increment count of w in dict thesaurus
-4.    Look up all synonyms of w in WordNet
-5.    Map all synonyms of w to thesaurus[w]
+3.    >   Increment count of w in dict thesaurus
+4.    >   Look up all synonyms of w in WordNet
+5.    >   Map all synonyms of w to thesaurus[w]
 6. Read in a user input Y
 7. For each word y in input Y:
-8.    If y is in thesarus:
-9.        Use pdf to map y --> synonym(y)
+8.    >   If y is in thesarus:
+9.        >   Use pdf to map y --> synonym(y)
 
 After developing this basic model, we will embellish it by adding word sense disambiguation, and part of speech tagging. For data, we will use corpuses from a couple different authors, including Hemingway. In terms of tools, we plan to use WordNet, a software that maps words to their synonyms, and Stanford’s part of speech tagger. 
 
