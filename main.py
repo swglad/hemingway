@@ -42,7 +42,7 @@ import argparse
 
 
 class WriteLike:
-    def __init__(self, author, debug):
+    def __init__(self, author, debug = False):
         self.author = author
         self.debug = debug
         self.thesaurus = self._read_thesaurus()
@@ -147,10 +147,10 @@ class WriteLike:
 
 if __name__=='__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('-author', type=str, help='name of author', required=True)
-    parser.add_argument('-input', type=str, help='user input file', required=True)
-    parser.add_argument('-out', type=str, help='filename of output', required=True)
-    parser.add_argument('-DEBUG', help=argparse.SUPPRESS, action='store_true', required=False)
+    parser.add_argument('-author --author -a --a'.split(), type=str, help='name of author', required=True)
+    parser.add_argument('-input --input -in --in'.split(), type=str, help='user input file', required=True)
+    parser.add_argument('-out --out -output --output -o --o'.split(), type=str, help='filename of output', required=True)
+    parser.add_argument('-DEBUG --DEBUG', help=argparse.SUPPRESS, action='store_true', required=False)
     args = parser.parse_args()
 
     wl = WriteLike(args.author, args.DEBUG)
