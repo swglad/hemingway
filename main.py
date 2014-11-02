@@ -152,7 +152,7 @@ class WriteLike:
         print "text: ", text
 
         for word in text:
-            origWord = word
+            origWord = word     # preserve capitalization
             word = word.strip().lower()
             # Reject non-ASCII characters
             try:
@@ -214,6 +214,7 @@ class WriteLike:
 
         # Return final word as best choice (e.g. tail 'n' value)
         return choice
+
 
 if __name__=='__main__':
     wl = WriteLike("hemingway_short")
