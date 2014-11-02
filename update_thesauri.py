@@ -59,6 +59,15 @@ def write_thesaurus(filepath, thesaurus):
             for syn in thesaurus[word]:
                 f.write("\t" + syn + " " + str(thesaurus[word][syn]) + "\n")
 
+def add_mappings(mapfile, thesaurus):
+    '''
+    Uses mapfile to add word-to-word mappings to thesaurus 
+    (e.g. Shakespeare: "thy" -> "you")
+    '''
+    # TODO
+    
+    return thesaurus 
+
 if __name__ == "__main__":
     print "Starting to make thesauri..."
     for fname in glob.glob(CORPUS_FOLDER + "/*.txt"):
