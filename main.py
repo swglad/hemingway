@@ -15,7 +15,7 @@ Pseudocode:
 9.        Use pdf to map y --> synonym(y) 
 
 Input:
-	(1) Tokenized corpus file at 'corpus/author.txt'
+    (1) Tokenized corpus file at 'corpus/author.txt'
 
 Output:
 
@@ -27,52 +27,31 @@ Enhancements:
 
 '''
 
-from collections import defaultdict, Counter 	
-import string, re 								
-import wordnet as wn 							
+import re
+from collections import defaultdict, Counter    
+
+THESAURI_FOLDER = "thesauri"                     
 
 class WriteLike:
     def __init__(self, author):
         self.author = author
-        self.thesaurus = self._make_thesaurus()
-    
-    def _make_thesaurus(self):
-    	''' Returns dict of counters 'thesaurus', where
-    		thesaurus[word] = { synonym1: 4, syn2: 8, syn3: 1, ... } '''
-    	thesaurus = defaultdict(lambda: Counter())
-    	
-    	# Build thesaurus from author's corpus
-    	source = open("corpus/" + self.author + ".txt")
-    	for line in source:
-    		# Ignore repeated book title
-    		if self._is_title(line): 
-    			continue
+        self.thesaurus = self._read_thesaurus()
 
-    		for word in line.split():
-    			word = word.strip()		\
-    						.lower()	\
-    						.translate(string.maketrans("",""), 
-												string.punctuation)
-    			# Reject non-ASCII characters
-    			try:
-    				word = word.decode('ascii')
-    			except UnicodeDecodeError, e:
-    				continue
+    def _read_thesaurus(self):
+        filename = THESAURI_FOLDER + "/" + self.author + ".txt"
 
-    			# Increment word count of word w
-    			thesaurus[word].update([word]) 
+        thesaurus = defaultdict(lambda: Counter())
 
-    			# Retrieve syn = synonym[w], add to thesaurus[syn]
-    			for syn in wn.get_synonyms(word):
-    				syn = syn.name().split(".")[0]
-    				thesaurus[syn].update([word])
+        with open(filename, 'r') as f:  
+            for line in f:
+                if re.match("^[\s]", line):
+                    syn, count = line.strip().split()
+                    current_word.update({syn: int(count)})
+                else:
+                    dict_key = line.strip()
+                    current_word = thesaurus[dict_key]
 
-    	return thesaurus
-
-    def _is_title(self, line):
-    	''' Ignore book title if repeated in corpus '''
-    	return re.match("^[0-9]*\s?[A-Z\s]+[0-9]*$", line) is not None
-
+        return thesaurus
 
 if __name__=='__main__':
     wl = WriteLike("hemingway_short")
