@@ -44,7 +44,8 @@ class WriteLike:
     	# Build thesaurus from author's corpus
     	source = open("corpus/" + self.author + ".txt")
     	for line in source:
-    		if self._is_title(line): # ignore repeated book title
+    		# Ignore repeated book title
+    		if self._is_title(line): 
     			continue
 
     		for word in line.split():
@@ -58,7 +59,8 @@ class WriteLike:
     			except UnicodeDecodeError, e:
     				continue
 
-    			thesaurus[word].update([word]) # Increment word count
+    			# Increment word count of word w
+    			thesaurus[word].update([word]) 
 
     			# Retrieve syn = synonym[w], add to thesaurus[syn]
     			for syn in wn.get_synonyms(word):
