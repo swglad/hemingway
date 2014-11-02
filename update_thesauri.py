@@ -11,7 +11,7 @@ def _is_title(line):
     '''
     Ignore book title if repeated in corpus
     '''
-    return re.match("^[0-9]*\s?[A-Z\s]+[0-9]*$", line) is not None
+    return re.match(" ^ [0-9]*\s ? [A-Z\s]+[0-9]*$", line) is not None
 
 def make_thesaurus(filepath):
     '''
@@ -28,10 +28,7 @@ def make_thesaurus(filepath):
                 continue
 
             for word in line.split():
-                word = word.strip()     \
-                            .lower()    \
-                            .translate(string.maketrans("",""), 
-                                        string.punctuation)
+                word = word.strip().lower()
 
                 # Reject non-ASCII characters
                 try:
@@ -40,7 +37,7 @@ def make_thesaurus(filepath):
                     continue
 
                 # Reject whitespace character
-                if re.match("^[\s]*$", word):
+                if re.match(" ^ [\s]*$", word):
                     continue
 
                 # Increment word count of word w
