@@ -1,14 +1,9 @@
-"""
-wordnet.py
-
-Author: Alex Gerstein
-
-API wrapper to lookup words on
-Princeton Wordnet.
+""" 
+Word sense disambiguation using the Lesk algorithm. 
 """
 
-from nltk.corpus import wordnet
-from nltk.wsd import lesk
+from nltk.wsd import lesk 
+from nltk import word_tokenize
 
 def disambiguate(context, word, pos):
 	"""
@@ -19,6 +14,3 @@ def disambiguate(context, word, pos):
 	"""
 
 	return lesk(context,word,pos)
-
-def get_synonyms(word):
-        return wordnet.synsets(word)
