@@ -38,11 +38,13 @@ from nltk.tokenize import RegexpTokenizer
 import operator
 import random
 import string
+import argparse
 
 
 class WriteLike:
-    def __init__(self, author):
+    def __init__(self, author, debug = False):
         self.author = author
+        self.debug = debug
         self.thesaurus = self._read_thesaurus()
 
     def _read_thesaurus(self):
@@ -72,7 +74,9 @@ class WriteLike:
         # Tokenize full input file by spaces + punctuation
         tokenizer = RegexpTokenizer('\w+|\$[\d\.]+|\S+')
         text = tokenizer.tokenize(source.read())
-        print "text: ", text
+        
+        if self.debug:
+            print "text: ", text
 
         for word in text:
             origWord = word     # preserve capitalization
@@ -82,9 +86,10 @@ class WriteLike:
                 word = word.decode('ascii')
             except UnicodeDecodeError, e:
                 continue
-            ### For debugging purposes: (please preserve)
-            print "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-            print word, "-->", self.thesaurus[word]
+
+            if self.debug:
+                print 
+                print word, "\t-->\t", self.thesaurus[word]
             
             # Check if word is in thesaurus: copy word exactly if not, replace if yes
             if len(self.thesaurus[word]) == 0:
@@ -141,6 +146,12 @@ class WriteLike:
         return choice
 
 if __name__=='__main__':
-    wl = WriteLike("hemingway_short")
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-author', '--author', '-a', '--a', type=str, help='name of author', required=True)
+    parser.add_argument('-input', '--input', '-in', '--in', '-i', '--i', type=str, help='user input file', required=True)
+    parser.add_argument('-output', '--output', '-out', '--out', '-o', '--o', type=str, help='filename of output', required=True)
+    parser.add_argument('-DEBUG', '--DEBUG', action='store_true', required=False)
+    args = parser.parse_args()
+
+    wl = WriteLike(args.author, args.DEBUG)
     wl.style_convert("sample", "a")
-    #print wl.thesaurus
