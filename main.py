@@ -27,18 +27,18 @@ Enhancements:
 
 '''
 
-from collections import defaultdict, Counter 	# for thesaurus
-import string, re 								# regex
-import wordnet as wn 							# WordNet interface
+from collections import defaultdict, Counter 	
+import string, re 								
+import wordnet as wn 							
 
 class WriteLike:
     def __init__(self, author):
         self.author = author
         self.thesaurus = self._make_thesaurus()
-
-    # Returns dict of counters 'thesaurus', where
-    #   thesaurus[word] = { synonym1: 4, syn2: 8, syn3: 1, ... }
+    
     def _make_thesaurus(self):
+    	''' Returns dict of counters 'thesaurus', where
+    		thesaurus[word] = { synonym1: 4, syn2: 8, syn3: 1, ... } '''
     	thesaurus = defaultdict(lambda: Counter())
     	
     	# Build thesaurus from author's corpus
@@ -67,8 +67,8 @@ class WriteLike:
 
     	return thesaurus
 
-    # Ignore book title if repeated in corpus
     def _is_title(self, line):
+    	''' Ignore book title if repeated in corpus '''
     	return re.match("^[0-9]*\s?[A-Z\s]+[0-9]*$", line) is not None
 
 
