@@ -147,10 +147,10 @@ class WriteLike:
 
 if __name__=='__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('-author --author -a --a'.split(), type=str, help='name of author', required=True)
-    parser.add_argument('-input --input -in --in'.split(), type=str, help='user input file', required=True)
-    parser.add_argument('-out --out -output --output -o --o'.split(), type=str, help='filename of output', required=True)
-    parser.add_argument('-DEBUG --DEBUG', help=argparse.SUPPRESS, action='store_true', required=False)
+    parser.add_argument('-author', '--author', '-a', '--a', type=str, help='name of author', required=True)
+    parser.add_argument('-input', '--input', '-in', '--in', '-i', '--i', type=str, help='user input file', required=True)
+    parser.add_argument('-output', '--output', '-out', '--out', '-o', '--o', type=str, help='filename of output', required=True)
+    parser.add_argument('-DEBUG', '--DEBUG', action='store_true', required=False)
     args = parser.parse_args()
 
     wl = WriteLike(args.author, args.DEBUG)
