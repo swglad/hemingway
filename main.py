@@ -27,100 +27,22 @@ Enhancements:
 
 '''
 
-from nltk.tokenize import RegexpTokenizer    
-import random
+
 import re
 from collections import defaultdict, Counter    
 
 THESAURI_FOLDER = "thesauri"                     
-import wordnet as wn         
 
+import wordnet as wn         
 from nltk.tokenize import RegexpTokenizer    
 import operator
 import random
+
 
 class WriteLike:
     def __init__(self, author):
         self.author = author
         self.thesaurus = self._read_thesaurus()
-
-    def style_convert(self, infile, outfile):
-        ''' For each word in input text, look up synonyms in the 
-            author's thesaurus and probabilistically select a
-            replacement word. Write output to outfile. ''' 
-
-        source = open("input/" + infile + ".txt", 'r')
-        dest = open("output/" + outfile + ".out", 'w')
-        firstWrite = True
-        
-        # Tokenize full input file by spaces + punctuation
-        tokenizer = RegexpTokenizer('\w+|\$[\d\.]+|\S+')
-        text = tokenizer.tokenize(source.read())
-        print "text: ", text
-
-        for word in text:
-            origWord = word     # preserve capitalization
-            word = word.strip().lower()
-            # Reject non-ASCII characters
-            try:
-                word = word.decode('ascii')
-            except UnicodeDecodeError, e:
-                continue
-            ### For debugging purposes: (please preserve)
-            print "-----"
-            print word, "-->", self.thesaurus[word]
-            
-            # Check if word is in thesaurus: copy word exactly if not, replace if yes
-            if len(self.thesaurus[word]) == 0:
-                #### TEST AND MAKE THIS CHANGE ###
-                # Punctuation directly mapped so don't need to check
-                if word in string.punctuation:
-                    dest.write(origWord)
-                else:
-                    if firstWrite:
-                        dest.write(origWord)
-                        firstWrite = False
-                    else:
-                        dest.write(" " + origWord)
-            else:
-                # Probalistically choose a synonym in thesaurus[word]
-                weightedKey = self._weighted_choice(word)
-                # Make replaced word uppercase if original word was uppercase
-                if origWord[0].isupper():
-                    weightedKey = weightedKey.title()
-                # Write to output file
-                if firstWrite:
-                    dest.write(weightedKey)
-                    firstWrite = False
-                else:
-                    dest.write(" " + weightedKey)
-
-        source.close()
-        dest.close()
-
-        return outfile
-
-    def _weighted_choice(self, word):
-        ''' Returns a probalistically-selected synonym for a word. '''
-        ''' Works by randomly choosing a number 'n', iterating through
-            synonyms in thesaurus[word] in random order, & decreasing 
-            'n' by the 'weight' (frequency) of each synonym. '''
-        # Obtain random normal_pdf weight value from [0, total_weight]
-        word_dict = self.thesaurus[word]
-        total_weight = sum(word_dict[item] for item in word_dict)
-        n = random.uniform(0, total_weight)
-
-        # Randomize word order and select word with weight capturing 'n'
-        mixKeys = word_dict.keys()
-        random.shuffle(mixKeys)
-        for choice in mixKeys:
-            weight = word_dict[choice]
-            if n < weight:
-                return choice
-            n = n - weight
-
-        # Return final word as best choice (e.g. tail 'n' value)
-        return choice
 
     def _read_thesaurus(self):
         filename = THESAURI_FOLDER + "/" + self.author + ".txt"
@@ -214,7 +136,6 @@ class WriteLike:
 
         # Return final word as best choice (e.g. tail 'n' value)
         return choice
-
 
 if __name__=='__main__':
     wl = WriteLike("hemingway_short")
