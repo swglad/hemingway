@@ -9,8 +9,8 @@ corpus. Our motivation for the project was to come up with a tool that enables a
 
 Requirements
 ------------
-1) NLTK
-2) NLTK-Data - wordnet
+1. NLTK
+2. NLTK-Data - wordnet
 
 Survey of Existing Work/Work Already Completed
 --------------
