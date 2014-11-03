@@ -6,6 +6,7 @@ import wordnet as wn
 
 CORPUS_FOLDER = "corpus"
 THESAURI_FOLDER = "thesauri"
+MAPPING_FOLDER = "mappings"
 
 def _is_title(line):
     '''
@@ -48,6 +49,11 @@ def make_thesaurus(filepath):
                     syn = syn.name().split(".")[0]
                     thesaurus[syn].update([word])
 
+    # Update thesaurus with mappings, if mapfile exists
+    filepath = filepath.replace(CORPUS_FOLDER, MAPPING_FOLDER)
+    mapfile = filepath.replace(".txt", ".map")
+    thesaurus = add_mappings(mapfile, thesaurus)
+
     return thesaurus
 
 def write_thesaurus(filepath, thesaurus):
@@ -58,6 +64,32 @@ def write_thesaurus(filepath, thesaurus):
 
             for syn in thesaurus[word]:
                 f.write("\t" + syn + " " + str(thesaurus[word][syn]) + "\n")
+
+def add_mappings(mapping_file, thesaurus):
+    '''
+    Uses mapfile to add word-to-word mappings to thesaurus 
+    (e.g. Shakespeare: "you" --> {"you", "thy", "thou", ...})
+    '''
+    # Update thesaurus with mappings, if mapfile exists
+    try:
+        with open(mapping_file) as mapfile:
+            for line in mapfile:
+                authorWord, userWord = map(str.lower, line.strip().split())
+                
+                # Reject non-ASCII characters
+                try:
+                    authorWord = authorWord.decode('ascii')
+                    userWord = userWord.decode('ascii')
+                except UnicodeDecodeError, e:
+                    continue
+                
+                # e.g. thesaurus["you"]["thy"] = thesaurus["thy"]["thy"]
+                thesaurus[userWord][authorWord] = thesaurus[authorWord][authorWord]
+
+    except IOError:
+        pass
+    
+    return thesaurus 
 
 if __name__ == "__main__":
     print "Starting to make thesauri..."

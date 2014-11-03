@@ -79,6 +79,8 @@ appropriation
 	appropriation 3
 bringing
 	bringing 15
+wooded
+	bosky 2
 chthonian
 	nether 4
 wooden
@@ -107,16 +109,14 @@ bannister
 	banister 1
 sooth
 	sooth 94
-,ay
-	,ay 1
 sustaining
 	sustaining 2
 consenting
 	consenting 8
 scraped
 	scraped 1
-,as
-	,as 43
+procrus
+	procrus 2
 errors
 	errors 6
 blind-worms
@@ -127,8 +127,6 @@ cooking
 	preparations 3
 paphos
 	paphos 2
-astronomic
-	astronomical 2
 vassals
 	vassals 3
 numeral
@@ -260,11 +258,12 @@ music
 	music 942
 	musics 20
 therefore
-	hence 358
-	thus 769
-	so 4986
-	therefore 1242
 	thence 82
+	thus 770
+	so 4996
+	therefore 1242
+	hence 359
+	argal 3
 swoopstake
 	swoopstake 1
 sermons
@@ -314,7 +313,7 @@ disparagement
 	dispraise 9
 	disparagement 6
 titanium
-	tis 1414
+	tis 1419
 want
 	wants 160
 	needs 137
@@ -354,7 +353,7 @@ travel
 	moving 15
 	journeying 2
 	goes 167
-	go 1736
+	go 1739
 	went 100
 	moves 23
 	trip 11
@@ -405,7 +404,7 @@ puling
 	puling 4
 stick_to
 	following 29
-	follow 305
+	follow 306
 	followed 10
 	follows 59
 whizzing
@@ -433,7 +432,7 @@ fit
 	going 96
 	fittest 12
 	goes 167
-	go 1736
+	go 1739
 	went 100
 	fitted 52
 raggedness
@@ -470,7 +469,7 @@ fig
 	figs 10
 	fig 15
 fie
-	fie 155
+	fie 156
 wales
 	wales 68
 	cambria 2
@@ -580,8 +579,6 @@ estimate
 	judge 88
 	estimate 30
 	estimation 63
-,imagine
-	,imagine 1
 silent
 	silent 160
 	stiller 1
@@ -639,7 +636,7 @@ master
 	masters 1218
 	controls 1
 	captains 22
-	master 6192
+	master 6200
 	skipper 1
 	controlling 3
 	captain 126
@@ -822,8 +819,6 @@ plate
 	plates 14
 lawn_mower
 	mowers 1
-!speak
-	!speak 1
 take_back
 	repossess 4
 firenze
@@ -860,12 +855,8 @@ unspoke
 	unspoke 1
 bull-bearing
 	bull-bearing 1
-.if
-	.if 2
 verboseness
 	verbosity 1
-.is
-	.is 1
 norways
 	norways 1
 advisedly
@@ -925,8 +916,6 @@ dorsetshire
 	dorsetshire 1
 loop_topology
 	loop 2
-,two
-	,two 1
 tyranny
 	tyranny 34
 suppliest
@@ -996,7 +985,7 @@ studious
 finsbury
 	finsbury 1
 .
-	. 36769
+	. 36872
 newt
 	newts 1
 	triton 1
@@ -1005,7 +994,7 @@ candle-mine
 	candle-mine 1
 much
 	much 7168
-	often 115
+	often 116
 boblibindo
 	boblibindo 1
 progenitor
@@ -1172,7 +1161,7 @@ outlives
 brandish
 	waved 1
 	wave 10
-	waving 7
+	waving 8
 	flourishes 4
 	waves 18
 	flourish 22
@@ -1187,7 +1176,7 @@ endue
 endud
 	endud 1
 public_speaking
-	speaking 40
+	speaking 41
 hal
 	hal 42
 ham
@@ -1198,7 +1187,7 @@ salutes
 hac
 	hac 4
 had
-	had 1437
+	had 1438
 advancement
 	progress 12
 	advancement 18
@@ -1282,7 +1271,7 @@ effusion
 beneficial
 	better 585
 	beneficial 6
-	good 2816
+	good 2817
 	best 448
 crowd
 	crowding 4
@@ -1396,8 +1385,6 @@ undertakings
 	undertakings 3
 philostrate
 	philostrate 2
-;then
-	;then 1
 despised
 	hated 27
 	detested 16
@@ -1494,6 +1481,8 @@ extenuated
 	extenuated 1
 repeatst
 	repeatst 1
+unnerve
+	unmake 4
 extenuates
 	extenuates 1
 leviathans
@@ -1539,11 +1528,11 @@ roll
 	waves 18
 	rolling 39
 	roaming 3
-	waving 7
+	waving 8
 	wanders 1
 	casts 4
 	roll 160
-	cast 103
+	cast 104
 	range 8
 	rove 1
 	roam 2
@@ -1583,7 +1572,7 @@ intent
 	intents 21
 	purport 1
 	intent 104
-	spirit 243
+	spirit 244
 	spirits 122
 smelling
 	smelling 5
@@ -1683,7 +1672,7 @@ gloomy
 	blue 22
 	lower 28
 	bluest 1
-	down 604
+	down 606
 	gloomy 4
 	low 90
 	low-spirited 1
@@ -1725,8 +1714,8 @@ skewer
 shylock
 	shylocks 1
 	shylock 34
-!on
-	!on 1
+hindered
+	hindered 3
 adornd
 	adornd 1
 speed_of_light
@@ -1783,13 +1772,13 @@ address
 	addrest 18
 	accost 6
 	speech 131
-	speaking 40
+	speaking 41
 	address 187
 	call 572
 	speaks 119
 	called 70
 	reference 5
-	speak 1173
+	speak 1175
 filthy-mantled
 	filthy-mantled 1
 convertite
@@ -1994,7 +1983,7 @@ jig
 overlord
 	lord 2717
 	masters 174
-	master 774
+	master 775
 	lords 384
 unprizable
 	unprizable 1
@@ -2036,7 +2025,7 @@ drilling
 sorted
 	sorted 10
 baby-sit
-	sitting 18
+	sitting 19
 	sit 214
 	sits 50
 	sat 29
@@ -2110,8 +2099,6 @@ flat_coat
 grandma
 	grandmother 4
 	nan 11
-:as
-	:as 1
 aerie
 	aery 6
 	aerys 2
@@ -2127,8 +2114,6 @@ wrong
 	wronger 12
 initiate
 	initiate 5
-;farewell
-	;farewell 1
 hames
 	hames 1
 quibble
@@ -2163,7 +2148,7 @@ neglect
 	miss 25
 	neglect 105
 saving
-	saving 24
+	saving 30
 symmetry
 	proportions 6
 	balance 11
@@ -2248,6 +2233,8 @@ beehive
 	hives 2
 	beehives 4
 	hive 10
+uninterrupted
+	continuate 2
 lurchd
 	lurchd 1
 borough
@@ -2260,7 +2247,7 @@ invite
 	invite 152
 	inviting 18
 	biding 3
-	bid 334
+	bid 335
 	bids 57
 	invites 42
 	bade 51
@@ -2287,8 +2274,6 @@ opposite
 	opposite 144
 sober-blooded
 	sober-blooded 1
-,come
-	,come 2
 discerning
 	discerning 4
 	discreet 7
@@ -2404,8 +2389,6 @@ audaciously
 	audaciously 2
 crest-falln
 	crest-falln 1
-.mew
-	.mew 1
 whoremasterly
 	whoremasterly 1
 undescried
@@ -2520,8 +2503,6 @@ sufference
 	sufference 2
 venus
 	venus 84
-.the
-	.the 1
 abject
 	lowest 8
 	lower 28
@@ -2572,8 +2553,6 @@ situation
 	situations 3
 bequeathd
 	bequeathd 1
-!sir
-	!sir 1
 angus_og
 	angus 1
 penthouse
@@ -2634,8 +2613,8 @@ jigging
 	jigging 1
 assignd
 	assignd 4
-!twas
-	!twas 1
+edges
+	edges 3
 amuck
 	possessed 8
 advertisement
@@ -2656,9 +2635,7 @@ adoring
 	fonder 1
 	doting 12
 being
-	being 1280
-,meet
-	,meet 1
+	being 1284
 schools
 	schools 4
 rover
@@ -2713,8 +2690,6 @@ world
 	world 3040
 	humanity 10
 	man 1808
-.pull
-	.pull 1
 thyathenian
 	thyathenian 1
 wreaths
@@ -2775,8 +2750,6 @@ squabble
 set_forth
 	expound 5
 	expounded 2
-!vouchsafe
-	!vouchsafe 1
 leadership
 	leading 7
 	leaders 3
@@ -2829,7 +2802,7 @@ mindless
 	senseless 25
 	reasonless 2
 sealed
-	certain 166
+	certain 167
 	sealed 42
 	certainer 1
 punished
@@ -2852,16 +2825,16 @@ foreheads
 over-daring
 	over-daring 1
 with
-	with 7142
+	with 7148
 abused
 	abused 36
 pull
-	pull 204
+	pull 221
 	draw 404
-	force 102
+	force 103
 	forced 8
 	pulling 12
-	drew 64
+	drew 66
 	pulls 48
 	clouts 2
 	clout 7
@@ -2932,7 +2905,7 @@ abuses
 pulp
 	mush 2
 	fleshes 1
-	flesh 135
+	flesh 136
 asss
 	asss 2
 neglectingly
@@ -3029,8 +3002,6 @@ maliciously
 dissentious
 	factious 10
 	dissentious 8
-,having
-	,having 1
 trickd
 	trickd 1
 mental_reservation
@@ -3117,11 +3088,12 @@ sand
 	sand 21
 	sands 44
 small
-	small 602
 	littlest 1
 	little 490
-	smallest 48
 	smaller 12
+	bawbling 1
+	smallest 48
+	small 602
 abbreviated
 	briefest 1
 	shortened 2
@@ -3150,7 +3122,7 @@ cuckoldly
 full-fraught
 	full-fraught 2
 pass
-	give 1341
+	give 1346
 	toss 5
 	strait 8
 	reaches 3
@@ -3212,10 +3184,10 @@ hewing
 dwells
 	dwells 17
 full
-	good 2816
+	good 2817
 	fuller 10
 	better 585
-	full 3304
+	full 3312
 	best 448
 	fullest 5
 	total 2
@@ -3232,12 +3204,12 @@ experience
 	seeing 44
 	sees 44
 	see 1440
-	have 5945
+	have 5951
 	seen 258
 	saw 262
 	has 389
-	had 1437
-	got 121
+	had 1438
+	got 122
 	gets 13
 	haves 1
 	havings 1
@@ -3250,7 +3222,7 @@ experience
 	gotten 5
 	experience 120
 	receives 10
-	having 155
+	having 156
 experiencd
 	experiencd 3
 mouldy
@@ -3273,7 +3245,7 @@ depart
 	starts 12
 	parts 104
 	start 30
-	part 434
+	part 435
 	quits 2
 	starting 5
 	quitting 1
@@ -3311,6 +3283,8 @@ morn
 	morn 34
 more
 	mores 2
+	moo 0
+	moe 17
 	more 13746
 door
 	door 535
@@ -3365,7 +3339,7 @@ learn
 	sees 44
 	hears 27
 	acquired 1
-	discover 33
+	discover 34
 	hearing 88
 	discovered 9
 	heard 349
@@ -3378,7 +3352,7 @@ learn
 	learnt 6
 	takes 81
 	studying 3
-	take 1210
+	take 1211
 	taken 91
 	learned 153
 	reading 20
@@ -3386,7 +3360,7 @@ learn
 	read 198
 	acquire 4
 	took 157
-	hear 882
+	hear 884
 	hearings 1
 	hearsed 2
 	study 61
@@ -3398,6 +3372,7 @@ learn
 	taking 31
 knocked
 	knocked 4
+	knapped 2
 embrace
 	encompassed 2
 	embraces 20
@@ -3446,7 +3421,7 @@ respective
 	several 68
 helium
 	hes 307
-	he 6272
+	he 6285
 metrical_foot
 	foot 164
 	feet 55
@@ -3538,8 +3513,6 @@ saucy
 	saucy 33
 bawbling
 	bawbling 1
-!slay
-	!slay 1
 table-full
 	table-full 1
 bangle
@@ -3560,7 +3533,7 @@ sauce
 saucd
 	saucd 3
 colleague
-	fellow 304
+	fellow 305
 	fellows 81
 note-worthy
 	note-worthy 1
@@ -3570,8 +3543,6 @@ swinge-bucklers
 	swinge-bucklers 1
 abandond
 	abandond 6
-,ravening
-	,ravening 1
 weeds
 	weeds 80
 smalus
@@ -3668,7 +3639,7 @@ ferociously
 purport
 	purport 2
 preservation
-	saving 12
+	saving 15
 	preservation 24
 sequester
 	sequestering 3
@@ -3679,8 +3650,6 @@ firsts
 	firsts 1
 marble-constant
 	marble-constant 1
-,thus
-	,thus 1
 peaceable
 	peaceable 4
 saine
@@ -3726,24 +3695,19 @@ stifle
 	knees 53
 justle
 	justle 2
-,id
-	,id 3
 ungrateful
 	ungrateful 18
 	unthankful 1
 	thankless 3
-,if
-	,if 10
-,in
-	,in 7
 levels
 	levels 1
-,it
-	,it 8
+spectatorship
+	spectatorship 1
 graveless
 	graveless 1
-,is
-	,is 5
+charger
+	courser 3
+	coursers 5
 inferreth
 	inferreth 1
 givst
@@ -3805,8 +3769,8 @@ conscription
 	musters 5
 immeasurable
 	unmeasurable 2
-.flesh
-	.flesh 1
+mends
+	mends 2
 levinia
 	levinia 1
 load-bearing
@@ -3849,6 +3813,7 @@ barren
 	barren 140
 	waste 40
 	destitute 2
+	blasted 20
 recks
 	recks 2
 barrel
@@ -3914,7 +3879,7 @@ remedy
 	relieves 1
 twill
 	twilled 1
-	twill 256
+	twill 260
 schemer
 	plotter 1
 compass
@@ -3972,7 +3937,7 @@ project
 	casting 3
 	proposing 1
 	proposed 2
-	cast 103
+	cast 104
 	throwing 10
 	propose 10
 	contrive 8
@@ -4164,8 +4129,6 @@ agitation
 	unrest 6
 	excitements 2
 	agitation 12
-,words
-	,words 1
 binding
 	cover 26
 	back 322
@@ -4223,7 +4186,7 @@ accusative
 	accusative 3
 	accusing 2
 lads
-	lads 22
+	lads 23
 unhaird
 	unhaird 1
 examinations
@@ -4364,8 +4327,8 @@ behave
 	acquitted 3
 	bears 106
 	conducted 3
-	bear 528
-	born 170
+	bear 529
+	born 171
 	carries 23
 	carrying 5
 	behave 3
@@ -4433,12 +4396,12 @@ dueler
 smilets
 	smilets 1
 knocked_out
-	out 1350
+	out 1352
 spar
 	sparing 16
 	spares 12
 opent
-	opent 2
+	opent 3
 opens
 	opens 4
 jacks
@@ -4457,14 +4420,12 @@ charmed
 	charmed 4
 positivist
 	positive 3
-:and
-	:and 1
+frush
+	frush 1
 self-subdud
 	self-subdud 1
 maturity
 	maturity 3
-.at
-	.at 1
 faded
 	faded 3
 shrivelld
@@ -4501,9 +4462,9 @@ bobbed
 	bobbed 1
 chap
 	lad 28
-	fellow 304
+	fellow 305
 	chaps 28
-	lads 22
+	lads 23
 	fellows 81
 oershot
 	oershot 2
@@ -4557,7 +4518,7 @@ oblige
 disclaimst
 	disclaimst 1
 bianca
-	bianca 39
+	bianca 40
 suppression
 	crushing 1
 perverse
@@ -4621,6 +4582,8 @@ agues
 	agues 5
 glows
 	glows 1
+horsing
+	horsing 1
 glowd
 	glowd 1
 narbon
@@ -4714,7 +4677,7 @@ victor
 	superior 1
 	masters 174
 	victor 10
-	master 774
+	master 775
 	victors 6
 sweats
 	sweats 5
@@ -4773,7 +4736,7 @@ maker
 	maker 8
 	makers 1
 thats
-	thats 408
+	thats 409
 rive
 	rive 6
 rivd
@@ -5050,8 +5013,6 @@ books
 	books 33
 sottish
 	sottish 1
-!we
-	!we 1
 here_and_now
 	moments 2
 	moment 28
@@ -5193,8 +5154,6 @@ quarry
 	quarry 6
 devoutly
 	devoutly 6
-,bring
-	,bring 1
 egregious
 	egregious 4
 eyld
@@ -5214,7 +5173,7 @@ intelligis
 	intelligis 1
 false
 	untrue 4
-	false 2152
+	false 2160
 	sourest 3
 	mistaken 9
 	sour 30
@@ -5407,7 +5366,7 @@ frame
 	casting 3
 	couches 1
 	puts 43
-	cast 103
+	cast 104
 	couchings 1
 	casts 4
 	frame 528
@@ -5419,7 +5378,7 @@ frame
 	putting 18
 	framing 6
 	composes 1
-	put 488
+	put 489
 	borders 1
 	framed 20
 	border 1
@@ -5473,8 +5432,6 @@ tented
 	tented 1
 staring
 	staring 5
-,hamlet
-	,hamlet 1
 inflectional_morphology
 	accidence 1
 perfidious
@@ -5617,8 +5574,6 @@ lascivious
 	lascivious 26
 	lustful 4
 	lewd 11
-,often
-	,often 1
 ransom
 	ransom 260
 	ransoms 8
@@ -5793,13 +5748,13 @@ become
 	goss 1
 	gone 465
 	turned 37
-	go 1736
+	go 1739
 	suiting 1
 	suits 31
 	going 96
 	goes 167
 	suit 137
-	got 121
+	got 122
 	gets 13
 	becomings 4
 	turning 26
@@ -5834,7 +5789,7 @@ scatters
 choosing
 	choosing 4
 flush
-	even 576
+	even 579
 	scouring 3
 	evening 19
 	level 24
@@ -5945,19 +5900,19 @@ periwig
 deliver
 	redeeming 3
 	delivered 156
-	saving 12
+	saving 15
 	presented 15
 	redeems 3
 	saves 6
-	deliver 707
+	deliver 714
 	delivering 24
 	presents 12
 	redeem 22
 	redeemed 1
 	presenting 1
-	pitch 28
+	pitch 29
 	delivers 42
-	save 207
+	save 208
 	saved 17
 	pitched 3
 	present 243
@@ -5994,7 +5949,7 @@ lately
 working-days
 	working-days 1
 behold
-	beheld 29
+	beheld 30
 	beholds 1
 	behold 306
 	beholding 30
@@ -6095,8 +6050,9 @@ amorous
 	amorous 22
 aurora
 	auroras 4
-splitting
-	splitting 4
+least_sandpiper
+	stint 5
+	stints 1
 replication
 	replication 12
 covetings
@@ -6171,8 +6127,6 @@ stressed
 	distressed 9
 sequestering
 	sequestering 1
-,pray
-	,pray 2
 ill-composd
 	ill-composd 1
 inequitable
@@ -6349,9 +6303,8 @@ after-eye
 	after-eye 1
 customd
 	customd 1
-parry
-	blocks 4
-	block 17
+greediness
+	greediness 12
 arch
 	arch 90
 	arc 2
@@ -6445,7 +6398,7 @@ dinge
 	batter 2
 	battering 2
 poor_people
-	poor 621
+	poor 622
 wedding-dower
 	wedding-dower 1
 reasonable
@@ -6525,7 +6478,7 @@ wide_area_network
 render
 	rendered 18
 	render 312
-	give 1341
+	give 1346
 	submits 1
 	rendering 12
 	delivered 26
@@ -6538,7 +6491,7 @@ render
 	return 600
 	returned 48
 	returning 12
-	deliver 101
+	deliver 102
 	yielded 24
 	delivers 7
 	delivering 4
@@ -6563,8 +6516,8 @@ seduction
 	conquest 28
 	conquests 1
 approximately
-	about 392
-	some 1299
+	about 393
+	some 1300
 	roughly 6
 fumble
 	fumbles 4
@@ -6678,8 +6631,8 @@ gravd
 enshrines
 	enshrines 1
 adenine
-	a 13818
-	as 5608
+	a 13836
+	as 5654
 nostrils
 	nostrils 3
 bracken
@@ -6712,7 +6665,7 @@ reserve
 disturbd
 	disturbd 8
 lewis
-	lewis 217
+	lewis 224
 dearness
 	dearness 1
 flattering-sweet
@@ -6748,8 +6701,6 @@ haunted
 	haunted 24
 ferryman
 	ferryman 2
-,laying
-	,laying 1
 runs
 	runs 36
 runt
@@ -6811,11 +6762,11 @@ away
 	aside 59
 	outside 13
 	forth 368
-	out 1350
+	out 1352
 encounterd
 	encounterd 11
 bracing
-	fresh 78
+	fresh 79
 	brisk 4
 	freshest 3
 	refreshing 1
@@ -6839,8 +6790,6 @@ handful
 	handful 6
 french-crown
 	french-crown 1
-,saving
-	,saving 3
 diest
 	diest 21
 flashes
@@ -6913,8 +6862,6 @@ excite
 	excites 3
 	excite 8
 	excited 3
-,had
-	,had 1
 signior
 	signior 133
 attacker
@@ -7066,8 +7013,8 @@ maid-pale
 	maid-pale 1
 thanks
 	thanks 528
-,fore
-	,fore 1
+montgomery
+	montgomery 12
 extol
 	extol 4
 exton
@@ -7146,7 +7093,7 @@ mazes
 samsons
 	samsons 2
 born
-	born 510
+	born 513
 hassle
 	scuffles 1
 flatten
@@ -7475,8 +7422,6 @@ varnish
 	seal 64
 drunkards
 	drunkards 7
-,force
-	,force 1
 thighs
 	thighs 5
 aristocratic
@@ -7487,7 +7432,7 @@ aristocratic
 	gentle 355
 	gentlest 1
 triiodothyronine
-	t 448
+	t 450
 	ts 2
 sir-reverence
 	sir-reverence 1
@@ -7536,22 +7481,20 @@ agitate
 	excited 1
 	charged 6
 cost
-	be 6851
-	being 640
+	be 6852
+	being 642
 	bees 9
-	is 9144
+	is 9152
 	am 2160
 	been 720
 	costs 3
 	cost 180
-	are 3415
+	are 3416
 	were 1583
 	bess 1
-	was 2244
+	was 2247
 larums
 	larums 2
-;let
-	;let 1
 peeld
 	peeld 2
 heaviness
@@ -7739,9 +7682,9 @@ savoy_cabbage
 chic
 	smart 9
 occur
-	come 2559
+	come 2564
 	came 346
-	comes 601
+	comes 602
 	coming 144
 chid
 	chid 16
@@ -7753,7 +7696,7 @@ discussion
 	discourses 4
 	discourse 59
 	word 502
-	words 415
+	words 416
 strayd
 	strayd 3
 strays
@@ -7761,7 +7704,7 @@ strays
 four-inched
 	four-inched 1
 economy
-	saving 12
+	saving 15
 armies
 	armies 12
 sedately
@@ -7874,17 +7817,17 @@ nox
 wealthy
 	wealthy 11
 not
-	not 16914
+	not 16924
 	non 9
 rejoicd
 	rejoicd 1
 now
-	now 19558
+	now 19586
 	nows 3
 wealths
 	wealths 1
 nor
-	nor 931
+	nor 932
 sop
 	sops 12
 	sop 24
@@ -8012,7 +7955,7 @@ well-dealing
 outcry
 	outcry 1
 suffice
-	do 3790
+	do 3797
 	serving 4
 	answered 17
 	doing 70
@@ -8021,12 +7964,12 @@ suffice
 	answering 9
 	serve 188
 	answers 19
-	did 1621
+	did 1623
 	doings 5
 	does 333
 	done 672
 	serves 38
-	answer 378
+	answer 379
 	served 21
 	suffices 1
 semblable
@@ -8088,13 +8031,13 @@ ring
 hedge-hogs
 	hedge-hogs 2
 videlicet
-	videlicet 3
+	videlicet 4
 comagene
 	comagene 1
 oerthrows
 	oerthrows 1
 caught
-	caught 30
+	caught 31
 tawny-finnd
 	tawny-finnd 1
 predomination
@@ -8203,8 +8146,6 @@ awaits
 	awaits 2
 beholdest
 	beholdest 1
-,desires
-	,desires 1
 mountaineer
 	mountaineers 4
 	mountaineer 6
@@ -8252,8 +8193,6 @@ inventorially
 	inventorially 1
 blessedly
 	blessedly 4
-,once
-	,once 1
 distaff
 	distaffs 2
 	distaff 9
@@ -8381,6 +8320,7 @@ impediments
 madness
 	madness 134
 fencers
+	scrimers 1
 	fencers 1
 attachd
 	attachd 5
@@ -8392,6 +8332,8 @@ foreboding
 inexplicable
 	incomprehensible 1
 	inexplicable 2
+hussies
+	housewives 2
 bridge_player
 	hand 808
 	hands 314
@@ -8510,7 +8452,7 @@ beaver
 	beavers 6
 develop
 	grown 55
-	grew 27
+	grew 28
 	acquired 1
 	acquire 4
 	grow 132
@@ -8534,8 +8476,6 @@ slipperd
 	slipperd 1
 oerstep
 	oerstep 1
-,unhappy
-	,unhappy 1
 unlace
 	unlace 1
 watch-dogs
@@ -8650,6 +8590,8 @@ wisdoms
 	wisdoms 11
 annually
 	yearly 5
+unspoiled
+	unbruised 3
 yedward
 	yedward 1
 blackberry
@@ -8665,7 +8607,7 @@ twelve
 	dozens 1
 	dozen 70
 falsehood
-	falsehood 64
+	falsehood 66
 	untruth 1
 	untruths 3
 verbal
@@ -8741,8 +8683,8 @@ outlook
 	outlook 1
 kindlier
 	kindlier 1
-frush
-	frush 1
+masterdom
+	masterdom 1
 ambrosia
 	nectar 2
 shrinking
@@ -8778,7 +8720,7 @@ start
 	going 96
 	goes 167
 	starts 120
-	go 1736
+	go 1739
 	went 100
 	starting 35
 	commence 5
@@ -8861,7 +8803,7 @@ fools
 forcing
 	forcing 3
 poor
-	poor 3105
+	poor 3110
 	poorest 32
 	poorer 16
 poop
@@ -8965,7 +8907,7 @@ sustain
 	maintains 3
 	kept 94
 	sustaining 4
-	keep 484
+	keep 485
 	maintained 6
 	maintain 41
 	sustain 45
@@ -8999,8 +8941,6 @@ fusillade
 	burst 29
 ensteepd
 	ensteepd 1
-!by
-	!by 1
 throbbing
 	throbbing 3
 locomotive
@@ -9080,7 +9020,7 @@ lurch
 	shifts 6
 	stagger 3
 	shifting 1
-	pitch 56
+	pitch 58
 	pitched 3
 	stumble 9
 done_for
@@ -9093,8 +9033,6 @@ stingily
 	cheaply 1
 aile
 	aile 3
-,discover
-	,discover 1
 learned
 	learned 51
 ferocious
@@ -9182,7 +9120,7 @@ chaotic
 	disorderly 1
 	helter-skelter 1
 bash
-	do 3790
+	do 3797
 	brawl 15
 	brawls 6
 serpigo
@@ -9192,6 +9130,7 @@ pus
 	festering 1
 lowering
 	lowering 6
+	vailing 2
 unlearned
 	unlearned 4
 quickening
@@ -9241,10 +9180,12 @@ phrase
 	phrases 20
 cuppele
 	cuppele 1
-fifty-four
-	livest 3
+cheering
+	cheering 4
+	shouting 5
 unlucky
 	unlucky 12
+	unthrifty 3
 	luckless 2
 shrouds
 	shrouds 3
@@ -9325,7 +9266,7 @@ sawst
 dirges
 	dirges 1
 evening
-	even 576
+	even 579
 	evening 76
 	eve 4
 	eves 3
@@ -9371,6 +9312,8 @@ fairy
 	fairies 30
 	sprite 5
 	sprites 8
+predatory
+	ravening 1
 heavy
 	sound 170
 	leaden 15
@@ -9395,6 +9338,7 @@ restless
 	restless 16
 jaws
 	jaws 10
+	chaps 7
 circumcised
 	circumcised 1
 deride
@@ -9430,7 +9374,7 @@ testify
 	shown 31
 	proved 9
 	showed 8
-	show 400
+	show 401
 	showing 11
 	prove 245
 	testify 21
@@ -9485,7 +9429,7 @@ overturnd
 brightest
 	brightest 4
 hapless
-	poor 621
+	poor 622
 	wretched 68
 	poorest 8
 	poorer 4
@@ -9521,13 +9465,14 @@ visions
 	visions 3
 sunburn
 	burns 26
-	burn 76
+	burn 77
 	burnt 16
 	burned 3
 	burning 42
 horse
 	horses 189
 	horse 872
+	horsing 1
 	horsed 1
 horsd
 	horsd 3
@@ -9564,8 +9509,6 @@ seafaring
 	navigation 1
 	seafaring 2
 	sailing 3
-hindered
-	hindered 3
 brocas
 	brocas 1
 hundred
@@ -9605,7 +9548,7 @@ shock_absorber
 provokst
 	provokst 2
 grew
-	grew 27
+	grew 28
 indrawn
 	withdrawn 2
 miseries
@@ -9685,8 +9628,6 @@ smoothst
 	smoothst 1
 all-confess
 	all-confess 1
-,being
-	,being 2
 apposite
 	apter 2
 	pertinent 2
@@ -9776,8 +9717,6 @@ irascibility
 	spleen 28
 keisar
 	keisar 1
-!you
-	!you 3
 drenching
 	soaking 2
 	souse 1
@@ -9939,7 +9878,7 @@ guide
 	ran 33
 	guided 15
 	runs 36
-	drew 32
+	drew 33
 	guides 35
 	steering 1
 	running 20
@@ -9990,6 +9929,8 @@ abhorrdst
 albany
 	albany 18
 	albanys 4
+nutmegs
+	nutmegs 1
 council-board
 	council-board 2
 clepeth
@@ -10000,7 +9941,7 @@ grant
 	grant 1070
 	giving 38
 	granted 58
-	give 1341
+	give 1346
 	grants 27
 	grantess 2
 	gives 118
@@ -10218,6 +10159,7 @@ unowd
 placing
 	placing 2
 opposed
+	crossed 15
 	opposed 18
 healthful
 	healthful 16
@@ -10375,11 +10317,12 @@ bustling
 wavd
 	wavd 2
 wave
-	waving 14
 	waved 1
+	wafter 0
+	wave 110
+	waving 16
 	waves 180
 	wafture 1
-	wave 110
 felicity
 	felicity 4
 rattling
@@ -10398,6 +10341,9 @@ michael
 	michael 34
 watered
 	watered 1
+queen
+	queen 4310
+	queens 369
 church_father
 	fathers 278
 	father 834
@@ -10618,7 +10564,7 @@ meet
 	satisfies 1
 	saw 262
 	assembled 10
-	fill 68
+	fill 69
 	satisfying 3
 	plays 26
 	fit 166
@@ -10628,7 +10574,7 @@ meet
 	meeting 370
 	match 82
 	satisfy 27
-	meets 110
+	meets 121
 	play 292
 	matches 4
 	gathered 1
@@ -10649,7 +10595,7 @@ meet
 	gathers 1
 	filled 2
 	receives 10
-	meet 3852
+	meet 3864
 	playing 11
 	fitted 13
 certainty
@@ -10810,24 +10756,25 @@ prevailing
 maugre
 	maugre 3
 constitute
-	be 6851
+	be 6852
 	represent 3
-	being 640
-	is 9144
+	being 642
+	is 9152
 	am 2160
 	comprising 1
 	been 720
 	bees 9
-	are 3415
+	are 3416
 	were 1583
 	bess 1
-	was 2244
+	was 2247
 perfume
-	essence 3
 	perfumes 15
+	civet 8
+	essence 3
+	perfume 44
 	perfumed 10
 	scent 3
-	perfume 44
 special
 	special 216
 butch
@@ -10846,14 +10793,14 @@ unfashionable
 fagots
 	fagots 1
 cause
-	do 3790
+	do 3797
 	made 819
 	makings 1
 	doing 70
 	cause 1348
 	make 1639
 	doings 5
-	did 1621
+	did 1623
 	reason 277
 	does 333
 	done 672
@@ -11125,8 +11072,6 @@ alabaster
 	alabaster 15
 maritime
 	maritime 2
-;renouncing
-	;renouncing 1
 accomplishd
 	accomplishd 3
 assistants
@@ -11165,7 +11110,7 @@ southward
 actor's_line
 	speeches 21
 	speech 131
-	words 415
+	words 416
 tend
 	inclining 7
 	run 188
@@ -11190,8 +11135,6 @@ tyre
 	tyre 25
 understood
 	understood 24
-,hath
-	,hath 4
 direst
 	direst 1
 tent
@@ -11273,8 +11216,6 @@ multipotent
 	multipotent 2
 controller
 	controller 2
-;but
-	;but 3
 shoulderd
 	shoulderd 1
 smoking
@@ -11422,8 +11363,6 @@ indignation
 	indignations 1
 steeld
 	steeld 3
-,directly
-	,directly 1
 bottoms
 	bottoms 4
 intersection
@@ -11441,15 +11380,14 @@ lincoln
 	lincoln 8
 necessary
 	necessary 57
+	behoveful 1
 lost
 	missed 1
-	lost 1542
+	lost 1548
 rots
 	rots 1
 somersets
 	somersets 2
-,bianca
-	,bianca 1
 tipple
 	tippling 1
 payments
@@ -11457,7 +11395,7 @@ payments
 lose
 	losing 140
 	loses 63
-	lost 1799
+	lost 1806
 	lose 1600
 parching
 	parching 3
@@ -11513,7 +11451,7 @@ didt
 	didt 1
 broad
 	wide 50
-	full 413
+	full 414
 	liberal 28
 	broad 128
 	spacious 12
@@ -11587,8 +11525,6 @@ north
 	northward 6
 	north 315
 	n 2
-.who
-	.who 1
 fountains
 	fountains 2
 gait
@@ -11606,7 +11542,7 @@ gain
 	earned 5
 	make 1639
 	winning 4
-	won 92
+	won 93
 	earns 1
 	gains 35
 	makings 1
@@ -11648,7 +11584,7 @@ annexment
 	annexment 1
 display
 	exhibit 4
-	show 400
+	show 401
 	showing 11
 	presentation 2
 	display 24
@@ -11728,14 +11664,14 @@ stay
 	staying 77
 	continues 3
 	continuing 1
-	stay 4980
+	stay 4992
 	rested 6
 	stick 29
 	stays 396
 	detains 1
 	continued 2
 	rests 15
-	remain 118
+	remain 120
 	continue 32
 foin
 	foin 2
@@ -11751,6 +11687,7 @@ well-advisd
 	well-advisd 2
 stab
 	stabs 8
+	paunch 3
 	thrusts 4
 	stab 45
 	stabbing 2
@@ -11767,8 +11704,8 @@ shuns
 	shuns 5
 accidents
 	accidents 13
-,seest
-	,seest 1
+tomcat
+	gib 4
 fertilize
 	feed 86
 	fed 31
@@ -11812,7 +11749,7 @@ bayd
 buddy
 	brethren 19
 	brothers 151
-	brother 532
+	brother 533
 swab
 	mop 1
 swam
@@ -11949,7 +11886,7 @@ sweet-facd
 met
 	met 134
 mew
-	mew 12
+	mew 15
 holy-thistle
 	holy-thistle 1
 mes
@@ -12023,7 +11960,7 @@ survive
 	endure 75
 	goes 167
 	enduring 1
-	go 1736
+	go 1739
 	survive 21
 	went 100
 	endured 3
@@ -12060,12 +11997,13 @@ trots
 	trots 3
 rood
 	rood 5
-,why
-	,why 1
+roof
+	roofs 20
+	roof 80
 laid-back
 	mellow 5
-,who
-	,who 3
+exceptions
+	exceptions 6
 perdita
 	perdita 8
 troth
@@ -12101,6 +12039,8 @@ half-facd
 amazing
 	awful 8
 	amazing 3
+conventicles
+	conventicles 1
 norial
 	norial 1
 banbury
@@ -12136,7 +12076,7 @@ pull_back
 	draw 202
 	draws 26
 	drawing 7
-	drew 32
+	drew 33
 three-and-thirty
 	three-and-thirty 1
 well-labouring
@@ -12145,7 +12085,7 @@ panthino
 	panthino 2
 faithlessly
 	treacherously 1
-	false 269
+	false 270
 	traitorously 3
 operate
 	control 13
@@ -12156,11 +12096,8 @@ operate
 	running 20
 	controlling 3
 	operate 8
-jack
-	knaves 51
-	jack 836
-	knave 168
-	jacks 50
+heart-burned
+	heart-burned 2
 determinate
 	determinate 12
 compunctious
@@ -12174,7 +12111,8 @@ fable
 budding
 	budding 6
 before
-	before 705
+	ere 358
+	before 706
 beggd
 	beggd 24
 personal
@@ -12217,8 +12155,6 @@ imprisoning
 	imprisoning 1
 downright
 	downright 36
-.cheerly
-	.cheerly 1
 eyas
 	eyases 1
 death-darting
@@ -12326,6 +12262,7 @@ big-bellied
 	big-bellied 2
 rashness
 	rashness 10
+yerked
 usurer
 	shylock 17
 	shylocks 1
@@ -12382,8 +12319,6 @@ foresaid
 	foresaid 5
 wiltshires
 	wiltshires 1
-:be
-	:be 1
 palace
 	castles 11
 	castle 38
@@ -12412,7 +12347,7 @@ unseduced
 gabriels
 	gabriels 1
 fitting
-	meet 321
+	meet 322
 	fitting 40
 	meetest 4
 scaped
@@ -12442,7 +12377,7 @@ observation
 	reflection 6
 fall_upon
 	striking 6
-	discover 33
+	discover 34
 	strikes 18
 	attains 1
 	discovered 9
@@ -12481,8 +12416,6 @@ annoyed
 	harried 1
 	pestered 1
 	vexed 5
-;give
-	;give 1
 alcibiades
 	alcibiades 28
 probe
@@ -12621,12 +12554,10 @@ wears
 	wears 41
 lotion
 	applications 1
-,shall
-	,shall 3
 vernon
 	vernon 5
 cousin
-	cousin 512
+	cousin 514
 	cousin-german 1
 	cousins 27
 motto
@@ -12658,8 +12589,6 @@ whitmore
 competence
 	competency 2
 	competence 2
-paramours
-	paramours 1
 incessant
 	incessant 5
 mannish
@@ -12748,8 +12677,6 @@ monachum
 	monachum 2
 balsam
 	balsam 4
-!speak-a
-	!speak-a 1
 affirm
 	swearing 22
 	swan 6
@@ -12789,7 +12716,7 @@ cant
 	tilting 3
 	tilts 2
 	cant 6
-	pitch 28
+	pitch 29
 	pitched 3
 inscrutable
 	inscrutable 1
@@ -12813,7 +12740,7 @@ drawstring
 	strings 12
 	string 6
 meets
-	meets 10
+	meets 11
 bearded
 	bearded 12
 elle
@@ -12865,11 +12792,13 @@ revrend
 reformation
 	reformation 18
 yes
-	yes 420
+	ay 782
+	yes 422
 yet
-	yet 4674
+	yet 4686
 yew
 	yew 12
+embowell'd
 nudge
 	jog 2
 canstick
@@ -12893,10 +12822,10 @@ savd
 save
 	preserve 28
 	preserving 2
-	saving 72
+	saving 90
 	saves 42
 	preserved 1
-	save 1656
+	save 1664
 	saved 102
 approacheth
 	approacheth 4
@@ -12972,7 +12901,7 @@ fingering
 	fingering 12
 dear
 	nearest 13
-	good 2816
+	good 2817
 	nearer 19
 	dearer 44
 	better 585
@@ -13001,7 +12930,7 @@ enclouded
 stateliness
 	majestys 13
 	majesties 5
-	majesty 257
+	majesty 258
 super-dainty
 	super-dainty 1
 sprighted
@@ -13053,7 +12982,7 @@ down
 	downs 8
 	downwards 1
 	landing 2
-	down 13288
+	down 13332
 	landed 15
 	land 209
 	pile 9
@@ -13273,7 +13202,7 @@ threwst
 disorders
 	disorders 4
 swoon
-	swoon 3
+	swoon 4
 father
 	fathers 1112
 	father 4170
@@ -13344,7 +13273,7 @@ dealing
 measurable
 	measurable 3
 thyroxine
-	t 448
+	t 450
 	ts 2
 currant
 	currants 3
@@ -13398,7 +13327,7 @@ box
 	boxes 24
 boy
 	boys 176
-	boy 1038
+	boy 1041
 thinkst
 	thinkst 41
 sphered
@@ -13409,7 +13338,7 @@ bow
 	obeisance 2
 	bowed 3
 	arc 2
-	fore 31
+	fore 32
 	stem 5
 	bows 120
 	bowing 8
@@ -13445,7 +13374,7 @@ merely
 	only 313
 	simply 11
 	just 142
-	but 6126
+	but 6155
 	merely 52
 blue_sky
 	blue 22
@@ -13457,6 +13386,7 @@ transplant
 	graft 2
 sweating
 	sweating 6
+	reeking 15
 ferociousness
 	viciousness 1
 	savagery 2
@@ -13464,7 +13394,7 @@ debunk
 	expose 5
 	exposing 2
 ariel
-	ariel 14
+	ariel 15
 licentious
 	licentious 8
 stoops
@@ -13518,7 +13448,7 @@ unthought-on
 impel
 	forced 8
 	forcing 3
-	force 102
+	force 103
 	forces 21
 making
 	making 144
@@ -13526,8 +13456,6 @@ making
 nearest
 	nearest 26
 	closest 1
-!jack
-	!jack 1
 titanium_dioxide
 	titania 9
 fuck
@@ -13621,6 +13549,7 @@ bungle
 serge
 	serge 2
 shoes
+	shoon 2
 	shoes 20
 northampton
 	northampton 6
@@ -13688,8 +13617,6 @@ watchband
 	bracelets 2
 vogue
 	style 16
-,ding-dong
-	,ding-dong 1
 brews
 	brews 1
 epistles
@@ -13706,8 +13633,6 @@ unclasp
 	unclasp 10
 brewd
 	brewd 3
-!they
-	!they 1
 over-pay
 	over-pay 1
 elizabeth
@@ -13735,8 +13660,6 @@ assurance
 	assurance 145
 oer-teemed
 	oer-teemed 1
-,she
-	,she 3
 romano
 	romano 1
 romans
@@ -13749,7 +13672,7 @@ on_the_spur_of_the_moment
 	suddenly 51
 carnival
 	fairs 5
-	fair 728
+	fair 729
 contented
 	content 157
 	contented 50
@@ -13761,6 +13684,7 @@ registrar
 	recorder 2
 	recorders 2
 assuredly
+	certes 5
 	assuredly 8
 remorseful
 	remorseful 4
@@ -13814,8 +13738,6 @@ crevice
 	chaps 7
 	crannies 1
 	crack 31
-,here
-	,here 5
 confesseth
 	confesseth 1
 piercingly
@@ -13943,8 +13865,6 @@ scowl
 iniquitous
 	sinful 10
 	ungodly 1
-!are
-	!are 1
 rejoinder
 	return 200
 	retorts 2
@@ -13993,19 +13913,19 @@ dishonourable
 get
 	acquired 1
 	catching 16
-	have 5945
+	have 5951
 	letting 7
 	has 389
-	caught 60
-	had 1437
+	caught 62
+	had 1438
 	lets 271
-	got 1573
+	got 1586
 	gets 182
 	haves 1
 	havings 1
 	get 4680
 	acquire 4
-	let 2097
+	let 2107
 	catch 128
 	received 25
 	catches 8
@@ -14015,15 +13935,13 @@ get
 	gotten 65
 	catched 2
 	receives 10
-	having 155
+	having 156
 stomp
 	stamp 22
 	stamps 4
 	stump 2
 	stamped 3
 	stumps 3
-,no
-	,no 3
 slily
 	slily 6
 stoma
@@ -14042,6 +13960,7 @@ ovidius
 skull
 	skulls 4
 	skull 24
+	death's-head 0
 colossus
 	giants 3
 	giant 12
@@ -14077,7 +13996,7 @@ fixate
 	fixes 1
 seat
 	places 38
-	sitting 18
+	sitting 19
 	sit 214
 	seated 66
 	seat 765
@@ -14159,7 +14078,7 @@ satiate
 	filling 8
 	replete 7
 	filled 2
-	fill 68
+	fill 69
 infrastructure
 	bases 2
 	base 153
@@ -14174,6 +14093,8 @@ molten
 	molten 6
 ur-de-lions
 	ur-de-lions 3
+all-embracing
+	casing 3
 gauntlet
 	gauntlet 15
 	gauntlets 4
@@ -14281,7 +14202,7 @@ sound
 	goss 1
 	going 96
 	goes 167
-	go 1736
+	go 1739
 	went 100
 	soundest 8
 	sounded 85
@@ -14314,7 +14235,7 @@ cock
 	shafts 2
 	peter 33
 	cock 156
-	cocks 20
+	cocks 25
 ulysses
 	ulysses 40
 strait
@@ -14392,7 +14313,7 @@ companion
 	comrades 1
 	companion 160
 	familiars 1
-	fellow 304
+	fellow 305
 doublets
 	doublets 4
 rimed
@@ -14450,8 +14371,9 @@ gnarled
 	knotty 2
 	gnarled 2
 	knotted 2
-,appear
-	,appear 1
+fifth_wheel
+	spare 61
+	spares 3
 acquainted
 	acquainted 78
 vending
@@ -14491,7 +14413,7 @@ pronounce
 	pronounce 87
 	articulate 2
 	label 2
-	say 1664
+	say 1666
 	pronouncing 6
 	judged 2
 	judging 1
@@ -14574,8 +14496,6 @@ fallacy
 	fallacy 2
 cautions
 	cautions 1
-dividable
-	dividable 2
 fertile
 	fertile 30
 fettering
@@ -14619,8 +14539,6 @@ trammel_net
 	trammel 1
 real_number
 	real 2
-,cannot
-	,cannot 1
 fanatic
 	fiends 16
 	fanatical 1
@@ -14628,6 +14546,7 @@ fanatic
 penny-worth
 	penny-worth 1
 shroud
+	cerecloth 2
 	shrouds 12
 	hide 104
 	covering 7
@@ -14641,8 +14560,6 @@ shroud
 	covered 6
 	hidden 7
 	hiding 8
-,majesty
-	,majesty 1
 spice
 	spices 24
 	spiced 1
@@ -14808,7 +14725,7 @@ bestir
 	rouse 29
 	bestirred 1
 sitting
-	sitting 90
+	sitting 95
 uphoarded
 	uphoarded 1
 toss
@@ -14985,8 +14902,6 @@ tennis-court
 disfavor
 	dislike 16
 	dislikes 3
-.my
-	.my 1
 leisures
 	leisures 2
 hour
@@ -15004,7 +14919,7 @@ guards
 	guards 7
 remain
 	remains 37
-	remain 118
+	remain 120
 	remaining 5
 	remained 1
 halts
@@ -15213,8 +15128,6 @@ haild
 	haild 2
 kildares
 	kildares 1
-.most
-	.most 1
 pilferings
 	pilferings 1
 winnow
@@ -15289,14 +15202,13 @@ carrel
 	stalls 4
 indebted
 	indebted 6
+	gaged 1
 embraces
 	embraces 4
 enkindled
 	enkindled 3
 stabs
 	stabs 4
-.blow
-	.blow 1
 tatar
 	tartars 5
 	tartar 4
@@ -15337,9 +15249,8 @@ face-lift
 	lift 25
 	lifts 3
 	lifting 2
-tom
-	toms 16
-	tom 66
+cupboarding
+	cupboarding 1
 scantily
 	barely 4
 sovreignty
@@ -15422,7 +15333,7 @@ amities
 headmaster
 	schoolmasters 3
 	masters 174
-	master 774
+	master 775
 	schoolmaster 12
 rushy
 	rushy 2
@@ -15477,10 +15388,10 @@ commissions
 noblest
 	noblest 17
 converge
-	meet 321
+	meet 322
 	meetings 3
 	meeting 37
-	meets 10
+	meets 11
 	met 134
 businesses
 	businesses 6
@@ -15511,7 +15422,7 @@ express
 	uttered 8
 	uttering 2
 	showed 8
-	show 400
+	show 401
 	showing 11
 	express 420
 	limited 4
@@ -15632,6 +15543,7 @@ gypsy
 	gipsys 1
 	gipsy 2
 	bohemian 1
+	egyptian 48
 	gipsies 1
 decree
 	edict 8
@@ -15779,7 +15691,7 @@ withdraw
 	withdrawing 2
 	withdrew 6
 	retire 33
-	drew 32
+	drew 33
 	withdrawn 4
 	retires 4
 	withdraw 105
@@ -15841,7 +15753,7 @@ cut
 	gash 10
 	tailors 9
 	track 2
-	burn 76
+	burn 77
 	tailor 33
 	prunes 7
 	gashes 10
@@ -15872,14 +15784,14 @@ cue
 cub
 	lad 28
 	cubs 4
-	lads 22
+	lads 23
 	cub 5
 cum
 	cum 2
 easter
 	easter 2
 full_moon
-	full 413
+	full 414
 suffocation
 	suffocation 3
 womanly
@@ -15889,8 +15801,6 @@ ox-beef
 	ox-beef 1
 jointure
 	jointure 10
-:let
-	:let 1
 knock
 	knock 603
 	roast 4
@@ -15936,7 +15846,7 @@ candle
 	candle 68
 	tapers 7
 	candles 18
-	taper 9
+	taper 36
 playeth
 	playeth 1
 balms
@@ -15950,7 +15860,7 @@ decision
 	determinations 2
 	conclusion 58
 though
-	though 1210
+	though 1224
 scalps
 	scalps 1
 balmy
@@ -15985,7 +15895,7 @@ oes
 oer
 	oer 197
 sexual_desire
-	eros 26
+	eros 27
 accoutrement
 	accoutrement 2
 spiritual_world
@@ -16046,8 +15956,6 @@ engrossd
 	engrossd 1
 gratianos
 	gratianos 1
-:with
-	:with 1
 forbiddenly
 	forbiddenly 1
 pickers
@@ -16103,7 +16011,7 @@ curl
 	curling 3
 	curls 8
 	wave 10
-	waving 7
+	waving 8
 	waves 18
 	curl 5
 	curled 15
@@ -16229,7 +16137,7 @@ entire
 	total 2
 	entire 32
 	fullest 1
-	full 413
+	full 414
 	fuller 2
 busied
 	busied 5
@@ -16259,7 +16167,7 @@ peddle
 	pitched 3
 	hawk 6
 	hawking 4
-	pitch 28
+	pitch 29
 append
 	tacked 1
 tiger-footed
@@ -16429,7 +16337,7 @@ fetch
 	fetching 2
 	brings 50
 	brought 197
-	bring 451
+	bring 452
 	fetches 12
 	bringing 15
 	fetch 508
@@ -16471,7 +16379,7 @@ watch
 	seen 258
 	followed 10
 	saw 262
-	caught 30
+	caught 31
 	views 2
 	watching 54
 	watch 1243
@@ -16483,7 +16391,7 @@ watch
 	catches 4
 	follows 59
 	watched 12
-	follow 305
+	follow 306
 	catched 1
 	following 29
 	view 70
@@ -16495,9 +16403,9 @@ hight
 [aloud
 	[aloud 3
 issue_forth
-	come 2559
+	come 2564
 	came 346
-	comes 601
+	comes 602
 	coming 144
 pleasantness
 	sweetness 6
@@ -16522,7 +16430,7 @@ chambermaids
 furious
 	furious 15
 subsequently
-	after 380
+	after 381
 	afterward 8
 	later 2
 	afterwards 16
@@ -16538,7 +16446,7 @@ despite
 	despite 90
 disarm
 	unarm 7
-	disarm 8
+	disarm 12
 	unarms 1
 	unarmed 3
 contriving
@@ -16562,8 +16470,6 @@ tsk
 	tut 39
 considerate
 	considerate 4
-!even
-	!even 2
 heroism
 	valours 7
 	valour 102
@@ -16632,6 +16538,7 @@ ongles
 	ongles 1
 edacious
 	ravenous 5
+	ravening 1
 	wolfish 1
 incensed
 	incensed 9
@@ -16751,7 +16658,7 @@ acquire
 	win 117
 	acquire 12
 	winning 4
-	won 92
+	won 93
 	gain 57
 	wins 9
 foamd
@@ -16776,8 +16683,6 @@ alms-deed
 	alms-deed 1
 impaint
 	impaint 1
-:the
-	:the 1
 tenements
 	tenements 1
 assays
@@ -16825,19 +16730,20 @@ cavern
 have
 	features 3
 	held 82
-	have 53505
+	have 53559
 	make 1639
 	holds 76
-	had 11496
+	had 11504
 	feature 14
 	holding 22
-	got 121
+	got 122
 	has 3112
 	haves 8
 	havings 8
 	get 312
 	makings 1
 	experiences 1
+	hast 589
 	hold 451
 	gets 13
 	made 819
@@ -16846,7 +16752,7 @@ have
 	experience 20
 	making 72
 	makes 343
-	having 1240
+	having 1248
 throat
 	throat 255
 	throats 100
@@ -16922,6 +16828,7 @@ milans
 cytherea
 	cytherea 2
 occasion
+	nonce 3
 	occasion 360
 	occasions 72
 contemptuous
@@ -16942,7 +16849,7 @@ recess
 doughy
 	doughy 2
 hamlet
-	hamlet 231
+	hamlet 234
 	hamlets 18
 tearful
 	tearful 2
@@ -17064,7 +16971,7 @@ intensity
 daffodils
 	daffodils 2
 mercifulness
-	mercy 344
+	mercy 346
 	mercies 6
 	mercys 2
 bright-shining
@@ -17142,10 +17049,10 @@ joke
 	jesting 10
 	jested 2
 equal
-	being 640
-	is 9144
+	being 642
+	is 9152
 	am 2160
-	are 3415
+	are 3416
 	touch 113
 	bess 1
 	matching 6
@@ -17154,9 +17061,9 @@ equal
 	rivals 8
 	bees 9
 	touched 5
-	was 2244
+	was 2247
 	match 164
-	be 6851
+	be 6852
 	matches 8
 	equals 9
 	touching 26
@@ -17211,7 +17118,7 @@ magical
 citadel
 	citadel 7
 doctor_of_osteopathy
-	do 3790
+	do 3797
 meus
 	meus 1
 tense
@@ -17243,6 +17150,7 @@ sea-maids
 well-behaved
 	well-behaved 2
 partner
+	jointress 1
 	partners 21
 	partner 60
 foot-fall
@@ -17272,8 +17180,6 @@ tumbler
 	tumblers 3
 tumbles
 	tumbles 1
-!would
-	!would 1
 musk-cat
 	musk-cat 1
 unpublishd
@@ -17305,8 +17211,6 @@ chastisement
 	chastisement 9
 exceedingly
 	exceedingly 5
-,melt
-	,melt 1
 gamey
 	high 227
 	highest 17
@@ -17366,12 +17270,12 @@ likd
 like
 	likings 8
 	liked 12
-	like 15435
+	like 15444
 	likest 8
 	same 204
 	liker 4
 	likes 156
-	liking 108
+	liking 112
 success
 	successes 6
 	success 196
@@ -17398,10 +17302,10 @@ adjournment
 hail
 	hail 568
 	herald 31
-	comes 601
+	comes 602
 	heralds 10
 	coming 144
-	come 2559
+	come 2564
 	came 346
 hair
 	hair 560
@@ -17455,7 +17359,7 @@ freemason
 bachelorship
 	bachelorship 1
 waving
-	waving 7
+	waving 8
 quills
 	quills 1
 twenty_dollar_bill
@@ -17517,7 +17421,7 @@ glimmer
 seniory
 	seniory 1
 coke
-	blow 93
+	blow 94
 	c 435
 	blows 73
 	snow 34
@@ -17540,7 +17444,7 @@ flit
 flip
 	toss 15
 	tossing 4
-	pitch 28
+	pitch 29
 	pitched 3
 	skies 7
 	sky 38
@@ -17598,8 +17502,6 @@ conveyd
 	conveyd 13
 augmentation
 	augmentation 4
-joinder
-	joinder 1
 summer-swelling
 	summer-swelling 1
 bonneted
@@ -17750,6 +17652,7 @@ hide
 	skin 21
 	fells 1
 	hidden 14
+	encave 1
 	hiding 16
 supplied
 	supplied 9
@@ -17794,8 +17697,8 @@ beck
 abbess
 	prioress 1
 	abbess 10
-:jud-as
-	:jud-as 1
+paramours
+	paramours 1
 curtaind
 	curtaind 2
 hard-handed
@@ -17847,7 +17750,7 @@ meats
 velure
 	velure 1
 would
-	would 2317
+	would 2320
 tendert
 	tendert 1
 prescript
@@ -17904,12 +17807,12 @@ iridium
 	ir 1
 salvage
 	relieve 15
-	saving 12
+	saving 15
 	relieved 2
 	saves 6
 	salve 9
 	relieving 1
-	save 207
+	save 208
 	saved 17
 	relieves 1
 defild
@@ -17956,13 +17859,13 @@ jumble
 	mingled 12
 	confused 2
 attract
-	pull 12
+	pull 13
 	draw 202
 	appeals 1
 	draws 26
 	attract 4
 	attracts 6
-	drew 32
+	drew 33
 	pulling 1
 	pulls 3
 	drawn 77
@@ -18015,8 +17918,6 @@ parallel
 	parallel 36
 undesired
 	unsought 3
-,thou
-	,thou 6
 thewes
 	thewes 1
 casement
@@ -18163,7 +18064,7 @@ newly
 	new 180
 	newly 58
 	freshly 8
-	fresh 78
+	fresh 79
 aweless
 	aweless 6
 prorogue
@@ -18229,8 +18130,6 @@ fantasy
 	fantasied 1
 	fantasy 56
 	fantasies 12
-:but
-	:but 4
 relations
 	dealings 2
 	relations 2
@@ -18293,10 +18192,8 @@ bridge
 	span 4
 	spans 1
 	bridges 24
-,fair
-	,fair 1
 handkerchief
-	handkerchief 60
+	handkerchief 64
 thistles
 	thistles 1
 birth-day
@@ -18313,11 +18210,9 @@ golgotha
 	golgotha 2
 perigort
 	perigort 1
-,and
-	,and 25
 thoroughly
 	thoroughly 12
-	good 2816
+	good 2817
 	soundly 23
 thorough
 	thorough 30
@@ -18328,8 +18223,6 @@ hatch
 	hatches 48
 	hatching 5
 	hatch 56
-,deliver
-	,deliver 1
 pit-fall
 	pit-fall 1
 oergrowth
@@ -18513,7 +18406,7 @@ news
 	news 1268
 	tidings 52
 	word 502
-	words 415
+	words 416
 	intelligence 26
 drowsy
 	yawning 3
@@ -18709,7 +18602,7 @@ cherry
 	cherry 32
 	cherries 3
 megabyte
-	m 12
+	m 14
 anys
 	anys 2
 long-a
@@ -18789,7 +18682,7 @@ usher
 	shown 31
 	ushers 3
 	showed 8
-	show 400
+	show 401
 	showing 11
 	guide 25
 	usher 8
@@ -18803,8 +18696,8 @@ incontinence
 preventions
 	preventions 1
 world_health_organization
-	who 1188
-	whos 82
+	who 1193
+	whos 83
 5.
 	5. 1
 loins
@@ -18831,8 +18724,6 @@ brawn
 	brawns 1
 bleated
 	bleated 1
-,cast
-	,cast 1
 tinctures
 	tinctures 1
 epistle_of_paul_the_apostle_to_the_ephesians
@@ -18863,8 +18754,8 @@ toss_off
 	kills 20
 	downs 1
 	killing 22
-	down 604
-	kill 194
+	down 606
+	kill 195
 	killed 35
 duke
 	duke 1503
@@ -18970,6 +18861,7 @@ sometime
 cobbler
 	shoemaker 1
 	cobbler 6
+	cozier 0
 levity
 	levity 15
 	levitys 2
@@ -18980,7 +18872,7 @@ blazonst
 substances
 	substances 2
 when
-	when 1963
+	when 1972
 blesseth
 	blesseth 1
 vesper
@@ -19021,7 +18913,7 @@ picture
 	rendered 3
 	showed 8
 	render 39
-	show 400
+	show 401
 	pictures 40
 	image 42
 	scene 35
@@ -19176,8 +19068,8 @@ churchyards
 	churchyards 2
 clouds
 	clouds 57
-leven
-	leven 2
+impressive
+	telling 26
 level
 	dismantled 1
 	level 264
@@ -19221,11 +19113,8 @@ port
 	embrasures 1
 	port 208
 	ports 132
-bow_out
-	withdrawing 1
-	withdrew 3
-	withdrawn 2
-	withdraw 35
+tarried
+	tarried 4
 colic
 	griping 1
 	gripes 3
@@ -19268,7 +19157,7 @@ boast
 	vaunts 2
 	boasts 4
 	vaunting 3
-	blow 93
+	blow 94
 	boasting 10
 	brags 7
 	bragging 8
@@ -19297,16 +19186,12 @@ hearkend
 	hearkend 1
 shallow-rooted
 	shallow-rooted 1
-,believe
-	,believe 1
 whitsters
 	whitsters 1
 conjoind
 	conjoind 4
 lovells
 	lovells 1
-wreak
-	wreak 4
 bribery
 	graft 2
 jewess
@@ -19545,7 +19430,7 @@ farewell
 	leaves 60
 	leave-taking 5
 	leave 656
-	farewell 1077
+	farewell 1080
 	farewells 4
 	parting 29
 beehives
@@ -19571,7 +19456,7 @@ liveliness
 	lifes 20
 	life 839
 	lives 197
-	spirit 243
+	spirit 244
 	spirits 122
 condole
 	condole 4
@@ -19637,6 +19522,7 @@ seeker
 woodcarver
 	carvers 1
 	carver 1
+mushrumps
 contrariety
 	contrarieties 1
 	contrariety 2
@@ -19646,8 +19532,6 @@ enigma
 	enigma 2
 naught
 	naught 50
-chalices
-	chalices 1
 grunt
 	grunt 10
 bewitch
@@ -19753,6 +19637,7 @@ cheat
 	jockey 1
 	shafts 2
 	screws 1
+	cozen 15
 book-oath
 	book-oath 1
 out-stare
@@ -19912,11 +19797,11 @@ contract
 	contract 182
 	contracting 3
 	undertakings 3
-	take 1210
+	take 1211
 	undertake 47
 	gotten 5
 	taken 91
-	got 121
+	got 122
 	gets 13
 	undertook 5
 unheedy
@@ -19986,9 +19871,9 @@ spirit
 	looks 201
 	feeling 29
 	smell 45
-	spirit 1458
+	spirit 1464
 	smells 12
-	look 823
+	look 824
 pilot
 	pilots 8
 	pilot 21
@@ -20022,7 +19907,7 @@ cast
 	casts 36
 	casted 4
 	roll 8
-	cast 1030
+	cast 1040
 	stamps 4
 	moulds 2
 	moulded 9
@@ -20096,7 +19981,7 @@ delicate
 	fragile 1
 	softest 3
 	softer 3
-	delicate 196
+	delicate 203
 	frail 18
 	soft 117
 statue
@@ -20115,7 +20000,7 @@ delectable
 	delicious 3
 	delectable 6
 without
-	without 353
+	without 354
 fold-in
 	fold-in 1
 relief
@@ -20154,7 +20039,7 @@ polish
 	downs 1
 	shone 5
 	rounds 4
-	down 604
+	down 606
 	smooths 2
 	glosses 1
 	shines 27
@@ -20190,6 +20075,8 @@ encave
 	encave 1
 lazar-like
 	lazar-like 1
+habitual
+	ingraft 1
 soundly
 	soundly 46
 birthdom
@@ -20216,8 +20103,6 @@ patrick
 	patrick 2
 duncans
 	duncans 3
-,anon
-	,anon 1
 malmsey-butt
 	malmsey-butt 2
 tower
@@ -20292,8 +20177,6 @@ beached
 	beached 2
 unmask
 	unmask 6
-masterdom
-	masterdom 1
 slaughter
 	butcheries 2
 	butchery 3
@@ -20349,7 +20232,9 @@ thero
 whales
 	whales 1
 there
-	there 9075
+	yon 24
+	there 9105
+	yonder 210
 	theres 394
 	thither 94
 alleged
@@ -20480,7 +20365,7 @@ drudging
 wife
 	wives 60
 	wifes 29
-	wife 922
+	wife 924
 parsons
 	parsons 4
 reproduce
@@ -20575,6 +20460,8 @@ tripartite
 	tripartite 2
 liars
 	liars 7
+renouncing
+	renouncing 1
 retier
 	retier 1
 familiarly
@@ -20625,6 +20512,7 @@ sum
 	sums 60
 	amount 14
 rascal
+	lown 2
 	rascal 57
 eminent
 	eminent 15
@@ -20672,10 +20560,8 @@ guts-griping
 	guts-griping 1
 bespoken
 	betrothed 2
-drudgery
-	drudgery 2
-	plodding 1
-	grind 5
+half-can
+	half-can 1
 compressed
 	flat 24
 	tight 3
@@ -20770,8 +20656,6 @@ horsed
 residential_district
 	communities 1
 	community 1
-!was
-	!was 1
 discordance
 	discords 6
 	discord 16
@@ -20821,6 +20705,7 @@ headstrong
 elective
 	elected 5
 abdicate
+	renouncing 1
 	renounce 5
 adventurd
 	adventurd 1
@@ -20830,6 +20715,7 @@ adventure
 bare-bone
 	bare-bone 1
 proclaimed
+	sounded 17
 	proclaimed 9
 rambures
 	rambures 2
@@ -20842,7 +20728,7 @@ short
 susan
 	susan 3
 jove
-	jove 74
+	jove 75
 shore
 	shores 72
 	shore 248
@@ -20890,6 +20776,8 @@ somebody
 reappearance
 	returns 16
 	return 200
+bons
+	bons 2
 hunter
 	hunters 18
 	hunter 36
@@ -20899,8 +20787,8 @@ hunted
 	hunted 10
 adventurous
 	adventurous 10
-impressive
-	telling 26
+leven
+	leven 2
 accommodated
 	accommodated 7
 likelihoods
@@ -21004,8 +20892,8 @@ avez
 story
 	story 132
 	stories 5
-conventicles
-	conventicles 1
+"
+	" 3
 leading
 	leading 28
 	star 41
@@ -21013,7 +20901,7 @@ porn
 	porn 3
 storm
 	forced 8
-	force 102
+	force 103
 	storm 416
 	storms 112
 	tempests 4
@@ -21033,7 +20921,7 @@ store
 stord
 	stord 7
 finespun
-	delicate 28
+	delicate 29
 luckily
 	luckily 1
 screech-owls
@@ -21099,8 +20987,11 @@ gallian
 	gallian 2
 angelical
 	angelical 1
-tarried
-	tarried 4
+bow_out
+	withdrawing 1
+	withdrew 3
+	withdrawn 2
+	withdraw 35
 gallias
 	gallias 1
 rutlands
@@ -21127,7 +21018,7 @@ populate
 	dwelt 2
 gild
 	gilt 16
-	gilded 16
+	gilded 17
 	engilds 1
 	gild 24
 pipe_dream
@@ -21203,8 +21094,6 @@ cote
 	cote 6
 knighted
 	knighted 5
-.speak
-	.speak 1
 grievances
 	grievances 6
 expositor
@@ -21215,8 +21104,6 @@ wroth
 	wroth 1
 catharsis
 	purgation 6
-;neighbour
-	;neighbour 1
 precaution
 	guards 7
 	guard 88
@@ -21242,8 +21129,6 @@ heaped
 	heaped 1
 one-sixth
 	sixth 21
-spectatorship
-	spectatorship 1
 visualize
 	seeing 44
 	sees 44
@@ -21273,8 +21158,6 @@ blurs
 	blurs 1
 night-gown
 	night-gown 5
-.boy
-	.boy 1
 nincompoop
 	poop 2
 	ninnys 4
@@ -21315,8 +21198,8 @@ uglier
 	uglier 2
 overset
 	overset 1
-.[to
-	.[to 1
+sheathd
+	sheathd 2
 sheathe
 	sheathing 6
 	sheathe 36
@@ -21355,7 +21238,7 @@ harbour
 nettles
 	nettles 6
 village
-	hamlet 77
+	hamlet 78
 	hamlets 9
 	villages 8
 	village 18
@@ -21369,7 +21252,7 @@ affectionate
 	affectionate 2
 	fond 56
 	fonder 1
-	warm 42
+	warm 43
 	warmer 2
 	tender 130
 flight
@@ -21446,8 +21329,6 @@ obstacle
 	obstructions 1
 lashd
 	lashd 1
-!please
-	!please 1
 chestnuts
 	chestnuts 1
 choler
@@ -21560,7 +21441,7 @@ advocate
 thill-horse
 	thill-horse 1
 clemency
-	mercy 172
+	mercy 173
 	mercies 3
 	clemency 2
 	mercys 1
@@ -21587,8 +21468,6 @@ sauced
 	sauced 1
 langlois
 	langlois 2
-mends
-	mends 2
 dickon
 	dickon 1
 silius
@@ -21623,8 +21502,6 @@ perpendicular
 	perpendicular 6
 refused
 	refused 5
-!follow
-	!follow 1
 consolation
 	comfort 189
 	solace 14
@@ -21781,7 +21658,7 @@ peach
 	peaches 2
 	peach 3
 peace
-	peace 3234
+	peace 3240
 	repose 25
 	peaces 5
 backs
@@ -21856,8 +21733,6 @@ fell-lurking
 	fell-lurking 1
 stumblest
 	stumblest 1
-,command
-	,command 1
 alien
 	alien 8
 	foreign 29
@@ -21975,8 +21850,6 @@ sueth
 	sueth 1
 cradle-clothes
 	cradle-clothes 1
-,lewis
-	,lewis 1
 head_covering
 	veil 6
 uncurbable
@@ -21992,6 +21865,7 @@ degree
 	levels 2
 	points 28
 	degrees 108
+	grise 0
 	stages 2
 	stage 21
 stowd
@@ -22038,6 +21912,8 @@ pretentiousness
 	largeness 1
 tenfold
 	ten-fold 2
+submerged
+	ensteeped 0
 requite
 	requites 2
 	repaying 1
@@ -22154,7 +22030,7 @@ dissolve
 	dismissing 1
 	melts 2
 	dismiss 22
-	melt 29
+	melt 30
 	dissolved 20
 	melted 15
 	dismissed 1
@@ -22209,7 +22085,7 @@ attend
 	seeing 44
 	attended 72
 	sees 44
-	look 823
+	look 824
 	attend 605
 	hangings 4
 	hang 167
@@ -22349,8 +22225,6 @@ edit
 	cuts 13
 cassius
 	cassius 154
-abergavenny
-	abergavenny 2
 trimmed
 	trimmed 2
 	cut 170
@@ -22371,7 +22245,7 @@ ambassadors
 saviours
 	saviours 1
 out
-	out 17550
+	out 17576
 southerly
 	southern 8
 	southerly 5
@@ -22431,7 +22305,7 @@ grass-green
 enfranchisement
 	enfranchisement 12
 hence
-	hence 1074
+	hence 1077
 biting
 	biting 20
 	bitterest 3
@@ -22449,7 +22323,7 @@ bonnet
 eleventh
 	eleventh 6
 twas
-	twas 162
+	twas 164
 filial
 	filial 9
 tway
@@ -22479,8 +22353,8 @@ celibate
 	continent 12
 cross-ways
 	cross-ways 1
-mules
-	mules 4
+swounded
+	swounded 4
 diminish
 	diminish 4
 	diminishing 1
@@ -22545,15 +22419,15 @@ sempronius
 gottst
 	gottst 1
 who
-	who 1188
+	who 1193
 moveable
 	moveable 2
 patchd
 	patchd 4
 why
 	wherefores 1
-	wherefore 138
-	why 2940
+	wherefore 139
+	why 2950
 tinct
 	tinct 4
 purpled
@@ -22699,7 +22573,7 @@ anatomize
 titus
 	titus 159
 married
-	married 426
+	married 429
 leviathan
 	leviathan 6
 	leviathans 2
@@ -22855,7 +22729,7 @@ esperance
 	esperance 4
 lanthanum
 	las 1
-	la 58
+	la 59
 bondmans
 	bondmans 1
 esquires
@@ -22886,8 +22760,8 @@ ringing
 burning-glass
 	burning-glass 1
 thus
-	thus 1538
-	so 4986
+	thus 1540
+	so 4996
 qualifies
 	qualifies 1
 thud
@@ -22903,6 +22777,7 @@ weddingday
 	weddingday 2
 perhaps
 	perhaps 45
+	haply 88
 subcontract
 	job 2
 largess
@@ -22974,11 +22849,9 @@ excessive
 	inordinate 2
 	excessive 3
 	unreasonable 4
-heavily
-	hardest 1
-	hard 161
-	harder 10
-	heavily 70
+camel
+	camels 1
+	camel 10
 unrestord
 	unrestord 1
 base-viol
@@ -23316,8 +23189,6 @@ repute
 	reputes 2
 gipsies
 	gipsies 1
-,what
-	,what 9
 conclusion
 	closes 5
 	ends 48
@@ -23508,7 +23379,7 @@ military
 dispiteous
 	dispiteous 1
 [exit
-	[exit 2
+	[exit 3
 divide
 	fractions 2
 	separated 4
@@ -23563,7 +23434,7 @@ dish_the_dirt
 relax
 	unwind 4
 	loosen 2
-	unbend 2
+	unbend 4
 	unbent 2
 successful
 	successful 12
@@ -23599,8 +23470,6 @@ hurt
 	offend 59
 	wounded 64
 	bruised 4
-expressive
-	expressive 2
 tying
 	tying 8
 hurl
@@ -23612,7 +23481,7 @@ hurl
 	casts 8
 	casted 1
 	throw 105
-	cast 206
+	cast 208
 	hurl 36
 	hurtless 1
 	hurling 2
@@ -23684,7 +23553,7 @@ turn
 	grown 55
 	twist 2
 	play 292
-	grew 27
+	grew 28
 	plays 26
 	released 2
 	turns 1200
@@ -23729,6 +23598,7 @@ diagram
 make-a
 	make-a 2
 quips
+	quillets 6
 	quips 4
 chump
 	fool 374
@@ -23746,7 +23616,7 @@ calves
 effective
 	better 585
 	effectual 4
-	good 2816
+	good 2817
 	best 448
 scourge
 	scourged 1
@@ -23819,6 +23689,7 @@ enseign
 mewling
 	mewling 1
 hidden
+	occulted 1
 	secret 64
 	hidden 21
 	obscure 11
@@ -23937,8 +23808,6 @@ incarnal
 	incarnal 1
 sorrowest
 	sorrowest 1
-devastation
-	desolation 22
 bated
 	bated 16
 parricides
@@ -23962,9 +23831,9 @@ wasp
 subtlety
 	niceness 1
 wast
-	wast 90
+	wast 91
 misplace
-	lost 257
+	lost 258
 	misplaces 2
 	loses 9
 	lose 200
@@ -24004,9 +23873,10 @@ ravelld
 	ravelld 1
 blossoms
 	blossoms 5
-twiddler
-	fiddler 3
+lustre
+	lustre 13
 legs
+	forks 1
 	legs 142
 listen
 	hearings 1
@@ -24015,7 +23885,7 @@ listen
 	hearsed 2
 	hearing 88
 	heard 349
-	hear 882
+	hear 884
 	listening 12
 	listen 42
 danish
@@ -24025,7 +23895,7 @@ collapse
 	foundered 1
 	founder 3
 	bursting 1
-	give 1341
+	give 1346
 	giving 38
 	breaks 28
 	breaking 25
@@ -24093,9 +23963,6 @@ eagerly
 	eagerly 6
 metallic
 	metal 25
-bull's_eye
-	bulls 7
-	bull 16
 disdainfully
 	disdainfully 2
 cymbeline
@@ -24161,8 +24028,6 @@ mortise
 	mortise 3
 mortisd
 	mortisd 1
-,flew
-	,flew 1
 departing
 	departing 4
 brogues
@@ -24243,8 +24108,6 @@ upholdeth
 	upholdeth 1
 lag-end
 	lag-end 1
-!donc
-	!donc 1
 ever
 	ever 1818
 lock_in
@@ -24284,7 +24147,7 @@ disaster
 	disaster 12
 	disasters 4
 fair
-	fair 7280
+	fair 7290
 	just 142
 	justest 1
 	fairest 240
@@ -24312,7 +24175,7 @@ fail
 	miscarried 9
 	neglected 14
 	miscarries 1
-	go 1736
+	go 1739
 	betraying 1
 	fail 756
 	miscarry 13
@@ -24380,7 +24243,7 @@ preserve
 	keeping 19
 	kept 94
 	preserving 4
-	keep 484
+	keep 485
 	preserved 2
 	keeps 71
 claws
@@ -24428,8 +24291,6 @@ vail
 	vail 8
 vain
 	vain 79
-,cloth-of-gold
-	,cloth-of-gold 1
 canyon
 	canon 6
 	canons 1
@@ -24452,20 +24313,9 @@ quarrelling
 	quarrelling 7
 startled
 	startled 2
-interpret
-	seeing 44
-	rendered 3
-	sees 44
-	render 39
-	interprets 4
-	interpreted 4
-	rendering 2
-	see 1440
-	renders 4
-	seen 258
-	saw 262
-	interpret 21
-	construe 10
+dreg
+	dregs 6
+	dreg 2
 life
 	livings 1
 	life 9229
@@ -24529,7 +24379,7 @@ truster
 hatfield
 	hatfield 2
 servant-monster
-	servant-monster 2
+	servant-monster 3
 obeying
 	obeying 3
 applaudable
@@ -24571,7 +24421,7 @@ contenteth
 fairly
 	fairly 138
 	clean 22
-	fair 1456
+	fair 1458
 tops
 	tops 9
 oer-rules
@@ -24580,7 +24430,7 @@ intrusion
 	intrusion 16
 bonny
 	sightly 1
-	fair 728
+	fair 729
 	bonny 14
 	comely 5
 	fairer 35
@@ -24591,6 +24441,7 @@ coldness
 interrd
 	interrd 6
 fittest
+	meetest 4
 	fittest 4
 opinions
 	opinions 14
@@ -24686,7 +24537,7 @@ peereth
 counts
 	counts 15
 for
-	for 7548
+	for 7583
 hulks
 	hulks 1
 soto
@@ -24753,7 +24604,7 @@ happd
 avail
 	helped 3
 	helping 6
-	help 628
+	help 630
 	service 219
 	avails 8
 	avail 20
@@ -24846,24 +24697,24 @@ soothd
 proves
 	proves 15
 exist
-	be 6851
+	be 6852
 	livings 1
 	lived 16
 	living 112
-	being 640
-	is 9144
+	being 642
+	is 9152
 	subsisting 1
 	am 2160
 	been 720
 	live 505
 	bees 9
 	lives 197
-	are 3415
+	are 3416
 	were 1583
 	bess 1
 	survive 7
 	exist 6
-	was 2244
+	was 2247
 	survives 2
 obligations
 	obligations 1
@@ -24882,8 +24733,8 @@ solicitation
 	solicitation 4
 	appeal 18
 	collection 3
-!what
-	!what 1
+dotted
+	flecked 1
 perpend
 	perpend 5
 maze
@@ -25040,7 +24891,7 @@ prevent
 	forbid 71
 	prevents 6
 	forbidden 5
-	keep 484
+	keep 485
 	forbad 1
 	prevented 40
 	keeps 71
@@ -25090,8 +24941,6 @@ muskets
 	muskets 1
 persecuted
 	persecuted 1
-.wipe
-	.wipe 1
 molestation
 	molestation 2
 oswald
@@ -25205,7 +25054,7 @@ afford
 	opened 1
 	opening 10
 	afford 80
-	give 1341
+	give 1346
 	giving 38
 	affords 36
 	gives 118
@@ -25385,6 +25234,7 @@ sea-nymphs
 	sea-nymphs 1
 solace
 	solace 14
+pignuts
 discandy
 	discandy 1
 keepest
@@ -25397,7 +25247,7 @@ attraction
 covertly
 	covertly 2
 into
-	into 633
+	into 634
 petition
 	petitions 6
 	petition 38
@@ -25525,10 +25375,11 @@ indicate
 	shown 31
 	pointing 2
 	showed 8
-	show 400
+	show 401
 	suggest 6
 	showing 11
 	point 140
+	betoken 1
 	suggests 2
 	points 28
 	pointed 6
@@ -25578,8 +25429,8 @@ tasted
 	tasted 7
 nicer
 	nicer 1
-:out
-	:out 1
+tastes
+	tastes 4
 taster
 	sampler 2
 lurking
@@ -25598,7 +25449,7 @@ perplex
 	vex 16
 	amaze 10
 	amazing 1
-	got 121
+	got 122
 	beating 15
 	perplexed 1
 	perplex 2
@@ -25640,13 +25491,13 @@ take
 	submits 1
 	accept 32
 	reads 2
-	have 5945
+	have 5951
 	takes 1539
 	make 1639
-	had 1437
+	had 1438
 	submit 12
 	occupy 2
-	take 24200
+	take 24220
 	taken 1638
 	has 389
 	haves 1
@@ -25662,7 +25513,7 @@ take
 	submitting 1
 	making 72
 	makes 343
-	having 155
+	having 156
 infinitive
 	infinitive 2
 lodgers
@@ -25841,6 +25692,8 @@ unhospitable
 	unhospitable 1
 charmer
 	charmer 2
+rapacious
+	ravening 1
 jovial
 	jovial 4
 reigns
@@ -25867,7 +25720,7 @@ hour_angle
 help_oneself
 	helping 6
 	helped 3
-	help 314
+	help 315
 	helps 15
 expression
 	aspects 4
@@ -25876,7 +25729,7 @@ expression
 	looks 201
 	aspect 25
 	faces 50
-	look 823
+	look 824
 bed-fellow
 	bed-fellow 4
 twit
@@ -25889,10 +25742,6 @@ facinorous
 	facinorous 1
 wrappd
 	wrappd 6
-!my
-	!my 1
-,from
-	,from 4
 twin
 	twin 30
 	twins 20
@@ -25921,9 +25770,9 @@ unsafe
 thousand
 	yard 7
 	g 4
-	thou 5350
+	thou 5357
 	thousand 960
-	m 12
+	m 14
 	thous 1
 	yards 6
 	grand 12
@@ -25934,16 +25783,10 @@ bear_down
 	overborne 6
 mechanicals
 	mechanicals 1
-,there
-	,there 5
 wanders
 	wanders 1
 isabella
 	isabella 10
-disbelieve
-	discredits 1
-	discredit 5
-	discredited 2
 loyalst
 	loyalst 1
 girth
@@ -26156,8 +25999,6 @@ robustious
 	robustious 2
 beareth
 	beareth 1
-:that
-	:that 1
 poisd
 	poisd 3
 poise
@@ -26207,11 +26048,11 @@ act
 	does 333
 	behave 1
 	bits 6
-	do 3790
+	do 3797
 	play 876
 	moving 15
 	bit 7
-	did 1621
+	did 1623
 	turns 48
 	turn 271
 	act 1708
@@ -26315,10 +26156,10 @@ oweth
 au
 	au 2
 at
-	at 4858
+	at 4862
 	ats 2
 ay
-	ay 780
+	ay 782
 sports_fan
 	fans 3
 	fan 14
@@ -26658,13 +26499,13 @@ accept
 	haves 1
 	consent 96
 	accept 320
-	have 5945
+	have 5951
 	consenting 4
 	swallowed 9
 	takes 243
-	had 1437
+	had 1438
 	swallowing 6
-	take 3630
+	take 3633
 	taken 273
 	has 389
 	consented 8
@@ -26680,7 +26521,7 @@ accept
 	admitted 13
 	admit 23
 	swallow 14
-	having 155
+	having 156
 autumn
 	autumn 5
 disliken
@@ -26728,7 +26569,7 @@ cling
 	cling 10
 	hanging 37
 	hung 23
-	cleft 7
+	cleft 8
 	cohere 1
 	adheres 3
 	cloven 6
@@ -26766,7 +26607,7 @@ drawst
 courteously
 	courteously 1
 wrench
-	pull 12
+	pull 13
 	twisted 2
 	twist 4
 	wrenching 4
@@ -26853,8 +26694,8 @@ consign
 	charged 6
 rosalind
 	rosalind 57
-pegasus
-	pegasus 9
+rosaline
+	rosaline 19
 olivia
 	olivia 13
 skipper
@@ -26888,8 +26729,6 @@ childeric
 	childeric 1
 sleepst
 	sleepst 4
-!givet
-	!givet 1
 status
 	status 2
 	position 4
@@ -26908,7 +26747,7 @@ eyelash
 disclaiming
 	disclaiming 2
 thisby
-	thisby 21
+	thisby 22
 foundation_garment
 	foundations 3
 	foundation 6
@@ -26929,7 +26768,7 @@ try
 	rendering 2
 	attempts 7
 	sought 34
-	seek 228
+	seek 229
 	assaying 1
 	attempting 2
 	essays 1
@@ -26980,7 +26819,7 @@ acorn
 imagine
 	imagining 1
 	imaginings 1
-	imagine 44
+	imagine 46
 well-nigh
 	well-nigh 2
 reproach
@@ -27101,8 +26940,8 @@ grace
 	grace 4004
 	thanksgiving 2
 	graces 396
-,wherein
-	,wherein 2
+determines
+	determines 3
 iranian
 	persian 2
 rememberd
@@ -27484,7 +27323,7 @@ whole
 long-tongud
 	long-tongud 2
 drunk
-	drunk 132
+	drunk 134
 seems
 	seems 114
 community
@@ -27598,7 +27437,7 @@ vanish
 	fly 235
 	flies 50
 	flying 17
-	flew 5
+	flew 6
 	flown 6
 	vanished 12
 	vanish 24
@@ -27768,25 +27607,25 @@ inclination
 	disposition 44
 	inclination 72
 be
-	be 61659
+	be 61668
 	livings 1
 	lived 16
 	followed 10
 	living 112
-	being 5120
+	being 5136
 	follows 59
-	is 73152
+	is 73216
 	am 17280
 	been 5760
 	live 505
 	bees 72
 	lives 197
-	are 27320
+	are 27328
 	were 12664
 	following 29
-	follow 305
+	follow 306
 	bess 8
-	was 17952
+	was 17976
 pedlars
 	pedlars 4
 ba
@@ -27811,7 +27650,7 @@ base_runner
 	runners 1
 by
 	past 144
-	by 7332
+	by 7340
 crookd
 	crookd 2
 well-knit
@@ -27829,6 +27668,7 @@ scepter
 	verge 8
 	sceptre 56
 anything
+	aught 77
 	anything 72
 hatchet
 	hatchet 2
@@ -27873,7 +27713,7 @@ occupy
 	fills 13
 	occupy 6
 	filling 8
-	fill 68
+	fill 69
 	filled 2
 	residing 3
 full-gorgd
@@ -27940,7 +27780,7 @@ immures
 	immures 1
 mature
 	grown 55
-	grew 27
+	grew 28
 	grow 132
 	mature 49
 	growing 26
@@ -28087,8 +27927,6 @@ send
 	sent 804
 citing
 	citing 1
-.fellow
-	.fellow 1
 dislike
 	dislike 48
 	dislikes 6
@@ -28205,7 +28043,7 @@ let
 	permit 12
 	allows 4
 	lets 1084
-	let 10485
+	let 10535
 	allowing 3
 	allow 25
 	allowed 8
@@ -28236,7 +28074,7 @@ raving_mad
 	wildest 4
 	wilder 2
 hath
-	hath 1913
+	hath 1917
 halfpenny
 	halfpence 1
 	halfpenny 10
@@ -28252,8 +28090,6 @@ mortify
 	subdues 5
 	mortifying 4
 	subdue 9
-.heaven
-	.heaven 1
 rivalld
 	rivalld 1
 standing
@@ -28275,8 +28111,6 @@ exsufflicate
 	exsufflicate 1
 ministers
 	ministers 22
-,grew
-	,grew 1
 ?let
 	?let 1
 doubt
@@ -28455,8 +28289,8 @@ brumous
 	misty 4
 golf_stroke
 	swing 1
-!for
-	!for 4
+short_ton
+	ton 2
 oertaen
 	oertaen 2
 unmeriting
@@ -28512,7 +28346,7 @@ military_position
 master-reasons
 	master-reasons 1
 mightst
-	mightst 25
+	mightst 26
 installment
 	instalment 2
 irks
@@ -28843,8 +28677,8 @@ duff
 	duff 2
 igniter
 	lighter 2
-.go
-	.go 2
+abergavenny
+	abergavenny 2
 ignited
 	enkindled 3
 	kindled 5
@@ -28899,7 +28733,7 @@ mayors
 hope
 	desire 217
 	hoping 18
-	desires 77
+	desires 78
 	trusting 6
 	hoped 6
 	desired 8
@@ -28994,8 +28828,6 @@ undetermind
 	undetermind 1
 kitchen-vestal
 	kitchen-vestal 1
-!stay
-	!stay 1
 drum
 	drumming 2
 	drum 406
@@ -29043,8 +28875,6 @@ crafted
 	crafted 1
 cs
 	cs 2
-;what
-	;what 2
 judgest
 	judgest 2
 uncorrected
@@ -29105,7 +28935,7 @@ maul
 	maul 8
 estimable
 	better 585
-	good 2816
+	good 2817
 	best 448
 	estimable 6
 ripe
@@ -29194,11 +29024,11 @@ command
 	commands 261
 	biddings 1
 	requiring 3
-	bid 334
+	bid 335
 	required 4
 	bids 57
 	controls 1
-	command 1730
+	command 1740
 	bidding 26
 	commanding 27
 	commanded 117
@@ -29269,8 +29099,6 @@ cobble
 	cobble 4
 corruptly
 	corruptly 2
-.coragio
-	.coragio 1
 curl_up
 	curl 1
 	curls 2
@@ -29314,17 +29142,16 @@ overpressd
 	overpressd 1
 oscorbidulchos
 	oscorbidulchos 1
-;as
-	;as 1
 inconstant
 	inconstant 16
 stablishment
 	stablishment 1
 thief
-	thieves 43
-	stealers 1
 	thief 124
 	thiefs 1
+	thieves 43
+	cut-purse 3
+	stealers 1
 	stealer 2
 cribbd
 	cribbd 1
@@ -29367,9 +29194,9 @@ forgiven
 semen
 	cum 2
 	seeds 6
-	come 2559
+	come 2564
 	seed 7
-	comes 601
+	comes 602
 hoarded
 	hoarded 2
 ermengare
@@ -29463,7 +29290,7 @@ function
 	office 126
 	ran 33
 	purposes 40
-	go 1736
+	go 1739
 	wrought 38
 	use 319
 	working 23
@@ -29475,7 +29302,7 @@ function
 	run 188
 	functions 48
 	running 20
-	part 434
+	part 435
 	uses 16
 	purpose 207
 	workings 2
@@ -29547,8 +29374,6 @@ bearing
 	aim 40
 	presences 1
 	heading 1
-!out
-	!out 1
 recognize
 	agnize 1
 mete
@@ -29697,8 +29522,8 @@ counters
 	counters 3
 sinks
 	sinks 5
-,fie
-	,fie 1
+usurps
+	usurps 4
 pluto
 	plutos 9
 	pluto 16
@@ -29796,15 +29621,13 @@ wannion
 	wannion 1
 goose-quills
 	goose-quills 1
-.well
-	.well 1
 chooser
 	chooser 1
 chooses
 	chooses 3
 indiana
 	ins 17
-	in 10530
+	in 10537
 fractions
 	fractions 2
 reign
@@ -29943,7 +29766,7 @@ choose
 	took 157
 	preferred 1
 	chooses 9
-	take 1210
+	take 1211
 	choosing 12
 	preferring 1
 	taken 91
@@ -29971,8 +29794,8 @@ clock_time
 	times 215
 	time 1005
 then
-	then 12738
-	so 4986
+	then 12762
+	so 4996
 them
 	them 1966
 affected
@@ -29996,7 +29819,7 @@ hawthornbuds
 masking_piece
 	masking 1
 they
-	they 2326
+	they 2330
 thes
 	thes 1
 youngling
@@ -30028,7 +29851,7 @@ list
 	naming 4
 	heel 16
 thymine
-	t 448
+	t 450
 	ts 2
 hurlyburly
 	hurlyburly 1
@@ -30121,8 +29944,11 @@ placket
 	plackets 3
 startst
 	startst 1
-droppd
-	droppd 12
+misconstrue
+	misconceived 1
+	misinterpret 1
+	misconstrues 1
+	misinterpreting 1
 chopped
 	chopped 8
 organize
@@ -30150,7 +29976,7 @@ however
 	notwithstanding 23
 	withal 146
 	still 510
-	yet 1558
+	yet 1562
 	however 60
 airs
 	airs 12
@@ -30291,22 +30117,23 @@ do
 	doings 25
 	done 3360
 	performed 4
+	dost 406
 	perform 44
 	make 1639
 	does 1665
 	performs 2
 	fares 29
 	fare 137
-	do 26530
+	do 26579
 	makings 1
 	coming 144
-	come 2559
+	come 2564
 	made 819
-	did 8105
+	did 8115
 	ut 2
 	performing 1
 	managing 2
-	comes 601
+	comes 602
 	making 72
 	makes 343
 	came 346
@@ -30356,7 +30183,7 @@ gentleman
 	gentleman 578
 	gentlemans 4
 oculus_dexter
-	ods 7
+	ods 8
 vulgarly
 	vulgarly 1
 tainted
@@ -30380,7 +30207,7 @@ accord
 	granting 2
 	grant 107
 	granted 29
-	according 44
+	according 45
 	grants 3
 	grantess 1
 	allotted 1
@@ -30406,8 +30233,10 @@ cox
 	cox 2
 coz
 	coz 35
-half-can
-	half-can 1
+drudgery
+	drudgery 2
+	plodding 1
+	grind 5
 munire
 	munire 1
 rawly
@@ -30506,7 +30335,7 @@ cheat_on
 	cheated 3
 	cheat 4
 	cuckolds 7
-	cuckold 27
+	cuckold 28
 	betrays 2
 	cheats 1
 	betraying 1
@@ -30611,7 +30440,7 @@ chewing_gum
 deepst
 	deepst 1
 the
-	the 26814
+	the 26831
 cytosine
 	cs 2
 	c 435
@@ -30636,8 +30465,6 @@ rarst
 	rarst 1
 luccicos
 	luccicos 1
-,which
-	,which 28
 hallow
 	hallow 1
 adding
@@ -30700,8 +30527,6 @@ insurgent
 	rebel 18
 	seditious 2
 	rebels 34
-,mightst
-	,mightst 1
 cozen
 	cozened 20
 	cozen 15
@@ -30849,7 +30674,7 @@ dewy
 bawdy-houses
 	bawdy-houses 2
 priam
-	priam 34
+	priam 36
 	priams 11
 dowry
 	dowers 2
@@ -30908,7 +30733,7 @@ octavius
 	octavius 22
 mold
 	mould 48
-	cast 103
+	cast 104
 	moulds 6
 	mildews 1
 	casts 4
@@ -30948,6 +30773,7 @@ castaway
 	castaways 1
 	castaway 2
 cheated
+	fobbed 2
 	cheated 3
 coulomb
 	cs 2
@@ -30980,8 +30806,6 @@ grape
 	grapes 16
 zone
 	zone 6
-,caught
-	,caught 1
 honoring
 	observances 2
 	observance 15
@@ -31004,7 +30828,7 @@ last_out
 	staying 11
 	stays 36
 	stayed 5
-	stay 415
+	stay 416
 hang_glide
 	soaring 2
 	soars 1
@@ -31338,8 +31162,6 @@ brazed
 	brazed 1
 penetrative
 	penetrative 2
-,so
-	,so 8
 brazen
 	brazen 33
 be-patient
@@ -31380,7 +31202,7 @@ candles
 	candles 6
 rather
 	rather 969
-	instead 16
+	instead 17
 dishonoured
 	dishonoured 2
 crept
@@ -31395,7 +31217,7 @@ hotly
 	hotly 4
 indeed
 	indeed 1332
-	so 4986
+	so 4996
 squarst
 	squarst 1
 recanter
@@ -31425,6 +31247,7 @@ acknowledge
 	knowing 43
 	receipt 11
 	knows 199
+	agnize 1
 	acknowledge 90
 	knew 152
 	acknowledged 4
@@ -31529,6 +31352,7 @@ shown
 	shown 31
 opened
 	opened 2
+	dupp'd 0
 space
 	blanks 4
 	places 38
@@ -31604,6 +31428,7 @@ volquessen
 	volquessen 1
 fetters
 	fetters 2
+	bilboes 1
 palaces
 	palaces 7
 wise-woman
@@ -31684,7 +31509,7 @@ uncurl
 	uncurls 1
 friend
 	friends 972
-	friend 1203
+	friend 1206
 larder
 	larder 2
 courier
@@ -31695,6 +31520,8 @@ goodlier
 	goodlier 2
 larded
 	larded 4
+badges
+	badges 3
 peck
 	pecks 4
 	beaks 1
@@ -31747,6 +31574,7 @@ supervision
 anger
 	angers 24
 	choler 26
+	spleen 56
 	angering 2
 	angered 2
 	anger 275
@@ -31883,7 +31711,9 @@ medlar
 seldom
 	seldom 29
 breeches
+	gaskins 1
 	breeches 14
+guttered
 jack-a-nape
 	jack-a-nape 1
 husband
@@ -31919,6 +31749,7 @@ concern
 	interest 29
 	occupy 2
 	concernings 2
+	import 95
 	fear 627
 	concern 60
 	vexation 10
@@ -31965,9 +31796,6 @@ liquored
 	liquored 1
 deputed
 	deputed 1
-roof
-	roofs 20
-	roof 80
 prorogued
 	prorogued 1
 comet
@@ -31976,7 +31804,7 @@ comet
 hencegoing
 	hencegoing 1
 comes
-	comes 601
+	comes 602
 comer
 	comer 4
 seneca
@@ -31992,8 +31820,6 @@ dispatch
 	expeditions 1
 moreover
 	moreover 20
-,tis
-	,tis 2
 punishes
 	punishes 1
 loth
@@ -32016,7 +31842,7 @@ sisterhood
 	sisterhood 20
 so_far
 	heretofore 1
-	yet 3116
+	yet 3124
 	hitherto 9
 wounds
 	wounds 78
@@ -32093,7 +31919,7 @@ tradition
 	tradition 6
 take_after
 	following 29
-	follow 305
+	follow 306
 	followed 10
 	follows 59
 purer
@@ -32110,7 +31936,7 @@ out-wall
 	out-wall 1
 wedge
 	forced 8
-	force 102
+	force 103
 	wedged 2
 	squeezing 1
 	forces 21
@@ -32148,7 +31974,7 @@ touch
 	pinchs 1
 	touched 40
 	meeting 37
-	meets 10
+	meets 11
 	jot 21
 	trace 9
 	spot 10
@@ -32161,7 +31987,7 @@ touch
 	disturb 11
 	pinch 22
 	disturbed 1
-	meet 321
+	meet 322
 	feeling 29
 	traces 1
 	stirring 20
@@ -32228,14 +32054,14 @@ read
 	said 386
 	says 235
 	showed 8
-	show 400
+	show 401
 	read 1980
 	showing 11
 	scan 2
 	recorded 7
 	reads 18
 	record 20
-	say 1664
+	say 1666
 	records 4
 	reading 160
 	sayings 5
@@ -32261,7 +32087,7 @@ reap
 	reaping 2
 	harvest 16
 	glean 4
-	drew 32
+	drew 33
 	gleaning 1
 	drawn 77
 	gleaned 2
@@ -32501,7 +32327,7 @@ describe
 	draw 202
 	draws 26
 	describe 2
-	drew 32
+	drew 33
 	describes 2
 	drawn 77
 	drawing 7
@@ -32570,8 +32396,8 @@ laudatory
 	praising 10
 mourned
 	mourned 2
-,worse
-	,worse 1
+mistakings
+	mistakings 1
 blow_up
 	enlarged 1
 	enlarge 8
@@ -32591,9 +32417,8 @@ pointing
 	pointing 2
 serpent-like
 	serpent-like 1
-least_sandpiper
-	stint 5
-	stints 1
+splitting
+	splitting 4
 tweedle
 	chirping 1
 bequeath
@@ -32601,7 +32426,7 @@ bequeath
 	willed 1
 	leaves 60
 	leaving 22
-	will 4992
+	will 4997
 	willing 37
 	bequeathed 5
 	bequeath 22
@@ -32639,7 +32464,7 @@ souls
 verb
 	verb 3
 vere
-	vere 4
+	vere 5
 minded
 	minded 14
 austerity
@@ -32713,7 +32538,7 @@ strong
 	strongest 28
 	strong 880
 	stronger 148
-	warm 42
+	warm 43
 seely
 	seely 1
 bathtub
@@ -32729,7 +32554,7 @@ ahead
 	leading 7
 	onward 2
 	beforehand 1
-	before 705
+	before 706
 new-enkindled
 	new-enkindled 1
 soldier
@@ -32796,7 +32621,7 @@ erode
 	fret 12
 passkey
 	masters 174
-	master 774
+	master 775
 musical_instrument
 	instrument 36
 	instruments 27
@@ -32816,6 +32641,7 @@ hurry
 	hurries 2
 	hurry 6
 	haste 159
+	hie 48
 	hastes 2
 oerflows
 	oerflows 2
@@ -32872,6 +32698,7 @@ chops
 warhead
 	load 21
 	loads 3
+chopt
 ratified
 	ratified 8
 foresees
@@ -32883,7 +32710,7 @@ estridge
 unearthly
 	unearthly 1
 idaho
-	id 61
+	id 64
 capitaine
 	capitaine 1
 gash
@@ -32930,7 +32757,7 @@ feed
 	given 190
 	feeding 104
 	eating 12
-	give 1341
+	give 1346
 	provender 5
 	fed 248
 	feast 103
@@ -32950,8 +32777,6 @@ quelled
 	quenched 2
 auburn
 	auburn 2
-:bear
-	:bear 1
 tearsheet
 	tearsheet 7
 bringeth
@@ -33014,7 +32839,7 @@ word_picture
 	picture 39
 fully
 	fully 28
-	full 413
+	full 414
 three-hooped
 	three-hooped 1
 capability
@@ -33051,7 +32876,7 @@ robert
 	roberts 8
 	robert 52
 since
-	since 434
+	since 435
 stoups
 	stoups 1
 deard
@@ -33115,14 +32940,14 @@ put
 	pose 1
 	assigns 2
 	placing 2
-	laying 10
+	laying 11
 	placed 7
 	laid 88
 	setting 23
 	place 397
 	lay 278
 	sets 25
-	put 2928
+	put 2934
 	putting 90
 	assign 3
 	lays 17
@@ -33154,8 +32979,8 @@ dip
 	inclination 12
 persists
 	persists 1
-mistakings
-	mistakings 1
+fifty-four
+	livest 3
 military_rank
 	rating 1
 scouts
@@ -33165,8 +32990,6 @@ avariciously
 	covetously 1
 knots
 	knots 8
-,disarm
-	,disarm 1
 probability
 	chances 14
 	chance 103
@@ -33273,6 +33096,7 @@ bridled
 disbranch
 	disbranch 1
 sensual
+	pursy 2
 	sultry 2
 	sensual 4
 waiting-vassals
@@ -33342,7 +33166,7 @@ blend
 	combine 7
 	combined 2
 	goes 167
-	go 1736
+	go 1739
 	went 100
 	intermingle 2
 inkles
@@ -33353,7 +33177,7 @@ rifle
 	going 96
 	goes 167
 	rifle 3
-	go 1736
+	go 1739
 	went 100
 favour
 	favour 128
@@ -33364,6 +33188,7 @@ begets
 	begets 5
 sportive
 	sportive 6
+	gamesome 3
 rudest
 	rudest 1
 darted
@@ -33392,7 +33217,7 @@ famous
 bedew
 	bedew 6
 whateer
-	whateer 24
+	whateer 25
 during
 	during 14
 marcians
@@ -33421,8 +33246,6 @@ undergoes
 	undergoes 2
 plough
 	plough 5
-;fill
-	;fill 1
 varlets
 	varlets 4
 millstone
@@ -33447,7 +33270,7 @@ gallantst
 virginities
 	virginities 1
 won
-	won 184
+	won 186
 woe
 	woe 242
 	woes 44
@@ -33471,7 +33294,7 @@ adored
 	adored 2
 	worshipped 2
 anon
-	anon 375
+	anon 378
 consigning
 	consigning 1
 public_toilet
@@ -33509,8 +33332,6 @@ liker
 	liker 2
 likes
 	likes 26
-.why
-	.why 1
 after-debts
 	after-debts 1
 eastern_hemisphere
@@ -33535,7 +33356,7 @@ crack
 	goss 1
 	cracking 50
 	pass 136
-	go 1736
+	go 1739
 	whirls 2
 	check 24
 	passes 10
@@ -33546,7 +33367,7 @@ crack
 	goes 167
 	crack 465
 	snap 3
-	cleft 7
+	cleft 8
 	checks 7
 	offer 90
 	checking 1
@@ -33589,8 +33410,6 @@ luciana
 	luciana 2
 begetting
 	begetting 3
-,before
-	,before 1
 straggling
 	straggling 1
 overlooked
@@ -33619,7 +33438,7 @@ belong
 	belongs 75
 	going 96
 	goes 167
-	go 1736
+	go 1739
 	went 100
 checking
 	checking 1
@@ -33684,8 +33503,6 @@ wedges
 	wedges 2
 mislaid
 	misplaced 1
-.eros
-	.eros 1
 quarters
 	quarters 5
 behove
@@ -33810,7 +33627,7 @@ run
 	leads 62
 	course 156
 	pass 136
-	go 3472
+	go 3478
 	led 120
 	passes 10
 	fed 31
@@ -33866,7 +33683,7 @@ rub
 	scratches 2
 	fretting 4
 	itches 2
-	wipe 24
+	wipe 25
 	fray 16
 	fret 12
 	chafe 5
@@ -34059,7 +33876,7 @@ go
 	moved 18
 	leads 31
 	tours 3
-	go 26040
+	go 26085
 	moves 23
 	proceeds 6
 	spells 5
@@ -34196,7 +34013,7 @@ experiment
 rotted
 	rotted 2
 ;
-	; 17363
+	; 17399
 melancholy
 	melancholies 2
 	melancholys 2
@@ -34225,8 +34042,6 @@ repel
 	repel 4
 	drove 8
 	repulsed 3
-!alive
-	!alive 1
 sicils
 	sicils 2
 well-disposed
@@ -34292,6 +34107,7 @@ thirsting
 nurture
 	nurture 2
 drops
+	gouts 1
 	drops 44
 summered
 	summered 1
@@ -34300,8 +34116,6 @@ vaunt
 	vaunt 2
 escapes
 	escapes 4
-,after
-	,after 1
 escaped
 	escaped 3
 escapen
@@ -34379,10 +34193,6 @@ heady-rash
 	heady-rash 1
 offences
 	offences 24
-deaden
-	blunted 2
-	blunt 38
-	blunts 2
 brittle
 	brittle 20
 intendst
@@ -34435,8 +34245,6 @@ mode
 	modes 3
 banqueting
 	banqueting 2
-,beheld
-	,beheld 1
 shunless
 	shunless 1
 upward
@@ -34506,7 +34314,7 @@ keep
 	maintains 9
 	dungeons 2
 	holds 76
-	keep 6776
+	keep 6790
 	held 82
 	maintained 18
 	maintain 123
@@ -34624,7 +34432,7 @@ churlish
 beg
 	prayed 2
 	begged 3
-	pray 743
+	pray 745
 	begging 24
 	beg 404
 	imploring 1
@@ -34653,8 +34461,6 @@ spurt
 	spouting 1
 	spout 5
 	spirt 1
-,something
-	,something 1
 distinguished
 	grand 12
 bet
@@ -34674,7 +34480,7 @@ gratingly
 	harshly 3
 lightly
 	light 264
-	softly 22
+	softly 23
 	gently 31
 	lightly 84
 cassios
@@ -34797,6 +34603,8 @@ bronzed
 	tanned 1
 poesy
 	poesy 5
+speak-a
+	speak-a 1
 deaths-head
 	deaths-head 1
 nonino
@@ -34808,7 +34616,7 @@ read/write_head
 	heads 106
 one
 	ace 3
-	i 40938
+	i 41066
 	unity 7
 	one 15624
 	single 54
@@ -34821,8 +34629,8 @@ envy
 	envied 8
 dishonours
 	dishonours 4
-,heartily
-	,heartily 1
+wreak
+	wreak 4
 virgo
 	virgin 74
 	virgos 3
@@ -34889,10 +34697,8 @@ ordain
 	order 88
 	enact 3
 	enacted 4
-,horsing
-	,horsing 1
 she
-	she 2224
+	she 2227
 calumniatory
 	slanderous 9
 	calumnious 3
@@ -35088,12 +34894,11 @@ unsavory
 	unsavory 2
 	offensive 2
 	unsavoury 3
-:yes
-	:yes 1
 claps
 	claps 4
 lambs
 	lambs 12
+	eanlings 1
 revengement
 	revengement 1
 chants
@@ -35123,7 +34928,7 @@ absorb
 	engaged 5
 	sucks 5
 	engrossed 2
-	drew 32
+	drew 33
 	engaging 1
 	occupy 2
 	engrossing 1
@@ -35151,7 +34956,7 @@ transaction
 reflection
 	reflection 30
 i
-	i 40938
+	i 41066
 love-juice
 	love-juice 2
 mottle
@@ -35230,7 +35035,7 @@ fleas
 sizes
 	sizes 2
 alternatively
-	instead 16
+	instead 17
 candy
 	candy 4
 renegado
@@ -35246,7 +35051,7 @@ indigest
 lends
 	lends 9
 therein
-	therein 108
+	therein 110
 pick_up
 	receive 96
 	received 25
@@ -35258,7 +35063,7 @@ gallant-springing
 	gallant-springing 1
 liking
 	likings 2
-	liking 54
+	liking 56
 pullet-sperm
 	pullet-sperm 1
 lower_jaw
@@ -35277,8 +35082,6 @@ virgilia
 nitwitted
 	witless 3
 	senseless 25
-uncontaminated
-	unpolluted 1
 choker
 	ruffs 1
 	ruffle 4
@@ -35324,6 +35127,7 @@ electric_resistance
 	resistance 3
 mushrooms
 	mushrooms 1
+	mushrumps 0
 congregate
 	congregate 2
 	congregated 2
@@ -35356,8 +35160,6 @@ mastermind
 	directing 1
 	direct 35
 	directs 1
-!nay
-	!nay 2
 palating
 	palating 1
 palatine
@@ -35375,6 +35177,7 @@ patrum
 	patrum 1
 prophecies
 	prophecies 7
+	bodements 2
 ho
 	ho 197
 overflow
@@ -35389,7 +35192,7 @@ badmouth
 	malign 2
 he
 	hes 307
-	he 12544
+	he 12570
 dobbin
 	dobbin 1
 millstones
@@ -35537,10 +35340,10 @@ rescud
 	rescud 11
 rescue
 	delivered 26
-	saving 12
+	saving 15
 	rescue 112
 	rescuing 2
-	deliver 101
+	deliver 102
 	delivering 4
 	delivery 4
 	deliverance 8
@@ -35589,7 +35392,7 @@ companies
 solution
 	root 41
 	answers 19
-	answer 378
+	answer 379
 	resolutions 1
 	resolution 28
 	roots 12
@@ -35607,12 +35410,10 @@ heading
 	heading 2
 clothes
 	clothes 32
-lustre
-	lustre 13
+twiddler
+	fiddler 3
 lavender
 	lavender 4
-,got
-	,got 1
 hefts
 	hefts 1
 favourer
@@ -35636,7 +35437,7 @@ desirous
 stand-under
 	stand-under 1
 nee
-	neer 228
+	neer 229
 neb
 	neb 1
 nec
@@ -35666,7 +35467,7 @@ screams
 never
 	never 3072
 drew
-	drew 64
+	drew 66
 capulets
 	capulets 6
 nanny
@@ -35674,9 +35475,20 @@ nanny
 	nurse 80
 over-full
 	over-full 1
-dreg
-	dregs 6
-	dreg 2
+interpret
+	seeing 44
+	rendered 3
+	sees 44
+	render 39
+	interprets 4
+	interpreted 4
+	rendering 2
+	see 1440
+	renders 4
+	seen 258
+	saw 262
+	interpret 21
+	construe 10
 mashd
 	mashd 1
 plates
@@ -35744,8 +35556,6 @@ recommend
 	recommend 3
 	urges 1
 	urging 9
-,hark
-	,hark 1
 contemning
 	contemning 3
 type
@@ -35823,8 +35633,6 @@ out-runs
 	out-runs 1
 givn
 	givn 3
-:when
-	:when 1
 barberd
 	barberd 1
 freshen
@@ -35887,9 +35695,6 @@ soberness
 	sobriety 2
 charlemagne
 	charles 54
-curled
-	curling 1
-	curled 10
 ensnard
 	ensnard 1
 ensnare
@@ -35949,7 +35754,7 @@ mauvais
 lucy
 	lucy 8
 luce
-	luce 9
+	luce 12
 	luces 2
 faraway
 	far-off 3
@@ -35975,7 +35780,7 @@ netherlander
 daws
 	daws 6
 taught
-	taught 44
+	taught 45
 threepence
 	threepence 2
 dawn
@@ -36012,8 +35817,6 @@ surprise
 	surprised 4
 sluggish
 	sluggish 2
-.he
-	.he 3
 bating
 	bating 1
 grease
@@ -36047,7 +35850,7 @@ egyptians
 	egyptians 3
 mistress
 	mistresses 12
-	mistress 1212
+	mistress 1215
 	mistresss 6
 unbroke
 	unbroke 1
@@ -36056,8 +35859,6 @@ greasy
 	greasy 30
 stirrers
 	stirrers 1
-,whether
-	,whether 1
 messages
 	messages 2
 ist
@@ -36211,7 +36012,7 @@ matter
 	things 325
 	matters 130
 	thing 406
-	matter 2124
+	matter 2130
 unreverend
 	unreverend 3
 childlike
@@ -36304,8 +36105,6 @@ discontent
 	discontent 26
 	discontented 13
 	discontents 6
-onion-eyd
-	onion-eyd 1
 armagnac
 	armagnac 6
 sneaks
@@ -36371,7 +36170,7 @@ smug
 	smug 4
 comply
 	following 29
-	follow 305
+	follow 306
 	followed 10
 	comply 6
 	follows 59
@@ -36434,7 +36233,7 @@ continent
 	continent 48
 scram
 	gotten 5
-	got 121
+	got 122
 	getting 11
 	gets 13
 	get 312
@@ -36592,11 +36391,11 @@ soild
 semper
 	semper 1
 is
-	is 9144
+	is 9152
 ir
 	ir 1
 it
-	it 7741
+	it 7751
 shamd
 	shamd 8
 shame
@@ -36614,17 +36413,17 @@ io
 in
 	inward 25
 	inwards 2
-	in 52650
+	in 52685
 accidence
 	accidence 1
 stoppd
 	stoppd 23
 id
-	id 183
+	id 192
 interchained
 	interchained 1
 if
-	if 3508
+	if 3523
 yslaked
 	yslaked 1
 sheep-whistling
@@ -36689,7 +36488,7 @@ identify
 	keys 13
 	distinguishes 1
 	placing 2
-	discover 33
+	discover 34
 	discovered 9
 	placed 7
 	describes 2
@@ -36737,7 +36536,7 @@ affability
 over-charged
 	over-charged 1
 sales_talk
-	pitch 28
+	pitch 29
 coarseness
 	grossness 6
 airheaded
@@ -36763,7 +36562,7 @@ snatchd
 	snatchd 6
 indium
 	ins 17
-	in 10530
+	in 10537
 carpet-mongers
 	carpet-mongers 1
 unhelpful
@@ -36774,8 +36573,6 @@ neighbour-stained
 	neighbour-stained 1
 tripped
 	tripped 3
-,praised
-	,praised 1
 sprawl
 	sprawl 4
 	straggling 1
@@ -36786,7 +36583,7 @@ trace
 	tincture 1
 	describe 1
 	suggestions 3
-	follow 305
+	follow 306
 	line 40
 	draws 26
 	hint 8
@@ -36795,7 +36592,7 @@ trace
 	drawn 77
 	draw 202
 	trace 99
-	drew 32
+	drew 33
 	tinctures 1
 	shadow 68
 	shadows 28
@@ -36824,14 +36621,14 @@ beget
 	begets 5
 	mother 336
 	begotten 4
-	got 121
+	got 122
 	gets 13
 	beget 46
 	begot 23
-!he
-	!he 2
+devastation
+	desolation 22
 burn
-	burn 1140
+	burn 1155
 	burning 462
 	glows 1
 	fire 255
@@ -36948,7 +36745,7 @@ form
 	strains 7
 	pattern 12
 	make 1639
-	cast 103
+	cast 104
 	forms 312
 	form 1344
 	springing 1
@@ -36973,10 +36770,10 @@ surveil
 	survey 12
 	surveying 1
 	following 29
-	follow 305
+	follow 306
 fore
 	forward 71
-	fore 93
+	fore 96
 	forester 6
 ford
 	crossing 5
@@ -36984,7 +36781,7 @@ ford
 	fords 108
 	ford 600
 twould
-	twould 26
+	twould 27
 powerfully
 	strongly 26
 	powerfully 2
@@ -37094,7 +36891,7 @@ consortst
 	consortst 1
 male_child
 	boys 88
-	boy 346
+	boy 347
 dies
 	dies 64
 felt
@@ -37121,8 +36918,6 @@ authorities
 causal_agent
 	cause 337
 	causes 15
-,almost
-	,almost 1
 died
 	died 107
 derail
@@ -37139,7 +36934,7 @@ assume
 	presuming 2
 	takes 162
 	adopted 10
-	take 2420
+	take 2422
 	assuming 6
 	taken 182
 	struck 77
@@ -37247,7 +37042,7 @@ string
 	thread 20
 	threading 1
 	twine 2
-	drew 32
+	drew 33
 	drawing 7
 	strung 14
 	train 30
@@ -37302,7 +37097,7 @@ undoer
 sawed
 	sawed 1
 wherefore
-	wherefore 138
+	wherefore 139
 slake
 	abated 3
 	abates 1
@@ -37316,7 +37111,7 @@ guysors
 chooseth
 	chooseth 11
 heres
-	heres 214
+	heres 215
 long-familiar
 	well-known 1
 wheyface
@@ -37326,8 +37121,9 @@ tell-a
 template
 	guide 25
 	guides 7
-,lads
-	,lads 1
+curled
+	curling 1
+	curled 10
 audited_account
 	audit 5
 tiber
@@ -37344,8 +37140,6 @@ unknowing
 	unknowing 1
 detest
 	detest 9
-.give
-	.give 1
 deceit
 	deceit 20
 palliament
@@ -37384,8 +37178,6 @@ fly-blowing
 	fly-blowing 1
 noisome
 	noisome 5
-,youll
-	,youll 1
 spicery
 	spicery 1
 accite
@@ -37555,7 +37347,7 @@ gros
 grow
 	grown 330
 	raised 3
-	grew 162
+	grew 168
 	raise 44
 	get 312
 	acquired 1
@@ -37569,7 +37361,7 @@ grow
 	produce 34
 	raises 1
 	growing 156
-	got 121
+	got 122
 	gets 13
 	producing 4
 	grows 450
@@ -37591,7 +37383,7 @@ disembowel
 	draw 202
 	draws 26
 	drawing 7
-	drew 32
+	drew 33
 fluent
 	fluent 2
 	smooth 37
@@ -37661,8 +37453,6 @@ agone
 tonic
 	restoratives 1
 	restorative 1
-,drew
-	,drew 1
 captivated
 	charmed 4
 	captivated 2
@@ -37742,7 +37532,7 @@ chines
 southwell
 	southwell 1
 after
-	after 1140
+	after 1143
 monster
 	devil 218
 	monster 280
@@ -37779,6 +37569,7 @@ dumbd
 	dumbd 1
 cloistress
 	cloistress 1
+grise
 new-burnd
 	new-burnd 1
 dwelling
@@ -37812,7 +37603,7 @@ carry
 	takes 81
 	holds 76
 	extends 1
-	take 1210
+	take 1211
 	holding 22
 	taken 91
 	sway 34
@@ -37843,8 +37634,8 @@ unmeritable
 	unmeritable 2
 rivets
 	rivets 2
-greediness
-	greediness 12
+chanson
+	chanson 1
 plains
 	plains 6
 ?nay
@@ -37929,6 +37720,7 @@ economic_rent
 solidity
 	solidity 4
 pain
+	teen 4
 	hurting 2
 	pain 378
 	pained 1
@@ -38010,6 +37802,7 @@ bringer
 	bringer 3
 love-tokens
 	love-tokens 1
+	remembrances 5
 hungarian
 	hungarian 4
 midriff
@@ -38066,9 +37859,6 @@ sluttery
 calendar
 	calendar 45
 	calendars 4
-parent
-	parents 38
-	parent 12
 bathetic
 	maudlin 1
 checkd
@@ -38097,7 +37887,7 @@ couplets
 tut
 	tut 39
 killing
-	kill 194
+	kill 195
 	kills 20
 	killing 110
 iron-witted
@@ -38198,7 +37988,7 @@ give_voice
 	phrase 27
 	word 502
 	articulate 2
-	words 415
+	words 416
 	phrases 5
 borders
 	borders 1
@@ -38257,7 +38047,7 @@ endowed
 rubbing
 	rubbing 4
 according
-	according 132
+	according 135
 middle
 	middle 126
 	midriff 1
@@ -38296,6 +38086,7 @@ mirth-moving
 	mirth-moving 1
 devours
 	devours 3
+	engluts 1
 munch
 	munch 3
 firstlings
@@ -38607,8 +38398,6 @@ deliberation
 	weighing 5
 liegemen
 	liegemen 2
-,look
-	,look 1
 girlfriend
 	girl 53
 	girls 13
@@ -38670,7 +38459,7 @@ hugely
 cold-hearted
 	cold-hearted 1
 deluxe
-	gilded 16
+	gilded 17
 	princely 79
 	sumptuous 4
 	opulent 2
@@ -38704,6 +38493,8 @@ talks
 	talks 14
 misadvise
 	misguide 1
+reluctant
+	loath 60
 finger-end
 	finger-end 1
 red-hot
@@ -38773,14 +38564,14 @@ fall
 	fell 3294
 	descending 2
 	fall 10030
-	come 2559
+	come 2564
 	struck 77
 	shine 41
 	light 264
 	descends 1
 	settle 3
 	descended 12
-	comes 601
+	comes 602
 	autumns 2
 	passing 32
 	fallen 540
@@ -38839,8 +38630,6 @@ misrepresent
 compile
 	compile 2
 	compiled 1
-,he
-	,he 8
 centering
 	snap 3
 beetle-headed
@@ -38869,6 +38658,7 @@ mourning
 christs
 	christs 2
 fantasies
+	figures 15
 	fantasies 4
 fatter
 	fatter 1
@@ -38876,7 +38666,7 @@ search
 	searches 8
 	looking 28
 	search 450
-	look 823
+	look 824
 	hunting 15
 	seeking 21
 	hunt 30
@@ -38886,7 +38676,7 @@ search
 	searched 12
 	sought 34
 	hunts 3
-	seek 228
+	seek 229
 	seeks 25
 tortoise
 	tortoise 4
@@ -38938,7 +38728,7 @@ establish
 	planted 9
 	given 190
 	grounded 3
-	give 1341
+	give 1346
 	giving 38
 	established 16
 	plant 23
@@ -38978,7 +38768,7 @@ town
 	town 468
 	towns 93
 none
-	none 2350
+	none 2355
 waild
 	waild 2
 des
@@ -39183,8 +38973,6 @@ wizards
 	wizards 1
 edmund
 	edmund 46
-,confessions
-	,confessions 1
 clamor
 	clamours 24
 	clamour 51
@@ -39452,7 +39240,7 @@ give
 	dedicated 2
 	rendered 3
 	render 39
-	give 44253
+	give 44418
 	throwing 10
 	spring 57
 	committed 34
@@ -39586,7 +39374,7 @@ sepulchres
 	sepulchres 1
 doctor_of_the_church
 	doctors 9
-	doctor 67
+	doctor 68
 standing_operating_procedure
 	sops 2
 	sop 4
@@ -39594,8 +39382,6 @@ obsequiously
 	obsequiously 2
 eldest-born
 	eldest-born 1
-,this
-	,this 2
 endeavor
 	endeavour 17
 	strove 3
@@ -39649,8 +39435,6 @@ arouse
 	stirring 20
 ploughman
 	ploughman 3
-:your
-	:your 1
 tender
 	stamp 22
 	tendering 12
@@ -40084,8 +39868,9 @@ resoluteness
 	resolution 28
 	firmness 2
 	resolves 2
-scrip
-	scrip 4
+exampled
+	exampled 3
+death's-head
 back
 	hinder 28
 	supporting 1
@@ -40125,7 +39910,7 @@ per
 lards
 	lards 2
 inadequate
-	poor 621
+	poor 622
 	short 85
 	unequal 5
 	poorest 8
@@ -40137,7 +39922,7 @@ pen
 bogus
 	bastard 62
 blow_out
-	blow 93
+	blow 94
 	blew 4
 	blowing 7
 	blown 36
@@ -40171,7 +39956,7 @@ escalus
 chanting
 	chanting 1
 from
-	from 2555
+	from 2559
 immoment
 	immoment 1
 crone
@@ -40420,8 +40205,6 @@ knight
 	dub 3
 	knighted 5
 	knights 126
-procrus
-	procrus 2
 kinsmen
 	kinsmen 18
 mobilize
@@ -40461,8 +40244,6 @@ giving
 	giving 152
 	givings 3
 	gift 62
-.sir
-	.sir 1
 anywhere
 	anywhere 4
 escapd
@@ -40560,8 +40341,6 @@ lesongles
 	lesongles 1
 thatch
 	thatch 10
-!sixpence
-	!sixpence 1
 insufficiency
 	insufficiency 4
 ashamed
@@ -40579,8 +40358,6 @@ northumberland
 	northumberland 100
 cuckoo-flowers
 	cuckoo-flowers 1
-plaguy
-	plaguy 1
 instantaneously
 	outright 4
 	instantly 25
@@ -40588,7 +40365,7 @@ unreal
 	unreal 6
 praise
 	praising 10
-	praised 21
+	praised 22
 	praises 78
 	extolment 1
 	praise 624
@@ -40622,6 +40399,7 @@ daring
 	daring 12
 regions
 	regions 8
+	climatures 1
 fete
 	feast 103
 	feasts 15
@@ -40692,7 +40470,7 @@ six
 	six 165
 meter
 	beat 123
-	m 6
+	m 7
 	measures 11
 	metre 6
 	metres 3
@@ -40736,11 +40514,11 @@ unstained
 	unstained 6
 la
 	las 1
-	la 116
+	la 118
 sample_distribution
 	sample 1
 lo
-	lo 65
+	lo 66
 ll
 	ll 4
 mamilhus
@@ -40860,7 +40638,7 @@ defend
 	hold 451
 	defend 345
 wholly
-	all 3629
+	all 3632
 	whole 122
 	wholly 12
 	altogether 24
@@ -40925,10 +40703,10 @@ count
 	reckoning 42
 	depended 1
 	count 1056
-	look 823
+	look 824
 	countesses 14
 	looked 34
-	matter 354
+	matter 355
 	weigh 41
 	countess 28
 	counted 56
@@ -40944,7 +40722,7 @@ retain
 	kept 94
 	holds 76
 	continuing 1
-	keep 484
+	keep 485
 	held 82
 	continue 32
 	holding 22
@@ -41170,7 +40948,7 @@ supporter
 	admirer 1
 	friends 486
 	supporter 4
-	friend 401
+	friend 402
 	supporters 1
 unarmd
 	unarmd 5
@@ -41252,8 +41030,6 @@ ill-bred
 	ruder 2
 	rudest 1
 	rude 66
-,born
-	,born 1
 pedantical
 	pedantical 1
 exploited
@@ -41468,7 +41244,7 @@ center
 appell
 	appell 3
 weapon
-	weapons 72
+	weapons 76
 	weapon 81
 	artillery 5
 	arm 143
@@ -41520,9 +41296,8 @@ field
 bench
 	benches 12
 	bench 56
-citizen
-	citizens 37
-	citizen 10
+black-a-moor
+	black-a-moor 1
 ravel
 	knots 8
 	knotted 2
@@ -41534,6 +41309,7 @@ raven
 	ravens 40
 	prey 37
 	preys 4
+	ravening 3
 	raven 75
 articles
 	articles 19
@@ -41673,8 +41449,6 @@ barnardine
 	barnardine 15
 submits
 	submits 1
-!,
-	!, 1
 demonstrable
 	demonstrable 3
 tackle
@@ -41706,8 +41480,10 @@ buy
 	buys 36
 	buying 4
 	bought 208
-!i
-	!i 4
+bur
+	burrs 9
+	burs 3
+	burr 6
 bus
 	heaps 7
 	coach 6
@@ -41716,10 +41492,8 @@ bus
 	busses 2
 	heap 10
 	buss 10
-!m
-	!m 1
 but
-	but 6126
+	but 6155
 cantons
 	cantons 1
 wyrd
@@ -41727,8 +41501,6 @@ wyrd
 bun
 	roll 8
 	rolls 4
-!t
-	!t 1
 bum
 	lolling 4
 	bums 1
@@ -41750,7 +41522,7 @@ bud
 	budded 2
 	bud 65
 partially
-	part 434
+	part 435
 	partly 34
 	partially 2
 misty
@@ -41768,10 +41540,10 @@ wish
 	bidden 1
 	bidding 26
 	wished 72
-	like 1715
+	like 1716
 	cares 40
 	wish 2170
-	bid 334
+	bid 335
 	wishing 70
 	liked 3
 	bides 4
@@ -41782,7 +41554,7 @@ wish
 	likes 26
 	want 137
 	biding 3
-	liking 27
+	liking 28
 	likings 2
 	care 217
 mists
@@ -41797,15 +41569,11 @@ wisp
 	wisp 5
 wist
 	wist 1
-,heaven
-	,heaven 2
 casts
 	casts 4
 minutes
 	proceedings 15
 	minutes 32
-!come
-	!come 1
 tribunes
 	tribunes 41
 veiling
@@ -41832,8 +41600,6 @@ redder
 	redder 1
 seyton
 	seyton 4
-!videlicet
-	!videlicet 1
 ledge
 	shelf 1
 	ledge 2
@@ -41986,8 +41752,6 @@ sheeted
 	sheeted 1
 mischievous
 	mischievous 4
-,whose
-	,whose 3
 conduct
 	directed 12
 	deals 1
@@ -42038,8 +41802,6 @@ dullard
 	dullard 2
 verdure
 	verdure 2
-ponder
-	ponder 1
 sorrowd
 	sorrowd 1
 visibly
@@ -42131,7 +41893,7 @@ shoon
 speaketh
 	speaketh 1
 my
-	my 12271
+	my 12281
 dither
 	pother 4
 	flap 2
@@ -42299,7 +42061,7 @@ fade
 	melts 2
 	withering 2
 	faded 6
-	melt 29
+	melt 30
 	melted 15
 	fade 16
 	wither 13
@@ -42326,6 +42088,7 @@ echo
 	recall 3
 	replication 3
 	echoes 14
+	bruit 4
 	echo 80
 eatage
 	pasture 12
@@ -42350,7 +42113,7 @@ suppressd
 filling
 	filling 48
 	fills 13
-	fill 68
+	fill 69
 victory
 	triumphs 11
 	victories 4
@@ -42374,8 +42137,6 @@ forfeit
 	sacrifice 21
 unrevengd
 	unrevengd 2
-:there
-	:there 1
 fust
 	fust 1
 lode-stars
@@ -42390,7 +42151,7 @@ trumpeter
 	trumpeters 6
 	trumpeter 8
 god
-	god 2310
+	god 2331
 	gods 926
 washed
 	washed 18
@@ -42399,7 +42160,7 @@ bennet
 brabantio
 	brabantio 7
 got
-	got 121
+	got 122
 washer
 	washer 4
 washes
@@ -42425,7 +42186,7 @@ resteth
 	resteth 3
 laborer
 	labourer 1
-	jack 76
+	jack 77
 	labourers 1
 	jacks 5
 denture
@@ -42449,6 +42210,7 @@ sober
 	sober 48
 neighborhood
 	neighbourhood 3
+endues
 borderland
 	march 93
 	marches 6
@@ -42480,8 +42242,6 @@ abates
 	abates 1
 servd
 	servd 32
-.mercy
-	.mercy 1
 western
 	western 60
 abated
@@ -42636,8 +42396,8 @@ stool
 	makes 343
 hortensius
 	hortensius 1
-random
-	random 6
+mules
+	mules 4
 peasants
 	peasants 7
 soft-hearted
@@ -42681,8 +42441,6 @@ twice
 	twice 144
 six-or-seven-times-honoured
 	six-or-seven-times-honoured 1
-chanson
-	chanson 1
 ruins
 	ruins 6
 swept
@@ -42810,6 +42568,7 @@ ropes
 	ropes 7
 muddied
 	muddied 3
+	puddled 2
 want-wit
 	want-wit 1
 been
@@ -42894,8 +42653,6 @@ tapsters
 	tapsters 4
 inventors
 	inventors 1
-:peace
-	:peace 1
 reeky
 	reeky 1
 oughtest
@@ -42989,8 +42746,6 @@ layest
 gift
 	gifts 47
 	gift 124
-,that
-	,that 29
 reverentially
 	reverently 3
 vestal
@@ -43006,8 +42761,6 @@ rustling
 detraction
 	detraction 9
 	detractions 2
-,pitch
-	,pitch 1
 ?capulet
 	?capulet 1
 clubs
@@ -43057,8 +42810,6 @@ cord
 	cords 66
 ripely
 	ripely 2
-.what
-	.what 3
 corn
 	corn 306
 	corns 24
@@ -43145,6 +42896,7 @@ head
 	leading 7
 	leads 31
 	chief 36
+	mazzard 2
 	led 60
 	heading 7
 medium
@@ -43172,7 +42924,7 @@ hear
 	hearing 264
 	try 90
 	heard 1047
-	hear 3528
+	hear 3536
 heap
 	heaps 14
 	heaping 4
@@ -43226,7 +42978,7 @@ bide
 	biding 3
 	bides 4
 	abide 35
-	stay 415
+	stay 416
 	abides 8
 	stayed 5
 	stays 36
@@ -43258,7 +43010,8 @@ outstretched
 	outstretched 4
 no
 	noes 1
-	no 22638
+	nay 1779
+	no 22656
 ne
 	ne 7
 oer-worn
@@ -43329,8 +43082,6 @@ surecard
 	surecard 1
 cutter-off
 	cutter-off 1
-,all
-	,all 2
 liefest
 	liefest 1
 leanness
@@ -43385,8 +43136,6 @@ aseptic
 	sterile 5
 whitsun
 	whitsun 4
-.spirit
-	.spirit 1
 guiltian
 	guiltian 1
 overwatchd
@@ -43686,7 +43435,7 @@ droopeth
 concavities
 	concavities 1
 shove_off
-	blow 93
+	blow 94
 	blew 4
 	blowing 7
 	blown 36
@@ -43723,8 +43472,6 @@ dispos
 	dispos 1
 ultimately
 	finally 1
-.say
-	.say 2
 welking
 	welking 1
 profit
@@ -43802,8 +43549,6 @@ wad
 	wad 2
 divorced
 	divorced 4
-bibble-babble
-	bibble-babble 1
 faculty
 	faculties 6
 	module 1
@@ -43819,7 +43564,7 @@ alike
 	likewise 24
 	likest 4
 	liker 2
-	like 1715
+	like 1716
 	alike 164
 millions
 	millions 7
@@ -43899,7 +43644,7 @@ by-room
 brine-pit
 	brine-pit 1
 and
-	and 24041
+	and 24072
 mated
 	mated 24
 worcester
@@ -43914,8 +43659,10 @@ manningtree
 	manningtree 1
 mater
 	mater 6
-mates
-	mates 13
+armorer
+	armourer 12
+	artificer 1
+	armourers 6
 pry
 	levers 1
 	prized 2
@@ -43926,7 +43673,7 @@ pry
 	pry 28
 any
 	whatever 10
-	any 2250
+	any 2253
 	whatsoever 14
 foundered
 	foundered 1
@@ -43964,13 +43711,11 @@ keep_open
 	keeping 19
 	kept 94
 	saves 6
-	keep 484
+	keep 485
 	keeps 71
-	saving 12
-	save 207
+	saving 15
+	save 208
 	saved 17
-,prithee
-	,prithee 1
 considered
 	considered 12
 unwisely
@@ -44001,8 +43746,6 @@ percy
 	percies 2
 both-sides
 	both-sides 1
-,waving
-	,waving 1
 woolen
 	woollen 2
 protrusion
@@ -44080,14 +43823,14 @@ defacing
 	defacing 1
 purpose-changer
 	purpose-changer 1
-,with
-	,with 4
+reveals
+	reveals 1
 violated
 	violated 1
 combated
 	combated 1
 reveald
-	reveald 2
+	reveald 3
 asperity
 	sharpness 3
 	severity 4
@@ -44103,7 +43846,7 @@ detect
 	notice 30
 	detect 10
 	findings 1
-	discover 33
+	discover 34
 	finds 41
 	discovered 9
 	detected 2
@@ -44141,6 +43884,7 @@ fly-bitten
 	fly-bitten 1
 grieves
 	grieves 21
+	erns 0
 unbitted
 	unbitted 1
 sacked
@@ -44222,8 +43966,13 @@ schoolboy
 	schoolboy 4
 vilely
 	vilely 32
-,swoon
-	,swoon 1
+drink_in
+	drunk 67
+	drink 154
+	drinkings 1
+	drank 2
+	drinking 24
+	drinks 16
 robbed
 	robbed 4
 mocking
@@ -44237,8 +43986,6 @@ concubine
 	paramour 5
 swine-drunk
 	swine-drunk 1
-!reveald
-	!reveald 1
 robber
 	robbers 8
 	robber 2
@@ -44340,6 +44087,8 @@ threaden
 	threaden 1
 crystal-button
 	crystal-button 1
+glades
+	bowers 1
 exultation
 	exultation 3
 	rejoicing 4
@@ -44354,7 +44103,7 @@ model
 	mould 8
 	pose 1
 	simulation 1
-	sitting 18
+	sitting 19
 	pattern 12
 	posture 5
 	sit 214
@@ -44478,7 +44227,7 @@ play_along
 	follows 59
 	accompanied 7
 	following 29
-	follow 305
+	follow 306
 provided
 	provided 32
 prolific
@@ -44490,8 +44239,8 @@ enlistment
 	tours 3
 provides
 	provides 1
-provider
-	provider 2
+dividable
+	dividable 2
 compulsion
 	compulsion 40
 welcomd
@@ -44499,7 +44248,7 @@ welcomd
 true-betrothed
 	true-betrothed 1
 deoxythymidine_monophosphate
-	t 448
+	t 450
 	ts 2
 first-born
 	first-born 7
@@ -44514,7 +44263,7 @@ communicate
 breast-deep
 	breast-deep 2
 on
-	on 14910
+	on 14915
 subdued
 	subdued 6
 deathsman
@@ -44524,7 +44273,7 @@ oh
 zealous
 	zealous 5
 of
-	of 15990
+	of 15996
 paralysis
 	palsies 1
 	palsy 2
@@ -44552,7 +44301,7 @@ os
 	os 2
 	ossa 1
 or
-	or 2344
+	or 2351
 timorously
 	timorously 2
 amber
@@ -44657,8 +44406,6 @@ unjointed
 idiom
 	phrase 27
 	phrases 5
-,placd
-	,placd 1
 noblemen
 	noblemen 2
 wholesome-profitable
@@ -44671,23 +44418,15 @@ temple-haunting
 	temple-haunting 1
 new-sad
 	new-sad 1
-fetid
-	foulest 3
-	noisome 5
-	fouler 8
-	foul 212
-	stinking 10
+includes
+	includes 2
 courtly
 	statelier 1
 	courtly 14
 	stately 10
 	formal 10
-nautical_mile
-	miles 40
-	knots 8
-	mile 58
-	mi 10
-	knot 28
+bounded
+	bounded 6
 included
 	included 2
 spouse
@@ -44717,7 +44456,7 @@ invest
 	enthroned 1
 	putting 18
 	commit 40
-	put 488
+	put 489
 	places 38
 	clothed 1
 	invest 32
@@ -44731,8 +44470,6 @@ quiring
 	quiring 1
 phebe
 	phebe 17
-:my
-	:my 1
 paced
 	paced 1
 javem
@@ -44753,7 +44490,7 @@ seald
 	seald 26
 follow
 	following 290
-	follow 3355
+	follow 3366
 	followed 100
 	follows 590
 settlement
@@ -44795,6 +44532,7 @@ flowed
 	flowed 1
 belonging
 	belongings 1
+	proper 310
 	belonging 8
 woman
 	womans 162
@@ -44803,7 +44541,7 @@ woman
 	women 306
 worse
 	worser 32
-	worse 815
+	worse 820
 equivocal
 	ambiguous 1
 	equivocal 8
@@ -44823,15 +44561,15 @@ church-bench
 	church-bench 1
 induce
 	caused 3
-	have 5945
+	have 5951
 	rushing 6
 	causes 15
 	has 389
 	make 1639
-	had 1437
+	had 1438
 	rushes 10
 	hastening 1
-	got 121
+	got 122
 	induced 10
 	cause 337
 	haves 1
@@ -44847,7 +44585,7 @@ induce
 	making 72
 	hasten 7
 	makes 343
-	having 155
+	having 156
 cadaver
 	remains 37
 	corpse 11
@@ -45014,7 +44752,7 @@ deities
 sophisticate
 	sophisticated 3
 	doctors 9
-	doctor 67
+	doctor 68
 proscriptions
 	proscriptions 1
 sticking
@@ -45036,8 +44774,6 @@ snug
 snub
 	cut 170
 	cuts 13
-!let
-	!let 1
 ease_up
 	flag 7
 	flagging 1
@@ -45098,7 +44834,7 @@ water_system
 	waters 30
 coerce
 	forced 8
-	force 102
+	force 103
 	hales 2
 	pressures 1
 	haling 1
@@ -45230,7 +44966,7 @@ dross
 	dross 4
 might
 	powers 81
-	might 966
+	might 968
 	mights 1
 	power 330
 	mightiness 5
@@ -45333,7 +45069,7 @@ teach
 	instructed 6
 	thatch 2
 	instruct 26
-	taught 88
+	taught 90
 	instructs 5
 	learning 28
 	learn 87
@@ -45391,10 +45127,6 @@ swart
 	swart 3
 edginess
 	uneasiness 1
-,gilded
-	,gilded 1
-:delicate
-	:delicate 1
 exhortation
 	exhortation 3
 lobby
@@ -45416,7 +45148,7 @@ aureate
 	gilt 16
 	golden 87
 	gold 220
-	gilded 16
+	gilded 17
 imprinted
 	imprinted 1
 prejudicates
@@ -45438,7 +45170,7 @@ gennets
 instruction
 	commands 29
 	instruction 32
-	command 173
+	command 174
 	instructions 7
 gloster
 	gloster 1
@@ -45547,9 +45279,11 @@ deserts
 	deserts 36
 securing
 	securing 1
-camel
-	camels 1
-	camel 10
+heavily
+	hardest 1
+	hard 161
+	harder 10
+	heavily 70
 penalty
 	penalty 48
 	penalties 6
@@ -45651,15 +45385,16 @@ succeed
 	succeeds 6
 	follows 59
 	winning 4
-	won 92
+	won 93
 	win 117
 	following 29
-	follow 305
+	follow 306
 	succeeding 16
 conrade
 	conrade 4
 rarer
 	rarer 4
+erns
 license
 	license 6
 	permission 4
@@ -45698,8 +45433,8 @@ whelm
 	whelm 1
 suckers
 	suckers 1
-,would
-	,would 2
+uneath
+	uneath 1
 reasond
 	reasond 2
 bolster
@@ -45714,8 +45449,6 @@ dun
 	dun 28
 dibble
 	dibble 4
-deadly-standing
-	deadly-standing 1
 buzzard
 	buzzard 9
 	buzzards 2
@@ -45860,11 +45593,14 @@ lower
 flamen
 	flamens 1
 	flamen 2
+loose-bellied
+	swag-bellied 1
 anybody
 	anybody 2
 high-swoln
 	high-swoln 1
 hags
+	beldams 2
 	hags 4
 gawds
 	gawds 4
@@ -46042,6 +45778,8 @@ vagabond
 	vagabonds 1
 mantled
 	mantled 1
+whims
+	crochets 0
 misgovernment
 	misgovernment 2
 fast
@@ -46110,6 +45848,7 @@ verba
 warning
 	warning 42
 	warnings 4
+wafter
 lemon
 	lemon 5
 skillet
@@ -46210,8 +45949,8 @@ stony-stratford
 	stony-stratford 1
 bounding
 	bounding 2
-gins
-	gins 6
+ilias
+	ilias 1
 drinking
 	drinking 48
 	drinkings 1
@@ -46264,12 +46003,13 @@ cozy
 	snug 3
 	intimate 3
 desires
-	desires 77
+	desires 78
 desired
 	desired 8
 oars
 	oars 3
 separation
+	sequestration 12
 	separation 32
 copperspur
 	copperspur 1
@@ -46315,7 +46055,7 @@ fen
 rackets
 	rackets 1
 few
-	few 192
+	few 195
 	fewest 2
 	fewer 3
 depicted
@@ -46338,8 +46078,6 @@ sort
 	sorting 1
 parliament
 	parliament 40
-,doubtless
-	,doubtless 1
 musician
 	players 22
 	musician 30
@@ -46410,7 +46148,7 @@ villain
 portance
 	portance 2
 something
-	something 177
+	something 178
 seemers
 	seemers 1
 summers
@@ -46455,6 +46193,7 @@ counterfeits
 cupboard
 	closet 24
 masks
+	vizards 5
 	masks 5
 hilloa
 	hilloa 1
@@ -46625,11 +46364,9 @@ thrifts
 promptly
 	quick 100
 	readily 1
-	quickly 110
+	quickly 111
 streaming
 	streaming 3
-:doth
-	:doth 1
 gospel
 	gospels 5
 age-old
@@ -46637,7 +46374,7 @@ age-old
 overtake
 	catches 4
 	overtake 14
-	caught 30
+	caught 31
 	catching 8
 	catched 1
 	catch 64
@@ -46676,8 +46413,6 @@ unrivalld
 	unrivalld 1
 murdrous
 	murdrous 3
-;master
-	;master 1
 dumb-discoursive
 	dumb-discoursive 1
 concerneth
@@ -46743,8 +46478,8 @@ individual
 	private 69
 self-reproving
 	self-reproving 1
-,o
-	,o 26
+self-comparisons
+	self-comparisons 1
 gaged
 	gaged 1
 tertio
@@ -46883,6 +46618,7 @@ a-brewing
 homeliness
 	plainness 12
 spur
+	prick 120
 	goad 1
 	goads 1
 	spurs 128
@@ -46901,7 +46637,7 @@ ended
 misconstrual
 	misconstruction 1
 whether
-	whether 81
+	whether 82
 fitchew
 	fitchew 3
 qi
@@ -46924,10 +46660,8 @@ admonition
 	warning 14
 	admonition 6
 	warnings 2
-complainest
-	complainest 1
 information_technology
-	it 7741
+	it 7751
 	its 53
 barrels
 	barrels 2
@@ -46969,6 +46703,7 @@ red-lattice
 	red-lattice 1
 commands
 	commands 29
+	hests 2
 ventidius
 	ventidius 10
 norbery
@@ -46992,7 +46727,7 @@ subscribe
 	supported 1
 	took 157
 	subscribe 60
-	take 1210
+	take 1211
 	taken 91
 	support 12
 misapplied
@@ -47082,8 +46817,6 @@ abjects
 	abjects 1
 crost
 	crost 1
-.this
-	.this 1
 cross
 	traverse 4
 	crosses 63
@@ -47106,7 +46839,7 @@ duteous
 	duteous 10
 lashkar-e-taiba
 	lets 271
-	let 2097
+	let 2107
 full-chargd
 	full-chargd 1
 tullus
@@ -47137,12 +46870,12 @@ defacers
 	defacers 1
 dispropertied
 	dispropertied 1
-fighting
-	fighting 11
+perseus
+	perseus 9
 tithes
 	tithes 1
 perpetrate
-	pull 12
+	pull 13
 	committing 4
 	commits 3
 	pulls 3
@@ -47190,8 +46923,6 @@ despisal
 	despising 2
 nicks
 	nicks 1
-,meets
-	,meets 1
 flesh-monger
 	flesh-monger 1
 dwindle
@@ -47213,6 +46944,7 @@ interrogation
 	examinations 1
 	examination 5
 were
+	wast 91
 	were 1583
 presume
 	presumes 4
@@ -47247,8 +46979,9 @@ ragamuffins
 virginity
 	virginity 54
 	virginities 1
-,neer
-	,neer 1
+	maidenhead 11
+quillets
+	quillets 6
 growth
 	growing 26
 	growth 78
@@ -47333,12 +47066,12 @@ own
 	own 2229
 	havings 1
 	possessed 8
-	had 1437
+	had 1438
 	possesses 4
-	have 5945
+	have 5951
 	owns 2
 	has 389
-	having 155
+	having 156
 	owning 1
 	possess 29
 grim-visagd
@@ -47408,7 +47141,7 @@ incursions
 shoulder-blade
 	shoulder-blade 1
 deuce
-	two 563
+	two 564
 	twos 2
 scylla
 	scylla 2
@@ -47537,7 +47270,7 @@ foul
 	foulest 3
 	defiled 1
 four
-	four 387
+	four 390
 preface
 	preface 1
 ringlets
@@ -47594,6 +47327,7 @@ fur
 	fur 8
 stabbed
 	stabbed 5
+	yerked 0
 jack-an-apes
 	jack-an-apes 3
 ruinous
@@ -47612,7 +47346,7 @@ basics
 uttering
 	uttering 2
 come_out_of_the_closet
-	out 1350
+	out 1352
 solid
 	solid 64
 	stronger 37
@@ -47770,7 +47504,7 @@ pursue
 	pursuing 6
 	pursued 4
 	following 29
-	follow 305
+	follow 306
 	pursues 14
 pursud
 	pursud 13
@@ -47829,6 +47563,7 @@ featurd
 	featurd 1
 feature
 	lineaments 6
+	favour 128
 	lineament 2
 	feature 84
 	features 15
@@ -47871,16 +47606,12 @@ stretchd-out
 	stretchd-out 1
 nymphs
 	nymphs 7
-,god
-	,god 7
 unlawfully
 	unlawfully 6
 buzzd
 	buzzd 1
 unworthiness
 	unworthiness 8
-,handkerchief
-	,handkerchief 1
 wrought
 	wrought 38
 putter-out
@@ -48005,6 +47736,7 @@ silicon
 shipped
 	shipped 2
 speedy
+	festinate 1
 	speedy 19
 tempting
 	tempting 3
@@ -48131,8 +47863,8 @@ gripe
 	bitch 2
 	crab 11
 	kick 3
-,marry
-	,marry 1
+gripd
+	gripd 1
 recommended
 	recommended 1
 instructs
@@ -48197,7 +47929,7 @@ detriment
 came
 	came 346
 four-spot
-	four 129
+	four 130
 incorporate
 	incorporate 45
 	containing 6
@@ -48396,16 +48128,15 @@ surfeited
 	surfeited 4
 grazing
 	grazing 4
-,whereof
-	,whereof 1
 farnished
 	farnished 1
 parlez
 	parlez 1
 parley
+	parle 12
 	parley 69
 slay
-	slay 25
+	slay 26
 subside
 	settling 1
 	lessen 2
@@ -48454,7 +48185,7 @@ dote
 evasions
 	evasions 1
 doth
-	doth 863
+	doth 864
 promise-keeping
 	promise-keeping 1
 fiery-red
@@ -48486,8 +48217,8 @@ hybridization
 	cross 59
 bin
 	bin 8
-livest
-	livest 3
+cornish
+	cornish 8
 taunts
 	taunts 7
 anticipating
@@ -48542,8 +48273,6 @@ balminess
 	softness 1
 plume-pluckd
 	plume-pluckd 1
-coped
-	coped 1
 redeliver
 	redeliver 1
 capitol
@@ -48597,15 +48326,13 @@ quire
 	quire 6
 knock-down
 	powerful 19
-,since
-	,since 1
 summons
 	process 18
 	summons 27
 desire
 	desire 1302
 	wants 40
-	desires 385
+	desires 390
 	desired 16
 	want 137
 	wanting 21
@@ -48724,17 +48451,17 @@ scythes
 sol
 	sos 1
 	soles 9
-	so 4986
+	so 4996
 	sol 24
 daffd
 	daffd 1
 son
-	boy 346
+	boy 347
 	word 502
 	son 1842
 	boys 88
 	sons 334
-	words 415
+	words 416
 thankful
 	thankful 20
 sos
@@ -48772,7 +48499,7 @@ support
 	keeps 71
 	livelihood 2
 	supporting 4
-	keep 484
+	keep 485
 constantly
 	incessantly 1
 	always 124
@@ -49076,7 +48803,7 @@ melt
 	runs 36
 	run 188
 	ran 33
-	melt 116
+	melt 120
 	melts 6
 	running 20
 	melted 45
@@ -49130,8 +48857,6 @@ tasks
 	tasks 3
 twenty-five
 	twenty-five 3
-!hear
-	!hear 1
 skimble-skamble
 	skimble-skamble 1
 oer-rate
@@ -49139,7 +48864,7 @@ oer-rate
 taskd
 	taskd 3
 fake
-	false 269
+	false 270
 	imitation 4
 	falser 2
 flagging
@@ -49162,6 +48887,8 @@ angry
 	wildest 4
 	tempestuous 2
 	wild 85
+	enchafed 1
+	out 17576
 wicket
 	lattice 2
 	hoop 6
@@ -49235,8 +48962,6 @@ detached
 	separated 8
 	freer 5
 	free 182
-,my
-	,my 7
 providently
 	providently 2
 envys
@@ -49286,7 +49011,7 @@ natural
 	ruder 2
 	rudest 1
 	cancels 1
-	born 170
+	born 171
 	rawer 1
 	cancel 6
 ghostwriter
@@ -49299,9 +49024,9 @@ si
 ?muffle
 	?muffle 1
 so
-	so 34902
+	so 34972
 hoo
-	hoo 6
+	hoo 7
 sa
 	sa 12
 misplaced
@@ -49428,8 +49153,6 @@ carcases
 amnesty
 	pardons 7
 	pardon 302
-;it
-	;it 1
 honestys
 	honestys 1
 duchies
@@ -49494,6 +49217,8 @@ siege
 	sieges 1
 disrespect
 	discourtesy 1
+bumps
+	jowls 1
 mime
 	mummers 1
 matchless
@@ -49503,8 +49228,6 @@ matchless
 	matchless 4
 	one 1736
 	nonpareil 4
-girdles
-	girdles 2
 pennywhistle
 	whistles 2
 	whistle 10
@@ -49512,6 +49235,7 @@ patronage
 	patronage 6
 shores
 	shores 24
+	stronds 1
 backside
 	backside 1
 wanderers
@@ -49579,7 +49303,7 @@ bite
 	burning 42
 	burnt 16
 	stung 5
-	burn 76
+	burn 77
 	stinging 3
 	sting 25
 	stings 10
@@ -49634,7 +49358,7 @@ antic
 scourgd
 	scourgd 1
 depressed
-	down 604
+	down 606
 yelping
 	yelping 2
 stammer
@@ -49694,9 +49418,8 @@ alley
 necrose
 	mortified 5
 	mortifying 2
-cupboarding
-	cupboarding 1
 buried
+	inurn'd 0
 	interred 2
 	buried 112
 waterdrops
@@ -49748,7 +49471,7 @@ lawn
 	lawn 4
 	lawns 1
 average
-	fair 728
+	fair 729
 	meaner 14
 	fairest 40
 	ordinary 12
@@ -49762,7 +49485,7 @@ drive
 	drove 152
 	takes 81
 	driving 60
-	take 1210
+	take 1211
 	taken 91
 	riding 7
 	gets 13
@@ -49771,7 +49494,7 @@ drive
 	took 157
 	drives 348
 	driven 285
-	got 121
+	got 122
 	thrust 53
 	aiming 3
 	ridden 2
@@ -49829,14 +49552,10 @@ scarce
 parsimony
 	thrifts 1
 	thrift 12
-,warm
-	,warm 1
 lawfully
 	lawfully 3
 palfreys
 	palfreys 2
-!remain
-	!remain 1
 liberation
 	release 7
 maid-child
@@ -49857,7 +49576,7 @@ assistant
 	helps 15
 	assistants 2
 	supporter 2
-	help 314
+	help 315
 freezing
 	freezing 1
 clang
@@ -50215,8 +49934,6 @@ booster
 	lifter 1
 thatchd
 	thatchd 3
-.brother
-	.brother 1
 clobber
 	batters 3
 	basted 1
@@ -50260,18 +49977,12 @@ hangeth
 	hangeth 2
 joint-labourer
 	joint-labourer 1
-.doctor
-	.doctor 1
-!give
-	!give 1
 vagram
 	vagram 1
 starving
 	starving 1
 aspects
 	aspects 4
-;for
-	;for 2
 crusts
 	crusts 1
 dart
@@ -50364,7 +50075,7 @@ corrosive
 	corrosive 3
 nobelium
 	noes 1
-	no 3773
+	no 3776
 tainting
 	tainting 3
 dimples
@@ -50443,7 +50154,7 @@ hep
 	hip 8
 	hep 2
 her
-	her 3802
+	her 3803
 hes
 	hes 307
 hex
@@ -50550,6 +50261,7 @@ angelica
 athirst
 	hungry 22
 	thirsty 7
+inurn'd
 sanguine
 	sanguine 12
 ill-favouredly
@@ -50563,8 +50275,6 @@ incomprehensible
 military_service
 	services 33
 	service 219
-,take
-	,take 1
 shop_steward
 	steward 20
 terre
@@ -50580,7 +50290,7 @@ run_low
 	gone 465
 	going 96
 	goes 167
-	go 1736
+	go 1739
 	went 100
 well-spoken
 	well-spoken 6
@@ -50605,12 +50315,10 @@ adam
 	ecstasy 13
 	adam 88
 	goes 167
-	go 1736
+	go 1739
 	ecstasies 1
 peach-coloured
 	peach-coloured 1
-;that
-	;that 1
 debris
 	dust 59
 suspected
@@ -50628,7 +50336,7 @@ tr
 ts
 	ts 2
 to
-	to 18535
+	to 18556
 tail
 	shadows 28
 	shadow 68
@@ -50641,7 +50349,7 @@ th
 ti
 	si 3
 	te 9
-	tis 2828
+	tis 2838
 te
 	te 9
 well-deserving
@@ -50729,8 +50437,6 @@ honourable
 	honourable 124
 crests
 	crests 3
-,was
-	,was 2
 protractive
 	protractive 1
 florentius
@@ -50762,6 +50468,8 @@ home-bred
 behoove
 	behoves 4
 	behove 2
+provider
+	provider 2
 instrumental
 	instrumental 2
 travails
@@ -50785,7 +50493,7 @@ calefacient
 condoling
 	condoling 1
 beheld
-	beheld 29
+	beheld 30
 pulls
 	pulls 3
 proditor
@@ -50972,8 +50680,6 @@ worldly_concern
 	worlds 48
 	earths 13
 	world 608
-,alas
-	,alas 3
 distortion
 	tortures 4
 	straining 4
@@ -51249,7 +50955,7 @@ substance_abuse
 	habits 11
 	habit 33
 warmly
-	warm 42
+	warm 43
 satirical
 	satirical 2
 chomp
@@ -51286,8 +50992,6 @@ arrant
 	everlasting 21
 	purest 5
 	staring 5
-,for
-	,for 29
 damselfish
 	demoiselle 1
 	demoiselles 1
@@ -51356,12 +51060,8 @@ monastery
 	monastery 8
 wedded
 	wedded 19
-;four
-	;four 1
 darts
 	darts 14
-!burn
-	!burn 1
 white-beards
 	white-beards 1
 torus
@@ -51381,11 +51081,11 @@ gold
 	golden 87
 	au 2
 	gold 1320
-	gilded 16
+	gilded 17
 vaded
 	vaded 1
 cursorily
-	quickly 110
+	quickly 111
 degraded
 	degraded 2
 lestrale
@@ -51578,7 +51278,7 @@ cryptic
 	deep 129
 	deeper 12
 thou
-	thou 5350
+	thou 5357
 thon
 	thon 3
 shanks
@@ -51705,7 +51405,7 @@ bestrew
 alert
 	watchful 11
 	brisk 4
-	alive 89
+	alive 90
 	merrier 7
 	awake 80
 	lively 10
@@ -51741,6 +51441,8 @@ moult
 	moult 1
 aroint
 	aroint 3
+discourteously
+	ungently 3
 cabins
 	cabins 1
 bright-burning
@@ -51775,8 +51477,6 @@ courtney
 wrongdoer
 	offenders 14
 	offender 11
-;how
-	;how 2
 herculean
 	herculean 3
 	powerful 19
@@ -51816,7 +51516,7 @@ formal
 sorting
 	sorting 2
 d
-	d 14
+	d 16
 extravagance
 	prodigality 2
 	extravagancy 1
@@ -51837,7 +51537,7 @@ continue
 	proceeded 26
 	continues 18
 	continuing 6
-	keep 484
+	keep 485
 	upholding 1
 	proceedings 30
 	continue 224
@@ -51912,8 +51612,6 @@ gruel
 	gruel 2
 still-born
 	still-born 1
-,bid
-	,bid 1
 sermon
 	discourses 4
 	discourse 59
@@ -52131,7 +51829,7 @@ fresh
 	impertinent 2
 	overbold 1
 	sweeter 30
-	fresh 858
+	fresh 869
 	impudent 9
 	new 180
 	freshest 30
@@ -52140,7 +51838,7 @@ hand_over
 	delivered 26
 	rendered 3
 	render 39
-	deliver 101
+	deliver 102
 	delivering 4
 	rendering 2
 	renders 4
@@ -52151,7 +51849,7 @@ menace
 	threats 15
 	threat 9
 having
-	having 155
+	having 156
 world_wide_web
 	web 10
 melts
@@ -52203,7 +51901,7 @@ yound
 englished
 	englished 1
 stamp_out
-	kill 194
+	kill 195
 	killed 35
 	kills 20
 	killing 22
@@ -52228,7 +51926,7 @@ wipd
 wipe
 	wiped 2
 	wiping 1
-	wipe 48
+	wipe 50
 	wipes 1
 sovereignst
 	sovereignst 1
@@ -52380,9 +52078,7 @@ blazoning
 	blazoning 2
 bazaar
 	fairs 5
-	fair 728
-oer-cloyed
-	oer-cloyed 1
+	fair 729
 feelingly
 	feelingly 10
 forefathers
@@ -52402,6 +52098,7 @@ bodily
 	bodily 20
 foolishly
 	foolishly 10
+	brainsickly 1
 	unwisely 1
 garboils
 	garboils 2
@@ -52412,8 +52109,6 @@ rubbish
 honkytonk
 	dive 7
 	dives 3
-!if
-	!if 2
 devant
 	devant 2
 challenge
@@ -52543,7 +52238,7 @@ move
 	going 192
 	moving 150
 	goes 334
-	go 3472
+	go 3478
 	went 200
 	moves 299
 confirmers
@@ -52615,12 +52310,10 @@ display_panel
 	boards 1
 truth
 	verities 1
+	sooth 94
 	truths 52
 	truth 1545
 	verity 10
-flood_tide
-	flood 46
-	floods 11
 parleyd
 	parleyd 1
 footmen
@@ -52637,6 +52330,8 @@ irritation
 	annoyance 5
 	vexation 10
 	vexations 2
+jagged
+	guttered 0
 tenth
 	tenth 27
 	tenths 1
@@ -52710,8 +52405,6 @@ dwelling-place
 	dwelling-place 1
 yelld
 	yelld 1
-,whom
-	,whom 4
 opportune
 	opportune 4
 deceptive
@@ -52796,7 +52489,7 @@ hammer
 	cock 26
 	hammers 21
 	hammer 32
-	cocks 4
+	cocks 5
 	hammering 6
 dubbd
 	dubbd 3
@@ -52807,7 +52500,7 @@ mills
 chief
 	chief 72
 	main 46
-	master 774
+	master 775
 	chiefest 15
 	principal 10
 lilt
@@ -52882,7 +52575,7 @@ bring
 	played 14
 	wreaks 1
 	brought 1576
-	bring 4059
+	bring 4068
 	fetches 4
 	convey 72
 	wrought 38
@@ -52891,9 +52584,9 @@ bring
 	working 23
 	fetching 1
 	wreak 4
-	take 1210
+	take 1211
 	taken 91
-	got 121
+	got 122
 	gets 13
 	conveying 2
 	play 292
@@ -52945,7 +52638,7 @@ lethargies
 scurrilous
 	scurrilous 1
 should
-	should 1551
+	should 1554
 buttons
 	buttons 2
 printless
@@ -52965,6 +52658,7 @@ handle
 	palms 2
 	holds 76
 	handles 3
+	dudgeon 2
 	palm 25
 	handless 6
 	hold 451
@@ -52984,8 +52678,6 @@ flagellate
 impeachment
 	impeachments 1
 	impeachment 4
-,her
-	,her 1
 shaping
 	shaping 2
 smash
@@ -53063,8 +52755,6 @@ chantries
 pistol
 	pistols 4
 	pistol 80
-!why
-	!why 3
 ends
 	ends 48
 unmusical
@@ -53075,18 +52765,18 @@ butts
 	butts 4
 strides
 	strides 3
-!who
-	!who 1
 configuration
 	constellation 1
 rampird
 	rampird 1
 stalking-horse
 	stalking-horse 4
+bloodhound
+	lym 1
 baubles
 	baubles 1
 coragio
-	coragio 2
+	coragio 3
 doteth
 	doteth 1
 seigneurs
@@ -53131,7 +52821,7 @@ vivant
 	vivant 1
 louisiana
 	las 1
-	la 58
+	la 59
 mestime
 	mestime 1
 chastised
@@ -53225,7 +52915,7 @@ outbreak
 	eruption 1
 	eruptions 3
 drink
-	drunk 198
+	drunk 201
 	drink 1078
 	drinkings 4
 	drank 6
@@ -53242,8 +52932,8 @@ infinite
 	infinite 148
 pleasantly
 	pleasantly 3
-harnessd
-	harnessd 2
+dat
+	dat 25
 fascinate
 	griping 1
 	gripes 3
@@ -53279,7 +52969,7 @@ de-escalate
 flesh
 	fleshed 1
 	fleshes 2
-	flesh 405
+	flesh 408
 potpan
 	potpan 2
 oerwhelmed
@@ -53341,11 +53031,9 @@ supervise
 password
 	watchword 1
 	word 502
-	words 415
+	words 416
 earthen
 	earthen 2
-,armigero
-	,armigero 1
 chairs
 	chairs 5
 prawls
@@ -53521,7 +53209,7 @@ contribute
 	led 60
 	conduce 2
 	lead 144
-	give 1341
+	give 1346
 	giving 38
 	leading 7
 	leads 31
@@ -53544,12 +53232,12 @@ vitamin_c
 	cs 2
 	c 435
 vitamin_a
-	a 13818
-	as 5608
+	a 13836
+	as 5654
 overwhelmd
 	overwhelmd 2
 vitamin_d
-	d 7
+	d 8
 vitamin_e
 	e 7
 	es 1
@@ -53614,12 +53302,8 @@ mansion
 	hall 15
 blisterd
 	blisterd 3
-!any
-	!any 1
 pedro
 	pedro 6
-,without
-	,without 1
 speeded
 	speeded 2
 spet
@@ -53734,8 +53418,8 @@ espied
 	espied 2
 galen
 	galen 10
-,jove
-	,jove 1
+onion-eyd
+	onion-eyd 1
 revolutionize
 	inspired 4
 	inspire 2
@@ -53817,10 +53501,10 @@ total
 	tot 66
 	add 44
 	numbering 2
-	comes 601
+	comes 602
 	coming 144
 	total 8
-	come 2559
+	come 2564
 	came 346
 	numbers 38
 alligator
@@ -53875,6 +53559,8 @@ award
 	honours 108
 	present 243
 	grantess 1
+aware
+	acknown 1
 trojans
 	trojans 10
 indent
@@ -53938,7 +53624,7 @@ fever
 earlier
 	earliest 3
 	earlier 6
-	before 705
+	before 706
 wrinkled
 	wrinkled 24
 prevailing_westerly
@@ -53961,6 +53647,7 @@ hasty
 	hasty 57
 	headlong 6
 sorrowful
+	tristful 2
 	sorrowful 10
 retort
 	return 200
@@ -53983,7 +53670,7 @@ haste
 	precipitation 2
 	rushing 6
 doctor_of_optometry
-	ods 7
+	ods 8
 short-legged
 	short-legged 1
 modesty
@@ -54015,8 +53702,6 @@ rash-embracd
 	rash-embracd 1
 nets
 	nets 3
-,show
-	,show 1
 befallen
 	befallen 3
 tofore
@@ -54129,6 +53814,7 @@ oerlook
 self-unable
 	self-unable 1
 whining
+	puling 4
 	whining 4
 disloyalty
 	disloyalty 4
@@ -54223,8 +53909,6 @@ hazelnut
 	hazel 2
 warders
 	warders 2
-,will
-	,will 4
 meads
 	meads 5
 buzzers
@@ -54233,13 +53917,11 @@ lulld
 	lulld 2
 seated
 	seated 22
-	sitting 18
+	sitting 19
 minus
 	negative 1
 stalld
 	stalld 1
-!hoo
-	!hoo 1
 navigate
 	pilots 4
 	pilot 7
@@ -54252,12 +53934,8 @@ opposeless
 	opposeless 1
 stalls
 	stalls 4
-!how
-	!how 1
 high-minded
 	high-minded 1
-,nor
-	,nor 1
 quieter
 	quieter 1
 realm
@@ -54316,8 +53994,6 @@ echoes
 basilisk
 	basilisk 16
 	basilisks 12
-,few
-	,few 1
 justeius
 	justeius 1
 pitiful-hearted
@@ -54424,7 +54100,7 @@ scoffing
 unable
 	unable 18
 we
-	we 3386
+	we 3391
 terms
 	terms 74
 scuse
@@ -54432,19 +54108,19 @@ scuse
 wo
 	wo 1
 wi
-	wi 16
+	wi 17
 embody
-	be 6851
+	be 6852
 	embodied 2
-	being 640
-	is 9144
+	being 642
+	is 9152
 	am 2160
 	been 720
 	bees 9
-	are 3415
+	are 3416
 	were 1583
 	bess 1
-	was 2244
+	was 2247
 termd
 	termd 4
 plenties
@@ -54570,7 +54246,7 @@ aim
 	targets 4
 	takes 81
 	purposing 1
-	take 1210
+	take 1211
 	taken 91
 	propose 10
 	object 38
@@ -54597,7 +54273,7 @@ harmd
 applies
 	applies 1
 aid
-	help 628
+	help 630
 	assistance 26
 	assist 21
 	helps 30
@@ -54621,8 +54297,6 @@ howeer
 	howeer 13
 aqua-vit
 	aqua-vit 5
-,certain
-	,certain 1
 psalmist
 	psalmist 2
 ?villain
@@ -54641,14 +54315,14 @@ uplift
 	uplift 8
 	uplifted 8
 perform
-	do 3790
+	do 3797
 	execute 22
 	perform 176
 	executing 2
 	doing 70
 	performing 3
 	executed 19
-	did 1621
+	did 1623
 	doings 5
 	does 333
 	done 672
@@ -54730,8 +54404,6 @@ boxes
 	boxes 2
 bastards
 	bastards 18
-!weapons
-	!weapons 2
 heart-sick
 	heart-sick 2
 menton
@@ -54774,14 +54446,10 @@ denies
 	denies 12
 denier
 	denier 12
-,keep
-	,keep 1
 morn-dew
 	morn-dew 1
 bussing
 	bussing 1
-,gan
-	,gan 1
 denied
 	denied 56
 paritors
@@ -54878,7 +54546,7 @@ digestion
 	digestions 6
 float
 	swim 12
-	blow 93
+	blow 94
 	blew 4
 	blowing 7
 	blown 36
@@ -54934,8 +54602,8 @@ people
 	peopled 10
 	peoples 88
 	people 955
-,luce
-	,luce 1
+bibble-babble
+	bibble-babble 1
 comings-in
 	comings-in 1
 olfactory_property
@@ -54953,7 +54621,7 @@ way
 	path 10
 wax
 	climbed 1
-	full 413
+	full 414
 	risen 4
 	rose 55
 	mount 34
@@ -54972,7 +54640,7 @@ wax
 herdsmen
 	herdsmen 2
 was
-	was 2244
+	was 2247
 war
 	wares 4
 	warring 1
@@ -55075,7 +54743,7 @@ bus_topology
 welcome
 	received 25
 	receive 96
-	welcome 2604
+	welcome 2611
 	welcomed 3
 	receives 10
 	welcomest 1
@@ -55213,7 +54881,7 @@ scarcity
 	scarcity 6
 helpless
 	helpless 12
-	lost 257
+	lost 258
 perusing
 	perusing 1
 junius
@@ -55257,7 +54925,7 @@ curse
 	oaths 65
 	beshrew 31
 appear
-	appear 875
+	appear 882
 	appearing 42
 	seeming 51
 	appeared 54
@@ -55350,7 +55018,7 @@ prove
 	shown 31
 	proved 45
 	showed 8
-	show 400
+	show 401
 	showing 11
 	prove 1470
 	shew 1
@@ -55443,7 +55111,7 @@ heart
 	pumps 2
 	nerves 6
 	hearts 1477
-	spirit 243
+	spirit 244
 shame-facd
 	shame-facd 1
 hears
@@ -55453,7 +55121,7 @@ attribute
 	attribute 10
 topic
 	matters 26
-	matter 354
+	matter 355
 	subjects 67
 	issue 109
 	issues 10
@@ -55519,10 +55187,6 @@ wainscot
 	wainscot 3
 indifferently
 	indifferently 10
-,d
-	,d 1
-,a
-	,a 12
 priestly
 	priestly 3
 worthily
@@ -55531,8 +55195,6 @@ trumpets
 	trumpets 38
 setebos
 	setebos 2
-,i
-	,i 46
 embossd
 	embossd 2
 bond-slave
@@ -55571,7 +55233,7 @@ forms
 gaging
 	gaging 1
 south_korean_won
-	won 92
+	won 93
 warpd
 	warpd 2
 rakd
@@ -55764,7 +55426,7 @@ directly
 	flat 24
 	straight 302
 	direct 35
-	directly 116
+	directly 120
 message
 	substance 38
 	substances 2
@@ -55913,7 +55575,7 @@ rationale
 successive
 	successive 4
 ]
-	] 1
+	] 17
 shrilly
 	shrilly 4
 forever
@@ -55976,6 +55638,7 @@ stained
 	stained 15
 saints
 	saints 14
+	sonties 1
 jolt
 	jars 16
 	shock 6
@@ -56007,7 +55670,7 @@ loath
 	loath 60
 	loth 1
 cannot
-	cannot 764
+	cannot 765
 ninus
 	ninus 2
 pursed
@@ -56026,8 +55689,8 @@ effectual
 	effectual 4
 losers
 	losers 4
-,you
-	,you 6
+girdles
+	girdles 2
 crotchets
 	crotchets 4
 argosies
@@ -56117,8 +55780,6 @@ blame
 	charged 6
 blamd
 	blamd 2
-,where
-	,where 1
 profitless
 	profitless 4
 arraigning
@@ -56162,6 +55823,7 @@ slumberous
 	slumbery 1
 impeccant
 	innocent 53
+pudder
 proved
 	proved 18
 dearly-won
@@ -56191,8 +55853,6 @@ right-noble
 	right-noble 1
 rubs
 	rubs 5
-,bravely
-	,bravely 1
 guildfords
 	guildfords 1
 ruby
@@ -56203,7 +55863,7 @@ argent
 sophy
 	sophy 3
 these
-	these 1320
+	these 1322
 wealthiest
 	wealthiest 1
 explication
@@ -56252,7 +55912,7 @@ face_lift
 	lift 25
 	lifts 3
 delusive
-	false 269
+	false 270
 	falser 2
 figuring
 	figuring 2
@@ -56294,8 +55954,6 @@ enchanting
 	enchanting 6
 contrarious
 	contrarious 4
-dotted
-	flecked 1
 bondage
 	thralls 1
 	thrall 3
@@ -56325,8 +55983,6 @@ noah
 fester
 	festering 1
 	fester 6
-:heaven
-	:heaven 1
 deciphers
 	deciphers 1
 skulking
@@ -56412,7 +56068,7 @@ oblivion
 	oblivion 28
 	limbo 4
 t
-	t 896
+	t 900
 	ts 2
 winnowd
 	winnowd 3
@@ -56506,8 +56162,9 @@ fast-falling
 	fast-falling 1
 eftest
 	eftest 1
-!help
-	!help 1
+flood_tide
+	flood 46
+	floods 11
 lob
 	lob 8
 loa
@@ -56682,10 +56339,6 @@ church_service
 	church 62
 thisbys
 	thisbys 7
-,softly
-	,softly 1
-!and
-	!and 1
 foreshow
 	foreshow 2
 rothers
@@ -56828,8 +56481,6 @@ courtier
 	courtiers 17
 virgins
 	virgins 11
-.wife
-	.wife 1
 aimed
 	aimed 1
 toys
@@ -56880,13 +56531,12 @@ excuse
 	excusing 5
 	pardons 7
 	exempt 9
+	colour 76
 	relieves 1
 new-begot
 	new-begot 1
 mounted
 	mounted 39
-,neighbour
-	,neighbour 1
 legitimation
 	legitimation 2
 gauche
@@ -57014,7 +56664,7 @@ help
 	aided 2
 	helped 15
 	assisting 1
-	help 1884
+	help 1890
 	assisted 3
 	assist 21
 	helping 30
@@ -57028,6 +56678,7 @@ urine
 	urine 6
 	piss 1
 soon
+	lief 21
 	shortly 46
 	soon 288
 	presently 144
@@ -57080,7 +56731,7 @@ vomit
 	chuck 7
 	cat 36
 	purge 20
-	cast 103
+	cast 104
 	cats 7
 	vomit 16
 	cates 5
@@ -57192,8 +56843,6 @@ sharpst
 	sharpst 1
 worthys
 	worthys 1
-:fresh
-	:fresh 1
 ciphers
 	ciphers 1
 harfleur
@@ -57510,8 +57159,6 @@ constellation
 bifurcate
 	forked 7
 	branched 1
-.[exit
-	.[exit 1
 conditiond
 	conditiond 1
 potently
@@ -57571,8 +57218,6 @@ garrison
 	garrison 5
 	forts 2
 	fort 51
-contemplate
-	contemplate 3
 secrets
 	secrets 25
 inwards
@@ -57598,14 +57243,13 @@ puritan
 	puritan 21
 hewn
 	hewn 4
-!kill
-	!kill 1
 hews
 	hews 1
 vessel
 	vessel 144
 	vessels 18
 unrestrained
+	unhoused 2
 	unrestrained 2
 daring-hardy
 	daring-hardy 1
@@ -57654,8 +57298,9 @@ sea-boy
 	sea-boy 1
 aussi
 	aussi 2
-black-a-moor
-	black-a-moor 1
+citizen
+	citizens 37
+	citizen 10
 disruptive
 	tumultuous 4
 	troubled 31
@@ -57679,7 +57324,7 @@ loom
 soiled
 	soiled 1
 look
-	appear 125
+	appear 126
 	appearing 7
 	seeming 51
 	seemed 7
@@ -57690,7 +57335,7 @@ look
 	seem 173
 	looking 168
 	appears 51
-	look 6584
+	look 6592
 rope
 	rope 30
 	ropes 14
@@ -57836,7 +57481,7 @@ revelld
 overflowd
 	overflowd 1
 cocks
-	cocks 4
+	cocks 5
 bloods
 	bloods 18
 retirement
@@ -57887,8 +57532,6 @@ sylla
 	sylla 1
 lingerd
 	lingerd 1
-,false
-	,false 1
 dizzily
 	giddily 2
 saturdays
@@ -58023,14 +57666,12 @@ adeptness
 	facility 3
 worshipper
 	worshipper 1
-."
-	." 3
 infusing
 	infusing 1
 mulieres
 	mulieres 1
-,may
-	,may 1
+worshipped
+	worshipped 2
 chapel_service
 	chapels 1
 	chapel 9
@@ -58059,8 +57700,9 @@ properly
 	right 337
 well-famd
 	well-famd 1
-.]
-	.] 16
+segregation
+	segregation 4
+	sequestration 3
 fishy
 	shady 2
 	suspicious 5
@@ -58085,8 +57727,8 @@ dull
 	duller 50
 enscheduld
 	enscheduld 1
-.i
-	.i 5
+bevel
+	cant 2
 helicon
 	helicons 1
 hop_on
@@ -58097,10 +57739,6 @@ hop_on
 	mounts 6
 	bestride 9
 	mounted 13
-.o
-	.o 4
-.a
-	.a 2
 mistakest
 	mistakest 1
 accustomed
@@ -58145,8 +57783,8 @@ sullen
 falstaffs
 	falstaffs 10
 angstrom
-	a 13818
-	as 5608
+	a 13836
+	as 5654
 encounterers
 	encounterers 1
 jesting
@@ -58342,7 +57980,7 @@ quell
 	staying 11
 	appease 4
 	stayed 5
-	stay 415
+	stay 416
 	quell 12
 	stays 36
 sennights
@@ -58375,7 +58013,7 @@ felled
 	felled 1
 win
 	win 351
-	won 92
+	won 93
 	winning 4
 	wins 18
 hospitable
@@ -58555,8 +58193,6 @@ ashcan_school
 	eight 35
 attorneyed
 	attorneyed 1
-!whose
-	!whose 1
 whilst
 	whilst 102
 affectations
@@ -58681,7 +58317,7 @@ counterpart
 	twins 4
 intoxicated
 	drunkest 2
-	drunk 132
+	drunk 134
 shred
 	tittles 1
 	whit 18
@@ -58750,8 +58386,6 @@ gestion
 	gestion 1
 serfdom
 	vassalage 1
-!a
-	!a 4
 portrait
 	portrait 2
 stumbling-blocks
@@ -58767,10 +58401,8 @@ arrogate
 	assigns 2
 ephemeral
 	passing 32
-bur
-	burrs 9
-	burs 3
-	burr 6
+plaguy
+	plaguy 1
 issuing
 	issuing 4
 detector
@@ -58789,8 +58421,6 @@ taints
 	taints 5
 moths
 	moths 1
-!o
-	!o 2
 high-reaching
 	high-reaching 1
 mothy
@@ -58827,6 +58457,7 @@ lewd-tongud
 	lewd-tongud 1
 unsettle
 	unsettle 1
+	unprovide 1
 violation
 	violation 8
 couldst
@@ -58849,7 +58480,7 @@ passd
 sarum
 	sarum 1
 sit_down
-	sitting 18
+	sitting 19
 	sit 214
 	sits 50
 	sat 29
@@ -58914,12 +58545,13 @@ endless
 	endless 28
 gray
 	gray 14
+	grizzled 4
 	grey 39
 	grays 6
 sowing
 	sowing 1
 gust
-	blow 93
+	blow 94
 	gust 10
 	blasts 8
 	gusts 6
@@ -58929,6 +58561,7 @@ watershed
 	divide 25
 	divides 3
 nutmeg
+	nutmegs 2
 	nutmeg 6
 pictured
 	pictured 1
@@ -59004,7 +58637,7 @@ comparable
 	liker 2
 	likest 4
 	corresponding 1
-	like 1715
+	like 1716
 welkin
 	welkin 12
 in-a-door
@@ -59017,13 +58650,13 @@ derive
 	gains 7
 	derived 8
 	descends 1
-	comes 601
+	comes 602
 	descended 12
 	gain 57
 	coming 144
 	descending 2
 	derives 20
-	come 2559
+	come 2564
 	came 346
 	descend 21
 yawning
@@ -59073,6 +58706,7 @@ nominating_speech
 	nomination 3
 invisible
 	invisible 46
+	eyeless 18
 kings
 	kings 265
 reeling-ripe
@@ -59179,7 +58813,7 @@ capture
 	enamoured 2
 	entrances 1
 	trance 1
-	caught 60
+	caught 62
 	entrance 20
 	charms 23
 	captivated 1
@@ -59235,7 +58869,7 @@ fierce
 	vehement 5
 frequently
 	oftentimes 7
-	often 115
+	often 116
 	oft 140
 spree
 	fling 6
@@ -59255,10 +58889,10 @@ spavin
 	spavin 2
 well
 	easily 30
-	good 2816
+	good 2817
 	swelling 18
 	swell 17
-	well 55088
+	well 55352
 	wells 12
 	better 8775
 	swells 10
@@ -59295,8 +58929,8 @@ blood-bolterd
 pense
 	pense 6
 deoxyadenosine_monophosphate
-	a 13818
-	as 5608
+	a 13836
+	as 5654
 insinuating
 	insinuating 4
 mistaken
@@ -59341,8 +58975,8 @@ machine_politician
 immediately
 	forthwith 22
 	immediately 80
-	now 2794
-	directly 29
+	now 2798
+	directly 30
 	instantly 25
 cowslips
 	cowslips 4
@@ -59463,13 +59097,13 @@ tongue
 	tongue 3120
 	knife 45
 equally
-	as 5608
+	as 5654
 	equally 16
 attaint
 	attaint 10
 	attainted 2
 washington
-	was 2244
+	was 2247
 attains
 	attains 1
 articulate
@@ -59649,7 +59283,7 @@ new-falln
 legacies
 	legacies 1
 whose
-	whose 599
+	whose 603
 gamut
 	gamut 15
 calculate
@@ -59850,6 +59484,8 @@ leakd
 	leakd 1
 watering
 	watering 2
+quibbles
+	quilets 0
 insculpture
 	insculpture 1
 majestys
@@ -59885,7 +59521,7 @@ lunge
 	hurling 1
 warm
 	warmed 2
-	warm 378
+	warm 387
 	warmer 12
 	warms 6
 	warming 2
@@ -60070,8 +59706,8 @@ persist
 	persists 1
 	persisted 1
 	stayed 5
-	stay 415
-	remain 59
+	stay 416
+	remain 60
 	stays 36
 	remaining 5
 reechy
@@ -60116,7 +59752,7 @@ roast
 	roasted 8
 operating_room
 	surgery 5
-	or 2344
+	or 2351
 mounts
 	mounts 6
 bona
@@ -60161,7 +59797,7 @@ nave
 all-abhorred
 	all-abhorred 1
 marital
-	married 142
+	married 143
 milan
 	milans 1
 	milan 54
@@ -60308,8 +59944,8 @@ solemnly
 	solemnly 12
 perspicacious
 	sapient 1
-,by
-	,by 3
+complainest
+	complainest 1
 bouncing
 	spirited 1
 	bouncing 3
@@ -60412,7 +60048,7 @@ mind
 	intellect 4
 mine
 	mining 2
-	mine 5655
+	mine 5660
 	mines 56
 minx
 	minx 2
@@ -60435,7 +60071,7 @@ sounding
 	sounding 15
 seek
 	sought 102
-	seek 1140
+	seek 1145
 	seeks 100
 	seeking 63
 travel_by
@@ -60486,7 +60122,7 @@ alarm
 warwicks
 	warwicks 13
 m
-	m 12
+	m 14
 dog
 	dog 426
 	dogs 94
@@ -60695,7 +60331,7 @@ loaden
 arsenic
 	ass 88
 	ases 1
-	as 5608
+	as 5654
 	ratsbane 3
 stares
 	stares 2
@@ -60754,8 +60390,6 @@ widst
 	widst 1
 sanctum
 	sancta 1
-tastes
-	tastes 4
 dunnest
 	dunnest 1
 suffrages
@@ -60778,8 +60412,6 @@ defeated
 	thwarted 4
 	defeated 12
 	foiled 1
-.you
-	.you 1
 mouse
 	moused 1
 	mice 12
@@ -60800,10 +60432,10 @@ make
 	puddled 2
 	created 15
 	does 333
-	got 121
+	got 122
 	gets 13
 	piss 1
-	do 3790
+	do 3797
 	creating 4
 	get 312
 	makings 30
@@ -60812,7 +60444,7 @@ make
 	workings 2
 	made 24570
 	getting 11
-	did 1621
+	did 1623
 	gotten 5
 	pretend 6
 	creates 1
@@ -60962,7 +60594,7 @@ character
 	reference 5
 	character 144
 	parts 104
-	part 434
+	part 435
 	characters 80
 	cases 11
 	type 2
@@ -61059,7 +60691,7 @@ forgetst
 seance
 	sessions 2
 	session 7
-	sitting 18
+	sitting 19
 permanent_wave
 	permanent 1
 conceal
@@ -61092,6 +60724,7 @@ snare
 	snares 15
 	gins 6
 	snare 36
+	springe 2
 	gin 4
 rudiment
 	rudiments 4
@@ -61132,7 +60765,7 @@ surrender
 	delivered 26
 	delivers 7
 	surrender 20
-	deliver 101
+	deliver 102
 	delivering 4
 keeper-back
 	keeper-back 1
@@ -61315,8 +60948,6 @@ unbar
 	unbar 2
 adds
 	adds 5
-,let
-	,let 7
 under-hangman
 	under-hangman 1
 sawpit
@@ -61381,7 +61012,7 @@ quarrel
 	quarrelling 7
 	quarrels 60
 	quarrelled 1
-	words 415
+	words 416
 	disputes 1
 	scraps 4
 	scraped 1
@@ -61471,7 +61102,7 @@ homelike
 confused
 	scattered 1
 	disordered 1
-	lost 257
+	lost 258
 	confused 8
 palld
 	palld 1
@@ -61498,7 +61129,7 @@ tatterd
 	tatterd 2
 maestro
 	masters 174
-	master 774
+	master 775
 loaves
 	loaves 1
 map
@@ -61576,6 +61207,7 @@ deceive
 	deceive 75
 	cozening 4
 	betrayed 3
+	dissemble 36
 	cozen 5
 	deceived 44
 deceivd
@@ -61594,12 +61226,12 @@ talk
 	uttered 8
 	talking 72
 	mouth 127
-	speaking 80
+	speaking 82
 	talks 84
 	utter 38
 	speaks 238
 	talk 1386
-	speak 2346
+	speak 2350
 shield
 	shield 96
 	shielded 1
@@ -61618,7 +61250,7 @@ impostors
 lyric
 	languages 4
 	language 37
-	words 415
+	words 416
 three-leggd
 	three-leggd 1
 shakd
@@ -61627,7 +61259,7 @@ pitch
 	tar 3
 	rake 4
 	delivery 4
-	pitch 392
+	pitch 406
 	pitched 15
 	rakes 1
 wittolly
@@ -61667,8 +61299,6 @@ christening
 	christenings 1
 pyrrhus
 	pyrrhus 22
-cornish
-	cornish 8
 all_in_all
 	altogether 24
 attorneys
@@ -61677,7 +61307,7 @@ arrows
 	arrows 10
 dysphoric
 	distressed 9
-	unhappy 38
+	unhappy 39
 attorneyd
 	attorneyd 1
 rock
@@ -61721,8 +61351,6 @@ calphurnias
 	calphurnias 2
 whirlwinds
 	whirlwinds 2
-,these
-	,these 2
 greeks
 	greeks 27
 love-book
@@ -61799,7 +61427,7 @@ think
 	thinks 684
 	considering 4
 	guess 48
-	believe 238
+	believe 239
 	thinking 495
 	considers 1
 	believing 6
@@ -61807,7 +61435,7 @@ think
 	reckon 7
 	conceived 3
 	imaginings 1
-	imagine 22
+	imagine 23
 	reckoning 21
 	conceives 3
 	supposes 3
@@ -61862,8 +61490,6 @@ anyone
 	anyone 1
 mischances
 	mischances 1
-worshipped
-	worshipped 2
 lobbies
 	lobbies 1
 disputes
@@ -61975,9 +61601,6 @@ montagues
 	montagues 7
 stockings
 	stockings 14
-segregation
-	segregation 4
-	sequestration 3
 shop
 	browse 1
 	shop 48
@@ -62007,7 +61630,7 @@ show
 	exhibit 4
 	shown 155
 	showed 40
-	show 3200
+	show 3208
 	showing 55
 	presented 15
 	demonstrated 1
@@ -62067,8 +61690,6 @@ dick
 	dick 16
 plumb
 	plum 1
-,falsehood
-	,falsehood 1
 lorenzo
 	lorenzo 24
 fens
@@ -62082,15 +61703,13 @@ plump
 	gone 465
 	going 96
 	goes 167
-	go 1736
+	go 1739
 	went 100
 	plump 4
 accordant
 	conformable 2
 	consonant 1
 	accordant 3
-bevel
-	cant 2
 straggler
 	stragglers 1
 casted
@@ -62237,7 +61856,7 @@ dependable
 	safe 81
 	honest 291
 	better 585
-	good 2816
+	good 2817
 	safer 18
 	true 763
 	best 448
@@ -62306,7 +61925,7 @@ oil
 	oils 3
 cauterize
 	burning 42
-	burn 76
+	burn 77
 	cauterizing 1
 	burned 3
 	burns 26
@@ -62348,7 +61967,7 @@ woodbine
 largely
 	largely 12
 falsification
-	falsehood 32
+	falsehood 33
 roughly
 	rough 142
 	roughly 18
@@ -62536,6 +62155,8 @@ arithmetical
 	arithmetic 6
 tavys
 	tavys 1
+untamed
+	unreclaimed 1
 intentness
 	engrossments 1
 smear
@@ -62555,6 +62176,7 @@ kirtle
 wilds
 	wilds 1
 dagger
+	bodkin 8
 	daggers 30
 	dagger 114
 bountiful
@@ -62565,8 +62187,6 @@ main-course
 blessed
 	blessed 370
 	blest 21
-.tis
-	.tis 3
 night-watch
 	night-watch 1
 bepaint
@@ -62662,6 +62282,7 @@ citation
 deer
 	deer 74
 	deers 2
+	hinds 7
 deep
 	deeper 132
 	deeps 6
@@ -62706,7 +62327,7 @@ film
 	takes 81
 	taking 31
 	took 157
-	take 1210
+	take 1211
 	taken 91
 	shoots 6
 	shooting 4
@@ -62718,10 +62339,10 @@ fill
 	took 157
 	occupy 2
 	filling 40
-	take 1210
+	take 1211
 	taken 91
 	filled 10
-	fill 476
+	fill 483
 tedious
 	tedious 46
 wagered
@@ -62750,8 +62371,6 @@ bow-string
 	bow-string 1
 bachelor_of_arts
 	ba 2
-accurse
-	accursed 18
 eye-strings
 	eye-strings 1
 thrice-famd
@@ -62865,7 +62484,7 @@ vouchsafe
 	vouchsafes 1
 	vouchsafing 1
 	vouchsafed 2
-	vouchsafe 98
+	vouchsafe 100
 knighthood
 	knighthoods 2
 	knighthood 20
@@ -62908,6 +62527,7 @@ consumptions
 	consumptions 1
 everlasting
 	everlasting 42
+	dateless 10
 public
 	public 132
 compilation
@@ -62927,7 +62547,7 @@ bible
 	word 502
 	scriptures 1
 	books 33
-	words 415
+	words 416
 	scripture 4
 	book 83
 luxuriate
@@ -62984,7 +62604,7 @@ wiped
 two
 	ii 4
 	2 2
-	two 1689
+	two 1692
 	twos 2
 comparing
 	comparing 1
@@ -63048,7 +62668,7 @@ addle-head
 sawed-off
 	shortened 2
 bravely
-	bravely 68
+	bravely 70
 	courageously 2
 gravely
 	gravely 2
@@ -63076,7 +62696,7 @@ fillip
 reconcilement
 	reconcilement 1
 !
-	! 10709
+	! 10815
 awkward
 	uneasy 4
 	awkward 28
@@ -63217,7 +62837,7 @@ harm
 hark
 	hearkening 1
 	hearkened 1
-	hark 308
+	hark 310
 	hearken 7
 	hearkens 2
 energy
@@ -63354,6 +62974,8 @@ barbarian
 	wildest 4
 	wilder 2
 	barbarian 4
+donc
+	donc 1
 incorporeal
 	immaterial 1
 done
@@ -63364,6 +62986,7 @@ dong
 discontents
 	discontents 6
 disown
+	renouncing 1
 	renounce 5
 revivd
 	revivd 6
@@ -63402,14 +63025,14 @@ lease
 	engaging 1
 	lets 271
 	hired 4
-	let 2097
+	let 2107
 	rent 20
 	rents 6
 	taken 91
 	charters 3
 	leases 5
 	hire 18
-	take 1210
+	take 1211
 conduit
 	conduits 2
 	conduit 6
@@ -63433,8 +63056,6 @@ park
 	parks 12
 	green 83
 	common 150
-.here
-	.here 1
 part
 	division 21
 	piece 92
@@ -63442,7 +63063,7 @@ part
 	parts 728
 	voices 54
 	portion 14
-	part 3472
+	part 3480
 	pieces 36
 	voice 156
 	parting 29
@@ -63480,8 +63101,6 @@ declare
 	declare 56
 bewitchd
 	bewitchd 5
-!that
-	!that 1
 trifles
 	trifles 15
 trifler
@@ -63519,7 +63138,7 @@ brushes
 	brushes 2
 serve
 	serving 52
-	help 314
+	help 315
 	process 18
 	helped 3
 	doings 5
@@ -63533,7 +63152,7 @@ serve
 	attends 20
 	helps 15
 	function 16
-	do 3790
+	do 3797
 	attended 18
 	attend 121
 	assist 21
@@ -63543,7 +63162,7 @@ serve
 	services 66
 	assisting 1
 	dishes 9
-	did 1621
+	did 1623
 	serves 532
 	served 273
 salmon
@@ -63551,7 +63170,7 @@ salmon
 took
 	took 157
 most
-	most 5870
+	most 5880
 moss
 	moss 6
 moonshines
@@ -63591,8 +63210,6 @@ sparrow
 	sparrow 20
 devourers
 	devourers 1
-:you
-	:you 1
 blue-ribbon
 	select 2
 malignant
@@ -63621,7 +63238,7 @@ distributed
 beardless
 	beardless 6
 unhappy
-	unhappy 114
+	unhappy 117
 pinchs
 	pinchs 1
 defiled
@@ -63658,7 +63275,7 @@ remove
 	took 157
 	remove 174
 	withdrew 3
-	take 1210
+	take 1211
 	withdraw 35
 	removing 12
 	taken 91
@@ -63764,7 +63381,7 @@ half-hour
 kitchend
 	kitchend 1
 reverse
-	blow 93
+	blow 94
 	reverse 21
 	opposite 24
 	contrary 48
@@ -63855,7 +63472,7 @@ gap
 	breach 31
 	gaping 9
 gan
-	gan 4
+	gan 5
 gam
 	gam 2
 vane
@@ -63946,7 +63563,7 @@ butcher
 	butcher 90
 	butchered 2
 wherein
-	wherein 127
+	wherein 129
 benign
 	benign 4
 discourse
@@ -64007,6 +63624,11 @@ appertain
 	appertain 2
 toil
 	toil 28
+conceit
+	conceit 195
+	vanities 6
+	conceits 24
+	vanity 21
 prevention
 	preventions 1
 	bars 11
@@ -64097,11 +63719,9 @@ smallness
 three-and-twenty
 	three-and-twenty 4
 cleft
-	cleft 21
+	cleft 24
 trinculo
-	trinculo 14
-gripd
-	gripd 1
+	trinculo 15
 proffers
 	proffers 2
 successantly
@@ -64125,7 +63745,7 @@ humorous
 obliged
 	obliged 1
 put_option
-	put 488
+	put 489
 	puts 43
 martial
 	martial 30
@@ -64149,7 +63769,7 @@ acquaintance
 	familiarity 4
 	acquaintance 136
 	friends 486
-	friend 401
+	friend 402
 pelt
 	bombard 2
 	pelt 4
@@ -64296,6 +63916,7 @@ pails
 	pails 1
 excuses
 	excuses 4
+	fetches 4
 philotus
 	philotus 1
 gavst
@@ -64379,9 +64000,8 @@ countenances
 	countenances 2
 fortune-tell
 	fortune-tell 1
-queen
-	queen 4310
-	queens 369
+random
+	random 6
 deedless
 	deedless 1
 keptst
@@ -64504,11 +64124,8 @@ honourst
 	honourst 1
 numbness
 	numbness 2
-conceit
-	conceit 195
-	vanities 6
-	conceits 24
-	vanity 21
+coped
+	coped 1
 oershine
 	oershine 1
 3.
@@ -64585,6 +64202,8 @@ enviously
 	covetously 1
 iii
 	iii 1
+duped
+	fopped 0
 sont
 	sont 3
 account
@@ -64636,8 +64255,6 @@ lamb
 	lamb 245
 	lambs 72
 	dears 1
-noahs
-	noahs 1
 democracy
 	commonwealth 28
 lame
@@ -64664,8 +64281,6 @@ furnace
 	furnaces 1
 nips
 	nips 3
-,put
-	,put 1
 bedfords
 	bedfords 1
 plumb_line
@@ -64734,8 +64349,7 @@ outbid
 	outbids 2
 greater
 	greater 166
-!about
-	!about 1
+	ranker 9
 descendants
 	posterity 8
 inaidable
@@ -64810,7 +64424,7 @@ repress
 gravelled
 	gravelled 1
 mate
-	fellow 304
+	fellow 305
 	mates 78
 	mate 77
 	fellows 81
@@ -64833,14 +64447,6 @@ jessica
 hap
 	hap 50
 	haps 6
-chastise
-	chastised 2
-	chastise 10
-	corrected 1
-	corrects 2
-	castigate 1
-	correcting 1
-	correct 7
 heretics
 	heretics 2
 mid-way
@@ -64889,8 +64495,6 @@ proculeius
 	proculeius 5
 thwarting
 	thwarting 4
-.quickly
-	.quickly 1
 unseminard
 	unseminard 1
 harum
@@ -64908,6 +64512,8 @@ liquor
 cabin
 	cabins 4
 	cabin 45
+futile
+	unprevailing 1
 dreary
 	dreary 1
 perforce
@@ -65022,7 +64628,7 @@ uncategorized
 savages
 	savages 4
 bemused
-	lost 257
+	lost 258
 signifying
 	signifying 1
 propagate
@@ -65106,8 +64712,6 @@ satan
 	lucifer 6
 	satan 16
 	beelzebub 1
-,wherefore
-	,wherefore 1
 outwear
 	outwear 2
 semi-circled
@@ -65173,7 +64777,7 @@ mopping
 transpose
 	transpose 10
 regretful
-	worse 163
+	worse 164
 	sorrier 1
 	bad 122
 	worst 98
@@ -65182,8 +64786,6 @@ regretful
 firmness
 	soundness 1
 	firmness 6
-,full
-	,full 1
 coutume
 	coutume 1
 two-headed
@@ -65260,6 +64862,7 @@ beguiled
 day-woman
 	day-woman 1
 flourishing
+	palmy 1
 	flourishing 3
 besort
 	besort 2
@@ -65328,16 +64931,17 @@ volunteer
 	offers 11
 divisions
 	divisions 4
+ingrafted
 ap
 	ap 1
 as
-	as 5608
+	as 5654
 carved
 	carved 8
 inherits
 	inherits 2
 almost
-	almost 161
+	almost 162
 lapland
 	lapland 1
 commending
@@ -65418,7 +65022,7 @@ necessitate
 	need 182
 	needed 3
 	asking 12
-	take 1210
+	take 1211
 	demand 61
 	ask 168
 	demanding 2
@@ -65523,6 +65127,7 @@ eye-sore
 	eye-sore 1
 proper
 	proper 310
+	meet 3864
 	right 337
 	properest 4
 	properer 12
@@ -65560,10 +65165,10 @@ lessend
 insculpd
 	insculpd 1
 about
-	about 3136
+	about 3144
 	nigh 16
-	almost 161
-	most 1174
+	almost 162
+	most 1176
 	near 214
 	nearly 5
 	well-nigh 2
@@ -65740,7 +65345,7 @@ gangrenous
 	mortified 5
 parole
 	word 502
-	words 415
+	words 416
 tibs
 	tibs 1
 limited
@@ -65755,7 +65360,7 @@ hitch
 	catched 1
 	catch 64
 	limps 1
-	caught 30
+	caught 31
 embalms
 	embalms 1
 devil-monk
@@ -65812,8 +65417,11 @@ bidst
 phial
 	vial 4
 	vials 3
-heart-burned
-	heart-burned 2
+jack
+	knaves 51
+	jack 847
+	knave 168
+	jacks 50
 frailty
 	frailty 24
 	frailties 2
@@ -65920,8 +65528,6 @@ applauses
 	applauses 1
 disclaims
 	disclaims 1
-!taught
-	!taught 1
 astuteness
 	depths 1
 	depth 7
@@ -65952,8 +65558,6 @@ strap
 clog_dance
 	clog 6
 	clogs 2
-!their
-	!their 1
 manoeuver
 	operate 2
 provexit
@@ -66114,6 +65718,8 @@ besotted
 	stiff 12
 	besotted 2
 	wet 14
+embalmed
+	embowell'd 0
 compelling
 	compelling 3
 glanced
@@ -66318,8 +65924,9 @@ ton
 	ton 2
 too
 	too 1245
-,none
-	,none 1
+tom
+	toms 16
+	tom 66
 inconvenient
 	inconvenient 3
 tod
@@ -66334,7 +65941,7 @@ murder
 	hits 9
 	murder 339
 	hit 60
-	slay 25
+	slay 26
 	removing 3
 	removed 14
 	dispatched 3
@@ -66543,6 +66150,7 @@ erupt
 	flaring 1
 	belching 2
 	belches 1
+cozier
 automatic
 	reflex 2
 fragrant
@@ -66600,6 +66208,7 @@ wean
 weal
 	weal 15
 weak
+	unsinew'd 0
 	weaker 84
 	weak 808
 	weakest 35
@@ -66621,10 +66230,10 @@ wear
 	wears 369
 	wore 175
 	bears 106
-	bear 528
+	bear 529
 	endures 1
 	worn 259
-	born 170
+	born 171
 	endure 75
 	assume 14
 	assuming 1
@@ -66637,7 +66246,7 @@ wear
 honeysuckle
 	honeysuckle 3
 goddess
-	goddess 50
+	goddess 52
 	goddesses 4
 irregular
 	seconds 4
@@ -66689,7 +66298,7 @@ misgovernd
 quickly
 	apace 26
 	speedily 12
-	quickly 220
+	quickly 222
 submarine
 	sub 1
 purposing
@@ -66706,8 +66315,8 @@ drugs
 	drugs 9
 glided
 	glided 1
-,save
-	,save 1
+joinder
+	joinder 1
 caduceus
 	caduceus 2
 glides
@@ -66723,6 +66332,8 @@ rutting
 military_reserve
 	reserves 1
 	reserve 9
+numbskulls
+	loggerheads 1
 leprosy
 	leprosy 8
 stopping
@@ -66794,14 +66405,14 @@ maimd
 	maimd 4
 half-moon
 	half-moon 9
+bewigged
+	periwig-pated 0
 insisted
 	insisted 1
 tassel
 	tassel 2
 raze
 	raze 6
-.servant-monster
-	.servant-monster 1
 doff
 	doff 12
 lack-beard
@@ -66813,8 +66424,6 @@ mother
 	mother 2352
 alarms
 	alarms 1
-,did
-	,did 1
 dewlap
 	dewlap 2
 gaolers
@@ -66891,6 +66500,7 @@ judgd
 	judgd 7
 seven-spot
 	seven 71
+ensteeped
 appearing
 	appearing 7
 swill
@@ -66927,8 +66537,6 @@ forerun
 	forerun 3
 valence
 	valence 3
-!this
-	!this 1
 juliets
 	juliets 4
 disfigurement
@@ -67039,7 +66647,7 @@ tellest
 gin
 	gins 24
 	gin 20
-	gan 8
+	gan 10
 cautelous
 	cautelous 2
 polecat
@@ -67087,8 +66695,6 @@ shakst
 	shakst 1
 strong-ribbd
 	strong-ribbd 1
-,twill
-	,twill 1
 hams
 	hams 3
 fury
@@ -67288,8 +66894,6 @@ bedford
 	bedford 10
 blue-bottle
 	blue-bottle 1
-.hear
-	.hear 1
 belt_out
 	belt 2
 sours
@@ -67373,6 +66977,8 @@ soviet_union
 	russia 3
 wickedst
 	wickedst 1
+long-standing
+	long-ingraffed 0
 prescriptions
 	prescriptions 2
 adhesiveness
@@ -67511,7 +67117,7 @@ ayez
 intelligibly
 	clearly 5
 iodine
-	i 20469
+	i 20533
 nine-fold
 	nine-fold 1
 smilingly
@@ -67559,13 +67165,11 @@ scoff
 	flout 21
 	flouted 4
 	flouting 3
-perseus
-	perseus 9
 curing
 	curing 2
 commodity
 	commodities 3
-	good 2816
+	good 2817
 	commodity 40
 	goods 23
 vanadium
@@ -67579,8 +67183,6 @@ propriety
 	propriety 4
 teacheth
 	teacheth 3
-exampled
-	exampled 3
 second_base
 	seconds 4
 	second 96
@@ -67607,9 +67209,11 @@ abhorred
 	abhorred 10
 offers
 	offers 11
+	tenders 4
 offert
 	offert 1
 happened
+	betid 3
 	happened 3
 lonely
 	unfrequented 2
@@ -67759,12 +67363,12 @@ place
 	setting 23
 	place 6749
 	sets 25
-	put 488
+	put 489
 	putting 18
 	property 15
 	properties 4
 placd
-	placd 19
+	placd 20
 broached
 	broached 5
 swing
@@ -67834,7 +67438,7 @@ bounty
 	bountys 3
 	bounty 156
 givet
-	givet 8
+	givet 9
 legally
 	lawfully 3
 slaughter-house
@@ -67871,12 +67475,13 @@ cope
 state_of_matter
 	states 16
 	state 287
-,the
-	,the 13
+bull's_eye
+	bulls 7
+	bull 16
 released
 	released 2
 alas
-	alas 226
+	alas 229
 seducer
 	seducer 3
 girded
@@ -67908,7 +67513,7 @@ specify
 population
 	universe 1
 unfortunately
-	alas 226
+	alas 229
 	unluckily 6
 oats
 	oats 5
@@ -67929,7 +67534,7 @@ searchers
 	searchers 1
 rend
 	rive 6
-	pull 12
+	pull 13
 	rend 28
 	riping 1
 	rip 2
@@ -68034,7 +67639,7 @@ adopt
 	borrows 4
 	espouse 4
 	following 29
-	follow 305
+	follow 306
 	adopts 3
 hungry
 	hungry 44
@@ -68132,6 +67737,7 @@ hedgd
 	hedgd 2
 reveal
 	reveal 12
+	bewray 7
 	reveals 1
 attentiveness
 	regards 7
@@ -68266,7 +67872,7 @@ deputys
 persistive
 	persistive 1
 confessions
-	confessions 3
+	confessions 4
 engine
 	engine 32
 	engines 12
@@ -68373,6 +67979,7 @@ persona
 nest
 	nest 225
 	nests 16
+	aery 3
 refusal
 	refusal 3
 persons
@@ -68404,8 +68011,8 @@ negociations
 	negociations 1
 firebrand
 	firebrand 3
-rosaline
-	rosaline 19
+pegasus
+	pegasus 9
 reward
 	rewards 40
 	repay 4
@@ -68606,8 +68213,6 @@ prophesying
 	prophesying 2
 buds
 	buds 10
-edges
-	edges 3
 aumerle
 	aumerle 20
 forbade
@@ -68662,6 +68267,7 @@ security_system
 	security 16
 chapped
 	cracked 2
+	chopt 0
 wife-like
 	wife-like 2
 ruffian
@@ -68673,6 +68279,8 @@ battlements
 cellblock
 	ward 16
 	wards 5
+encompass
+	enwheel 1
 bishop
 	bishop 80
 	bishops 27
@@ -68714,8 +68322,6 @@ winking
 unbend
 	unbend 4
 	unbent 3
-;at
-	;at 1
 exposture
 	exposture 1
 falstaff
@@ -68756,7 +68362,7 @@ transports
 amazedly
 	amazedly 3
 all
-	all 10887
+	all 10896
 diss
 	diss 2
 	affronted 1
@@ -68776,7 +68382,7 @@ swerving
 larum
 	larum 3
 ala
-	alas 452
+	alas 458
 ladders
 	ladders 1
 dish
@@ -68809,8 +68415,6 @@ barely
 	barely 8
 	hardly 41
 	just 142
-.thou
-	.thou 1
 liter
 	l 5
 leave_office
@@ -68854,7 +68458,7 @@ reind
 fellow-ministers
 	fellow-ministers 1
 what
-	what 4482
+	what 4497
 preferreth
 	preferreth 1
 over-joy
@@ -68941,7 +68545,7 @@ proceed
 	proceedings 30
 	going 96
 	goes 167
-	go 1736
+	go 1739
 	proceeded 26
 	went 100
 	continued 2
@@ -68956,7 +68560,7 @@ faint
 	weak 101
 	fainted 2
 	faint-hearted 3
-	swoon 6
+	swoon 8
 	lightest 2
 	lighter 2
 	fainter 5
@@ -68998,7 +68602,7 @@ mellow
 	melting 9
 	mellowing 3
 	melts 2
-	melt 29
+	melt 30
 	melted 15
 	mellow 35
 	molten 3
@@ -69015,7 +68619,7 @@ parable
 	parable 2
 eden
 	heavens 178
-	heaven 632
+	heaven 636
 	eden 3
 	paradise 10
 sleeveless
@@ -69061,7 +68665,7 @@ allege
 	sayings 5
 	averring 1
 	alleged 1
-	say 1664
+	say 1666
 	allege 2
 allegd
 	allegd 1
@@ -69150,7 +68754,7 @@ styld
 prat
 	prat 2
 pray
-	pray 1486
+	pray 1490
 	prayed 2
 	prays 17
 	praying 8
@@ -69168,12 +68772,8 @@ scot
 	scot 34
 threescore
 	threescore 8
-!as
-	!as 1
 dog-apes
 	dog-apes 1
-!ay
-	!ay 1
 lily-white
 	lily-white 2
 sucking
@@ -69188,6 +68788,7 @@ communities
 	communities 1
 marcus
 	marcus 52
+unsinew'd
 plane_tree
 	sycamore 3
 dew-drops
@@ -69211,7 +68812,7 @@ duchess
 	duchess 44
 expect
 	looking 28
-	look 823
+	look 824
 	waits 9
 	anticipating 1
 	await 1
@@ -69295,7 +68896,7 @@ dislikes
 bushel
 	bushels 2
 ding
-	ding 12
+	ding 15
 	dong 2
 dine
 	dine 75
@@ -69345,7 +68946,7 @@ grime
 hangs
 	hangs 38
 jacklight
-	jack 76
+	jack 77
 	jacks 5
 overbold
 	overbold 1
@@ -69416,6 +69017,7 @@ bake
 imitations
 	imitations 1
 moist
+	rheumy 2
 	moist 10
 pardonner
 	pardonner 2
@@ -69478,7 +69080,7 @@ enormously
 stubble
 	stubble 2
 gilded
-	gilded 32
+	gilded 34
 predecease
 	predeceased 1
 middle-earth
@@ -69501,8 +69103,10 @@ scotchd
 	scotchd 1
 fastest
 	fastest 2
-determines
-	determines 3
+deaden
+	blunted 2
+	blunt 38
+	blunts 2
 wake_up
 	awaken 1
 	awakens 1
@@ -69693,8 +69297,6 @@ brokers
 	brokers 1
 opposites
 	opposites 3
-!wast
-	!wast 1
 plants
 	plants 13
 marchd
@@ -69897,8 +69499,6 @@ plundering
 shaped
 	wrought 38
 	shaped 3
-,mine
-	,mine 1
 commanders
 	commanders 6
 full_of_life
@@ -70181,7 +69781,7 @@ intentional
 once
 	erst 6
 	formerly 6
-	once 1652
+	once 1656
 wrestle
 	wrestled 9
 	grappling 1
@@ -70413,13 +70013,13 @@ counterfeit
 	counterfeits 3
 	forgeries 2
 sir
-	sir 7617
+	sir 7623
 	sirs 86
 sip
 	sip 9
 	sipping 1
 sit
-	sitting 90
+	sitting 95
 	sit 1284
 	sits 250
 	sat 145
@@ -70444,7 +70044,7 @@ adjournd
 ruffians
 	ruffians 3
 instead
-	instead 16
+	instead 17
 sin
 	hells 3
 	transgressed 2
@@ -70470,6 +70070,7 @@ abuse
 	abused 24
 	abusing 6
 	shouted 3
+	berattle 1
 	insult 4
 	shouts 7
 	shouting 5
@@ -70521,8 +70122,8 @@ quake
 	quake 14
 quakd
 	quakd 1
-badges
-	badges 3
+chalices
+	chalices 1
 nuthooks
 	nuthooks 1
 restrain
@@ -70535,7 +70136,7 @@ restrain
 	holds 76
 	constrained 3
 	restrains 3
-	keep 484
+	keep 485
 	held 82
 	restrain 20
 	cumber 2
@@ -70569,7 +70170,7 @@ paramour
 unseasond
 	unseasond 2
 flew
-	flew 5
+	flew 6
 draggd
 	draggd 2
 discomfiture
@@ -70583,7 +70184,7 @@ flee
 	fly 235
 	flies 50
 	flying 17
-	flew 5
+	flew 6
 	flown 6
 	flee 2
 	fled 86
@@ -70615,6 +70216,7 @@ tumult
 	garboils 2
 	uproar 4
 	tumult 9
+	pudder 0
 	uproars 1
 	tumults 4
 welcomest
@@ -70688,8 +70290,6 @@ sportful
 	sportful 4
 vestals
 	vestals 1
-,we
-	,we 4
 silvias
 	silvias 4
 erewhile
@@ -70712,8 +70312,6 @@ felicitous
 	happy 202
 engenders
 	engenders 6
-,speaking
-	,speaking 1
 diomede
 	diomede 1
 unmeet
@@ -70733,7 +70331,7 @@ publication
 unwashed
 	unwashed 4
 their
-	their 1983
+	their 1985
 screw
 	screws 6
 	screw 7
@@ -70795,8 +70393,6 @@ elongate
 	stretches 3
 	stretching 2
 	stretched 1
-!cuckold
-	!cuckold 1
 outwardly
 	outwardly 12
 polixenes
@@ -70841,7 +70437,7 @@ swelling
 	lump 6
 	swellings 1
 which
-	which 2222
+	which 2250
 pharmacist
 	apothecary 5
 clash
@@ -70903,8 +70499,6 @@ inspirations
 	inspirations 1
 bestained
 	bestained 1
-,go
-	,go 1
 epilogues
 	epilogues 1
 exclusive
@@ -70925,13 +70519,14 @@ changeful
 complot
 	complot 4
 darkest
+	dunnest 1
 	darkest 2
 chanced
 	chanced 3
 glistering
 	glistering 4
 fellate
-	blow 93
+	blow 94
 	blew 4
 	blowing 7
 	sucking 6
@@ -70949,7 +70544,7 @@ bargulus
 	bargulus 1
 piano
 	softer 3
-	softly 22
+	softly 23
 	soft 117
 	softest 3
 watching
@@ -71111,6 +70706,7 @@ inconspicuous
 	invisible 23
 abandoned
 	abandoned 6
+	masterless 2
 unlike
 	different 10
 	unlike 42
@@ -71166,7 +70762,7 @@ inch
 	inch 36
 	ins 17
 	inches 11
-	in 10530
+	in 10537
 samson
 	samson 12
 	samsons 2
@@ -71341,8 +70937,6 @@ unthankful
 	unthankful 1
 scythian
 	scythian 8
-!when
-	!when 2
 poictiers
 	poictiers 5
 severance
@@ -71368,6 +70962,9 @@ once-commended
 	once-commended 1
 dangling
 	dangling 1
+parry
+	blocks 4
+	block 17
 asinine
 	mindless 2
 fat-kidneyed
@@ -71447,7 +71044,7 @@ unwrap
 	undoes 2
 	undid 2
 	reveals 1
-	discover 33
+	discover 34
 	discovered 9
 	divulged 2
 	breaking 25
@@ -71532,8 +71129,6 @@ shalls
 	shalls 4
 shallt
 	shallt 1
-.ariel
-	.ariel 1
 swains
 	swains 3
 unlettered
@@ -71706,16 +71301,17 @@ herb
 	herb 24
 	herbs 18
 hera
-	heres 214
-	here 2143
+	heres 215
+	here 2149
 splinter
 	splinter 6
 	splinters 2
 	sliver 4
 here
-	heres 214
+	heres 215
+	hence 1077
 	hither 303
-	here 15001
+	here 15043
 herd
 	herds 5
 	crowded 1
@@ -71800,6 +71396,7 @@ horsetail
 	horsetail 2
 brings
 	brings 50
+	endues 0
 gashes
 	gashes 5
 canonized
@@ -71817,11 +71414,11 @@ midst
 hold
 	bearing 78
 	contains 10
-	give 1341
+	give 1346
 	throwing 10
 	supported 1
 	held 1312
-	have 5945
+	have 5951
 	sustaining 2
 	carry 170
 	support 12
@@ -71831,7 +71428,7 @@ hold
 	giving 38
 	make 1639
 	holds 1444
-	had 1437
+	had 1438
 	sustain 15
 	holding 352
 	has 389
@@ -71844,22 +71441,22 @@ hold
 	makings 1
 	contain 14
 	containing 6
-	bear 1056
+	bear 1058
 	carrying 10
 	hold 9020
 	throw 105
 	thrown 33
 	made 819
 	carried 54
-	born 340
-	keep 484
+	born 342
+	keep 485
 	bears 212
 	carries 46
 	keeps 71
 	making 72
 	gives 118
 	makes 343
-	having 155
+	having 156
 	givings 1
 irksome
 	irksome 3
@@ -71912,10 +71509,8 @@ dimple
 	dimpled 4
 peregrinate
 	peregrinate 2
-;if
-	;if 1
 how
-	how 2169
+	how 2178
 hot
 	livest 3
 	hotter 100
@@ -71934,8 +71529,6 @@ hop
 significance
 	import 19
 	imports 9
-;is
-	;is 1
 chapmens
 	chapmens 1
 void
@@ -72090,7 +71683,7 @@ spider
 contracting
 	contracting 1
 astatine
-	at 2429
+	at 2431
 	ats 2
 ship-tire
 	ship-tire 1
@@ -72210,8 +71803,6 @@ nations
 	nations 11
 zounds
 	zounds 19
-;and
-	;and 4
 acquisition
 	acquisition 3
 a_lot
@@ -72242,7 +71833,7 @@ robbst
 lius
 	lius 1
 shall
-	shall 3600
+	shall 3603
 object
 	objected 2
 	object 266
@@ -72293,8 +71884,8 @@ skirmishes
 	skirmishes 1
 rampallian
 	rampallian 1
-!it
-	!it 1
+buss
+	buss 2
 bust
 	tear 77
 	tears 279
@@ -72307,7 +71898,7 @@ bush
 touched
 	touched 10
 heartily
-	heartily 114
+	heartily 117
 otiose
 	wasted 15
 	superfluous 17
@@ -72477,10 +72068,8 @@ reverted
 	reverted 2
 calcium
 	ca 1
-armorer
-	armourer 12
-	artificer 1
-	armourers 6
+mates
+	mates 13
 neutering
 	altering 1
 	fixing 2
@@ -72575,6 +72164,8 @@ rushing
 	rushing 6
 succeeding
 	succeeding 16
+jud-as
+	jud-as 1
 enters
 	enters 6
 ease
@@ -72629,8 +72220,6 @@ east
 	e 7
 	orient 4
 	es 1
-!have
-	!have 2
 disagreement
 	dissensions 1
 	dissension 9
@@ -72641,6 +72230,7 @@ chorister
 bushs
 	bushs 1
 bushy
+	busky 1
 	bushy 24
 slavesmiles
 	slavesmiles 1
@@ -72729,7 +72319,7 @@ thitherward
 	thitherward 1
 o
 	os 2
-	o 7734
+	o 7842
 lacked
 	lacked 1
 behavedst
@@ -72774,7 +72364,7 @@ offer
 	extend 15
 	offer 1080
 	biding 3
-	bid 334
+	bid 335
 	proffers 2
 	bids 57
 	tenders 4
@@ -72852,6 +72442,7 @@ zany
 	zany 2
 ambitious
 	ambitious 111
+	high-sighted 1
 smell
 	senses 36
 	smelt 32
@@ -72906,7 +72497,7 @@ time
 	time 11055
 push
 	forced 8
-	force 102
+	force 103
 	pushes 9
 	crowd 5
 	crowded 1
@@ -72943,10 +72534,6 @@ howlings
 	howlings 1
 bearst
 	bearst 9
-:o
-	:o 3
-:i
-	:i 7
 mustachio-purple-hued
 	mustachio-purple-hued 1
 outgoes
@@ -72957,8 +72544,6 @@ bustle
 	bustle 12
 	stirs 15
 	bustling 1
-:t
-	:t 1
 snail-pacd
 	snail-pacd 2
 kneading
@@ -73005,6 +72590,8 @@ thick-grown
 	thick-grown 1
 purse-taking
 	purse-taking 1
+[to
+	[to 1
 banister
 	banister 1
 funeral
@@ -73012,8 +72599,8 @@ funeral
 	funerals 3
 guangzhou
 	cantons 1
-exceptions
-	exceptions 6
+contemplate
+	contemplate 3
 screw_thread
 	thread 20
 yards
@@ -73026,7 +72613,7 @@ alone
 	only 313
 	alone 1242
 along
-	on 2982
+	on 2983
 	along 684
 anchoring
 	anchoring 2
@@ -73051,8 +72638,6 @@ ourself
 	ourself 26
 weather-fends
 	weather-fends 1
-buss
-	buss 2
 castaways
 	castaways 1
 frenchmans
@@ -73076,8 +72661,6 @@ bagot
 	bagot 6
 night-rest
 	night-rest 1
-,accursd
-	,accursd 1
 topples
 	topples 2
 sonnets
@@ -73098,7 +72681,7 @@ clitoris
 grand_piano
 	grand 12
 oregon
-	or 2344
+	or 2351
 marbled
 	marbled 2
 appendix
@@ -73184,10 +72767,13 @@ foolish-compounded
 	foolish-compounded 1
 darkened
 	darkened 3
+	collied 2
 unseconded
 	unseconded 1
 oershades
 	oershades 2
+scrip
+	scrip 4
 truce
 	truce 14
 sdeath
@@ -73214,7 +72800,7 @@ bastardize
 	bastardizing 2
 deity
 	divinity 10
-	god 770
+	god 777
 	deities 3
 	immortal 26
 	gods 463
@@ -73357,8 +72943,6 @@ puny
 	puny 18
 orange-wife
 	orange-wife 1
-reveals
-	reveals 1
 clause
 	clause 4
 bluish
@@ -73411,7 +72995,7 @@ poultice
 boyfriend
 	swain 23
 	beau 3
-	fellow 304
+	fellow 305
 	swains 3
 	fellows 81
 waylaid
@@ -73462,7 +73046,7 @@ crudeness
 	rudeness 5
 say
 	saying 285
-	say 11648
+	say 11662
 	said 1930
 	says 1410
 	sayings 25
@@ -73490,7 +73074,7 @@ unsuitable
 aside
 	away 1672
 	apart 26
-	by 3666
+	by 3670
 	aside 354
 sewing
 	stitchery 1
@@ -73538,6 +73122,8 @@ sall
 	sall 7
 sala
 	sala 3
+blockhead
+	clodpole 1
 sale
 	sale 54
 butchered
@@ -73558,7 +73144,7 @@ new-born
 strange-achieved
 	strange-achieved 1
 weapons
-	weapons 36
+	weapons 38
 slow
 	slow 282
 	slower 9
@@ -73640,7 +73226,8 @@ landlord
 marred
 	marred 2
 where
-	where 1231
+	whence 168
+	where 1232
 inseparate
 	inseparate 1
 behoves
@@ -73692,7 +73279,7 @@ amort
 friended
 	friended 3
 adept
-	good 2816
+	good 2817
 	expert 4
 	proficient 1
 	better 585
@@ -73701,13 +73288,13 @@ adept
 spare
 	trim 19
 	sparing 16
-	saving 12
+	saving 15
 	spares 15
 	freer 5
 	saves 6
 	free 182
 	spare 549
-	save 207
+	save 208
 	saved 17
 spard
 	spard 6
@@ -73735,6 +73322,7 @@ thickly
 	thick 31
 madcap
 	madcap 5
+	nimble-footed 2
 deflowerd
 	deflowerd 4
 disdainful
@@ -73773,7 +73361,7 @@ aerial
 	aerial 2
 extinct
 	extinct 8
-	out 1350
+	out 1352
 boat
 	boats 12
 	boat 33
@@ -73829,7 +73417,7 @@ observe
 	celebrates 1
 	observe 160
 	celebrated 2
-	keep 1452
+	keep 1455
 	observed 16
 	maintained 6
 	maintain 41
@@ -73851,14 +73439,12 @@ region
 	region 80
 	parts 104
 	regions 32
-	part 434
+	part 435
 	realms 7
 discolour
 	discolour 1
 summoners
 	summoners 1
-,when
-	,when 6
 canon
 	canon 36
 	canons 5
@@ -73892,8 +73478,6 @@ accompt
 	accompt 4
 culled
 	culled 1
-ungentle
-	ungentle 12
 plaints
 	plaints 3
 tremblingly
@@ -73981,8 +73565,8 @@ stranger
 	stranger 138
 discarded
 	discarded 6
-bons
-	bons 2
+cloth-of-gold
+	cloth-of-gold 1
 offenders
 	offenders 14
 gonzagos
@@ -73994,10 +73578,6 @@ cleanliest
 potion
 	potion 10
 	potions 4
-;i
-	;i 2
-;o
-	;o 1
 testril
 	testril 1
 wrongly
@@ -74047,7 +73627,7 @@ tittles
 	tittles 1
 power
 	powers 324
-	force 102
+	force 103
 	forces 21
 	power 1650
 intimate
@@ -74067,8 +73647,6 @@ stone
 	stone 676
 	pit 21
 	stoned 2
-,of
-	,of 6
 favorite
 	favourite 4
 	favourites 5
@@ -74087,14 +73665,14 @@ side
 	position 4
 	face 405
 	sides 473
-,or
-	,or 7
+noahs
+	noahs 1
 grim_reaper
 	reapers 1
 sweet-complaining
 	sweet-complaining 1
 neighbor
-	neighbour 172
+	neighbour 180
 	neighbours 104
 	neighbouring 10
 bond
@@ -74217,7 +73795,7 @@ exhausted
 	spent 122
 certain
 	surest 8
-	certain 1162
+	certain 1169
 	surer 12
 	sure 1192
 	certainer 6
@@ -74229,13 +73807,6 @@ excusing
 	excusing 1
 walks
 	walks 22
-drink_in
-	drunk 66
-	drink 154
-	drinkings 1
-	drank 2
-	drinking 24
-	drinks 16
 oerleap
 	oerleap 1
 unburdens
@@ -74293,7 +73864,7 @@ consider
 	takes 81
 	deliberate 6
 	considers 4
-	take 1210
+	take 1211
 	taken 91
 	considerings 4
 	weighing 5
@@ -74334,6 +73905,7 @@ volscians
 	volscians 5
 prophets
 	prophets 8
+periwig-pated
 smild
 	smild 8
 smile
@@ -74376,7 +73948,7 @@ triumviry
 herrings
 	herrings 2
 laying
-	laying 20
+	laying 22
 laud
 	glorify 3
 	glorified 2
@@ -74528,14 +74100,13 @@ yoke-devils
 	yoke-devils 1
 blemishes
 	blemishes 3
-montgomery
-	montgomery 12
 malt
 	malt 14
 mall
 	mall 1
 upbraided
 	upbraided 5
+	rated 16
 hotspur
 	hotspur 20
 	hotspurs 6
@@ -74586,11 +74157,11 @@ dress
 	setting 23
 	toged 1
 	grooms 7
-	do 3790
+	do 3797
 	raiment 7
 	garments 45
 	frock 1
-	did 1621
+	did 1623
 	clad 4
 	groom 15
 	clothed 1
@@ -74607,8 +74178,6 @@ condemn
 	condemn 102
 disconsolate
 	disconsolate 1
-.with
-	.with 1
 uncoerced
 	unforced 1
 	willing 37
@@ -74619,7 +74188,7 @@ bewailing
 unpregnant
 	unpregnant 2
 volition
-	will 4992
+	will 4997
 	wills 27
 	willing 37
 freshly
@@ -74689,7 +74258,7 @@ get_down
 	commenced 1
 	begun 27
 	gotten 5
-	got 121
+	got 122
 	gets 13
 	beginning 17
 	commence 5
@@ -74724,10 +74293,9 @@ naughty
 control_condition
 	control 13
 	controls 1
-!handkerchief
-	!handkerchief 1
 its
 	its 53
+	tis 1419
 yew-tree
 	yew-tree 1
 imaginings
@@ -74755,7 +74323,7 @@ ally
 	allied 5
 	friends 486
 	ally 4
-	friend 401
+	friend 402
 rapier
 	rapier 42
 	rapiers 7
@@ -74793,7 +74361,7 @@ pay_back
 	get 312
 	fixes 1
 	gotten 5
-	got 121
+	got 122
 	fixed 14
 eloquence
 	eloquence 20
@@ -74955,7 +74523,7 @@ a-cursing
 	a-cursing 1
 postdate
 	following 29
-	follow 305
+	follow 306
 	followed 10
 	follows 59
 vortnight
@@ -75012,8 +74580,6 @@ oyster
 	oyster 28
 fashiond
 	fashiond 9
-,according
-	,according 1
 wishd
 	wishd 34
 fashions
@@ -75117,6 +74683,7 @@ weaver
 river
 	river 42
 	rivers 26
+praetor
 rivet
 	riveted 6
 	rivet 8
@@ -75146,6 +74713,7 @@ guiltiness
 	guiltiness 9
 knees
 	knees 53
+	hams 3
 insidiously
 	perniciously 1
 movie
@@ -75215,7 +74783,7 @@ tattling
 timorous
 	timorous 6
 emotional_state
-	spirit 243
+	spirit 244
 	spirits 122
 approve
 	approves 10
@@ -75251,7 +74819,7 @@ loaf
 	loaves 1
 	loaf 2
 majesty
-	majesty 257
+	majesty 258
 grievst
 	grievst 1
 loam
@@ -75291,6 +74859,7 @@ breeching
 sweetheart
 	sweethearts 2
 	sweetheart 28
+	leman 3
 bitchs
 	bitchs 1
 silenced
@@ -75466,8 +75035,6 @@ sandal
 	sandal 4
 triumphers
 	triumphers 1
-!his
-	!his 1
 springhalt
 	springhalt 1
 crying
@@ -75484,8 +75051,10 @@ swinish
 	swinish 2
 oberon
 	oberon 8
+out-and-out
+	arrant 32
 cuckold
-	cuckold 54
+	cuckold 56
 	cuckolds 7
 surprised
 	surprised 4
@@ -75511,7 +75080,7 @@ flannel
 	white 111
 	flannel 3
 jackfruit
-	jack 76
+	jack 77
 	jacks 5
 imposed
 	imposed 4
@@ -75602,7 +75171,7 @@ repair
 	mending 6
 	fixture 1
 	repairs 12
-	doctor 67
+	doctor 68
 	fixing 4
 	fix 6
 	resort 14
@@ -75683,7 +75252,7 @@ thirdly
 action-taking
 	action-taking 1
 :
-	: 10607
+	: 10649
 unconstraind
 	unconstraind 1
 half-cheek
@@ -75936,8 +75505,8 @@ marry
 	conjoin 1
 	wed 82
 	marrying 22
-	marry 1116
-	married 284
+	marry 1119
+	married 286
 	tied 25
 	espouse 4
 	conjoined 1
@@ -75954,11 +75523,9 @@ repository
 	secretary 5
 	monument 32
 this
-	this 6603
+	this 6607
 marrd
 	marrd 11
-,goddess
-	,goddess 1
 unsuiting
 	unsuiting 1
 tittup
@@ -75973,9 +75540,9 @@ tittup
 	strut 3
 	cock 26
 	strutted 1
-	cocks 4
+	cocks 5
 ods
-	ods 7
+	ods 8
 mammet
 	mammet 1
 working-day
@@ -76045,16 +75612,16 @@ give_birth
 	bore 30
 	delivered 26
 	bears 106
-	deliver 101
-	had 1437
-	bear 528
+	deliver 102
+	had 1438
+	bear 529
 	delivering 4
-	born 170
-	have 5945
+	born 171
+	have 5951
 	delivers 7
 	has 389
 	births 6
-	having 155
+	having 156
 	borne 75
 vinegar
 	vinegar 9
@@ -76069,13 +75636,13 @@ receive
 	obtaining 3
 	obtain 7
 	invites 6
-	have 5945
+	have 5951
 	find 516
 	havings 1
 	has 389
-	had 1437
+	had 1438
 	finding 13
-	got 121
+	got 122
 	gets 13
 	haves 1
 	invite 19
@@ -76093,7 +75660,7 @@ receive
 	finds 41
 	receives 80
 	found 222
-	having 155
+	having 156
 receivd
 	receivd 58
 titania
@@ -76285,7 +75852,7 @@ singular
 rackd
 	rackd 6
 tied
-	even 576
+	even 579
 	tied 100
 	level 24
 vineyards
@@ -76298,8 +75865,8 @@ preferring
 	preferring 1
 schoolfellows
 	schoolfellows 1
-ties
-	ties 4
+fighting
+	fighting 11
 coast
 	coasts 6
 	coasting 2
@@ -76318,7 +75885,7 @@ acuteness
 lusted
 	lusted 1
 infelicitous
-	unhappy 38
+	unhappy 39
 slanderous
 	slanderous 9
 oerlabourd
@@ -76371,7 +75938,7 @@ undertaking
 	undertakings 6
 	projects 2
 whither
-	whither 91
+	whither 92
 priams
 	priams 11
 expels
@@ -76501,6 +76068,8 @@ michaelmas
 	michaelmas 4
 heareth
 	heareth 1
+ties
+	ties 4
 vixen
 	vixen 3
 	harpy 3
@@ -76612,8 +76181,6 @@ noblesse
 	noblesse 2
 pyramids
 	pyramids 1
-,married
-	,married 1
 device
 	device 264
 	twist 2
@@ -76631,8 +76198,8 @@ wounded
 	wounded 64
 	maimed 1
 ampere
-	a 13818
-	as 5608
+	a 13836
+	as 5654
 penning
 	penning 1
 polemon
@@ -76655,8 +76222,6 @@ rough
 	rocky 3
 trivial
 	trivial 14
-short_ton
-	ton 2
 pause
 	interruption 3
 	pause 156
@@ -76726,7 +76291,7 @@ quickest
 dark-working
 	dark-working 1
 youll
-	youll 158
+	youll 159
 browbeat
 	swaggered 1
 	swagger 5
@@ -76749,6 +76314,8 @@ witless
 	witless 3
 weary
 	weary 72
+ravening
+	ravening 1
 active_agent
 	active 5
 ramp
@@ -76767,13 +76334,13 @@ rams
 ever-harmless
 	ever-harmless 1
 puff
-	pull 12
+	pull 13
 	draw 202
 	draws 26
 	puffs 11
 	whiff 2
 	chuffs 1
-	drew 32
+	drew 33
 	dragged 1
 	pulls 3
 	drag 20
@@ -76814,7 +76381,7 @@ report_card
 	report 147
 	reports 19
 waste
-	blow 93
+	blow 94
 	squandering 1
 	blew 4
 	blowing 7
@@ -76845,7 +76412,7 @@ crisscross
 	crosses 9
 	mark 224
 neighbour
-	neighbour 43
+	neighbour 45
 expounded
 	expounded 2
 wearied
@@ -76904,8 +76471,6 @@ tempestuous
 	tempestuous 2
 digging
 	digging 1
-,some
-	,some 1
 epileptic
 	epileptic 3
 covenant
@@ -76927,9 +76492,6 @@ light_up
 	lights 28
 boding
 	boding 2
-cheering
-	cheering 4
-	shouting 5
 long-staff
 	long-staff 1
 rich_people
@@ -76954,8 +76516,6 @@ negligence
 	carelessness 1
 	neglect 42
 	negligence 39
-,yet
-	,yet 4
 less
 	lesser 84
 	less 1290
@@ -76979,7 +76539,7 @@ arrest
 	checks 7
 	stop 97
 	stops 17
-	stay 415
+	stay 416
 	arrest 54
 	halts 2
 	stays 36
@@ -76992,12 +76552,10 @@ combine
 	combined 4
 combind
 	combind 4
-showers
-	showers 13
 contempts
 	contempts 3
 beryllium
-	be 6851
+	be 6852
 	bess 1
 whisperd
 	whisperd 1
@@ -77094,6 +76652,7 @@ low-bending
 doer
 	doer 1
 does
+	doth 864
 	does 333
 keystone
 	keys 13
@@ -77139,8 +76698,12 @@ wakst
 	wakst 5
 mariana_islands
 	marianas 2
-includes
-	includes 2
+fetid
+	foulest 3
+	noisome 5
+	fouler 8
+	foul 212
+	stinking 10
 gaoler
 	gaoler 14
 hiding
@@ -77153,8 +76716,12 @@ oerblows
 	oerblows 1
 furred
 	furred 6
-bounded
-	bounded 6
+nautical_mile
+	miles 40
+	knots 8
+	mile 58
+	mi 10
+	knot 28
 concession
 	grants 3
 	yielding 16
@@ -77232,7 +76799,7 @@ entered
 detestable
 	detestable 6
 idol
-	god 770
+	god 777
 	idol 18
 	gods 463
 monument
@@ -77375,8 +76942,6 @@ erga
 	erga 1
 soused
 	soused 1
-;sitting
-	;sitting 1
 ergo
 	ergo 14
 bunches
@@ -77490,8 +77055,6 @@ cogent
 	telling 26
 	weightier 3
 	weighty 14
-,wi
-	,wi 1
 far-off
 	far-off 3
 sovreigns
@@ -77552,7 +77115,7 @@ springes
 	springes 1
 word
 	word 2510
-	words 1660
+	words 1664
 wore
 	wore 25
 letters-patent
@@ -77639,7 +77202,7 @@ lag
 	lag 24
 	lagging 3
 fall_back
-	lost 257
+	lost 258
 	resorted 1
 	loses 9
 	resort 14
@@ -77651,7 +77214,7 @@ lax
 lay
 	layest 1
 	reposing 3
-	laying 40
+	laying 44
 	repose 25
 	laid 352
 	lay 1668
@@ -77693,7 +77256,7 @@ order
 	enjoined 2
 	order 1408
 	ordering 24
-	say 1664
+	say 1666
 	enjoin 2
 	telling 26
 	tells 44
@@ -77803,7 +77366,7 @@ vaumond
 	vaumond 1
 oxygen
 	os 1
-	o 2578
+	o 2614
 wild_medlar
 	medlar 6
 	medlars 1
@@ -77844,7 +77407,7 @@ fellowship
 	fellowship 34
 	fellowships 1
 five_hundred
-	d 14
+	d 16
 kip
 	upstart 2
 ill-boding
@@ -77940,7 +77503,7 @@ rebuff
 	slights 1
 	slight 30
 mercy
-	mercy 516
+	mercy 519
 	mercies 6
 	mercys 2
 targes
@@ -77996,8 +77559,6 @@ blink_of_an_eye
 	wink 27
 	flashes 4
 	trice 4
-.will
-	.will 1
 sconce
 	sconce 35
 chaffless
@@ -78011,8 +77572,8 @@ sand-blind
 	sand-blind 1
 eels
 	eels 2
-,should
-	,should 3
+ponder
+	ponder 1
 genuine
 	unfeigned 3
 	truest 11
@@ -78108,7 +77669,7 @@ toast
 	saluted 1
 	wassail 3
 	pledge 20
-	drunk 66
+	drunk 67
 	drink 154
 	drinkings 1
 	pledges 4
@@ -78229,6 +77790,7 @@ clerestories
 	clerestories 1
 caves
 	caves 6
+	anters 0
 colleagued
 	colleagued 1
 mincing
@@ -78314,10 +77876,8 @@ speak
 	talk 198
 	talks 14
 	speaks 238
-	speaking 80
-	speak 3519
-!seek
-	!seek 1
+	speaking 82
+	speak 3525
 trickery
 	wiles 2
 	guile 3
@@ -78384,6 +77944,7 @@ entertaint
 	entertaint 1
 woful
 	woful 4
+quilets
 mistake
 	errors 6
 	mistook 20
@@ -78441,6 +78002,7 @@ stint
 	stints 2
 wooing
 	wooing 26
+	suit 959
 descent
 	decline 9
 	descent 85
@@ -78536,6 +78098,7 @@ discreet
 impertinent
 	saucy 33
 	impertinent 4
+	malapert 3
 	pert 2
 a-field
 	a-field 3
@@ -78604,7 +78167,7 @@ theyre
 	theyre 15
 keep_up
 	following 29
-	follow 305
+	follow 306
 	followed 10
 	follows 59
 unnecessary
@@ -78730,7 +78293,7 @@ perpetuity
 jupiter
 	joves 16
 	jupiter 102
-	jove 74
+	jove 75
 galliard
 	galliard 4
 roundure
@@ -78944,7 +78507,7 @@ rouge
 	paints 1
 discover
 	findings 2
-	discover 132
+	discover 136
 	finds 82
 	discovered 27
 	discovers 12
@@ -79153,7 +78716,7 @@ write
 	composed 2
 	indited 2
 	pent 6
-	saving 12
+	saving 15
 	penning 1
 	writes 147
 	saves 6
@@ -79167,7 +78730,7 @@ write
 	writings 14
 	composes 1
 	pens 3
-	save 207
+	save 208
 	saved 17
 	wrote 63
 mastick
@@ -79183,7 +78746,7 @@ swarth
 sacrifice
 	given 190
 	sacrificing 8
-	give 1341
+	give 1346
 	giving 38
 	sacrifice 189
 	sacrifices 48
@@ -79197,6 +78760,7 @@ use
 	using 40
 	applies 1
 	expend 4
+	lay-to 1
 	employ 22
 	usage 12
 	uses 128
@@ -79252,7 +78816,7 @@ sealing_wax
 	seals 9
 	seal 64
 whats
-	whats 338
+	whats 339
 comeliness
 	comeliness 2
 	loveliness 1
@@ -79264,8 +78828,8 @@ trifle
 	trifles 15
 tending
 	tending 6
-!the
-	!the 2
+hyperions
+	hyperions 3
 deafend
 	deafend 1
 curls
@@ -79372,13 +78936,13 @@ kingdoms
 	kingdoms 35
 honest
 	honester 25
-	fair 728
+	fair 729
 	honestest 5
 	fairest 40
 	honest 1746
 	fairer 35
 seest
-	seest 50
+	seest 51
 kingdomd
 	kingdomd 1
 oermastert
@@ -79423,12 +78987,12 @@ thaw
 	melting 9
 	thaw 20
 	melts 2
-	melt 29
+	melt 30
 	thaws 3
 	warming 1
 	thawing 2
 that
-	that 10726
+	that 10758
 thieving
 	thievish 3
 demetrius
@@ -79483,7 +79047,7 @@ recover
 overhold
 	overhold 1
 armigero
-	armigero 1
+	armigero 2
 gangrend
 	gangrend 1
 gangrene
@@ -79570,6 +79134,7 @@ oscilloscope
 beatnik
 	beat 123
 	beats 19
+dupp'd
 bracelets
 	bracelets 2
 leather
@@ -79595,7 +79160,7 @@ shipwright
 starblasting
 	starblasting 1
 namely
-	videlicet 3
+	videlicet 4
 	namely 12
 unfit
 	unfit 30
@@ -79648,7 +79213,7 @@ garde
 	garde 1
 pluck
 	tore 4
-	pull 12
+	pull 13
 	tear 77
 	pulling 1
 	torn 13
@@ -79679,7 +79244,7 @@ cleave
 	cleaving 4
 	splitting 4
 	split 19
-	cleft 14
+	cleft 16
 	cloven 12
 discernible
 	evident 6
@@ -79772,8 +79337,6 @@ lingare
 	lingare 1
 upmost
 	upmost 1
-;well
-	;well 2
 assinego
 	assinego 1
 coal_black
@@ -79824,7 +79387,7 @@ centuries
 overpeering
 	overpeering 1
 frankincense
-	thus 769
+	thus 770
 sieges
 	sieges 1
 goddess-like
@@ -79836,7 +79399,7 @@ charges
 limb-meal
 	limb-meal 1
 force_out
-	force 102
+	force 103
 	forces 21
 suppliant
 	suppliant 10
@@ -79853,8 +79416,6 @@ scabies
 	itch 7
 firebrands
 	firebrands 1
-,comes
-	,comes 1
 madrigals
 	madrigals 2
 heapd
@@ -80039,9 +79600,9 @@ resuscitate
 corselet
 	corslet 1
 nowadays
-	now 2794
+	now 2798
 your
-	your 6751
+	your 6755
 impawn
 	impawn 1
 pirates
@@ -80057,7 +79618,7 @@ area
 	countries 6
 	countrys 45
 assumed
-	false 269
+	false 270
 	pretended 1
 	falser 2
 cicatrice
@@ -80134,7 +79695,12 @@ toothpicker
 key-cold
 	key-cold 1
 you
-	you 13844
+	thy 3811
+	thou 5357
+	thee 3103
+	ye 280
+	thine 417
+	you 13855
 down-roping
 	down-roping 1
 text_file
@@ -80164,8 +79730,6 @@ condensation
 	abridgment 4
 intelligo
 	intelligo 1
-,like
-	,like 1
 apathy
 	numbness 1
 vines
@@ -80210,6 +79774,7 @@ falling-from
 	falling-from 1
 deep-rooted
 	planted 9
+	ingrafted 0
 ruttish
 	ruttish 1
 new-tuned
@@ -80234,7 +79799,7 @@ securely
 	firmly 8
 heaven
 	heavens 178
-	heaven 1264
+	heaven 1272
 heaved
 	heaved 2
 acerb
@@ -80270,8 +79835,6 @@ gyves
 	gyves 5
 foot-land-rakers
 	foot-land-rakers 1
-!did
-	!did 1
 excitements
 	excitements 2
 resound
@@ -80286,7 +79849,7 @@ resound
 	ring 153
 wisconsin
 	wis 4
-	wi 16
+	wi 17
 strewst
 	strewst 1
 casual
@@ -80357,6 +79920,7 @@ shuffle
 	ruffle 4
 	makes 343
 	scuffles 1
+mooncalf
 mediator
 	intercessors 1
 	go-between 1
@@ -80374,7 +79938,7 @@ human_body
 	anatomy 4
 	form 96
 	figure 40
-	flesh 135
+	flesh 136
 	frame 44
 	forms 24
 	shape 82
@@ -80483,8 +80047,8 @@ trier
 derives
 	derives 5
 a
-	a 41454
-	as 11216
+	a 41508
+	as 11308
 contrived
 	contrived 4
 deluge
@@ -80519,7 +80083,7 @@ committee
 committed
 	committed 68
 eros
-	eros 52
+	eros 54
 limelight
 	glare 1
 	glares 2
@@ -80531,6 +80095,8 @@ actually
 	really 1
 disclosed
 	disclosed 2
+peanuts
+	pignuts 0
 hyperboles
 	hyperboles 2
 flabbergast
@@ -80592,8 +80158,6 @@ sympathizer
 	comforter 4
 meditating
 	meditating 5
-,how
-	,how 5
 fountain
 	jet 8
 	fount 2
@@ -80680,7 +80244,7 @@ mist
 	mists 3
 miss
 	lacking 5
-	lost 257
+	lost 258
 	escapes 4
 	lack 93
 	escape 19
@@ -80792,8 +80356,6 @@ tenours
 	tenours 1
 comrades
 	comrades 1
-.ods
-	.ods 1
 sentences
 	sentences 6
 imperfect
@@ -80838,6 +80400,7 @@ lip
 	lips 390
 	lip 140
 useless
+	bootless 40
 	useless 2
 comprehended
 	comprehended 1
@@ -80913,7 +80476,7 @@ clean
 	picked 12
 	strip 6
 	fairer 35
-	fair 728
+	fair 729
 	fairest 40
 	stripes 4
 	clearer 6
@@ -80926,7 +80489,7 @@ clean
 	neat 11
 	clean 550
 	pick 18
-	fresh 78
+	fresh 79
 	freshest 3
 	clear 120
 lordship
@@ -81017,8 +80580,6 @@ plausible
 	plausible 3
 hasty-witted
 	hasty-witted 1
-!all
-	!all 1
 twenty-one
 	twenty-one 3
 probable
@@ -81059,11 +80620,12 @@ ever-running
 gaunt
 	gaunt 35
 sensitive
-	tender 130
-	raw 13
+	comptible 1
+	sore 41
 	sorer 1
 	rawer 1
-	sore 41
+	raw 13
+	tender 130
 kimbolton
 	kimbolton 1
 changelings
@@ -81174,7 +80736,7 @@ fleet
 	fleeter 2
 	swifter 13
 animated
-	alive 89
+	alive 90
 unkindly
 	unkindly 18
 fleer
@@ -81234,8 +80796,6 @@ bonus
 	fillip 3
 marzipan
 	marchpane 1
-,do
-	,do 3
 pieplant
 	rhubarb 1
 ?and
@@ -81265,8 +80825,6 @@ auditor
 	auditors 2
 unroofd
 	unroofd 1
-:nutmegs
-	:nutmegs 1
 appalled
 	appalled 1
 scouring
@@ -81309,7 +80867,7 @@ cast-iron
 conjured
 	conjured 2
 botch
-	blow 93
+	blow 94
 	blew 4
 	blowing 7
 	blown 36
@@ -81342,7 +80900,7 @@ harmonize
 	consort 11
 	agrees 6
 	consorted 7
-	according 44
+	according 45
 	accords 3
 	reconciles 2
 	agree 19
@@ -81416,7 +80974,7 @@ curriculum_vitae
 	resumes 1
 	resume 3
 some
-	some 6495
+	some 6500
 undress
 	uncase 1
 	stripped 1
@@ -81438,6 +80996,7 @@ bruising
 	bruising 12
 fatherd
 	fatherd 3
+long-ingraffed
 jacet
 	jacet 1
 posterns
@@ -81453,8 +81012,6 @@ costlier
 eating
 	feeding 13
 	eating 24
-.so
-	.so 1
 booklet
 	pamphlets 1
 knight_bachelor
@@ -81498,11 +81055,13 @@ foreswear
 	quit 48
 	renounce 5
 	quits 2
+	renouncing 1
 	relinquished 1
 	quitting 1
 	quitted 1
 complainings
 	complainings 1
+crochets
 raggedst
 	raggedst 1
 main-top
@@ -81657,7 +81216,7 @@ pronouns
 shearman
 	shearman 1
 nay
-	nay 1773
+	nay 1779
 pandar
 	pandar 8
 draw
@@ -81671,22 +81230,22 @@ draw
 	lots 4
 	make 1639
 	lot 4
-	got 121
+	got 122
 	gets 13
 	draw 6060
 	casting 3
 	quartering 1
 	get 312
 	makings 1
-	drew 704
+	drew 726
 	tie 18
 	drawn 1694
 	pulled 3
-	pull 12
+	pull 13
 	made 819
 	getting 11
 	gotten 5
-	cast 103
+	cast 104
 	casts 4
 	making 72
 	quarter 20
@@ -81731,8 +81290,6 @@ structure
 	construction 9
 antecedent
 	forerunner 3
-,three
-	,three 1
 bleached
 	coloured 2
 	faded 3
@@ -81768,7 +81325,7 @@ proposition
 	propositions 4
 sixpence
 	tanner 2
-	sixpence 24
+	sixpence 26
 newsworthiness
 	news 317
 aristocrat
@@ -81776,8 +81333,6 @@ aristocrat
 	patricians 14
 kill-courtesy
 	kill-courtesy 1
-,have
-	,have 4
 call_on
 	turn 271
 	turned 37
@@ -81835,7 +81390,7 @@ imbecility
 	imbecility 2
 ardent
 	ardent 4
-	warm 42
+	warm 43
 	warmer 2
 	fiery 44
 languor
@@ -81983,7 +81538,7 @@ salad
 	salad 4
 ride
 	sits 50
-	sitting 18
+	sitting 19
 	mounting 8
 	ride 676
 	sit 214
@@ -82024,7 +81579,7 @@ control
 	hold 451
 	curbed 2
 	commands 29
-	command 173
+	command 174
 	contain 14
 wharf
 	wharf 5
@@ -82172,7 +81727,7 @@ front
 	faced 4
 	looking 28
 	fronts 32
-	look 823
+	look 824
 	fronted 2
 	breasts 9
 	face 405
@@ -82234,7 +81789,7 @@ gallant
 consignd
 	consignd 2
 may
-	may 3294
+	may 3296
 	mays 1
 shambles
 	shambles 4
@@ -82302,8 +81857,8 @@ cutpurse
 	cutpurse 2
 loving-jealous
 	loving-jealous 1
-,even
-	,even 1
+astronomic
+	astronomical 2
 privacy
 	concealments 1
 	privacy 9
@@ -82342,6 +81897,7 @@ punish
 	punish 42
 	punishes 1
 	punished 6
+	amerce 3
 exactly
 	exactly 6
 unlaid
@@ -82397,7 +81953,7 @@ bilberry
 cannoneer
 	cannoneer 2
 neer
-	neer 228
+	neer 229
 allied_command_europe
 	ace 3
 need
@@ -82560,6 +82116,7 @@ joins
 	joins 2
 magistrate
 	magistrates 6
+	praetor 0
 	magistrate 6
 buyer
 	buyer 4
@@ -82573,8 +82130,6 @@ dejected
 	dejected 12
 trammel
 	trammel 3
-,priam
-	,priam 1
 contain
 	containing 12
 	contains 20
@@ -82583,7 +82138,7 @@ contain
 	holds 76
 	took 157
 	held 82
-	take 1210
+	take 1211
 	holding 22
 	contain 42
 	taken 91
@@ -82638,7 +82193,7 @@ state
 	nation 30
 	states 96
 	countrys 45
-	say 1664
+	say 1666
 	land 209
 	telling 26
 	countries 6
@@ -82705,8 +82260,6 @@ furnace-burning
 	furnace-burning 1
 doublot
 	doublot 1
-,their
-	,their 1
 poem
 	poem 2
 tread
@@ -82832,7 +82385,7 @@ scourged
 effect
 	effected 18
 	core 4
-	force 102
+	force 103
 	burden 43
 	essence 3
 	effect 469
@@ -82858,8 +82411,6 @@ glower
 	glares 2
 obstacles
 	obstacles 2
-!do
-	!do 1
 restord
 	restord 13
 restore
@@ -82898,8 +82449,6 @@ poperin
 	poperin 1
 scelera
 	scelera 1
-,part
-	,part 1
 rafter
 	balk 1
 ample
@@ -82955,7 +82504,7 @@ shed
 	shedding 6
 	throw 105
 	moult 1
-	cast 103
+	cast 104
 	dropping 5
 	dropped 3
 	slough 5
@@ -82975,8 +82524,6 @@ warmer
 	warmer 2
 shes
 	shes 162
-uneath
-	uneath 1
 snuffs
 	snuffs 1
 mary-buds
@@ -83007,9 +82554,6 @@ over-ruld
 	over-ruld 2
 pr
 	pr 6
-charger
-	courser 3
-	coursers 5
 here-remain
 	here-remain 1
 empty-hearted
@@ -83075,17 +82619,15 @@ utility
 	substitute 11
 	utility 8
 doubtless
-	doubtless 8
+	doubtless 9
 northamptonshire
 	northamptonshire 2
 sublunar
 	terrestrial 2
 whom
-	whom 457
+	whom 461
 prononcer
 	prononcer 1
-:do
-	:do 1
 oertook
 	oertook 2
 prononcez
@@ -83119,8 +82661,6 @@ tapers
 	tapers 7
 counterfeitst
 	counterfeitst 3
-,good
-	,good 1
 ph
 	ph 76
 all_over
@@ -83233,8 +82773,6 @@ chalkd
 change_of_location
 	travels 7
 	travel 34
-.trinculo
-	.trinculo 1
 neats-leather
 	neats-leather 1
 pale_yellow
@@ -83289,6 +82827,8 @@ cozenage
 	cozenage 4
 appal
 	appal 2
+misunderstanding
+	misprision 6
 encaged
 	encaged 1
 good-jer
@@ -83331,7 +82871,7 @@ parallel_bars
 force
 	forced 24
 	strength 117
-	force 918
+	force 927
 	driving 3
 	drove 8
 	ram 6
@@ -83389,11 +82929,12 @@ quill
 	quill 8
 	shafts 2
 even
-	even 6912
+	even 6948
 	evening 38
-	still 510
-	yet 1558
+	yea 558
 	regular 2
+	still 510
+	yet 1562
 jewelry_maker
 	jeweller 2
 prisons
@@ -83432,8 +82973,9 @@ misprising
 	misprising 3
 active
 	active 80
+	factious 10
 	fighting 11
-	alive 89
+	alive 90
 long-usurped
 	long-usurped 1
 taper
@@ -83450,7 +82992,7 @@ permit
 	allows 4
 	countenance 58
 	lets 271
-	let 2097
+	let 2107
 	allowing 3
 	allow 25
 	allowed 8
@@ -83519,6 +83061,7 @@ call
 	claim 62
 	ringing 1
 	calls 2728
+	clepe 1
 	rings 14
 	calling 374
 	call 18304
@@ -83611,7 +83154,7 @@ answer
 	answers 247
 	answered 153
 	replies 10
-	answer 5292
+	answer 5306
 	reply 48
 hugger-mugger
 	hugger-mugger 3
@@ -83721,7 +83264,7 @@ betted
 unprovided
 	unprovided 7
 ,
-	, 82078
+	, 82747
 better
 	better 7605
 	bettering 6
@@ -83755,7 +83298,7 @@ overcome
 	subdue 9
 	surmounts 1
 	surmounted 1
-	master 774
+	master 775
 	surmount 1
 	subdues 5
 	overcome 18
@@ -83764,7 +83307,7 @@ downy
 haviour
 	haviour 6
 prithee
-	prithee 224
+	prithee 226
 fixation
 	fixing 2
 weakness
@@ -83821,7 +83364,7 @@ public_opinion
 smites
 	smites 2
 extract
-	pull 12
+	pull 13
 	pulled 3
 	extracted 4
 	pulling 1
@@ -83948,7 +83491,7 @@ solomon
 silly
 	silly 32
 speaking
-	speaking 120
+	speaking 123
 deserving
 	worth 194
 	deserving 30
@@ -84000,8 +83543,6 @@ hoods
 	hoods 2
 prosperitys
 	prosperitys 1
-:now
-	:now 2
 prosperities
 	prosperities 1
 western_fence_lizard
@@ -84145,7 +83686,7 @@ bag
 	bags 81
 bad
 	tough 8
-	worse 2119
+	worse 2132
 	defective 5
 	tougher 1
 	big 41
@@ -84161,7 +83702,7 @@ bad
 	bigger 15
 softly
 	quietly 9
-	softly 66
+	softly 69
 epistle_of_jude
 	jude 2
 baa
@@ -84177,10 +83718,9 @@ bai
 	bais 1
 unworthy
 	unworthy 74
+	indign 1
 fee-tail
 	entail 3
-;come
-	;come 1
 intertwine
 	laced 6
 	twine 2
@@ -84222,8 +83762,6 @@ honey-dew
 	honey-dew 1
 vaux
 	vaux 4
-usurps
-	usurps 4
 ignorance
 	ignorance 76
 excusable
@@ -84255,7 +83793,7 @@ contribution
 	parts 104
 	shares 4
 	donation 8
-	part 434
+	part 435
 	contribution 12
 confronted
 	confronted 4
@@ -84302,7 +83840,7 @@ hornpipes
 three
 	deuce-ace 1
 	treys 1
-	three 996
+	three 999
 	threes 4
 	leash 3
 	iii 2
@@ -84336,7 +83874,7 @@ sly
 originate
 	grown 55
 	uprising 1
-	grew 27
+	grew 28
 	risen 4
 	initiate 1
 	started 4
@@ -84366,7 +83904,7 @@ suppose
 	said 386
 	says 235
 	sayings 5
-	say 1664
+	say 1666
 	suppose 64
 	supposed 15
 	supposing 4
@@ -84424,11 +83962,8 @@ concourse
 	confluence 1
 misconstrud
 	misconstrud 3
-misconstrue
-	misconceived 1
-	misinterpret 1
-	misconstrues 1
-	misinterpreting 1
+droppd
+	droppd 12
 bunker
 	traps 2
 	trap 4
@@ -84446,7 +83981,7 @@ warded
 smokes
 	smokes 3
 north_korean_won
-	won 92
+	won 93
 claimd
 	claimd 2
 please-man
@@ -84597,7 +84132,7 @@ bolt
 orthographer
 	orthographer 1
 meow
-	mew 8
+	mew 10
 lapis
 	lapis 3
 haply
@@ -84752,6 +84287,7 @@ hypertrophied
 	enlarged 1
 disprovst
 	disprovst 1
+anters
 covert
 	covert 28
 dites
@@ -84798,10 +84334,6 @@ beastliness
 	beastliness 3
 insurrections
 	insurrections 2
-,lo
-	,lo 1
-,la
-	,la 1
 apology
 	excuse 72
 	apology 20
@@ -84892,7 +84424,7 @@ amaze
 finally
 	finally 2
 praised
-	praised 21
+	praised 22
 telamonius
 	telamonius 1
 borderer
@@ -84950,7 +84482,7 @@ portcullisd
 nectar
 	nectar 6
 did
-	did 1621
+	did 1623
 die
 	goss 1
 	gone 465
@@ -84958,7 +84490,7 @@ die
 	decease 3
 	pall 2
 	pass 136
-	go 1736
+	go 1739
 	croaks 1
 	croaking 1
 	goes 167
@@ -85017,7 +84549,7 @@ refusing
 she-bear
 	she-bear 1
 whitethorn
-	may 1647
+	may 1648
 	mays 1
 bed-fellows
 	bed-fellows 1
@@ -85030,7 +84562,7 @@ drunkard
 	drunkards 7
 	sot 7
 	sots 1
-	drunk 66
+	drunk 67
 dishonestly
 	dishonestly 4
 amplitude_modulation
@@ -85081,7 +84613,7 @@ institute
 	institute 6
 	brings 50
 	brought 197
-	bring 451
+	bring 452
 	bringing 15
 odour
 	odour 2
@@ -85090,8 +84622,6 @@ cup_of_tea
 	bag 8
 	dishes 9
 	bags 9
-,whateer
-	,whateer 1
 cappadocia
 	cappadocia 2
 massage
@@ -85181,7 +84711,7 @@ fly
 	flown 72
 	wing 28
 	fell 122
-	flew 60
+	flew 72
 	fells 1
 	vanished 4
 	pilots 4
@@ -85225,12 +84755,12 @@ arrive
 	getting 11
 	arrives 4
 	arrived 6
-	comes 601
+	comes 602
 	coming 144
 	arriving 2
-	got 121
+	got 122
 	gets 13
-	come 2559
+	come 2564
 	came 346
 bites
 	bites 10
@@ -85243,7 +84773,7 @@ claim
 	claiming 5
 	took 314
 	titles 26
-	take 2420
+	take 2422
 	exacting 1
 	taken 182
 	claims 81
@@ -85275,8 +84805,10 @@ agent
 drawer
 	drawer 18
 	drawers 4
-.welcome
-	.welcome 1
+disbelieve
+	discredits 1
+	discredit 5
+	discredited 2
 yoricks
 	yoricks 1
 nevil
@@ -85328,8 +84860,6 @@ all-hailed
 borrowing
 	borrowing 12
 	adoption 4
-,cocks
-	,cocks 1
 switch
 	shifted 8
 	shift 81
@@ -85471,9 +85001,9 @@ dominate
 	commanding 9
 	commands 29
 	overlooks 2
-	command 173
+	command 174
 	commanded 39
-	master 774
+	master 775
 correct
 	right 1348
 	rectify 3
@@ -85525,8 +85055,8 @@ so-never-needed
 	so-never-needed 1
 nativity
 	nativity 13
-amidst
-	amidst 1
+signifies
+	signifies 3
 discharged
 	dismissed 1
 	discharged 12
@@ -85554,7 +85084,7 @@ whipping-cheer
 fingre
 	fingre 2
 undoubtedly
-	doubtless 8
+	doubtless 9
 	undoubtedly 2
 dukedom
 	dukedom 48
@@ -85709,10 +85239,10 @@ busiest
 	busiest 1
 yield
 	bearing 39
-	give 1341
+	give 1346
 	pays 24
 	soften 5
-	born 170
+	born 171
 	bore 30
 	affords 12
 	borne 75
@@ -85726,7 +85256,7 @@ yield
 	paid 63
 	yielded 120
 	fruit 35
-	bear 528
+	bear 529
 	paying 6
 	relents 1
 	yielding 80
@@ -85790,8 +85320,9 @@ whispered
 	whispered 2
 brawns
 	brawns 1
-.thisby
-	.thisby 1
+parent
+	parents 38
+	parent 12
 welovd
 	welovd 1
 pained
@@ -85808,8 +85339,6 @@ ringleader
 	ringleader 2
 tractable
 	tractable 12
-.how
-	.how 1
 trader
 	traders 4
 	dealers 1
@@ -85824,8 +85353,6 @@ methoughts
 	methoughts 1
 patrons
 	patrons 1
-swounded
-	swounded 4
 traded
 	traded 2
 stretches
@@ -85976,7 +85503,7 @@ harsh
 doctor
 	physicians 10
 	doctors 36
-	doctor 335
+	doctor 340
 	physician 22
 pax
 	pax 4
@@ -86066,7 +85593,7 @@ pacified
 	pacified 2
 burn_off
 	burns 26
-	burn 76
+	burn 77
 	burnt 16
 	burned 3
 	burning 42
@@ -86251,7 +85778,7 @@ roar
 	howl 16
 violence
 	violence 57
-	force 102
+	force 103
 	forces 21
 nonuple
 	nine-fold 1
@@ -86318,7 +85845,7 @@ chats
 	chats 1
 trey
 	treys 1
-	three 332
+	three 333
 	threes 4
 bettering
 	bettering 4
@@ -86343,8 +85870,6 @@ gore
 corse
 	corse 87
 	corses 4
-,most
-	,most 1
 porches
 	porches 1
 illustrous
@@ -86392,7 +85917,7 @@ interessd
 eget
 	eget 1
 fellow
-	fellow 912
+	fellow 915
 	fellows 162
 hound
 	hunts 3
@@ -86557,8 +86082,6 @@ dampen
 	weaken 2
 trustful
 	trusting 6
-;so
-	;so 1
 agonistic
 	strained 1
 engluts
@@ -86705,8 +86228,6 @@ incontinently
 varying
 	variable 6
 	varying 8
-,drunk
-	,drunk 1
 nineteen
 	nineteen 9
 mistress-piece
@@ -86743,7 +86264,7 @@ share
 	deals 1
 	dealings 2
 	portion 7
-	part 434
+	part 435
 	dealt 8
 shard
 	fragment 3
@@ -86830,8 +86351,8 @@ rounder
 lewdly
 	lewdly 4
 	obscenely 2
-ilias
-	ilias 1
+gins
+	gins 6
 avouches
 	avouches 2
 arrogant
@@ -86841,6 +86362,7 @@ arteries
 lubberly
 	lubberly 3
 possessions
+	livings 1
 	possessions 5
 forthwith
 	forthwith 22
@@ -86870,11 +86392,11 @@ hurting
 good
 	sound 170
 	honester 5
-	good 50688
+	good 50706
 	just 142
 	ripe 40
 	sounder 3
-	well 2504
+	well 2516
 	ripest 2
 	upright 22
 	honest 291
@@ -87012,6 +86534,7 @@ devilishly
 	devilish 13
 benefits
 	benefits 7
+	steads 3
 prophet
 	oracle 27
 	prophet 42
@@ -87118,8 +86641,8 @@ ambitiously
 	ambitiously 4
 lycurguses
 	lycurguses 1
-,into
-	,into 1
+deadly-standing
+	deadly-standing 1
 ages
 	ages 15
 affray
@@ -87191,7 +86714,7 @@ pepper-box
 toad-spotted
 	toad-spotted 1
 organism
-	being 640
+	being 642
 pioner
 	pioner 1
 nobility
@@ -87341,7 +86864,7 @@ catlings
 	catlings 1
 please
 	pleases 51
-	please 1985
+	please 1990
 	delighted 5
 	delight 52
 	pleasing 63
@@ -87385,13 +86908,13 @@ consumd
 consume
 	consume 54
 	wasting 3
-	have 5945
+	have 5951
 	squandering 1
 	consuming 20
 	takes 81
 	wares 4
-	had 1437
-	take 1210
+	had 1438
+	take 1211
 	taken 91
 	has 389
 	haves 1
@@ -87408,7 +86931,7 @@ consume
 	ate 3
 	squandered 1
 	consumed 5
-	having 155
+	having 156
 	eats 18
 	consumes 5
 	taking 31
@@ -87457,8 +86980,6 @@ frets
 	frets 6
 bondwoman
 	bondmaid 2
-,twould
-	,twould 1
 unchaste
 	unchaste 8
 collaborator
@@ -87646,9 +87167,8 @@ snap
 	cracked 4
 silken
 	silken 15
-fifth_wheel
-	spare 61
-	spares 3
+livest
+	livest 3
 press-money
 	press-money 1
 big
@@ -87686,7 +87206,7 @@ bid
 	play 292
 	biddings 1
 	biding 9
-	bid 2338
+	bid 2345
 	presses 4
 	bidding 104
 	press 30
@@ -87788,7 +87308,8 @@ transgress
 	breach 31
 	breaks 28
 often
-	often 230
+	often 232
+	oft 140
 magnificent
 	magnificent 2
 ah
@@ -87867,8 +87388,8 @@ have_a_bun_in_the_oven
 	carried 27
 	bears 106
 	expects 3
-	bear 528
-	born 170
+	bear 529
+	born 171
 	carries 23
 	carrying 5
 	expecting 6
@@ -87924,7 +87445,7 @@ proportional
 	relative 1
 schoolmarm
 	mistresses 6
-	mistress 404
+	mistress 405
 	mistresss 3
 emblaze
 	emblaze 1
@@ -88009,7 +87530,7 @@ lend
 	bestows 5
 	lending 9
 	brought 197
-	bring 451
+	bring 452
 	lendings 6
 	bestowing 5
 	adding 8
@@ -88095,7 +87616,7 @@ atlas
 	atlas 5
 	telamon 1
 redemptive
-	saving 12
+	saving 15
 	redeeming 3
 fatal
 	fatal 126
@@ -88125,7 +87646,7 @@ arrange
 	setting 23
 	putting 18
 	sets 25
-	put 488
+	put 489
 	order 88
 understandings
 	understandings 1
@@ -88136,7 +87657,7 @@ profligacy
 cheapside
 	cheapside 2
 shock
-	blow 93
+	blow 94
 	shock 78
 	outrages 5
 	floor 4
@@ -88186,6 +87707,7 @@ body
 	bodied 1
 	bodys 171
 	bodies 387
+	corse 87
 justification
 	justification 4
 esteemest
@@ -88293,7 +87815,7 @@ beckon
 	beckoning 3
 	beckons 9
 	wave 10
-	waving 7
+	waving 8
 	waves 18
 scandal
 	outrage 13
@@ -88305,8 +87827,6 @@ limd
 lime
 	limed 4
 	lime 48
-.vere
-	.vere 1
 stinted
 	stinted 2
 tar
@@ -88355,16 +87875,12 @@ crickets
 	crickets 6
 indignities
 	indignities 4
-,though
-	,though 7
-,ding
-	,ding 1
 trimmd
 	trimmd 10
 immoderate
 	immoderate 2
-,liking
-	,liking 1
+oer-cloyed
+	oer-cloyed 1
 renewed
 	renewed 2
 unseparable
@@ -88399,8 +87915,6 @@ travel_to
 	visiting 5
 bashfulness
 	bashfulness 1
-,to
-	,to 18
 stock
 	carried 27
 	stockings 84
@@ -88467,8 +87981,6 @@ embers
 	embers 1
 repentant
 	repentant 2
-!won
-	!won 1
 shreds
 	shreds 2
 laureled
@@ -88492,7 +88004,7 @@ bridget
 culverin
 	culverin 3
 whereof
-	whereof 78
+	whereof 79
 winning
 	winning 8
 unhandsome
@@ -88522,8 +88034,8 @@ dan
 	dan 1
 annoyd
 	annoyd 1
-dat
-	dat 25
+harnessd
+	harnessd 2
 mention
 	named 2
 	name 654
@@ -88715,15 +88227,11 @@ regreets
 	regreets 1
 dissever
 	dissever 2
-,now
-	,now 1
-,not
-	,not 5
 gear
 	pitched 3
 	appurtenance 1
 	gear 55
-	pitch 28
+	pitch 29
 veridical
 	real 2
 murmur
@@ -88898,11 +88406,11 @@ stripes
 bear
 	bearing 195
 	accepted 3
-	born 850
+	born 855
 	bears 742
 	holds 76
 	accepts 1
-	bear 4224
+	bear 4232
 	held 82
 	accept 32
 	assume 14
@@ -88982,7 +88490,7 @@ turks
 extradite
 	delivered 26
 	delivers 7
-	deliver 101
+	deliver 102
 	delivering 4
 war-proof
 	war-proof 1
@@ -89048,6 +88556,8 @@ vaulting_horse
 	bucks 1
 benevolences
 	benevolences 1
+monstrosity
+	mooncalf 0
 veni
 	veni 1
 love-rimes
@@ -89116,7 +88626,7 @@ plain
 	unmingled 2
 appearance
 	appearing 7
-	show 400
+	show 401
 	appearance 84
 	shows 94
 handwriting
@@ -89139,8 +88649,6 @@ variable_star
 	variable 6
 watchful
 	watchful 11
-.do
-	.do 2
 dankish
 	dankish 1
 bloomd
@@ -89156,6 +88664,7 @@ boy-queller
 sweet-faced
 	sweet-faced 2
 frivolous
+	drossy 1
 	frivolous 6
 cypriot_pound
 	pound 53
@@ -89257,8 +88766,6 @@ quiddity
 	quiddities 2
 dryer
 	drier 2
-.but
-	.but 3
 prise
 	prise 1
 inviting
@@ -89312,7 +88819,7 @@ practisants
 alive
 	livest 6
 	live 1010
-	alive 445
+	alive 450
 mirthful
 	mirthful 1
 wider
@@ -89340,8 +88847,6 @@ chains
 	chains 12
 great-grandfather
 	great-grandfather 2
-,your
-	,your 3
 islander
 	islander 2
 	islanders 5
@@ -89516,7 +89021,7 @@ deaths
 	deaths 48
 stopcock
 	cock 26
-	cocks 4
+	cocks 5
 garter
 	garter 57
 	supporter 2
@@ -89614,8 +89119,6 @@ gambold
 	gambold 1
 sleek
 	sleek 6
-,therein
-	,therein 1
 sleep
 	naps 1
 	sleeps 160
@@ -89646,7 +89149,7 @@ suns
 	suns 17
 forbidden
 	forbidden 10
-	out 1350
+	out 1352
 merchant
 	merchant 44
 	merchants 15
@@ -89699,8 +89202,6 @@ amorphous
 	formless 2
 crack-hemp
 	crack-hemp 1
-.come
-	.come 1
 fireplace
 	hearths 1
 	hearth 3
@@ -89746,8 +89247,8 @@ incantation
 	conjuration 4
 louder
 	louder 12
-!well
-	!well 2
+expressive
+	expressive 2
 razes
 	razes 1
 honey-tongud
@@ -89875,6 +89376,7 @@ pouch
 	pockets 12
 	sack 52
 must
+	wilt 1495
 	must 6032
 daff
 	daff 2
@@ -89939,8 +89441,6 @@ bung
 	bung 3
 barne
 	barne 2
-!to
-	!to 3
 bunk
 	rots 1
 	rot 19
@@ -90032,7 +89532,7 @@ digest
 	bearing 39
 	stomaching 1
 	supported 1
-	born 170
+	born 171
 	bore 30
 	suffer 80
 	digest 140
@@ -90051,7 +89551,7 @@ digest
 	abode 9
 	supporting 1
 	stomach 44
-	bear 528
+	bear 529
 	suffering 13
 	brooks 8
 	enduring 1
@@ -90078,6 +89578,7 @@ writing
 	writing 138
 destroyed
 	destroyed 6
+	fordid 1
 man-child
 	man-child 1
 sea-fight
@@ -90140,9 +89641,9 @@ clothe
 	clothing 1
 	clothe 14
 accursd
-	accursd 13
-,well
-	,well 7
+	accursd 14
+accurse
+	accursed 18
 hell-gate
 	hell-gate 1
 driving
@@ -90215,8 +89716,6 @@ prester
 	prester 1
 ruinate
 	ruinate 2
-,whither
-	,whither 1
 perge
 	perge 2
 accent
@@ -90372,8 +89871,6 @@ glow
 	shines 54
 	shining 18
 	glow 42
-.opent
-	.opent 1
 constancy
 	constancy 56
 	constancies 3
@@ -90389,8 +89886,6 @@ metal
 	metals 3
 regards
 	regards 7
-,heres
-	,heres 1
 starve-lackey
 	starve-lackey 1
 rogero
@@ -90443,8 +89938,6 @@ epitaphs
 corn_whiskey
 	corn 34
 	corns 3
-.whats
-	.whats 1
 scripture
 	scripture 8
 	scriptures 1
@@ -90517,8 +90010,6 @@ thrice-crowned
 	thrice-crowned 1
 bargains
 	bargains 3
-self-comparisons
-	self-comparisons 1
 contort
 	deform 1
 	deformed 12
@@ -90538,10 +90029,11 @@ devour
 	consuming 4
 	pigs 1
 	pig 8
-	down 604
+	down 606
 	devour 50
 	ravens 10
 	consumes 1
+	ravening 1
 	raven 15
 devout
 	devout 16
@@ -90627,6 +90119,7 @@ craft
 	craft 102
 	crafted 1
 	crafts 20
+	cautel 1
 	cunning 73
 lorded
 	lorded 1
@@ -90640,11 +90133,11 @@ catch
 	arrests 2
 	catching 168
 	overhear 2
-	caught 630
+	caught 651
 	stops 17
 	arrest 27
 	snap 3
-	got 605
+	got 610
 	gets 65
 	match 82
 	get 1560
@@ -90800,7 +90293,7 @@ disadvantage
 submissive
 	submissive 8
 casting
-	cast 103
+	cast 104
 	casting 9
 	casts 4
 rubicund
@@ -90838,8 +90331,6 @@ diaphanous
 	vaporous 2
 accoutrements
 	accoutrements 2
-,give
-	,give 2
 perfecter
 	perfecter 2
 accost
@@ -90903,6 +90394,8 @@ puzzle
 	puzzled 1
 reportingly
 	reportingly 1
+uncontrolled
+	unbitted 1
 finely
 	finely 40
 	fine 92
@@ -91026,7 +90519,7 @@ tip
 	tips 6
 	wind 177
 tis
-	tis 1414
+	tis 1419
 despising
 	despising 2
 luscious
@@ -91038,7 +90531,7 @@ tie
 	bind 40
 	sleepers 4
 	bound 176
-	drew 32
+	drew 33
 	binds 4
 	tied 150
 	tying 24
@@ -91174,7 +90667,7 @@ brother
 	comrade 2
 	comrades 1
 	brothers 604
-	brother 2660
+	brother 2665
 brothel
 	brothel 4
 recall
@@ -91187,7 +90680,7 @@ quick
 	speediest 3
 	quicker 3
 	ready 147
-	warm 42
+	warm 43
 	warmer 2
 	speedier 2
 	quick 500
@@ -91256,7 +90749,7 @@ hoarse
 	hoarse 5
 rich_person
 	haves 1
-	have 5945
+	have 5951
 supplying
 	supplying 1
 bygone
@@ -91328,8 +90821,6 @@ delusion
 	illusions 2
 dislikst
 	dislikst 2
-.prithee
-	.prithee 1
 dismay
 	dismay 12
 	appal 2
@@ -91370,8 +90861,6 @@ sphere
 	field 153
 wands
 	wands 1
-sheathd
-	sheathd 2
 batty
 	batty 1
 disparagements
@@ -91450,8 +90939,6 @@ playing_period
 	plays 26
 branches
 	branches 15
-,but
-	,but 19
 gorget
 	gorget 2
 amuse
@@ -91644,8 +91131,6 @@ surviving
 	living 112
 engrafted
 	engrafted 1
-,twas
-	,twas 1
 merrily
 	merrily 23
 fetches
@@ -91696,13 +91181,12 @@ season
 	season 246
 ill-well
 	ill-well 1
-,lost
-	,lost 1
 eel-skins
 	eel-skins 1
+fopped
 wide
 	wide 450
-	full 413
+	full 414
 	fuller 2
 	broad 16
 	astray 2
@@ -91724,7 +91208,7 @@ mariner
 	seamen 2
 	seamans 1
 	mariner 6
-	jack 76
+	jack 77
 galathe
 	galathe 1
 confessed
@@ -91788,7 +91272,7 @@ slope
 	inclined 2
 	sides 43
 	inclines 2
-	pitch 28
+	pitch 29
 	pitched 3
 	side 151
 ?hark
@@ -91881,6 +91365,7 @@ orphans
 	orphans 8
 fainted
 	fainted 2
+	swounded 4
 naked
 	naked 240
 	raw 13
@@ -91889,10 +91374,9 @@ clowns
 	clowns 1
 fainter
 	fainter 1
-!matter
-	!matter 1
 ignored
 	neglected 14
+	scanted 4
 well-beloved
 	well-beloved 2
 professes
@@ -91909,17 +91393,17 @@ professed
 	professed 15
 suffer
 	meetings 3
-	have 5945
+	have 5951
 	sustaining 2
 	suffer 800
-	had 1437
+	had 1438
 	sustain 15
-	got 121
+	got 122
 	suffered 126
 	has 389
 	meeting 37
 	haves 1
-	meets 10
+	meets 11
 	hurting 1
 	havings 1
 	get 312
@@ -91931,16 +91415,16 @@ suffer
 	hurts 13
 	losing 20
 	gets 13
-	lost 257
+	lost 258
 	getting 11
 	gotten 5
 	endures 1
 	loses 9
 	endure 75
 	lose 200
-	meet 321
+	meet 322
 	endured 3
-	having 155
+	having 156
 ways
 	ways 152
 addled
@@ -91953,8 +91437,6 @@ arrival
 	reaching 2
 multiplied
 	multiplied 4
-,answer
-	,answer 1
 fearless
 	fearless 3
 inseparable
@@ -92002,9 +91484,9 @@ come
 	came 4498
 	coming 1872
 	following 29
-	follow 305
-	come 35826
-	comes 7813
+	follow 306
+	come 35896
+	comes 7826
 isthmus
 	band 24
 	bands 15
@@ -92027,8 +91509,8 @@ sovreign
 	sovreign 18
 up-stairs
 	up-stairs 1
-.now
-	.now 1
+ungentle
+	ungentle 12
 utterance
 	utterance 20
 provocation
@@ -92094,8 +91576,6 @@ refractory
 	stubborn 24
 	stubbornest 1
 	refractory 3
-,thats
-	,thats 1
 rhymed
 	riming 2
 shops
@@ -92103,7 +91583,7 @@ shops
 american_samoa
 	ass 88
 	ases 1
-	as 5608
+	as 5654
 daubery
 	daubery 1
 leginnings
@@ -92170,7 +91650,7 @@ longing
 	longing 34
 	longings 1
 cheerly
-	cheerly 12
+	cheerly 13
 minimize
 	derogate 3
 caressing
@@ -92195,11 +91675,12 @@ stake
 bareness
 	bareness 6
 violent
-	wild 85
+	termagant 2
+	wilder 2
 	violentest 3
 	violent 164
 	wildest 4
-	wilder 2
+	wild 85
 neertheless
 	neertheless 1
 kill
@@ -92207,7 +91688,7 @@ kill
 	defeats 1
 	defeated 3
 	killing 286
-	kill 2910
+	kill 2925
 	defeat 12
 	killed 455
 addressd
@@ -92219,7 +91700,7 @@ penker
 scarfed
 	scarfed 1
 blow
-	blow 1767
+	blow 1786
 	puffs 1
 	blew 60
 	blowing 105
@@ -92375,7 +91856,7 @@ baffled
 	confused 2
 	confounded 8
 	mazed 1
-	lost 257
+	lost 258
 	baffled 9
 ?give
 	?give 1
@@ -92483,8 +91964,6 @@ baronial
 	noblest 17
 sagittary
 	sagittary 3
-,then
-	,then 3
 betoken
 	betoken 1
 limnd
@@ -92495,8 +91974,6 @@ transgressing
 	transgressing 2
 puisny
 	puisny 1
-,they
-	,they 3
 fabricate
 	invented 2
 	invent 5
@@ -92527,6 +92004,7 @@ fist
 contributors
 	contributors 1
 frighten
+	gallow 1
 	frighted 15
 	fright 31
 	scared 4
@@ -92595,7 +92073,7 @@ separate
 	split 38
 	broke 84
 	disunite 1
-	part 1736
+	part 1740
 	divided 72
 	parting 116
 	splits 4
@@ -92691,6 +92169,7 @@ fat
 	fatter 4
 	fertile 15
 	fattest 8
+	fulsome 5
 	richer 19
 	fat 408
 	richest 6
@@ -92721,6 +92200,7 @@ fad
 	rage 117
 ranting
 	ranting 1
+	robustious 2
 shipboard
 	shipboard 4
 cheek-roses
@@ -92785,6 +92265,7 @@ observing
 	observing 4
 thrift
 	thrifts 1
+	husbandry 13
 	thrift 24
 unrakd
 	unrakd 1
@@ -92850,6 +92331,8 @@ archpriest
 	prelate 9
 branded
 	branded 9
+coal-miner
+	collier 1
 root_cellar
 	cellar 1
 waxen
@@ -92863,8 +92346,6 @@ waxed
 	waxed 6
 ethical_motive
 	morality 1
-!whos
-	!whos 1
 domination
 	supremacy 5
 	dominations 2
@@ -92927,7 +92408,7 @@ simplicity
 	simplicity 48
 	simpleness 8
 metric_ton
-	t 448
+	t 450
 	ts 2
 lustiest
 	lustiest 1
@@ -92996,7 +92477,7 @@ return
 	yield 147
 	returns 208
 	yields 15
-	take 1210
+	take 1211
 	issue 109
 	proceeds 6
 	issues 10
@@ -93268,7 +92749,7 @@ squints
 	squints 1
 trip_up
 	catch 64
-	caught 30
+	caught 31
 	catching 8
 	catches 4
 	catched 1
@@ -93375,7 +92856,7 @@ believe
 	believes 16
 	believing 24
 	believed 20
-	believe 1190
+	believe 1195
 	trusts 4
 	trusted 11
 anvil
@@ -93399,7 +92880,7 @@ hip
 	hip 40
 	hips 20
 his
-	his 6534
+	his 6535
 hit
 	hits 135
 	hit 960
@@ -93483,7 +92964,8 @@ dumb
 	silent 32
 	mute 14
 are
-	are 6830
+	art 3544
+	are 6832
 cleverly
 	smartly 1
 unsure
@@ -93594,7 +93076,7 @@ confessd
 conveyer_belt
 	conveyers 1
 whos
-	whos 82
+	whos 83
 posies
 	posies 1
 watchword
@@ -93634,6 +93116,7 @@ nickd
 behavior
 	behaviour 81
 	behaviours 21
+	portance 2
 	doings 5
 	conduct 47
 mouse-trap
@@ -93647,8 +93130,8 @@ lodges
 	lodges 5
 lodger
 	lodgers 2
-.friend
-	.friend 1
+showers
+	showers 13
 pribbles
 	pribbles 2
 rit
@@ -93809,8 +93292,6 @@ fulness
 pithy
 	sententious 3
 	pithy 2
-,cousin
-	,cousin 1
 marian
 	marian 10
 untender
@@ -93847,6 +93328,7 @@ vacate
 	emptied 1
 	empties 2
 	abandon 4
+	renouncing 1
 	emptying 3
 	empty 51
 epicures
@@ -93896,6 +93378,7 @@ esse
 	esse 1
 hatred
 	hatred 16
+	envy 265
 credible
 	credible 4
 undoing
@@ -93914,8 +93397,9 @@ monsieurs
 	monsieurs 1
 services
 	services 66
-quillets
-	quillets 6
+military_unit
+	force 103
+	forces 21
 piteous
 	piteous 22
 stitches
@@ -93927,8 +93411,8 @@ discourtesy
 	rudeness 5
 	discourtesy 3
 	offences 24
-signifies
-	signifies 3
+amidst
+	amidst 1
 vegetable_oil
 	oil 13
 	oils 1
@@ -93963,7 +93447,7 @@ caller
 	companies 11
 move_over
 	given 190
-	give 1341
+	give 1346
 	giving 38
 	yielding 16
 	yield 147
@@ -94113,8 +93597,14 @@ noted
 curtly
 	short 85
 	shortly 46
-.mistress
-	.mistress 1
+chastise
+	chastised 2
+	chastise 10
+	corrected 1
+	corrects 2
+	castigate 1
+	correcting 1
+	correct 7
 procession
 	procession 6
 claudio
@@ -94163,8 +93653,6 @@ coverlet
 	coverlet 2
 late-disturbed
 	late-disturbed 1
-:is
-	:is 1
 cleopatra
 	cleopatras 4
 	cleopatra 60
@@ -94201,7 +93689,8 @@ forbid
 chipped
 	chipped 1
 confession
-	confessions 15
+	confessions 20
+	shrift 18
 	confession 102
 offends
 	offends 8
@@ -94350,7 +93839,7 @@ tam
 	tam 6
 tan
 	burns 26
-	burn 76
+	burn 77
 	tanned 2
 	tanner 2
 onions
@@ -94502,14 +93991,14 @@ practice
 	practised 2
 	practise 20
 	exercise 19
-	do 3790
+	do 3797
 	used 17
 	practice 301
 	uses 16
 	exercises 5
 	using 8
 	applied 3
-	did 1621
+	did 1623
 	patterns 2
 	practices 78
 	applies 1
@@ -94524,8 +94013,6 @@ pomgarnet
 	pomgarnet 1
 sinners
 	sinners 4
-,cleft
-	,cleft 1
 transmitter
 	sender 4
 tish
@@ -94587,7 +94074,7 @@ respects
 obstructions
 	obstructions 1
 impart
-	give 1341
+	give 1346
 	channels 2
 	convey 36
 	carry 85
@@ -94644,8 +94131,6 @@ principalities
 	principalities 1
 horace
 	horace 6
-!poor
-	!poor 1
 conversation
 	conversation 18
 	conversations 1
@@ -94696,16 +94181,13 @@ dumbness
 all-worthy
 	all-worthy 2
 molarity
-	m 6
+	m 7
 doomed
 	unlucky 6
-	lost 257
+	lost 258
 	fated 5
 thankings
 	thankings 3
-military_unit
-	force 102
-	forces 21
 simulate
 	feigning 6
 	feign 9
@@ -94803,15 +94285,13 @@ deny
 dens
 	dens 2
 dent
-	ding 4
+	ding 5
 	nick 8
 	nicks 1
 hatchd
 	hatchd 8
 fied
 	fied 3
-,instead
-	,instead 1
 mistook
 	mistook 20
 dining_table
@@ -94878,7 +94358,7 @@ suer
 	petitioner 3
 	petitioners 2
 words
-	words 1245
+	words 1248
 writhled
 	writhled 1
 penetrate
@@ -94899,8 +94379,6 @@ heretic
 	heretics 4
 expertness
 	expertness 4
-:hence
-	:hence 1
 vied
 	vied 1
 high-witted
@@ -94989,14 +94467,14 @@ counterfeiting
 	counterfeiting 4
 declining
 	declining 6
-!down
-	!down 2
 one-and-twenty
 	one-and-twenty 3
-hyperions
-	hyperions 3
+curly
+	crisped 1
 broadside
 	broadsides 4
+ding-dong
+	ding-dong 2
 grain
 	grained 3
 	grain 204
@@ -95103,7 +94581,7 @@ wilt
 irate
 	ireful 4
 will
-	will 24960
+	will 24985
 	testament 11
 	wills 108
 	willing 74
@@ -95128,6 +94606,7 @@ carkanet
 whore
 	whoring 3
 	whores 30
+	callet 1
 	whore 180
 whord
 	whord 1
@@ -95175,7 +94654,7 @@ fill_up
 	filling 8
 	fills 13
 	filled 2
-	fill 68
+	fill 69
 overwork
 	exploit 16
 	exploits 7
@@ -95257,6 +94736,7 @@ know
 	lived 16
 	knows 1990
 	livings 1
+	wot 30
 	knew 1368
 	experience 20
 	live 505
@@ -95328,7 +94808,7 @@ lead
 	lead 2592
 	leading 42
 	top 50
-	take 1210
+	take 1211
 	conduct 47
 	taken 91
 	head 490
@@ -95558,8 +95038,8 @@ let_out
 	widens 1
 mounte-banks
 	mounte-banks 1
-,might
-	,might 1
+uncontaminated
+	unpolluted 1
 roard
 	roard 9
 boor
