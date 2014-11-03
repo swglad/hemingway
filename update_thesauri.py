@@ -37,7 +37,7 @@ def make_thesaurus(filepath):
                 # Reject non-ASCII characters
                 try:
                     word = word.decode('ascii')
-                except UnicodeDecodeError, e:
+                except (UnicodeDecodeError, UnicodeEncodeError) as e:
                     continue
 
                 # Reject whitespace character

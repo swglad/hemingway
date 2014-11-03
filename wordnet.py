@@ -1,8 +1,6 @@
 """
 wordnet.py
 
-Author: Alex Gerstein
-
 API wrapper to lookup words on
 Princeton Wordnet.
 """
