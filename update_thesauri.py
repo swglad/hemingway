@@ -10,13 +10,13 @@ CORP_TAG = ".txt"
 THES_TAG = ".thes"
 MAP_TAG = ".map"
 
+MAP_WEIGHT = 1.65   # overweight directly-mapped word counts
 
 def _is_title(line):
     """
     Ignore book title if repeated in corpus
     """
     return re.match('^[0-9]*\s?[A-Za-z\s]+[0-9]*$', line) is not None
-
 
 def make_thesaurus(file_path):
     """
@@ -56,7 +56,7 @@ def make_thesaurus(file_path):
     # Update thesaurus with mappings, if map_file exists
     file_path = file_path.replace(CORPUS_FOLDER, MAPPING_FOLDER)
     map_file = file_path.replace(CORP_TAG, MAP_TAG)
-    thesaurus = add_mappings(map_file, thesaurus)
+    thesaurus = _add_mappings(map_file, thesaurus)
 
     return thesaurus
 
@@ -75,7 +75,7 @@ def write_thesaurus(file_path, thesaurus):
                 f.write("\t" + syn + " " + str(thesaurus[word][syn]) + "\n")
 
 
-def add_mappings(mapping_file, thesaurus):
+def _add_mappings(mapping_file, thesaurus):
     """
     Uses map_file to add word-to-word mappings to thesaurus
     (e.g. Shakespeare: "you" --> {"you", "thy", "thou", ...})
@@ -95,8 +95,8 @@ def add_mappings(mapping_file, thesaurus):
                     continue
 
                 # e.g. thesaurus["you"]["thy"] = thesaurus["thy"]["thy"]
-                thesaurus[user_word][author_word] = thesaurus[author_word][author_word]
-
+                thesaurus[user_word][author_word] = \
+                        int(MAP_WEIGHT * thesaurus[author_word][author_word])
     except IOError:
         pass
 
