@@ -6,6 +6,7 @@ import wordnet as wn
 
 CORPUS_FOLDER = "corpus"
 THESAURI_FOLDER = "thesauri"
+MAP_FOLDER = "mappings"
 
 def _is_title(line):
     '''
@@ -48,6 +49,11 @@ def make_thesaurus(filepath):
                     syn = syn.name().split(".")[0]
                     thesaurus[syn].update([word])
 
+    ######## TODO #########
+    # IF a map file exists for this author:
+    #   author_mapfile = GET_THAT_FILE_NAME
+    #   thesaurus = add_mappings(author_mapfile, thesaurus)
+
     return thesaurus
 
 def write_thesaurus(filepath, thesaurus):
@@ -59,13 +65,22 @@ def write_thesaurus(filepath, thesaurus):
             for syn in thesaurus[word]:
                 f.write("\t" + syn + " " + str(thesaurus[word][syn]) + "\n")
 
-def add_mappings(mapfile, thesaurus):
+def add_mappings(mapping_file, thesaurus):
     '''
     Uses mapfile to add word-to-word mappings to thesaurus 
     (e.g. Shakespeare: "thy" -> "you")
     '''
-    # TODO
-    
+    mapfile = open(MAP_FOLDER + mapping_file + ".map")
+
+    for line in mapfile:
+        line = line.strip().split()
+        authorWord = line[0].lower()
+        userWord = line[2].lower()
+        # e.g. thesaurus["you"]["thy"] = thesaurus["you"]["you"]
+        thesaurus[userWord][authorWord] = thesaurus[userWord][userWord]
+
+    mapfile.close()
+
     return thesaurus 
 
 if __name__ == "__main__":
