@@ -5,12 +5,7 @@ import random
 import string
 
 THESAURI_FOLDER = "thesauri"
-INPUT_FOLDER = "input"
-OUTPUT_FOLDER = "output"
 THES_TAG = ".thes"
-IN_TAG = ".txt"
-OUT_TAG = ".out"
-
 
 class WriteLike:
     def __init__(self, author, debug=False):
@@ -23,10 +18,7 @@ class WriteLike:
             author's thesaurus and probabilistically select a
             replacement word. Write output to outfile. """
 
-        input_file = INPUT_FOLDER + "/" + infile_name + IN_TAG
-        output_file = OUTPUT_FOLDER + "/" + outfile_name + OUT_TAG
-
-        with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
+        with open(infile_name, 'r') as infile, open(outfile_name, 'w') as outfile:
 
             first_write = True
 

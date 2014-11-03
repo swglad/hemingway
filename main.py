@@ -41,4 +41,4 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     wl = WriteLike(args.author, args.DEBUG)
-    wl.style_convert("sample", "a")
+    wl.style_convert(args.input, args.output)
