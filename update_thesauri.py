@@ -15,7 +15,7 @@ def _is_title(line):
     '''
     Ignore book title if repeated in corpus
     '''
-    return re.match("^[0-9]*\s?[A-Z\s]+[0-9]*$", line) is not None
+    return re.match("^[0-9]*\s?[A-Za-z\s]+[0-9]*$", line) is not None
 
 def make_thesaurus(filepath):
     '''
