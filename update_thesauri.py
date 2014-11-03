@@ -52,10 +52,7 @@ def make_thesaurus(filepath):
     # Update thesaurus with mappings, if mapfile exists
     filepath = filepath.replace(CORPUS_FOLDER, MAPPING_FOLDER)
     mapfile = filepath.replace("txt", "map")
-    for fname in glob.glob(MAPPING_FOLDER + "/*.map"):
-        if fname == mapfile:
-            print "Mapping to Thesaurus using", mapfile
-            thesaurus = add_mappings(mapfile, thesaurus)
+    thesaurus = add_mappings(mapfile, thesaurus)
 
     return thesaurus
 
@@ -73,7 +70,11 @@ def add_mappings(mapping_file, thesaurus):
     Uses mapfile to add word-to-word mappings to thesaurus 
     (e.g. Shakespeare: "you" --> {"you", "thy", "thou", ...})
     '''
-    mapfile = open(mapping_file)
+    # Update thesaurus with mappings, if mapfile exists
+    try:
+        mapfile = open(mapping_file)
+    except IOError:
+        return thesaurus
 
     for line in mapfile:
         line = line.strip().split()
