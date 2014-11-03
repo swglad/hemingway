@@ -22,8 +22,8 @@ class WriteLike:
 
             first_write = True
 
-            # Tokenize full input file by spaces + punctuation
-            tokenizer = RegexpTokenizer('\w+|\$[\d\.]+|\S+')
+            # Tokenize full input file by spaces + punctuation (not apostrophe/hyphen)
+            tokenizer = RegexpTokenizer('\w+\'\S+|\w+\-\S+|\w+|\$[\d\.]+|\S+')
             text = tokenizer.tokenize(infile.read())
 
             if self.debug:
