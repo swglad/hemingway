@@ -56,3 +56,5 @@ target/
 
 # Output files
 output/*
+
+.idea/*
