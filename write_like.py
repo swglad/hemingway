@@ -46,12 +46,11 @@ class WriteLike:
                 # Probabilistically choose a synonym in thesaurus[word]
                 weighted_key = self._weighted_choice(word)
 
-                # Mirror capitalization of original word
+                # Match capitalization of original word
                 if was_capitalized:
                     weighted_key = weighted_key.title()
 
-                # Add a space when word is not punctuation
-                # and word is not first word in line
+                # Add a space between words, no space for punctuation
                 if word not in string.punctuation and not first_write:
                     outfile.write(" ")
 
