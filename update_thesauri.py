@@ -72,27 +72,23 @@ def add_mappings(mapping_file, thesaurus):
     '''
     # Update thesaurus with mappings, if mapfile exists
     try:
-        mapfile = open(mapping_file)
+        with open(mapping_file) as mapfile:
+            for line in mapfile:
+                authorWord, userWord = map(str.lower, line.strip().split())
+                
+                # Reject non-ASCII characters
+                try:
+                    authorWord = authorWord.decode('ascii')
+                    userWord = userWord.decode('ascii')
+                except UnicodeDecodeError, e:
+                    continue
+                
+                # e.g. thesaurus["you"]["thy"] = thesaurus["thy"]["thy"]
+                thesaurus[userWord][authorWord] = thesaurus[authorWord][authorWord]
+
     except IOError:
-        return thesaurus
-
-    for line in mapfile:
-        line = line.strip().split()
-        authorWord = line[0].lower()
-        userWord = line[1].lower()
-        
-        # Reject non-ASCII characters
-        try:
-            authorWord = authorWord.decode('ascii')
-            userWord = userWord.decode('ascii')
-        except UnicodeDecodeError, e:
-            continue
-        
-        # e.g. thesaurus["you"]["thy"] = thesaurus["thy"]["thy"]
-        thesaurus[userWord][authorWord] = thesaurus[authorWord][authorWord]
-
-    mapfile.close()
-
+        pass
+    
     return thesaurus 
 
 if __name__ == "__main__":
