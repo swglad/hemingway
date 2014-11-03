@@ -51,7 +51,7 @@ def make_thesaurus(filepath):
 
     # Update thesaurus with mappings, if mapfile exists
     filepath = filepath.replace(CORPUS_FOLDER, MAPPING_FOLDER)
-    mapfile = filepath.replace("txt", "map")
+    mapfile = filepath.replace(".txt", ".map")
     thesaurus = add_mappings(mapfile, thesaurus)
 
     return thesaurus
