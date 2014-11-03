@@ -9,6 +9,7 @@ from nltk import word_tokenize
 
 ADJ, ADJ_SAT, ADV, NOUN, VERB = 'a', 's', 'r', 'n', 'v'
 
+
 def ptb_to_wn_pos(ptb_tag):
     """
     Converts Penn Tree bank pos tags to wordnet pos tags.

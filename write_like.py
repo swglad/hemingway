@@ -18,28 +18,29 @@ class WriteLike:
         self.debug = debug
         self.thesaurus = self._read_thesaurus()
 
-    def style_convert(self, infile, outfile):
+    def style_convert(self, infile_name, outfile_name):
         """ For each word in input text, look up synonyms in the
             author's thesaurus and probabilistically select a
             replacement word. Write output to outfile. """
 
-        input_file = INPUT_FOLDER + "/" + infile + IN_TAG
-        output_file = OUTPUT_FOLDER + "/" + outfile + OUT_TAG
+        input_file = INPUT_FOLDER + "/" + infile_name + IN_TAG
+        output_file = OUTPUT_FOLDER + "/" + outfile_name + OUT_TAG
 
-        with open(input_file, 'r') as source, open(output_file, 'w') as dest:
+        with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
 
             first_write = True
 
             # Tokenize full input file by spaces + punctuation
             tokenizer = RegexpTokenizer('\w+|\$[\d\.]+|\S+')
-            text = tokenizer.tokenize(source.read())
+            text = tokenizer.tokenize(infile.read())
 
             if self.debug:
                 print "text: ", text
 
             for word in text:
-                orig_word = word  # preserve capitalization
+                was_capitalized = word.istitle()
                 word = word.strip().lower()
+
                 # Reject non-ASCII characters
                 try:
                     word = word.decode('ascii')
@@ -50,34 +51,22 @@ class WriteLike:
                     print
                     print word, "\t-->\t", self.thesaurus[word]
 
-                # Check if word is in thesaurus: copy word exactly if not, replace if yes
-                if len(self.thesaurus[word]) == 0:
-                    # Word not in thesaurus, so copy original word
-                    if first_write:
-                        dest.write(orig_word)
-                        first_write = False
-                    else:
-                        dest.write(" " + orig_word)
+                # Probabilistically choose a synonym in thesaurus[word]
+                weighted_key = self._weighted_choice(word)
 
-                else:
-                    # Probabilistically choose a synonym in thesaurus[word]
-                    weighted_key = self._weighted_choice(word)
-                    # Make replaced word uppercase if original word was uppercase
-                    if orig_word[0].isupper():
-                        weighted_key = weighted_key.title()
+                # Mirror capitalization of original word
+                if was_capitalized:
+                    weighted_key = weighted_key.title()
 
-                    # Write to output file
-                    if first_write:
-                        dest.write(weighted_key)
-                        first_write = False
-                    else:
-                        # Don't add a space when printing punctuation
-                        if word in string.punctuation:
-                            dest.write(orig_word)
-                        else:
-                            dest.write(" " + weighted_key)
+                # Add a space when word is not punctuation
+                # and word is not first word in line
+                if word not in string.punctuation and not first_write:
+                    outfile.write(" ")
 
-        return outfile
+                outfile.write(weighted_key)
+                first_write = False
+
+        return outfile_name
 
     def _weighted_choice(self, word):
         """
@@ -87,6 +76,9 @@ class WriteLike:
         synonyms in thesaurus[word] in random order, & decreasing
         'n' by the 'weight' (frequency) of each synonym.
         """
+        if word not in self.thesaurus:
+            return word
+
         # Obtain random normal_pdf weight value from [0, total_weight]
         word_dict = self.thesaurus[word]
         total_weight = sum(word_dict[item] for item in word_dict)
