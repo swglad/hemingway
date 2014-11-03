@@ -22,8 +22,8 @@ class WriteLike:
 
             first_write = True
 
-            # Tokenize full input file by spaces + punctuation
-            tokenizer = RegexpTokenizer('\w+|\$[\d\.]+|\S+')
+            # Tokenize full input file by spaces + punctuation (not apostrophe/hyphen)
+            tokenizer = RegexpTokenizer('\w+[\'-]?\w*|\$[\d.]+')
             text = tokenizer.tokenize(infile.read())
 
             if self.debug:
@@ -41,7 +41,11 @@ class WriteLike:
 
                 if self.debug:
                     print
-                    print word, "\t-->\t", self.thesaurus[word]
+                    print word,
+                    if word in self.thesaurus:
+                        print "\t-->\t", self.thesaurus[word]
+                    else:
+                        print "\t-->\t Empty"
 
                 # Probabilistically choose a synonym in thesaurus[word]
                 weighted_key = self._weighted_choice(word)
