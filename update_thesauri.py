@@ -7,6 +7,9 @@ import wordnet as wn
 CORPUS_FOLDER = "corpus"
 THESAURI_FOLDER = "thesauri"
 MAPPING_FOLDER = "mappings"
+CORP_TAG = ".txt"
+THES_TAG = ".thes"
+MAP_TAG = ".map"
 
 def _is_title(line):
     '''
@@ -51,13 +54,17 @@ def make_thesaurus(filepath):
 
     # Update thesaurus with mappings, if mapfile exists
     filepath = filepath.replace(CORPUS_FOLDER, MAPPING_FOLDER)
-    mapfile = filepath.replace(".txt", ".map")
+    mapfile = filepath.replace(CORP_TAG, MAP_TAG)
     thesaurus = add_mappings(mapfile, thesaurus)
 
     return thesaurus
 
 def write_thesaurus(filepath, thesaurus):
+    '''
+    Writes thesaurus to output file as: word\n \tsyn1 38\n \tsyn2 12 ...
+    '''
     filepath = filepath.replace(CORPUS_FOLDER, THESAURI_FOLDER)
+    filepath = filepath.replace(CORP_TAG, THES_TAG)
     with open(filepath, 'w') as f:
         for word in thesaurus:
             f.write(word + "\n")
@@ -73,6 +80,7 @@ def add_mappings(mapping_file, thesaurus):
     # Update thesaurus with mappings, if mapfile exists
     try:
         with open(mapping_file) as mapfile:
+            print "Mapping to Thesaurus:", mapping_file
             for line in mapfile:
                 authorWord, userWord = map(str.lower, line.strip().split())
                 
@@ -93,9 +101,10 @@ def add_mappings(mapping_file, thesaurus):
 
 if __name__ == "__main__":
     print "Starting to make thesauri..."
-    for fname in glob.glob(CORPUS_FOLDER + "/*.txt"):
+    for fname in glob.glob(CORPUS_FOLDER + "/*" + CORP_TAG):
         print "Making Thesaurus:", fname
         thesaurus = make_thesaurus(fname)
-        print "Writing To File:", fname
+        thesfile = fname.replace(CORPUS_FOLDER, THESAURI_FOLDER)
+        print "Writing To File:", thesfile.replace(CORP_TAG, THES_TAG)
         write_thesaurus(fname, thesaurus)
     print "Done!"

@@ -14,8 +14,8 @@ Pseudocode:
 8.    If y is in thesarus:
 9.        Use pdf to map y --> synonym(y) 
 
-Input:
-    (1) Tokenized corpus file at 'corpus/author.txt'
+Requirements:
+    Directories: corpus, thesauri, mappings, input, output
 
 Output:
 
@@ -31,7 +31,12 @@ Enhancements:
 import re
 from collections import defaultdict, Counter    
 
-THESAURI_FOLDER = "thesauri"                     
+THESAURI_FOLDER = "thesauri"
+INPUT_FOLDER = "input"
+OUTPUT_FOLDER = "output"
+THES_TAG = ".thes"
+IN_TAG = ".txt"
+OUT_TAG = ".out"
 
 import wordnet as wn         
 from nltk.tokenize import RegexpTokenizer    
@@ -48,7 +53,7 @@ class WriteLike:
         self.thesaurus = self._read_thesaurus()
 
     def _read_thesaurus(self):
-        filename = THESAURI_FOLDER + "/" + self.author + ".txt"
+        filename = THESAURI_FOLDER + "/" + self.author + THES_TAG
 
         thesaurus = defaultdict(lambda: Counter())
 
@@ -67,8 +72,8 @@ class WriteLike:
             author's thesaurus and probabilistically select a
             replacement word. Write output to outfile. ''' 
 
-        source = open("input/" + infile + ".txt", 'r')
-        dest = open("output/" + outfile + ".out", 'w')
+        source = open(INPUT_FOLDER + "/" + infile + IN_TAG, 'r')
+        dest = open(OUTPUT_FOLDER + "/" + outfile + OUT_TAG, 'w')
         firstWrite = True
         
         # Tokenize full input file by spaces + punctuation
