@@ -1,9 +1,9 @@
 from config import *
-from nltk.tokenize import RegexpTokenizer
 import random
 import string
 
-SPLIT_INPUT_REGEX = '\w+[\'-]?\w*|\$[\d.]+|\S+'
+from build_corpus import tokenize_string
+
 
 class WriteLike:
     def __init__(self, author, debug=False):
@@ -18,46 +18,45 @@ class WriteLike:
 
         with open(infile_name, 'r') as infile, open(outfile_name, 'w') as outfile:
 
-            first_write = True
+            for line in infile:
 
-            # Tokenize full input file by spaces + punctuation (not apostrophe/hyphen)
-            tokenizer = RegexpTokenizer(SPLIT_INPUT_REGEX)
-            text = tokenizer.tokenize(infile.read())
-
-            if self.debug:
-                print "text: ", text
-
-            for word in text:
-                was_capitalized = word.istitle()
-                word = word.strip().lower()
-
-                # Reject non-ASCII characters
-                try:
-                    word = word.decode('ascii')
-                except (UnicodeDecodeError, UnicodeEncodeError):
-                    continue
+                # Tokenize full input file by spaces + punctuation (not apostrophe/hyphen)
+                text = tokenize_string(line)
 
                 if self.debug:
-                    print
-                    print word,
-                    if word in self.thesaurus:
-                        print "\t-->\t", self.thesaurus[word]
-                    else:
-                        print "\t-->\t Empty"
+                    print "text: ", text
 
-                # Probabilistically choose a synonym in thesaurus[word]
-                weighted_key = self._weighted_choice(word)
+                for index, word in enumerate(text):
+                    was_capitalized = word.istitle()
+                    word = word.strip().lower()
 
-                # Match capitalization of original word
-                if was_capitalized:
-                    weighted_key = weighted_key.title()
+                    # Reject non-ASCII characters
+                    try:
+                        word = word.decode('ascii')
+                    except (UnicodeDecodeError, UnicodeEncodeError):
+                        continue
 
-                # Add a space between words, no space for punctuation
-                if word not in string.punctuation and not first_write:
-                    outfile.write(" ")
+                    if self.debug:
+                        print
+                        print word,
+                        if word in self.thesaurus:
+                            print "\t-->\t", self.thesaurus[word]
+                        else:
+                            print "\t-->\t Empty"
 
-                outfile.write(weighted_key)
-                first_write = False
+                    # Probabilistically choose a synonym in thesaurus[word]
+                    weighted_key = self._weighted_choice(word)
+
+                    # Match capitalization of original word
+                    if was_capitalized:
+                        weighted_key = weighted_key.title()
+
+                    # Add a space between words, no space for punctuation
+                    if word not in string.punctuation and index != 0:
+                        outfile.write(" ")
+
+                    outfile.write(weighted_key)
+                outfile.write('\n')
 
         return outfile_name
 

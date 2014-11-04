@@ -1,8 +1,9 @@
+from config import *
+
 from urlparse import urljoin
 from bs4 import BeautifulSoup
 import requests
 import argparse
-import re
 from build_corpus import tokenize_string
 
 
@@ -10,7 +11,6 @@ BASE_URL = "http://genius.com"
 artist_url = BASE_URL + "/artists/"
 
 ASIDE_REGEX = "\[.*\]$"
-CORPUS_FOLDER = "corpus"
 
 
 def compile_lyrics(artist_name, output_filename):

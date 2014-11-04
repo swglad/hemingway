@@ -1,21 +1,12 @@
 import argparse
 from nltk.tokenize import RegexpTokenizer
-from string import punctuation
+from config import *
 
-CORPUS_FOLDER = "corpus"
-CORP_TAG = ".txt"
+REGEX = "|".join([WORD, PRICE, PUNCTUATION_EXCEPT_HYPHEN])
 
 
 def tokenize_string(line):
-    word = '[\w]+\-?[\w]+'
-    price = '\$[\d\.]+'
-    punctuation_except_hyphen = '[' + punctuation.replace('-', '') + ']'
-
-    possible_regexes = [word, price, punctuation_except_hyphen]
-
-    line = line.replace("'", '')
-
-    tokenizer = RegexpTokenizer('|'.join(possible_regexes))
+    tokenizer = RegexpTokenizer(REGEX)
     return tokenizer.tokenize(line)
 
 def build_corpus(input_filename, output_filename):
@@ -28,6 +19,7 @@ def build_corpus(input_filename, output_filename):
 
     with open(input_filename, 'r') as infile, open(output_filename, 'w') as outfile:
         for line in infile:
+            line = line.replace("'", '')
             outfile.write(" ".join(tokenize_string(line)) + "\n")
 
 
