@@ -18,7 +18,7 @@ def compile_lyrics(artist_name, output_filename):
 
     soup = BeautifulSoup(response.text, "lxml")
 
-    with open(CORPUS_FOLDER + "/" + output_filename, 'a') as f:
+    with open(output_filename, 'a') as f:
         for song_link in soup.select('ul.song_list > li > a'):
             link = urljoin(BASE_URL, song_link['href'])
             response = requests.get(link)
@@ -43,5 +43,10 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
+    outfile = CORPUS_FOLDER + "/" + args.output
+
+    # Clear file contents
+    open(outfile, 'w').close()
+
     for artist in args.artist:
-        compile_lyrics(artist, args.output)
+        compile_lyrics(artist, outfile)
