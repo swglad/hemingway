@@ -1,11 +1,9 @@
-import re
-from collections import defaultdict, Counter
+from config import *
 from nltk.tokenize import RegexpTokenizer
 import random
 import string
 
-THESAURI_FOLDER = "thesauri"
-THES_TAG = ".thes"
+SPLIT_INPUT_REGEX = '\w+[\'-]?\w*|\$[\d.]+|\S+'
 
 class WriteLike:
     def __init__(self, author, debug=False):
@@ -23,7 +21,7 @@ class WriteLike:
             first_write = True
 
             # Tokenize full input file by spaces + punctuation (not apostrophe/hyphen)
-            tokenizer = RegexpTokenizer('\w+[\'-]?\w*|\$[\d.]+')
+            tokenizer = RegexpTokenizer(SPLIT_INPUT_REGEX)
             text = tokenizer.tokenize(infile.read())
 
             if self.debug:
