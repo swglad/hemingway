@@ -6,6 +6,18 @@ CORPUS_FOLDER = "corpus"
 CORP_TAG = ".txt"
 
 
+def tokenize_string(line):
+    word = '[\w]+\-?[\w]+'
+    price = '\$[\d\.]+'
+    punctuation_except_hyphen = '[' + punctuation.replace('-', '') + ']'
+
+    possible_regexes = [word, price, punctuation_except_hyphen]
+
+    line = line.replace("'", '')
+
+    tokenizer = RegexpTokenizer('|'.join(possible_regexes))
+    return tokenizer.tokenize(line)
+
 def build_corpus(input_filename, output_filename):
     """
     Tokenize an input file to use for a corpus, which we
@@ -13,19 +25,10 @@ def build_corpus(input_filename, output_filename):
 
     Saves the output file to the corpus folder.
     """
-    word = '[\w]+\-?[\w]+'
-    price = '\$[\d\.]+'
-    punctuation_except_hyphen = '[' + punctuation.replace('-', '') + ']'
-
-    possible_regexes = [word, price, punctuation_except_hyphen]
 
     with open(input_filename, 'r') as infile, open(output_filename, 'w') as outfile:
         for line in infile:
-            line = line.replace("'", '')
-
-            tokenizer = RegexpTokenizer('|'.join(possible_regexes))
-            text = tokenizer.tokenize(line)
-            outfile.write(" ".join(text) + "\n")
+            outfile.write(" ".join(tokenize_string(line)) + "\n")
 
 
 if __name__ == "__main__":
