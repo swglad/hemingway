@@ -54,7 +54,8 @@ docs/_build/
 # PyBuilder
 target/
 
-# Output files
-output/*
+# Input/Output files
+data/output/*
+data/input/*
 
 .idea/*

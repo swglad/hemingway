@@ -1,6 +1,8 @@
-from config import *
+import config
 import glob
 import wordnet as wn
+from collections import defaultdict, Counter
+import re
 
 BOOK_TITLE_REGEX = '^[0-9]*\s?[A-Za-z\s]+[0-9]*$'
 
@@ -48,8 +50,8 @@ def make_thesaurus(file_path):
                     thesaurus[syn].update([word])
 
     # Update thesaurus with mappings, if map_file exists
-    file_path = file_path.replace(CORPUS_FOLDER, MAPPING_FOLDER)
-    map_file = file_path.replace(CORP_TAG, MAP_TAG)
+    file_path = file_path.replace(config.CORPUS_FOLDER, config.MAPPING_FOLDER)
+    map_file = file_path.replace(config.CORP_TAG, config.MAP_TAG)
     thesaurus = _add_mappings(map_file, thesaurus)
 
     return thesaurus
@@ -59,8 +61,8 @@ def write_thesaurus(file_path, thesaurus):
     """
     Writes thesaurus to output file as: word\n \tsyn1 38\n \tsyn2 12 ...
     """
-    file_path = file_path.replace(CORPUS_FOLDER, THESAURI_FOLDER)
-    file_path = file_path.replace(CORP_TAG, THES_TAG)
+    file_path = file_path.replace(config.CORPUS_FOLDER, config.THESAURI_FOLDER)
+    file_path = file_path.replace(config.CORP_TAG, config.THES_TAG)
     with open(file_path, 'w') as f:
         for word in thesaurus:
             f.write(word + "\n")
@@ -99,10 +101,10 @@ def _add_mappings(mapping_file, thesaurus):
 
 if __name__ == "__main__":
     print "Starting to make thesauri..."
-    for file_name in glob.glob(CORPUS_FOLDER + "/*" + CORP_TAG):
+    for file_name in glob.glob(config.CORPUS_FOLDER + "/*" + config.CORP_TAG):
         print "Making Thesaurus:", file_name
         author_thesaurus = make_thesaurus(file_name)
-        file_name = file_name.replace(CORPUS_FOLDER, THESAURI_FOLDER)
-        print "Writing To File:", file_name.replace(CORP_TAG, THES_TAG)
+        file_name = file_name.replace(config.CORPUS_FOLDER, config.THESAURI_FOLDER)
+        print "Writing To File:", file_name.replace(config.CORP_TAG, config.THES_TAG)
         write_thesaurus(file_name, author_thesaurus)
     print "Done!"

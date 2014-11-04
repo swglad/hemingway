@@ -1,9 +1,9 @@
-from config import *
+import config
 import random
 import string
-
+import re
+from collections import defaultdict, Counter
 from build_corpus import tokenize_string
-
 
 class WriteLike:
     def __init__(self, author, debug=False):
@@ -92,7 +92,7 @@ class WriteLike:
         """
         Store pre-processed thesaurus in dict object.
         """
-        filename = THESAURI_FOLDER + "/" + self.author + THES_TAG
+        filename = config.THESAURI_FOLDER + "/" + self.author + config.THES_TAG
 
         thesaurus = defaultdict(lambda: Counter())
 

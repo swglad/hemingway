@@ -1,10 +1,8 @@
-from collections import defaultdict, Counter
-import re
 from string import punctuation
 
-CORPUS_FOLDER = "corpus"
-THESAURI_FOLDER = "thesauri"
-MAPPING_FOLDER = "mappings"
+CORPUS_FOLDER = "data/corpus"
+THESAURI_FOLDER = "data/thesaurus"
+MAPPING_FOLDER = "data/mapping"
 CORP_TAG = ".txt"
 THES_TAG = ".thes"
 MAP_TAG = ".map"
