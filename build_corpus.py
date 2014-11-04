@@ -7,7 +7,13 @@ CORP_TAG = ".txt"
 
 
 def build_corpus(input_filename, output_filename):
-    word = '[\w-]+'
+    """
+    Tokenize an input file to use for a corpus, which we
+    can later use to build out a thesaurus.
+
+    Saves the output file to the corpus folder.
+    """
+    word = '[\w]+\-?[\w]+'
     price = '\$[\d\.]+'
     punctuation_except_hyphen = '[' + punctuation.replace('-', '') + ']'
 
