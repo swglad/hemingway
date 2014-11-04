@@ -1,14 +1,8 @@
+from config import *
 import glob
-from collections import defaultdict, Counter
-import re
 import wordnet as wn
 
-CORPUS_FOLDER = "corpus"
-THESAURI_FOLDER = "thesauri"
-MAPPING_FOLDER = "mappings"
-CORP_TAG = ".txt"
-THES_TAG = ".thes"
-MAP_TAG = ".map"
+BOOK_TITLE_REGEX = '^[0-9]*\s?[A-Za-z\s]+[0-9]*$'
 
 MAP_WEIGHT = 1.65   # overweight directly-mapped word counts
 
@@ -16,7 +10,7 @@ def _is_title(line):
     """
     Ignore book title if repeated in corpus
     """
-    return re.match('^[0-9]*\s?[A-Za-z\s]+[0-9]*$', line) is not None
+    return re.match(BOOK_TITLE_REGEX, line) is not None
 
 def make_thesaurus(file_path):
     """
