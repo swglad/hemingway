@@ -26,9 +26,12 @@ class WriteLike:
                 if self.debug:
                     print "text: ", text
 
-                for index, word in enumerate(text):
-                    was_capitalized = word.istitle()
-                    word = word.strip().lower()
+                for index, orig_word in enumerate(text):
+                    was_title = orig_word.istitle()        # "Title"
+                    was_capitalized = orig_word.isupper()  # "UPPER"
+                    was_lower = orig_word.islower()        # "lower"
+                    
+                    word = orig_word.strip().lower()
 
                     # Reject non-ASCII characters
                     try:
@@ -48,8 +51,12 @@ class WriteLike:
                     weighted_key = self._weighted_choice(word)
 
                     # Match capitalization of original word
-                    if was_capitalized:
+                    if was_title:
                         weighted_key = weighted_key.title()
+                    elif was_capitalized:
+                        weighted_key = weighted_key.upper()
+                    elif not (was_title or was_capitalized or was_lower): 
+                        weighted_key = orig_word
 
                     # Add a space between words, no space for punctuation
                     if word not in string.punctuation and index != 0:
