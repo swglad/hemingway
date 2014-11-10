@@ -29,7 +29,6 @@ class WriteLike:
                 for index, orig_word in enumerate(text):
                     was_title = orig_word.istitle()        # "Title"
                     was_capitalized = orig_word.isupper()  # "UPPER"
-                    was_lower = orig_word.islower()        # "lower"
                     
                     word = orig_word.strip().lower()
 
@@ -55,7 +54,7 @@ class WriteLike:
                         weighted_key = weighted_key.title()
                     elif was_capitalized:
                         weighted_key = weighted_key.upper()
-                    elif not (was_title or was_capitalized or was_lower): 
+                    elif not orig_word.islower(): 
                         weighted_key = orig_word
 
                     # Add a space between words, no space for punctuation
