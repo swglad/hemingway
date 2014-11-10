@@ -29,7 +29,6 @@ class WriteLike:
                 for index, orig_word in enumerate(text):
                     was_title = orig_word.istitle()        # "Title"
                     was_capitalized = orig_word.isupper()  # "UPPER"
-                    
                     word = orig_word.strip().lower()
 
                     # Reject non-ASCII characters
