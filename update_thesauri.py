@@ -3,6 +3,7 @@ import glob
 import wordnet as wn
 from collections import defaultdict, Counter
 import re
+import lesk
 
 BOOK_TITLE_REGEX = '^[0-9]*\s?[A-Za-z\s]+[0-9]*$'
 
@@ -56,6 +57,52 @@ def make_thesaurus(file_path):
 
     return thesaurus
 
+def make_thesaurus_lesk(file_path):
+    """
+    Returns dict of counters 'thesaurus', where
+    thesaurus[synset] = { word1: 4, word2: 8, word3: 1, ... }
+    """
+    thesaurus = defaultdict(lambda: Counter())
+
+    with open(file_path, 'r') as f:
+        pos_tagged = lesk.pos_tagger(f.read())
+        for i,info in enumerate(pos_tagged):
+
+            word = info[0].strip().lower()
+            pos = info[1]
+            synset=info[2]
+
+            # Ignore repeated book title headers
+            # if _is_title(line):
+            #     continue
+
+            # Reject non-ASCII characters
+            # try:
+            #     word = word.decode('ascii')
+            # except (UnicodeDecodeError, UnicodeEncodeError):
+            #     continue
+
+            # Reject whitespace character
+            if re.match("^[\s]*$", word):
+                continue
+
+            # if lesk can decide on a meaning for that word, add
+            # that meaning, i.e., that synset, to thesaurus
+            if synset!=None:
+                thesaurus[synset].update([word])
+
+                # note: adding in lemmas increases the possibility of using a word
+                # that the author never used, whereas if this is commented out,
+                # the thesaurus will only contain words that the author used
+                # for lemma in synset.lemmas():
+                #     thesaurus[synset].update([lemma.name()])
+
+
+    # Update thesaurus with mappings, if map_file exists
+    file_path = file_path.replace(config.CORPUS_FOLDER, config.MAPPING_FOLDER)
+    map_file = file_path.replace(config.CORP_TAG, config.MAP_TAG)
+    thesaurus = _add_mappings(map_file, thesaurus)
+
 
 def write_thesaurus(file_path, thesaurus):
     """
@@ -63,6 +110,10 @@ def write_thesaurus(file_path, thesaurus):
     """
     file_path = file_path.replace(config.CORPUS_FOLDER, config.THESAURI_FOLDER)
     file_path = file_path.replace(config.CORP_TAG, config.THES_TAG)
+
+    # testing wsd thesaurus write
+    file_path = './test_thes'
+
     with open(file_path, 'w') as f:
         for word in thesaurus:
             f.write(word + "\n")
@@ -99,12 +150,14 @@ def _add_mappings(mapping_file, thesaurus):
     return thesaurus
 
 
+
 if __name__ == "__main__":
     print "Starting to make thesauri..."
     for file_name in glob.glob(config.CORPUS_FOLDER + "/*" + config.CORP_TAG):
         print "Making Thesaurus:", file_name
-        author_thesaurus = make_thesaurus(file_name)
+        author_thesaurus = make_thesaurus_lesk(file_name)
         file_name = file_name.replace(config.CORPUS_FOLDER, config.THESAURI_FOLDER)
+
         print "Writing To File:", file_name.replace(config.CORP_TAG, config.THES_TAG)
         write_thesaurus(file_name, author_thesaurus)
     print "Done!"

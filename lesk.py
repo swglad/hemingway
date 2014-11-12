@@ -33,14 +33,20 @@ def pos_tagger(string):
     """
     Returns:
     """
-    tagged = pos_tag(word_tokenize(string))
+    tagged = pos_tag(word_tokenize(string.decode('ascii','ignore')))
     disambiguated = []
     for word, tag in tagged:
-        temp = [word, tag, lesk(string, word, ptb_to_wn_pos(tag))]
+        # ignore proper nouns
+        if tag=='NNP' or tag=='NNPS':
+            temp=[word,tag,None]
+        else:
+            temp = [word, tag, lesk(string, word, ptb_to_wn_pos(tag))]
+            # temp = [word, tag, lesk(string, word)] # doesn't do POS tagging
+
         disambiguated.append(temp)
 
     return disambiguated
 
-
-pos_tagger("John's big idea isn't all that bad.")
-pos_tagger("Ronald loves jelly beans more than Nancy.")
+if __name__=='__main__':
+    print pos_tagger("John's big idea isn't all that bad.")
+    print pos_tagger("Ronald loves jelly beans more than Nancy.")
