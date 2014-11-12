@@ -1,6 +1,7 @@
 from string import punctuation
 
-CORPUS_FOLDER = "data/corpus"
+# CORPUS_FOLDER = "data/corpus"
+CORPUS_FOLDER = "corpus" # temporarily changed to facilitate lesk experiments
 THESAURI_FOLDER = "data/thesaurus"
 MAPPING_FOLDER = "data/mapping"
 CORP_TAG = ".txt"

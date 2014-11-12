@@ -40,5 +40,7 @@ if __name__ == '__main__':
     parser.add_argument('-DEBUG', '--DEBUG', action='store_true', required=False)
     args = parser.parse_args()
 
-    wl = WriteLike(args.author, args.DEBUG)
-    wl.style_convert(args.input, args.output)
+    # wl = WriteLike(args.author, args.DEBUG)
+    wl = WriteLike(args.author, args.DEBUG,lesk=True)
+    # wl.style_convert(args.input, args.output)
+    wl.style_convert_lesk(args.input, args.output)

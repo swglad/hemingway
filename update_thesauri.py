@@ -65,31 +65,46 @@ def make_thesaurus_lesk(file_path):
     thesaurus = defaultdict(lambda: Counter())
 
     with open(file_path, 'r') as f:
-        pos_tagged = lesk.pos_tagger(f.read())
-        for i,info in enumerate(pos_tagged):
 
-            word = info[0].strip().lower()
-            pos = info[1]
-            synset=info[2]
+        f = f.read().split()
+        for i,word_and_tag in enumerate(f):
+
+            word = word_and_tag.split('_')[0]
+            tag = word_and_tag.split('_')[1]
+
+            # Reject non-ASCII characters
+            try:
+                word = word.decode('ascii')
+            except (UnicodeDecodeError, UnicodeEncodeError):
+                continue
+
+            # look at a window of 9 words each time lesk is called
+            window=[i-4,i+4]
+            if i<4:
+                window==[i,i+8]
+            elif i > len(f)-5:
+                window=[i-8,i]
+
+            synset = lesk.my_lesk(f[window[0]:window[1]],word)
 
             # Ignore repeated book title headers
             # if _is_title(line):
             #     continue
 
-            # Reject non-ASCII characters
-            # try:
-            #     word = word.decode('ascii')
-            # except (UnicodeDecodeError, UnicodeEncodeError):
-            #     continue
-
             # Reject whitespace character
-            if re.match("^[\s]*$", word):
-                continue
+            # if re.match("^[\s]*$", word):
+            #     continue
 
             # if lesk can decide on a meaning for that word, add
             # that meaning, i.e., that synset, to thesaurus
-            if synset!=None:
-                thesaurus[synset].update([word])
+            if synset is None:
+                continue
+            try:
+                print "word =", word,"\t\tsynset =",synset#,"\t\tdef =",synset.definiton()
+            except AttributeError:
+                continue
+
+            thesaurus[synset].update([word])
 
                 # note: adding in lemmas increases the possibility of using a word
                 # that the author never used, whereas if this is commented out,
@@ -102,7 +117,7 @@ def make_thesaurus_lesk(file_path):
     file_path = file_path.replace(config.CORPUS_FOLDER, config.MAPPING_FOLDER)
     map_file = file_path.replace(config.CORP_TAG, config.MAP_TAG)
     thesaurus = _add_mappings(map_file, thesaurus)
-
+    return thesaurus
 
 def write_thesaurus(file_path, thesaurus):
     """
@@ -111,9 +126,6 @@ def write_thesaurus(file_path, thesaurus):
     file_path = file_path.replace(config.CORPUS_FOLDER, config.THESAURI_FOLDER)
     file_path = file_path.replace(config.CORP_TAG, config.THES_TAG)
 
-    # testing wsd thesaurus write
-    file_path = './test_thes'
-
     with open(file_path, 'w') as f:
         for word in thesaurus:
             f.write(word + "\n")
@@ -121,6 +133,20 @@ def write_thesaurus(file_path, thesaurus):
             for syn in thesaurus[word]:
                 f.write("\t" + syn + " " + str(thesaurus[word][syn]) + "\n")
 
+
+def write_thesaurus_lesk(file_path, thesaurus):
+    """
+    Writes thesaurus to output file as: Synset\n \tsyn1 38\n \tsyn2 12 ...
+    """
+    file_path = file_path.replace(config.CORPUS_FOLDER, config.THESAURI_FOLDER)
+    file_path = file_path.replace(config.CORP_TAG, config.THES_TAG)
+
+    with open(file_path, 'w') as f:
+        for synset in thesaurus:
+            f.write(str(synset) + "\n")
+
+            for syn in thesaurus[synset]:
+                f.write("\t" + syn + " " + str(thesaurus[synset][syn]) + "\n")
 
 def _add_mappings(mapping_file, thesaurus):
     """
@@ -132,6 +158,10 @@ def _add_mappings(mapping_file, thesaurus):
         with open(mapping_file) as map_file:
             print "Mapping to Thesaurus:", mapping_file
             for line in map_file:
+
+                if line is None: #added to
+                    continue     #prevent none
+
                 author_word, user_word = map(str.lower, line.strip().split())
 
                 # Reject non-ASCII characters
@@ -150,14 +180,14 @@ def _add_mappings(mapping_file, thesaurus):
     return thesaurus
 
 
-
+import pdb
 if __name__ == "__main__":
     print "Starting to make thesauri..."
-    for file_name in glob.glob(config.CORPUS_FOLDER + "/*" + config.CORP_TAG):
+    for file_name in glob.glob(config.CORPUS_FOLDER + "/*_tagged" + config.CORP_TAG):
         print "Making Thesaurus:", file_name
         author_thesaurus = make_thesaurus_lesk(file_name)
         file_name = file_name.replace(config.CORPUS_FOLDER, config.THESAURI_FOLDER)
 
         print "Writing To File:", file_name.replace(config.CORP_TAG, config.THES_TAG)
-        write_thesaurus(file_name, author_thesaurus)
+        write_thesaurus_lesk(file_name, author_thesaurus)
     print "Done!"
