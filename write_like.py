@@ -89,34 +89,50 @@ class WriteLike:
 
                 # POS tag, and then lesk-ify the input,
                 # look it up in the thesauri
+                try:
+                    line = line.decode('ascii','ignore')
+                except (UnicodeDecodeError, UnicodeEncodeError):
+                    continue
+                line = line.split()
                 tagged_string = nltk.pos_tag(line)
 
-
+                t_string=''
+                n_string=''
+                for word, tag in tagged_string:
+                    # word = word_and_tag.split('_')[0]
+                    # tag = word_and_tag.split('_')[1]
+                    n_string+=word.decode('ascii','ignore')+' '
+                    t_string+=word.decode('ascii','ignore')+'_'+tag+' '
 
                 # Tokenize full input file by spaces + punctuation (not apostrophe/hyphen)
-                text = tokenize_string(line)
+                # text = tokenize_string(line)
+                text = t_string
 
                 if self.debug:
                     print "text: ", text
 
-                for index, orig_word in enumerate(text):
-                    was_title = orig_word.istitle()        # "Title"
-                    was_capitalized = orig_word.isupper()  # "UPPER"
-                    was_lower = orig_word.islower()        # "lower"
+                for index, original_word in enumerate(t_string.split()):
+                    orig_word = original_word
+                    orig_word = original_word.split('_')[0]
+                    temp_pos = original_word.split('_')[1]
 
                     word = orig_word.strip().lower()
-
                     # Reject non-ASCII characters
                     try:
                         word = word.decode('ascii')
                     except (UnicodeDecodeError, UnicodeEncodeError):
                         continue
 
-                    wordnet_pos = ptb_to_wn_pos(tagged_string[index][1])
+                    was_title = orig_word.istitle()        # "Title"
+                    was_capitalized = orig_word.isupper()  # "UPPER"
+                    was_lower = orig_word.islower()        # "lower"
+
+
+                    wordnet_pos = ptb_to_wn_pos(temp_pos)
                     if wordnet_pos is not None:
-                        synset = nltk_lesk(text, orig_word.strip().lower(), wordnet_pos)
+                        synset = nltk_lesk(n_string, orig_word.strip().lower(), wordnet_pos)
                     else:
-                        synset = nltk_lesk(text, orig_word.strip().lower())
+                        synset = nltk_lesk(n_string, orig_word.strip().lower())
 
                     if self.debug:
                         print
