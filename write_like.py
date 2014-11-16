@@ -94,15 +94,15 @@ class WriteLike:
                 except (UnicodeDecodeError, UnicodeEncodeError):
                     continue
                 line = line.split()
-                tagged_string = nltk.pos_tag(line)
+                tagged_tuples = nltk.pos_tag(line)
 
-                text='' # tagged string
-                n_string='' # normal string
-                for word, tag in tagged_string:
-                    n_string+=word+' '
-                    text+=word+'_'+tag+' '
+                tagged_string = '' # tagged string
+                untagged_string = '' # normal string
+                for word, tag in tagged_tuples:
+                    untagged_string += word + ' '
+                    tagged_string += word + '_' + tag + ' '
 
-                for index, original_word in enumerate(text.split()):
+                for index, original_word in enumerate(tagged_string.split()):
 
                     (orig_word, temp_pos) = tuple(original_word.split('_'))
 
@@ -115,9 +115,9 @@ class WriteLike:
                     # converts penn tree bank parts of speech to wordnet parts of speech
                     wordnet_pos = reduce_pos_tagset(temp_pos)
                     if wordnet_pos is not None:
-                        synset = nltk_lesk(n_string, orig_word.strip().lower(), wordnet_pos)
+                        synset = nltk_lesk(untagged_string, orig_word.strip().lower(), wordnet_pos)
                     else:
-                        synset = nltk_lesk(n_string, orig_word.strip().lower())
+                        synset = nltk_lesk(untagged_string, orig_word.strip().lower())
 
                     # Probabilistically choose a synonym in thesaurus[synset]
                     weighted_key = self._weighted_choice_lesk(str(synset), word)
@@ -148,7 +148,7 @@ class WriteLike:
         synonyms in thesaurus[word] in random order, & decreasing
         'n' by the 'weight' (frequency) of each synonym.
         """
-        if (synset is None) or (synset not in self.thesaurus):
+        if not synset or synset not in self.thesaurus:
             return self._weighted_choice(orig_word) 
 
         # Obtain random normal_pdf weight value from [0, total_weight]
