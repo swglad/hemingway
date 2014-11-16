@@ -37,10 +37,8 @@ if __name__ == '__main__':
                         required=True)
     parser.add_argument('-output', '--output', '-out', '--out', '-o', '--o', type=str, help='filename of output',
                         required=True)
-    parser.add_argument('-DEBUG', '--DEBUG', action='store_true', required=False)
+    parser.add_argument('-fast', '--fast', '-nolesk', '--nolesk', '-f', '--f', action='store_true', required=False)
     args = parser.parse_args()
 
-    # wl = WriteLike(args.author, args.DEBUG)
-    wl = WriteLike(args.author, args.DEBUG,lesk=True)
-    # wl.style_convert(args.input, args.output)
+    wl = WriteLike(args.author, args.fast)
     wl.style_convert_lesk(args.input, args.output)

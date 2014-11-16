@@ -7,16 +7,14 @@ from build_corpus import tokenize_string
 
 import nltk
 from nltk.wsd import lesk as nltk_lesk
-from lesk import ptb_to_wn_pos
+from lesk import reduce_pos_tagset
 
 class WriteLike:
-    def __init__(self, author, debug=False, lesk=False):
+    def __init__(self, author, fast=True):
         self.author = author
-        self.debug = debug
-        # self.thesaurus = self._read_thesaurus()
 
         # added for Lesk
-        if lesk is False:
+        if fast is False:
             self.thesaurus = self._read_thesaurus()
         else:
             self.thesaurus = self._read_thesaurus_lesk()
@@ -33,9 +31,6 @@ class WriteLike:
                 # Tokenize full input file by spaces + punctuation (not apostrophe/hyphen)
                 text = tokenize_string(line)
 
-                if self.debug:
-                    print "text: ", text
-
                 for index, orig_word in enumerate(text):
                     was_title = orig_word.istitle()        # "Title"
                     was_capitalized = orig_word.isupper()  # "UPPER"
@@ -48,14 +43,6 @@ class WriteLike:
                         word = word.decode('ascii')
                     except (UnicodeDecodeError, UnicodeEncodeError):
                         continue
-
-                    if self.debug:
-                        print
-                        print word,
-                        if word in self.thesaurus:
-                            print "\t-->\t", self.thesaurus[word]
-                        else:
-                            print "\t-->\t Empty"
 
                     # Probabilistically choose a synonym in thesaurus[word]
                     weighted_key = self._weighted_choice(word)
@@ -89,42 +76,35 @@ class WriteLike:
 
                 # POS tag, and then lesk-ify the input,
                 # look it up in the thesauri
-                tagged_string = nltk.pos_tag(line)
+                try:
+                    line = line.decode('ascii','ignore')
+                except (UnicodeDecodeError, UnicodeEncodeError):
+                    continue
+                line = line.split()
+                tagged_tuples = nltk.pos_tag(line)
 
+                tagged_string = '' # tagged string
+                untagged_string = '' # normal string
+                for word, tag in tagged_tuples:
+                    untagged_string += word + ' '
+                    tagged_string += word + '_' + tag + ' '
 
+                for index, original_word in enumerate(tagged_string.split()):
 
-                # Tokenize full input file by spaces + punctuation (not apostrophe/hyphen)
-                text = tokenize_string(line)
+                    (orig_word, temp_pos) = tuple(original_word.split('_'))
 
-                if self.debug:
-                    print "text: ", text
+                    word = orig_word.strip().lower()
 
-                for index, orig_word in enumerate(text):
                     was_title = orig_word.istitle()        # "Title"
                     was_capitalized = orig_word.isupper()  # "UPPER"
                     was_lower = orig_word.islower()        # "lower"
 
-                    word = orig_word.strip().lower()
-
-                    # Reject non-ASCII characters
-                    try:
-                        word = word.decode('ascii')
-                    except (UnicodeDecodeError, UnicodeEncodeError):
-                        continue
-
-                    wordnet_pos = ptb_to_wn_pos(tagged_string[index][1])
+                    # converts penn tree bank parts of speech to wordnet parts of speech
+                    wordnet_pos = reduce_pos_tagset(temp_pos)
                     if wordnet_pos is not None:
-                        synset = nltk_lesk(text, orig_word.strip().lower(), wordnet_pos)
+                        synset = nltk_lesk(untagged_string, orig_word.strip().lower(), wordnet_pos)
                     else:
-                        synset = nltk_lesk(text, orig_word.strip().lower())
-
-                    if self.debug:
-                        print
-                        print synset, word
-                        if synset in self.thesaurus:
-                            print "\t-->\t", self.thesaurus[synset]
-                        else:
-                            print "\t-->\t Empty"
+                        synset = nltk_lesk(untagged_string, orig_word.strip().lower())
 
                     # Probabilistically choose a synonym in thesaurus[synset]
                     weighted_key = self._weighted_choice_lesk(str(synset), word)
@@ -155,12 +135,8 @@ class WriteLike:
         synonyms in thesaurus[word] in random order, & decreasing
         'n' by the 'weight' (frequency) of each synonym.
         """
-        if synset is None: 
-            return orig_word
-
-        if synset not in self.thesaurus:
-            return orig_word
-
+        if not synset or synset not in self.thesaurus:
+            return self._weighted_choice(orig_word) 
 
         # Obtain random normal_pdf weight value from [0, total_weight]
         word_dict = self.thesaurus[synset]
@@ -213,8 +189,7 @@ class WriteLike:
         """
         Store pre-processed thesaurus in dict object.
         """
-        filename = config.THESAURI_FOLDER + "/" + self.author +'_tagged'+ config.THES_TAG
-
+        filename = config.THESAURI_FOLDER + "/" + self.author +'_interpolate'+ config.THES_TAG
         thesaurus = defaultdict(lambda: Counter())
 
         with open(filename, 'r') as f:

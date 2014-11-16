@@ -114,7 +114,7 @@ def make_thesaurus_lesk(file_path):
 
 
     # Update thesaurus with mappings, if map_file exists
-    file_path = file_path.replace(config.CORPUS_FOLDER, config.MAPPING_FOLDER)
+    file_path = file_path.replace(config.CORPUS_FOLDER_LESK, config.MAPPING_FOLDER)
     map_file = file_path.replace(config.CORP_TAG, config.MAP_TAG)
     thesaurus = _add_mappings(map_file, thesaurus)
     return thesaurus
@@ -138,7 +138,7 @@ def write_thesaurus_lesk(file_path, thesaurus):
     """
     Writes thesaurus to output file as: Synset\n \tsyn1 38\n \tsyn2 12 ...
     """
-    file_path = file_path.replace(config.CORPUS_FOLDER, config.THESAURI_FOLDER)
+    file_path = file_path.replace(config.CORPUS_FOLDER_LESK, config.THESAURI_FOLDER)
     file_path = file_path.replace(config.CORP_TAG, config.THES_TAG)
 
     with open(file_path, 'w') as f:
@@ -183,7 +183,7 @@ def _add_mappings(mapping_file, thesaurus):
 import pdb
 if __name__ == "__main__":
     print "Starting to make thesauri..."
-    for file_name in glob.glob(config.CORPUS_FOLDER + "/*_tagged" + config.CORP_TAG):
+    for file_name in glob.glob(config.CORPUS_FOLDER_LESK + "/*_tagged" + config.CORP_TAG):
         print "Making Thesaurus:", file_name
         author_thesaurus = make_thesaurus_lesk(file_name)
         file_name = file_name.replace(config.CORPUS_FOLDER, config.THESAURI_FOLDER)
