@@ -8,7 +8,7 @@ import lesk
 BOOK_TITLE_REGEX = '^[0-9]*\s?[A-Za-z\s]+[0-9]*$'
 
 MAP_WEIGHT = 1.65   # overweight directly-mapped word counts
-WINDOW = 4
+WINDOW = 4          # number of context words for Lesk
 
 def _is_title(line):
     """
