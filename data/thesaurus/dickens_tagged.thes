@@ -1,7 +1,7 @@
 Synset('humbly.r.01')
 	humbly 5
 Synset('catch.n.03')
-	catch 4
+	catch 3
 Synset('gilt.n.01')
 	gilt 2
 Synset('vein.n.04')
@@ -18,12 +18,13 @@ Synset('cliff.n.01')
 	cliffs 5
 Synset('highly.r.02')
 	highly 12
+Synset('blight.n.01')
+	blight 1
 Synset('sputter.v.04')
 	spluttered 1
 	sputtering 1
 Synset('contemplation.n.02')
 	contemplation 2
-	musing 1
 Synset('communication.n.03')
 	communications 2
 	communication 9
@@ -34,6 +35,7 @@ Synset('overawe.v.01')
 	cowed 1
 Synset('whirlpool.n.01')
 	vortex 1
+	WHIRLPOOL 1
 	whirlpool 2
 Synset('cupboard.n.01')
 	closet 4
@@ -62,24 +64,25 @@ Synset('applause.n.01')
 	applause 1
 Synset('bury.v.02')
 	burying 1
+	bury 3
 	BURIED 1
 	Buried 2
-	inter 2
-	bury 3
+	inter 1
+	Bury 2
 	buried 39
 Synset('stitch.n.01')
 	stitches 1
 Synset('wiretap.v.01')
 	intercept 1
 Synset('forefather.n.01')
-	forefathers 2
-	fathers 67
+	sire 1
 	father 264
+	fathers 67
+	Father 1
+	forefathers 2
 	Fathers 2
 Synset('scare.n.02')
 	scare 1
-Synset('rip.n.03')
-	rip 1
 Synset('creditor.n.01')
 	creditors 2
 Synset('buzz.n.02')
@@ -87,20 +90,23 @@ Synset('buzz.n.02')
 Synset('diamond.n.02')
 	diamond 4
 	diamonds 3
-Synset('out.n.01')
-	out 3
+Synset('clutter.n.01')
+	jumble 1
 Synset('spectacles.n.01')
 	spectacles 3
+Synset('royal.n.01')
+	royal 7
 Synset('gladly.r.01')
 	gladly 2
+	fain 4
 Synset('coldly.r.01')
-	coldly 6
+	coldly 7
 Synset('opinion.n.05')
 	Opinion 1
 	opinions 16
 	opinion 20
 Synset('cardinal_number.n.01')
-	cardinal 2
+	cardinal 3
 Synset('opinion.n.01')
 	persuasions 3
 	persuasion 6
@@ -109,8 +115,10 @@ Synset('neigh.v.01')
 	nickered 1
 Synset('assignation.n.01')
 	assignation 1
-Synset('military.n.01')
-	military 1
+Synset('bully.n.01')
+	ruffian 7
+	ruffians 6
+	bully 1
 Synset('guess.v.02')
 	guess 3
 	pretend 6
@@ -121,7 +129,7 @@ Synset('disposition.n.04')
 Synset('phenomenon.n.02')
 	phenomenon 3
 Synset('dead.n.02')
-	dead 22
+	dead 7
 Synset('gangrene.n.01')
 	sloughs 1
 	slough 1
@@ -139,6 +147,7 @@ Synset('wonder.v.01')
 Synset('baptism.n.01')
 	baptism 1
 Synset('repression.n.01')
+	REPRESSION 1
 	repression 1
 Synset('vision.n.01')
 	visions 5
@@ -151,10 +160,11 @@ Synset('goblet.n.01')
 Synset('disrespectfully.r.01')
 	disrespectfully 1
 Synset('battle.n.01')
-	battle 98
+	battle 100
+	Battle 6
 	fights 3
 	battles 10
-	fight 33
+	fight 32
 Synset('grindstone.n.01')
 	grindstone 8
 Synset('dub.v.01')
@@ -179,30 +189,34 @@ Synset('touch.n.03')
 	ghost 10
 	Ghost 1
 	touches 1
+	trace 3
 	Traces 1
 	touch 14
+	Touch 1
 	ghosts 4
 	traces 3
 	Ghosts 1
 Synset('by.r.01')
-	past 11
+	past 15
 	BY 1
 	By 33
 	by 1481
 Synset('off.s.02')
-	off 31
+	off 28
 Synset('quite.r.01')
 	rather 80
 	Rather 1
 Synset('touch.n.06')
 	mites 1
 	Hint 1
+Synset('abbess.n.01')
+	abbess 1
 Synset('jug.n.01')
 	jug 2
-Synset('asleep.a.01')
-	asleep 13
+Synset('winker.n.02')
+	blinder 1
 Synset('alarm.v.02')
-	alarmed 6
+	alarmed 4
 	Alarmed 1
 Synset('seal.v.04')
 	sealed 4
@@ -228,6 +242,7 @@ Synset('version.n.02')
 Synset('opening.n.10')
 	opening 4
 Synset('england.n.01')
+	Englands 1
 	england 1
 Synset('sympathy.n.03')
 	sympathy 14
@@ -245,9 +260,7 @@ Synset('sadly.r.02')
 	Sadly 1
 Synset('saddleback.n.01')
 	saddles 3
-	saddle 17
-Synset('whoop.n.01')
-	Whoop 1
+	saddle 18
 Synset('alarm_clock.n.01')
 	alarms 1
 	alarm 11
@@ -256,16 +269,17 @@ Synset('trot.v.02')
 	trotting 1
 	trotted 2
 Synset('horseman.n.01')
-	horsemen 12
+	horsemen 13
 	horseman 1
 Synset('wind.n.02')
 	winds 12
+	Wind 2
 	wind 27
 Synset('spray.n.01')
 	spray 2
 Synset('iron.n.04')
 	irons 2
-	iron 40
+	iron 41
 Synset('stay.n.04')
 	stay 3
 Synset('entertainer.n.01')
@@ -292,11 +306,12 @@ Synset('packing.n.03')
 Synset('stewing_pan.n.01')
 	stewpan 1
 Synset('everlastingly.r.01')
+	evermore 3
 	eternally 1
 Synset('bedroom.n.01')
 	chambers 4
 	chamber 26
-	bedchamber 2
+	bedchamber 3
 	bedroom 6
 Synset('battalion.n.02')
 	multitudes 2
@@ -311,14 +326,13 @@ Synset('speculate.v.02')
 Synset('wretchedly.r.01')
 	wretchedly 2
 Synset('human.a.02')
-	human 34
+	human 36
 Synset('particularly.r.01')
 	particularly 27
 Synset('assault.n.01')
 	assault 4
 Synset('mold.n.02')
 	mould 1
-	cast 1
 Synset('complacently.r.01')
 	complacently 2
 Synset('basin.n.01')
@@ -327,8 +341,8 @@ Synset('pilgrimage.n.01')
 	pilgrimages 2
 	pilgrimage 2
 Synset('front-runner.n.01')
-	favourite 64
-	favourites 25
+	favourite 16
+	favourites 26
 Synset('beseechingly.r.01')
 	imploringly 1
 Synset('luxury.n.01')
@@ -340,16 +354,18 @@ Synset('damages.n.01')
 	amends 3
 	restitution 1
 Synset('square.n.08')
-	square 3
+	square 4
 	squares 1
-Synset('stuff.v.01')
-	stuffed 1
+Synset('last.n.08')
+	LAST 1
 Synset('past.n.03')
-	past 10
+	past 7
+	PAST 1
 Synset('dairymaid.n.01')
 	milkmaid 1
 Synset('body.n.11')
 	body 93
+	bodys 1
 	bodies 23
 Synset('anger.n.01')
 	anger 9
@@ -372,7 +388,7 @@ Synset('burden.n.04')
 	burdens 1
 	burden 1
 Synset('devote.v.03')
-	devoted 5
+	devoted 4
 	devote 2
 Synset('detail.n.04')
 	details 6
@@ -394,9 +410,9 @@ Synset('supper.n.02')
 Synset('blouse.n.01')
 	blouse 1
 Synset('knit.n.03')
-	knitting 22
+	knitting 24
 Synset('allow.v.04')
-	reserved 7
+	reserved 8
 	Allowing 1
 	allowing 6
 	allow 7
@@ -408,14 +424,13 @@ Synset('stumble.v.02')
 Synset('gradually.r.01')
 	gradually 23
 	Gradually 2
-Synset('condescension.n.02')
-	patronage 3
-	condescension 1
-	disdain 1
+Synset('blood.v.01')
+	blooded 1
 Synset('display.n.01')
-	shows 2
+	show 27
+	shows 1
 	display 4
-	show 28
+	Show 4
 Synset('loudmouth.n.01')
 	blusterer 1
 Synset('display.n.03')
@@ -425,14 +440,14 @@ Synset('spoliation.n.01')
 Synset('singular.a.05')
 	singular 9
 Synset('treason.n.01')
-	treason 36
+	treason 37
 	Treason 1
-Synset('poor_people.n.01')
-	poor 2
 Synset('rich_people.n.01')
 	riches 6
 Synset('score.v.01')
 	hit 2
+Synset('curfew.n.03')
+	Curfew 1
 Synset('trick.n.02')
 	trick 2
 	tricks 4
@@ -443,6 +458,8 @@ Synset('fail.v.07')
 	Failing 1
 Synset('recruit.n.01')
 	recruits 1
+Synset('dissemination.n.01')
+	spreading 1
 Synset('identity.n.01')
 	individuality 1
 Synset('wisely.r.01')
@@ -468,19 +485,19 @@ Synset('mailboat.n.01')
 Synset('candle.n.01')
 	candle 13
 	candles 13
-Synset('powderize.v.02')
-	powdering 1
+Synset('cyclosis.n.01')
+	streaming 5
 Synset('tyrant.n.01')
 	tyrants 5
 	tyrant 7
 Synset('intend.v.01')
-	think 155
+	think 157
 	intend 4
 	intended 6
-	intending 3
-	thinking 16
-	Think 5
+	intending 4
+	thinking 18
 	thinks 3
+	Think 5
 Synset('store.v.02')
 	stored 1
 	store 2
@@ -496,9 +513,9 @@ Synset('direct.v.09')
 	directed 20
 	directing 3
 Synset('well.r.11')
-	better 55
-	Better 1
-	best 11
+	Better 5
+	better 34
+	best 6
 Synset('freely.r.01')
 	freely 9
 Synset('assent.n.01')
@@ -522,20 +539,23 @@ Synset('drudge.n.02')
 	drudge 1
 Synset('fury.n.01')
 	fury 7
+	Furies 3
 	rage 16
 Synset('flash.n.02')
 	flashes 1
 	flash 4
+	FLASH 1
 Synset('skid.v.03')
 	skid 1
-Synset('writing.n.04')
-	writing 18
+Synset('north.r.01')
+	Northward 1
+	northward 1
 Synset('kip.n.03')
 	upstart 1
 Synset('master.n.07')
-	Captain 2
 	captain 14
 	captains 4
+	Captains 1
 Synset('world_health_organization.n.01')
 	who 1198
 	Who 27
@@ -550,10 +570,10 @@ Synset('revert.v.02')
 	reverting 1
 Synset('interval.n.02')
 	intervals 10
-	interval 3
+	interval 4
 Synset('hard.r.07')
-	hard 25
-	harder 1
+	hardest 1
+	hard 20
 Synset('gown.n.05')
 	robe 8
 	robes 5
@@ -567,45 +587,45 @@ Synset('pillow.n.01')
 Synset('wrist.n.01')
 	wrist 2
 	wrists 2
-Synset('tie.v.05')
-	tie 2
-	tying 2
-	tied 18
+Synset('vitamin_d.n.01')
+	D 2
+	d 2
 Synset('breed.v.02')
 	breed 1
-	covered 28
+	covered 29
 	bred 3
+	covering 2
 Synset('medicine.n.03')
 	medicine 2
 	medicines 4
 Synset('distance.n.02')
-	distance 32
+	distance 33
 	distances 2
 Synset('bite.v.02')
-	burned 22
+	burned 23
 	burn 12
-	burnt 17
+	burnt 18
 	stung 1
-	burning 9
+	burning 19
 Synset('interpret.v.01')
 	seeing 29
 	sees 4
 	Seeing 3
-	See 6
+	See 10
 	see 195
 	seen 158
 	saw 137
 Synset('currishly.r.01')
 	ignobly 1
-Synset('prisoner.n.01')
-	prisoner 153
-	captive 8
-	prisoners 81
-	captives 4
+Synset('pray.v.01')
+	Pray 12
+	pray 18
+	praying 16
+	prayed 14
 Synset('tactician.n.01')
 	tactician 1
-Synset('craze.v.02')
-	crazed 1
+Synset('christening.n.01')
+	christening 1
 Synset('diabolically.r.01')
 	devilishly 1
 Synset('hate.n.01')
@@ -626,8 +646,6 @@ Synset('note.n.02')
 Synset('joy.n.02')
 	delight 6
 	joy 17
-Synset('weekly.n.01')
-	weekly 1
 Synset('institution.n.01')
 	establishment 8
 	institution 2
@@ -636,9 +654,9 @@ Synset('confirm.v.04')
 	confirmed 4
 	confirm 4
 Synset('ride.n.02')
-	ride 9
+	ride 8
 	rides 1
-	Ride 1
+	Ride 2
 Synset('pop.v.12')
 	popped 1
 Synset('haste.n.02')
@@ -651,11 +669,11 @@ Synset('regular.a.09')
 Synset('sentence.v.01')
 	sentenced 25
 	DOOMED 1
-	Condemned 1
+	Condemned 2
 	condemning 1
 	sentencing 1
 	condemned 10
-	doomed 9
+	doomed 11
 	condemn 1
 Synset('tigress.n.01')
 	tigress 1
@@ -680,6 +698,7 @@ Synset('face.v.05')
 Synset('flow.v.01')
 	flowed 5
 	flows 1
+	flowing 1
 Synset('advocate.n.02')
 	advocate 1
 	counsel 13
@@ -687,7 +706,7 @@ Synset('advocate.n.02')
 	Advocate 1
 Synset('church.n.04')
 	churches 14
-	Church 12
+	Church 3
 	church 47
 Synset('blossom.v.02')
 	blossomed 1
@@ -701,8 +720,8 @@ Synset('explosion.n.07')
 	explosion 1
 Synset('temperament.n.03')
 	temperament 1
-Synset('miner.n.01')
-	miners 1
+Synset('humor.v.01')
+	humoured 3
 Synset('avenue.n.02')
 	avenues 2
 	avenue 2
@@ -729,11 +748,9 @@ Synset('dinner.n.02')
 	dinner 25
 Synset('dearly.r.02')
 	dear 126
-	Dear 1
 	dearly 5
 Synset('no.r.03')
-	NO 1
-	No 80
+	No 94
 	no 729
 Synset('monotonously.r.01')
 	monotonously 1
@@ -748,12 +765,14 @@ Synset('lock.n.01')
 	locks 4
 	lock 4
 Synset('seafaring.n.01')
-	sailing 1
+	sailing 7
 Synset('em.n.02')
-	em 8
+	em 12
 Synset('passion.n.01')
 	passions 3
 	passion 6
+Synset('spur.n.04')
+	spur 1
 Synset('meanly.r.02')
 	basely 3
 Synset('worth.n.01')
@@ -767,9 +786,10 @@ Synset('melted.a.01')
 Synset('shovel.v.01')
 	shovelled 1
 Synset('marked.a.03')
-	marked 3
+	marked 5
 Synset('guinea.n.01')
 	guineas 6
+	GUINEA 1
 	guinea 5
 Synset('feature_of_speech.n.01')
 	features 5
@@ -779,9 +799,9 @@ Synset('mirror.v.01')
 Synset('art.n.03')
 	prowess 1
 	arts 11
-	art 9
+	art 8
 Synset('release.n.08')
-	release 9
+	release 8
 Synset('assign.v.08')
 	assigned 5
 	attributed 2
@@ -791,7 +811,7 @@ Synset('clergyman.n.01')
 	clergymen 3
 	clergyman 5
 Synset('cold.a.01')
-	cold 34
+	cold 43
 Synset('bones.n.01')
 	bones 9
 Synset('bus_topology.n.01')
@@ -799,10 +819,8 @@ Synset('bus_topology.n.01')
 Synset('bridle.n.01')
 	bridles 4
 	bridle 11
-Synset('bully.n.01')
-	ruffian 6
-	ruffians 6
-	bully 1
+Synset('darts.n.01')
+	darts 1
 Synset('prosecutor.n.01')
 	prosecutor 2
 Synset('recommendation.n.02')
@@ -811,10 +829,12 @@ Synset('thrive.v.02')
 	prosper 4
 	flourished 3
 	prospered 2
+	prospering 1
 	flourish 2
 	thrive 1
 	flourishing 4
 Synset('deal.v.09')
+	deals 1
 	dealing 1
 	deal 4
 	dealt 4
@@ -829,6 +849,8 @@ Synset('gradation.n.01')
 	gradations 1
 Synset('adipose_tissue.n.01')
 	fat 2
+Synset('bullying.n.01')
+	bullying 1
 Synset('pledge.v.05')
 	pledged 3
 Synset('appearance.n.06')
@@ -843,17 +865,17 @@ Synset('caress.n.01')
 Synset('nervousness.n.03')
 	nervousness 1
 Synset('spread.v.10')
-	spreading 8
+	spreading 7
 	spread 12
 Synset('neigh.n.01')
 	neigh 3
 Synset('flair.n.01')
 	genius 5
 Synset('wave.n.06')
-	wave 9
+	wave 8
 	waves 10
 Synset('return.v.14')
-	return 24
+	return 25
 Synset('fifteenth.n.01')
 	fifteenth 5
 Synset('collectedly.r.01')
@@ -870,15 +892,17 @@ Synset('teacher.n.01')
 	Teacher 1
 Synset('wrath.n.02')
 	wrath 6
+Synset('sting.v.02')
+	bit 1
 Synset('regretful.a.01')
-	worse 35
-	bad 107
-	Bad 1
+	worse 34
+	bad 108
+	Bad 2
 	worst 31
 	sorry 20
 	Worse 2
 Synset('sink.v.01')
-	sinking 6
+	sinking 7
 	sunk 11
 	sank 9
 	sink 1
@@ -887,7 +911,6 @@ Synset('straight.r.03')
 Synset('luster.n.01')
 	splendour 7
 Synset('go.n.01')
-	go 2
 	spell 2
 	spells 1
 Synset('stupidity.n.02')
@@ -895,7 +918,7 @@ Synset('stupidity.n.02')
 	folly 1
 	foolishness 1
 Synset('round.a.01')
-	round 6
+	round 25
 Synset('miniature.n.02')
 	toy 1
 Synset('privation.n.01')
@@ -912,6 +935,7 @@ Synset('whiff.v.05')
 	whiffed 1
 Synset('manner.n.02')
 	manner 138
+	MANNER 1
 	manners 14
 Synset('exert.v.03')
 	exerted 1
@@ -922,22 +946,23 @@ Synset('blunderbuss.n.01')
 Synset('area.n.06')
 	expanse 1
 Synset('goddess.n.01')
+	Goddess 1
 	Goddesses 1
 Synset('most.a.02')
-	most 37
-	Most 3
+	most 34
+	Most 4
 Synset('neighbor.n.01')
 	neighbour 7
 	neighbours 6
 Synset('taste.n.05')
 	mouthful 1
 Synset('jury.n.02')
-	Jury 7
+	Jury 5
 	juries 1
 	jury 22
 	jurys 1
-Synset('churr.v.01')
-	whirrs 1
+Synset('orphan.n.04')
+	orphan 6
 Synset('significance.n.02')
 	significance 3
 Synset('borrowing.n.02')
@@ -954,9 +979,6 @@ Synset('abasement.n.01')
 	degradation 2
 Synset('take.n.02')
 	take 1
-Synset('conductor.n.04')
-	conductors 2
-	conductor 2
 Synset('snatch.n.04')
 	snatches 1
 Synset('cavalry.n.02')
@@ -964,19 +986,14 @@ Synset('cavalry.n.02')
 Synset('resurrection.n.02')
 	resurrection 3
 	Resurrection 1
-Synset('paul.n.02')
-	Pauls 4
 Synset('identification.n.03')
 	identification 3
 Synset('arbor.n.03')
 	bower 2
-	Bower 1
 Synset('feature.n.01')
 	characteristics 1
-Synset('south.r.01')
-	south 1
 Synset('whole.n.02')
-	whole 17
+	whole 13
 Synset('willow.n.02')
 	willow 1
 Synset('immolation.n.01')
@@ -985,13 +1002,14 @@ Synset('premise.n.01')
 	assumption 2
 Synset('life.n.08')
 	life 211
-	lives 27
-	Life 1
+	lives 25
+Synset('book.v.01')
+	Book 3
 Synset('efficacy.n.01')
 	efficacy 2
 Synset('lie.n.01')
 	prevarication 1
-	lie 22
+	lie 15
 	lies 3
 Synset('arithmetic_mean.n.01')
 	expectation 5
@@ -1002,17 +1020,16 @@ Synset('joker.n.03')
 Synset('toller.n.01')
 	ringer 1
 	ringers 1
+Synset('stupid.n.01')
+	Dolt 1
 Synset('hex.v.01')
-	enchanted 6
+	enchanted 4
 Synset('nothing.n.01')
 	nothing 218
 	Nothing 21
 	naught 1
-Synset('pointed.a.01')
-	pointed 5
 Synset('nail_down.v.01')
 	nailed 2
-	nails 1
 Synset('majestically.r.01')
 	majestically 1
 Synset('siege.n.01')
@@ -1027,8 +1044,8 @@ Synset('demeanor.n.01')
 	demeanour 1
 	deportment 1
 	conduct 10
-Synset('five_hundred.s.01')
-	d 2
+Synset('christmas.n.02')
+	christmas 1
 Synset('tho.n.01')
 	tho 3
 Synset('stem.v.03')
@@ -1043,10 +1060,15 @@ Synset('grain.n.06')
 Synset('goner.n.01')
 	toast 3
 	toasts 1
+Synset('comedy.n.01')
+	Comedy 2
 Synset('decree.v.01')
 	decreed 2
 Synset('action.v.01')
 	sued 1
+Synset('hayfield.n.01')
+	meadow 1
+	meadows 1
 Synset('purse.n.04')
 	purse 1
 	purses 1
@@ -1072,17 +1094,17 @@ Synset('cape.n.01')
 	ness 5
 	nesses 1
 Synset('judge.n.01')
-	Judges 2
+	judge 6
 	justice 15
 	judges 19
-	Justice 2
-	Justices 1
-	judge 5
+	Judges 1
 Synset('eavesdropper.n.01')
 	eavesdropper 1
 Synset('hostage.n.01')
 	hostage 1
 	hostages 1
+Synset('bustle.n.01')
+	ado 2
 Synset('decoration.n.02')
 	decoration 7
 	medal 1
@@ -1090,7 +1112,6 @@ Synset('decoration.n.02')
 Synset('switch_over.v.01')
 	exchanged 5
 Synset('chase.n.03')
-	chases 1
 	chase 5
 Synset('flood_tide.n.02')
 	flood 2
@@ -1101,7 +1122,7 @@ Synset('salutation.n.03')
 Synset('telegraph.n.01')
 	telegraph 1
 Synset('range.n.03')
-	range 4
+	range 5
 Synset('valley.n.01')
 	valleys 1
 	vale 1
@@ -1136,8 +1157,8 @@ Synset('surpass.v.02')
 Synset('leech.n.02')
 	parasites 2
 Synset('such.r.01')
-	such 72
-	Such 2
+	Such 10
+	such 77
 Synset('herald.n.01')
 	heralds 3
 Synset('jingle.n.01')
@@ -1145,14 +1166,14 @@ Synset('jingle.n.01')
 	jangle 1
 Synset('easing.n.01')
 	moderation 2
-Synset('silicon.n.01')
-	si 1
+Synset('tailor.n.01')
+	tailor 2
 Synset('forest.n.01')
 	wood 45
-	Forests 1
+	Forests 2
 	forests 2
 	woods 10
-	Forest 7
+	Forest 9
 	forest 14
 Synset('lamplighter.n.01')
 	lamplighter 3
@@ -1165,8 +1186,6 @@ Synset('bottle.n.01')
 Synset('sacrifice.v.03')
 	sacrifice 3
 	sacrificed 7
-Synset('substitute.v.02')
-	sub 1
 Synset('mix.n.01')
 	mix 1
 Synset('chew.n.01')
@@ -1182,11 +1201,12 @@ Synset('wide_area_network.n.01')
 	wan 1
 Synset('toilet.n.01')
 	toilet 1
+	JOHN 2
 	can 192
 	Can 16
 Synset('toilet.n.02')
 	pot 7
-	stool 12
+	stool 13
 Synset('figure.v.02')
 	enters 1
 	entering 5
@@ -1194,9 +1214,8 @@ Synset('figure.v.02')
 	Entering 1
 	Enter 1
 	entered 29
-Synset('cellblock.n.01')
-	ward 5
-	wards 10
+Synset('personality.n.02')
+	personality 1
 Synset('associate.n.03')
 	associates 2
 	associate 1
@@ -1211,13 +1230,14 @@ Synset('output.n.04')
 	production 1
 Synset('twenty.s.01')
 	twenty 98
+	20 1
 	Twenty 5
 Synset('half.r.01')
-	half 40
+	half 33
 Synset('citizenry.n.01')
-	People 8
-	peoples 11
 	people 536
+	peoples 11
+	People 9
 Synset('affair.n.02')
 	intimacy 1
 	affaire 1
@@ -1226,7 +1246,7 @@ Synset('water_closet.n.01')
 Synset('borough.n.02')
 	boroughs 1
 Synset('grade.v.03')
-	score 1
+	score 2
 Synset('affair.n.03')
 	function 2
 	occasion 36
@@ -1246,18 +1266,19 @@ Synset('inmate.n.01')
 	inmate 3
 	inmates 1
 Synset('public_speaking.n.01')
-	speaking 10
-Synset('bitterness.n.04')
-	bitterness 4
+	speaking 8
+Synset('still.n.03')
+	STILL 1
 Synset('deeply.r.02')
 	deeply 7
-	deep 1
+	deep 4
 Synset('trap.n.04')
 	trap 1
 	traps 2
 Synset('stone.n.13')
 	stones 33
 	stone 66
+	Stone 1
 Synset('mode.n.06')
 	mode 5
 Synset('empty.n.01')
@@ -1328,10 +1349,10 @@ Synset('basket.n.03')
 Synset('basket.n.02')
 	basketful 1
 Synset('terrace.n.02')
-	terrace 4
+	terrace 5
 	terraces 1
 Synset('shanghai.v.01')
-	impressed 5
+	impressed 2
 	impress 2
 	impressing 1
 Synset('hilltop.n.01')
@@ -1345,16 +1366,16 @@ Synset('swallow.n.01')
 	sup 3
 Synset('think.v.03')
 	cogitated 1
-Synset('slice.v.02')
-	sliced 1
-	slicing 1
+Synset('immolate.v.01')
+	immolate 1
 Synset('think.v.06')
-	thought 115
-Synset('daily.r.01')
-	daily 4
+	thought 116
+Synset('dismally.r.02')
+	dreadfully 5
+	dismally 2
 Synset('lawsuit.n.01')
 	suit 11
-	cause 69
+	cause 61
 	causes 6
 	suits 1
 Synset('dismally.r.01')
@@ -1363,13 +1384,17 @@ Synset('badminton_racket.n.01')
 	battledores 4
 Synset('avowal.n.01')
 	avowal 1
-Synset('adhere.v.04')
-	adhering 1
+Synset('argyll.n.01')
+	Argyle 3
+Synset('bridge.n.01')
+	bridge 20
+	bridges 3
 Synset('blare.n.01')
 	din 2
 Synset('application.n.06')
 	diligence 2
 Synset('converse.v.01')
+	conversed 1
 	converse 1
 	conversing 1
 Synset('conspire.v.01')
@@ -1385,7 +1410,7 @@ Synset('attractive.a.03')
 	attractive 1
 Synset('center.n.07')
 	centres 1
-	centre 4
+	centre 5
 Synset('stretch.n.03')
 	stretch 1
 Synset('earring.n.01')
@@ -1394,14 +1419,15 @@ Synset('inhabitancy.n.01')
 	Habitations 1
 	habitation 1
 Synset('peak.n.04')
-	crown 54
-	top 29
+	Crown 9
+	top 23
 	summits 1
-	tops 5
+	crown 54
 	crowns 10
+	crest 2
 	summit 3
 	tips 1
-	crest 2
+	tops 5
 Synset('nerve_impulse.n.01')
 	impulses 1
 	impulse 1
@@ -1410,23 +1436,23 @@ Synset('roads.n.01')
 Synset('baron.n.01')
 	baron 1
 	barons 5
-	Barons 41
+	Barons 13
 Synset('good.a.01')
-	better 99
-	good 338
-	Good 24
-	best 87
-Synset('hook.v.01')
-	hooks 1
+	better 120
+	good 344
+	Good 39
+	best 92
+Synset('squash_racket.n.01')
+	bats 1
 Synset('spectator_pump.n.01')
 	spectators 12
 	spectator 1
-Synset('gentry.n.01')
-	gentry 2
+Synset('stableman.n.01')
+	ostler 1
 Synset('gloss.v.01')
 	gloss 1
 Synset('rear.n.01')
-	rear 4
+	rear 3
 Synset('mob.n.01')
 	rabble 3
 	mob 9
@@ -1446,13 +1472,14 @@ Synset('abdomen.n.01')
 Synset('exercise.n.05')
 	exercise 8
 Synset('rise.n.01')
-	rise 10
+	rise 9
 	Rise 1
 Synset('sufficiently.r.01')
 	sufficiently 6
 Synset('rise.n.04')
+	Ascension 1
 	ascents 1
-	rising 13
+	rising 3
 Synset('ambassador.n.01')
 	ambassadors 9
 	ambassador 12
@@ -1468,20 +1495,20 @@ Synset('smallness.n.01')
 	littlenesses 1
 Synset('ordinance.n.02')
 	ordinance 3
-	Ordinance 1
 	ordinances 1
 Synset('revolution.n.02')
 	REVOLUTION 1
 	Revolution 6
-Synset('percy.n.02')
-	Percys 1
 Synset('oeuvre.n.01')
 	work 88
+	Work 2
 	works 4
-Synset('crowbar.n.01')
-	crowbar 3
-Synset('side.a.01')
-	side 1
+Synset('mourning.n.01')
+	mourning 4
+Synset('lordship.n.02')
+	Lordship 1
+Synset('xxx.n.02')
+	XXX 1
 Synset('suburb.n.01')
 	suburb 4
 	suburbs 1
@@ -1491,12 +1518,12 @@ Synset('noun.n.02')
 	noun 1
 Synset('mule.n.02')
 	mule 3
-Synset('boo.v.01')
-	hissing 1
-	hissed 1
+Synset('itch.v.04')
+	spoiling 1
+	spoil 4
 Synset('determine.v.01')
 	ascertained 3
-	ascertain 3
+	ascertain 4
 Synset('lottery.n.01')
 	lottery 1
 Synset('chaplain.n.01')
@@ -1507,8 +1534,6 @@ Synset('lath.n.01')
 Synset('tirade.n.01')
 	broadside 1
 	broadsides 1
-Synset('pretext.n.01')
-	pretext 1
 Synset('failing.n.01')
 	weakness 14
 Synset('hit.n.03')
@@ -1520,11 +1545,9 @@ Synset('deity.n.01')
 	god 1
 Synset('military_capability.n.01')
 	strength 19
-Synset('anti.n.01')
-	anti 2
-Synset('reform.v.05')
-	reforming 2
-	reformed 8
+Synset('bog.n.01')
+	bogs 1
+	bog 2
 Synset('reform.v.02')
 	reclaim 1
 Synset('horizon.n.03')
@@ -1538,22 +1561,22 @@ Synset('admiration.n.01')
 Synset('consecrated.a.01')
 	consecrated 1
 Synset('round.v.01')
-	round 29
+	round 20
 Synset('end.v.01')
 	terminated 3
-	ends 2
-	end 6
+	ends 4
+	end 9
 	terminate 3
 	ending 1
 	ended 16
 Synset('dissipate.v.04')
 	dissipated 4
 Synset('color.v.05')
-	coloured 2
+	coloured 4
 Synset('hayloft.n.01')
 	hayloft 1
 Synset('warning.n.01')
-	warning 12
+	warning 11
 	warnings 2
 Synset('marsh.n.01')
 	marsh 1
@@ -1579,7 +1602,7 @@ Synset('passenger.n.01')
 	passengers 21
 	passenger 25
 Synset('fancy.n.02')
-	fancy 23
+	fancy 19
 Synset('cultivator.n.02')
 	tillers 1
 Synset('conveyance.n.03')
@@ -1598,7 +1621,7 @@ Synset('fortification.n.01')
 	fortification 1
 	fortifications 1
 Synset('drink.n.01')
-	drink 12
+	drink 10
 Synset('view.n.02')
 	prospect 6
 	prospects 3
@@ -1606,8 +1629,6 @@ Synset('view.n.02')
 	vista 1
 	scene 23
 	PROSPECTS 1
-Synset('conversation_stopper.n.01')
-	stoppers 1
 Synset('aids.n.01')
 	aids 1
 Synset('hedge.n.01')
@@ -1615,16 +1636,18 @@ Synset('hedge.n.01')
 	hedge 1
 Synset('saunter.n.01')
 	saunter 1
+Synset('united.a.01')
+	united 1
 Synset('late.a.01')
-	late 65
+	late 66
 	later 4
 	latest 2
 Synset('desk.n.01')
 	desk 12
 Synset('stain.v.01')
-	staining 2
+	staining 1
 	stain 8
-	stained 13
+	stained 14
 Synset('ping.n.02')
 	ping 1
 Synset('penalty.n.04')
@@ -1637,13 +1660,14 @@ Synset('project.n.02')
 	projects 3
 Synset('palace.n.01')
 	castles 20
-	castle 54
-	palaces 1
+	Castles 1
+	Palace 12
 	palace 26
+	palaces 1
+	castle 54
+	Castle 28
 Synset('denial.n.03')
 	denial 4
-Synset('freshman.n.01')
-	fresher 1
 Synset('flush.v.05')
 	scouring 1
 Synset('luck.n.03')
@@ -1653,8 +1677,12 @@ Synset('oyster.n.01')
 	oyster 1
 Synset('tax.v.02')
 	taxed 11
-	tax 3
+	tax 2
 	taxing 5
+Synset('circumference.n.03')
+	Circumference 2
+Synset('kit.n.02')
+	Kits 1
 Synset('cleanly.r.02')
 	cleanly 1
 Synset('process.v.01')
@@ -1662,16 +1690,19 @@ Synset('process.v.01')
 	treated 25
 	treat 8
 Synset('bind.v.09')
+	bind 4
 	bound 34
 Synset('kind.n.01')
 	sort 30
-	kind 63
+	kind 64
 	kinds 11
 	sorts 12
 Synset('go.v.02')
-	proceeding 1
+	proceeding 3
 	proceeded 11
 	proceed 6
+Synset('ingratitude.n.01')
+	ingratitude 1
 Synset('decently.r.01')
 	decently 2
 Synset('patchwork.n.03')
@@ -1687,13 +1718,11 @@ Synset('blame.n.02')
 	blame 2
 Synset('barely.r.01')
 	scarcely 30
-	just 68
+	just 72
 	Just 5
 	hardly 20
 	Scarcely 1
 	Hardly 2
-Synset('responsibility.n.03')
-	responsibility 2
 Synset('fondness.n.01')
 	partiality 1
 Synset('peep.v.04')
@@ -1704,14 +1733,14 @@ Synset('jemaah_islamiyah.n.01')
 Synset('taxer.n.01')
 	taxers 1
 Synset('up.a.01')
-	up 45
+	up 41
 	Up 5
 Synset('star.v.02')
 	stared 13
 	stars 1
-	staring 14
+	staring 15
 Synset('account.v.04')
-	account 3
+	account 4
 Synset('coward.n.01')
 	cowards 1
 	coward 2
@@ -1719,7 +1748,6 @@ Synset('whipping.n.01')
 	flogging 1
 Synset('body.v.01')
 	bodied 1
-	bodys 1
 Synset('quill.n.04')
 	shaft 1
 Synset('help_oneself.v.01')
@@ -1733,19 +1761,16 @@ Synset('avail.n.01')
 	avail 4
 	Avails 1
 	help 30
+	HELP 1
 Synset('deem.v.01')
 	deemed 2
-Synset('join.v.01')
-	join 15
-	joined 43
-	joining 7
+Synset('housebreaker.n.01')
+	housebreaker 1
 Synset('soft.a.08')
 	softer 2
 	soft 6
 Synset('foreman.n.01')
 	foreman 2
-Synset('tour.v.01')
-	tour 1
 Synset('twentieth.n.01')
 	twentieth 5
 Synset('blimp.n.02')
@@ -1767,27 +1792,32 @@ Synset('nap.n.04')
 	nap 1
 Synset('rogue.n.01')
 	knaves 1
+	rascals 1
 	rogue 1
-	rascal 6
+	rascal 4
 	knave 3
-	Rogues 1
 Synset('income.n.01')
 	income 2
 Synset('high.a.02')
-	high 108
+	high 109
+	High 6
 	highest 7
-	higher 13
+	higher 15
 Synset('head.v.08')
-	head 13
+	HEADS 1
+	Head 1
 	heading 2
+	head 13
 	headed 24
 Synset('refection.n.01')
 	refection 1
 Synset('twelve.s.01')
 	twelve 41
 	12 1
+	Twelve 1
+	XII 2
 Synset('finding.n.02')
-	finding 1
+	finding 2
 Synset('working.n.01')
 	working 2
 Synset('disbeliever.n.01')
@@ -1798,7 +1828,7 @@ Synset('reason.v.01')
 Synset('transport.n.02')
 	transport 1
 Synset('infinite.a.02')
-	infinite 5
+	infinite 4
 Synset('tendency.n.04')
 	tendency 7
 Synset('harry.v.02')
@@ -1812,7 +1842,7 @@ Synset('cavalcade.n.01')
 	cavalcade 1
 Synset('bunco.n.01')
 	Con 3
-	con 30
+	con 35
 Synset('vineyard.n.01')
 	vineyards 2
 Synset('reflect.v.06')
@@ -1832,6 +1862,7 @@ Synset('herb.n.01')
 	herbs 7
 Synset('war.n.02')
 	Wars 1
+	War 2
 	war 115
 	wars 8
 Synset('infiltrate.v.02')
@@ -1845,9 +1876,9 @@ Synset('reformation.n.02')
 	Reformation 2
 Synset('earth.n.02')
 	earth 57
-	earths 1
-Synset('going.n.03')
-	going 5
+	earths 2
+Synset('fumble.v.05')
+	fumbled 1
 Synset('hammock.n.02')
 	sack 5
 Synset('pluck.v.04')
@@ -1860,17 +1891,20 @@ Synset('ninepence.n.01')
 	ninepence 1
 Synset('exempt.v.01')
 	exempting 1
-Synset('ground.v.11')
-	ground 1
+Synset('circuit.n.01')
+	circuit 2
+	Circuit 1
 Synset('draft.n.11')
 	drawing 2
 Synset('testament.n.01')
+	Testament 2
 	Testaments 1
 Synset('bumper.n.02')
 	bumper 3
 	bumpers 1
 	BUMPER 1
 Synset('chase.v.03')
+	chases 1
 	chased 3
 	chase 1
 Synset('principle.n.01')
@@ -1884,7 +1918,6 @@ Synset('blow.n.02')
 Synset('pedestrian.n.01')
 	walker 1
 Synset('republican.n.02')
-	Republicans 1
 	republicans 1
 Synset('haul.v.02')
 	hauling 1
@@ -1897,7 +1930,7 @@ Synset('shading.n.02')
 Synset('clemency.n.02')
 	clemency 1
 Synset('leaf.n.03')
-	leaves 15
+	leaves 13
 	leaf 7
 Synset('shrub.n.01')
 	bushes 1
@@ -1911,11 +1944,9 @@ Synset('report.v.06')
 Synset('meeting.n.03')
 	encounters 1
 	meetings 1
-	meeting 21
+	meeting 22
 Synset('downstairs.r.01')
 	below 22
-Synset('blowing.n.01')
-	blowing 1
 Synset('dame.n.02')
 	madam 4
 	madams 1
@@ -1927,14 +1958,15 @@ Synset('dame.n.01')
 	birds 14
 Synset('swagman.n.01')
 	swagger 1
-Synset('bustle.n.01')
-	ado 2
+Synset('twist.n.09')
+	wrench 1
 Synset('cream.n.03')
 	cream 1
-Synset('demur.n.01')
-	demur 2
+Synset('background.n.01')
+	background 1
 Synset('shadow.n.04')
 	shadows 21
+	SHADOWS 2
 	shadow 32
 	SHADOW 1
 Synset('serpent.n.03')
@@ -1945,7 +1977,7 @@ Synset('presidency.n.01')
 	administration 1
 Synset('dance.v.02')
 	dance 6
-	danced 12
+	danced 13
 	dancing 2
 Synset('bluejacket.n.01')
 	sailors 26
@@ -1958,16 +1990,14 @@ Synset('month.n.02')
 Synset('sky-high.r.02')
 	enthusiastically 1
 Synset('knot.v.02')
-	knotted 2
+	knotted 3
 	knotting 1
-Synset('united_states.n.01')
-	us 2
 Synset('second_gear.n.01')
 	seconds 3
-	SECOND 2
 	second 6
+	SECOND 16
 Synset('square.a.01')
-	square 3
+	square 2
 Synset('bedside.n.01')
 	bedside 1
 Synset('gag.n.02')
@@ -1977,7 +2007,7 @@ Synset('passer.n.03')
 	passers 3
 Synset('scot.n.01')
 	Scotchmen 1
-	Scots 4
+	Scots 3
 	Scotchman 1
 Synset('shilling.n.06')
 	shillings 7
@@ -1987,23 +2017,21 @@ Synset('mortally.r.01')
 Synset('spill.v.01')
 	spilled 2
 Synset('slit.v.01')
-	slit 5
+	slit 4
 Synset('pavement.n.01')
 	pavement 11
 	pavements 3
-	paving 1
+	paving 2
 Synset('mainland.n.01')
 	mainland 1
 Synset('bonfire.n.01')
 	bonfires 7
 Synset('parish.n.01')
-	parish 2
-Synset('put_option.n.02')
-	put 1
+	parish 5
 Synset('laboriously.r.01')
 	laboriously 1
 Synset('run.n.10')
-	run 5
+	run 4
 Synset('ague.n.01')
 	ague 3
 Synset('offer.n.02')
@@ -2018,20 +2046,20 @@ Synset('hunt.v.04')
 Synset('widow.v.01')
 	widowed 2
 Synset('shroud.v.01')
-	cover 1
-	hidden 22
+	Hide 1
+	hidden 21
 	hid 9
-	hiding 3
+	cover 1
+	hiding 2
 Synset('boot.v.01')
 	booted 3
-	booting 1
 Synset('dragon.n.02')
 	dragons 2
 Synset('lift.v.22')
 	lifted 12
 	lift 2
 	Lift 1
-	lifting 5
+	lifting 4
 Synset('prosecute.v.01')
 	prosecute 1
 	prosecuted 1
@@ -2039,17 +2067,16 @@ Synset('pump.v.01')
 	pumped 1
 Synset('extravagantly.r.02')
 	extravagantly 1
-Synset('british_labour_party.n.01')
-	labours 2
-	labour 6
+Synset('intravenous_feeding.n.01')
+	IV 9
 Synset('drawl.n.01')
 	drawl 1
 Synset('pirate.n.02')
-	pirate 2
+	pirate 3
 	pirates 4
 Synset('government.n.03')
 	Governments 1
-	Government 9
+	Government 8
 	government 19
 Synset('dedication.n.04')
 	inscription 5
@@ -2063,7 +2090,7 @@ Synset('perceptibly.r.01')
 	perceptibly 1
 Synset('sign.v.06')
 	signing 1
-	signed 20
+	signed 21
 	sign 8
 Synset('hot.a.01')
 	hot 30
@@ -2071,10 +2098,12 @@ Synset('hot.a.01')
 Synset('punch.n.01')
 	lick 1
 	punch 11
+	PUNCH 1
 Synset('promotion.n.01')
 	promotions 2
 	promotion 2
 Synset('lightning.n.02')
+	Lightning 1
 	lightning 5
 Synset('recumb.v.01')
 	reclining 1
@@ -2084,11 +2113,9 @@ Synset('doubtfully.r.01')
 Synset('cashier.n.02')
 	cashiers 1
 Synset('james.n.04')
-	Jamess 4
+	Jamess 3
 Synset('clue.n.02')
 	clue 3
-Synset('covenant.n.01')
-	Covenant 1
 Synset('calculate.v.01')
 	reckoned 1
 	calculated 2
@@ -2097,8 +2124,8 @@ Synset('calculate.v.01')
 Synset('revolutionist.n.01')
 	Revolutionists 2
 	Revolutionist 1
-Synset('paved.a.01')
-	paved 3
+Synset('gateway.n.01')
+	gateway 2
 Synset('rat.n.05')
 	rats 6
 Synset('provide.v.06')
@@ -2108,14 +2135,14 @@ Synset('provide.v.06')
 	provided 9
 Synset('steal.v.03')
 	steal 3
-	stolen 4
+	stolen 5
 	stole 5
 	stealing 2
 Synset('thus.r.02')
 	So 135
 	so 1029
 Synset('lull.n.02')
-	quiet 4
+	quiet 2
 Synset('divine_guidance.n.01')
 	inspiration 1
 Synset('flock.n.01')
@@ -2132,7 +2159,10 @@ Synset('fortnight.n.01')
 	fortnight 6
 Synset('dandy.n.01')
 	swell 2
+Synset('writing.n.04')
+	writing 9
 Synset('astatine.n.01')
+	AT 3
 	at 1909
 	At 140
 Synset('appetite.n.01')
@@ -2157,8 +2187,10 @@ Synset('rope.n.01')
 Synset('comrade.n.02')
 	comrade 1
 	comrades 2
+Synset('anyhow.r.01')
+	anyways 1
 Synset('separate.v.07')
-	separated 9
+	separated 8
 	divided 17
 	divide 7
 	dividing 1
@@ -2166,9 +2198,9 @@ Synset('separate.v.07')
 Synset('difficulty.n.02')
 	difficulty 22
 	difficulties 4
-Synset('reason.n.06')
-	reasons 21
-	reason 61
+Synset('drawstring.n.01')
+	string 6
+	strings 3
 Synset('grin.v.01')
 	grinning 1
 Synset('hill.n.01')
@@ -2177,6 +2209,7 @@ Synset('hill.n.01')
 Synset('jargoon.n.01')
 	jargon 2
 Synset('acre.n.02')
+	Acre 1
 	acres 1
 Synset('thickness.n.03')
 	thickness 1
@@ -2186,7 +2219,7 @@ Synset('citizen.n.01')
 	citizens 24
 	citizen 32
 Synset('gathering.n.01')
-	gathering 5
+	gathering 4
 	assemblages 2
 	assemblage 1
 Synset('brick.n.01')
@@ -2198,26 +2231,27 @@ Synset('politeness.n.01')
 Synset('scar.v.01')
 	pitted 2
 	marking 2
-	marked 11
+	marked 9
 Synset('chortle.n.01')
 	chuckle 1
 Synset('scholar.n.01')
+	Scholars 1
 	scholar 1
-	Scholar 1
+	SCHOLAR 1
 	scholars 5
 Synset('tons.n.01')
 	dozens 2
 Synset('curtly.r.01')
 	curtly 1
 Synset('incline.v.02')
-	inclined 8
+	inclined 6
 Synset('linstock.n.01')
 	linstock 1
 Synset('camp.v.02')
 	camped 1
 Synset('extend.v.17')
 	extending 4
-	extended 4
+	extended 5
 	extend 4
 Synset('camp.v.01')
 	encamping 1
@@ -2225,7 +2259,7 @@ Synset('camp.v.01')
 	encamped 9
 Synset('backsliding.n.01')
 	relapses 1
-	relapse 7
+	relapse 8
 Synset('discharge.n.09')
 	firing 4
 Synset('larboard.n.01')
@@ -2244,6 +2278,7 @@ Synset('defiance.n.02')
 Synset('roll.v.11')
 	waved 7
 	flapped 1
+	wave 1
 Synset('ember.n.01')
 	coal 2
 	embers 4
@@ -2263,7 +2298,7 @@ Synset('clanger.n.01')
 	clanger 1
 Synset('push.v.06')
 	crowding 1
-	crowded 6
+	crowded 7
 Synset('cheerfully.r.01')
 	cheerfully 4
 Synset('regularly.r.03')
@@ -2277,36 +2312,32 @@ Synset('proboscis.n.02')
 Synset('sell.v.05')
 	sell 6
 	sold 13
-	selling 5
+	selling 4
 Synset('dane.n.01')
-	Danes 4
-	Dane 2
-	DANES 1
+	Dane 6
+	Danes 2
 Synset('eye.n.05')
 	eyes 166
 	eye 30
 Synset('lie.v.04')
-	lie 9
+	lie 16
 	lied 1
 	lying 43
 	lies 5
-	lay 148
-	lain 3
+	lay 142
+	lain 4
 	Lying 2
-Synset('sunday.n.01')
-	Sundays 4
+Synset('amendment.n.02')
+	amendment 1
 Synset('mighty.r.01')
-	right 10
-	mighty 2
+	right 24
 	mightily 8
-Synset('device.n.02')
-	device 1
 Synset('team.n.01')
 	team 2
 Synset('train.v.02')
 	preparing 3
 	prepare 12
-	prepared 17
+	prepared 19
 Synset('dictator.n.02')
 	potentate 1
 Synset('hurry.n.01')
@@ -2326,13 +2357,15 @@ Synset('canter.n.01')
 	canter 2
 Synset('flatterer.n.01')
 	flatterers 2
+Synset('shooting.n.01')
+	shooting 1
 Synset('hotel.n.01')
 	hotel 5
 Synset('conclusion.n.08')
-	close 11
+	close 13
 	closing 2
 Synset('hovel.n.01')
-	hut 10
+	hut 13
 	hutches 1
 	hovel 1
 	huts 2
@@ -2346,17 +2379,17 @@ Synset('ride.v.02')
 	riding 44
 	Riding 1
 Synset('suppose.v.01')
-	saying 55
+	saying 56
 	supposes 1
 	said 1034
 	says 25
 	Saying 1
 	supposing 3
-	say 242
+	say 245
 	Say 15
 	Said 2
 	suppose 41
-	supposed 48
+	supposed 49
 	Supposing 2
 	Says 3
 Synset('rampart.n.01')
@@ -2369,6 +2402,7 @@ Synset('rent.v.04')
 Synset('substitute.v.03')
 	substituting 1
 	substituted 1
+	substitutes 1
 Synset('story.n.02')
 	story 51
 	stories 10
@@ -2378,7 +2412,7 @@ Synset('defy.v.02')
 	refuse 5
 	resisting 3
 	defy 3
-	refusing 4
+	refusing 5
 	refused 43
 	resist 4
 	resisted 6
@@ -2387,6 +2421,8 @@ Synset('local_area_network.n.01')
 	lan 1
 Synset('silencer.n.02')
 	muffler 2
+Synset('worse.r.01')
+	worse 1
 Synset('vow.v.02')
 	consecrated 1
 	vowing 1
@@ -2401,14 +2437,15 @@ Synset('enthusiasm.n.01')
 Synset('barbarously.r.01')
 	barbarously 3
 Synset('dear.s.02')
-	nearest 3
-	near 107
+	nearest 1
+	near 108
 	Near 1
 	nearer 22
 Synset('wool.n.01')
 	wool 3
 	woollen 3
 Synset('gunpowder.n.01')
+	Gunpowder 2
 	gunpowder 12
 Synset('sport.n.03')
 	sport 3
@@ -2416,7 +2453,7 @@ Synset('sport.n.03')
 Synset('idiot.n.01')
 	idiot 2
 	idiots 2
-	imbecile 1
+	imbecile 2
 Synset('swoop.v.03')
 	swooping 1
 	swooped 2
@@ -2434,15 +2471,12 @@ Synset('lupus_erythematosus.n.01')
 Synset('apartment.n.01')
 	apartment 4
 	apartments 1
-Synset('remedy.n.02')
-	cure 1
 Synset('turn.v.08')
+	release 5
+	released 34
+	Releasing 1
 	releases 1
 	Released 1
-	Releasing 1
-	released 34
-	RELEASED 1
-	release 4
 Synset('work.v.01')
 	work 27
 	working 8
@@ -2455,39 +2489,39 @@ Synset('breast.n.04')
 	breast 62
 Synset('whitewash.v.03')
 	whitewashed 1
-Synset('sharpen.v.07')
-	sharpening 1
-	sharpened 2
+Synset('millimeter.n.01')
+	Mm 3
 Synset('coiner.n.03')
 	coiner 2
 Synset('monk.n.01')
-	monks 34
+	monks 35
 	monk 7
-Synset('bayonet.n.01')
-	bayonets 3
 Synset('fin.v.02')
 	fined 6
 Synset('specially.r.01')
 	especially 12
 	specially 2
-Synset('bespeak.v.01')
-	signalling 2
+Synset('sisterhood.n.03')
+	sisterhood 1
 Synset('outbreak.n.01')
 	irruption 3
 	eruptions 1
 	outbreak 2
-Synset('taw.n.02')
-	Shooters 1
+Synset('patron.n.01')
+	patron 2
 Synset('define.v.02')
 	defined 3
 Synset('dinge.v.01')
 	battered 1
 	battering 1
+Synset('paneling.n.01')
+	pane 2
 Synset('secret.n.02')
 	secrets 3
-	secret 32
-Synset('twist.n.09')
-	wrench 1
+	secret 29
+Synset('patient.n.01')
+	patients 5
+	patient 15
 Synset('upholsterer.n.01')
 	upholsterers 1
 Synset('aboard.r.01')
@@ -2497,22 +2531,24 @@ Synset('believer.n.01')
 	believer 1
 Synset('indium.n.01')
 	In 195
+	Ins 2
 	IN 6
-	in 4966
+	in 5015
 Synset('altar.n.02')
 	altar 10
+	Altar 1
 	altars 2
 Synset('handcart.n.01')
 	carts 15
 	cart 14
 Synset('step.v.03')
-	step 1
+	step 2
 Synset('innocence.n.03')
 	innocence 2
 Synset('change.v.01')
 	Changed 1
 	altered 8
-	changed 25
+	changed 27
 	modified 1
 	changing 2
 	changes 1
@@ -2521,19 +2557,21 @@ Synset('change.v.01')
 Synset('recover.v.03')
 	recover 5
 	recovering 4
-	recovered 19
+	recovered 17
 Synset('reproach.n.01')
 	reproaches 2
 	reproach 1
-Synset('drawstring.n.01')
-	string 6
-	strings 3
+Synset('reason.n.06')
+	reasons 21
+	Reason 1
+	reason 61
 Synset('network.n.02')
 	network 2
 Synset('stock.v.06')
 	stockinged 1
 Synset('maine.n.01')
 	me 475
+	ME 1
 	Me 1
 Synset('chord.n.02')
 	chord 1
@@ -2556,7 +2594,7 @@ Synset('cave.v.01')
 	undermined 1
 Synset('filter.v.01')
 	filtered 1
-	strained 2
+	strained 3
 Synset('diversion.n.02')
 	diversion 3
 Synset('procedure.n.01')
@@ -2577,23 +2615,24 @@ Synset('pulley.n.01')
 	pulleys 1
 Synset('deference.n.01')
 	deference 4
-	respect 18
+	respect 19
 	respects 6
 Synset('behind.s.01')
 	behind 72
 Synset('shallow.a.01')
 	shallow 1
 Synset('gold.n.03')
-	gold 47
+	Gold 1
+	gold 48
 Synset('jingle.v.01')
 	jingling 3
 Synset('ask.v.07')
 	asks 5
-	Ask 3
+	Ask 4
 	Asking 1
-	asking 9
+	asking 10
 	ask 60
-	asked 129
+	asked 130
 Synset('flock.v.01')
 	flocked 3
 Synset('indoor.a.01')
@@ -2607,24 +2646,22 @@ Synset('unwrap.v.02')
 	disclose 1
 	disclosed 2
 	revealed 6
-Synset('sudden.a.01')
-	sudden 25
-	SUDDEN 1
+Synset('prematurely.r.02')
+	prematurely 2
 Synset('put.v.01')
 	Laying 1
 	laid 98
 	laying 19
 Synset('cold.n.01')
-	cold 14
+	cold 5
 Synset('ridge.n.06')
 	ridge 2
 	ridges 1
 	Ridges 1
 Synset('west.n.02')
 	west 4
-	w 10
-Synset('drunkard.n.01')
-	drunkard 1
+	W 1
+	w 11
 Synset('chisel.v.03')
 	chisel 1
 	chiseled 1
@@ -2652,7 +2689,7 @@ Synset('root.n.03')
 	stem 1
 Synset('sorceress.n.01')
 	Sorceress 1
-	sorceress 3
+	sorceress 4
 Synset('movie.n.01')
 	picture 9
 	pictures 4
@@ -2663,23 +2700,18 @@ Synset('kick.v.04')
 	Kicked 1
 	kicked 4
 	kicking 1
-Synset('dare.n.01')
-	dare 2
 Synset('fell.v.01')
 	dropping 5
 	drop 2
 	Drop 1
 	dropped 49
-Synset('background.n.01')
-	background 1
 Synset('patronize.v.04')
 	supporting 2
 	supported 16
-Synset('infestation.n.02')
-	Plague 1
 Synset('princess.n.01')
-	princess 11
 	princesses 1
+	princess 11
+	Princesses 1
 Synset('terribly.r.02')
 	terribly 2
 	abominably 1
@@ -2690,8 +2722,6 @@ Synset('curtain.n.01')
 	curtains 5
 	drapery 2
 	curtain 2
-Synset('putrefaction.n.01')
-	Rot 1
 Synset('cupid.n.02')
 	cupids 2
 	Cupid 1
@@ -2699,12 +2729,12 @@ Synset('flank.n.02')
 	flanks 1
 Synset('lounge.n.02')
 	lounge 1
-Synset('acting.n.01')
-	playing 1
+Synset('scattering.n.03')
+	sprinkling 2
 Synset('lose.v.07')
-	losing 6
+	losing 7
 	Lose 1
-	lost 64
+	lost 70
 	lose 9
 Synset('olive.n.05')
 	olive 1
@@ -2716,16 +2746,14 @@ Synset('chaff.n.02')
 	chaff 1
 Synset('trophy.n.02')
 	prize 3
-Synset('shrive.v.01')
-	absolving 1
-	absolved 2
+Synset('demur.v.02')
+	demur 2
 Synset('grow.v.08')
 	produced 20
 	produce 4
 	producing 1
 Synset('spot.v.04')
-	blot 1
-	blotting 2
+	blotting 1
 Synset('room.n.04')
 	Room 1
 	rooms 21
@@ -2737,33 +2765,30 @@ Synset('whistle.v.05')
 	singed 1
 	whistling 1
 	sing 3
-	singing 5
+	singing 1
 	sung 6
 Synset('whistle.v.06')
 	whistle 1
 Synset('scoop.v.01')
 	scoops 1
 Synset('drop_the_ball.v.01')
-	blundering 1
+	blundering 2
 Synset('expert.n.01')
-	expert 1
+	expert 2
 Synset('transfer.n.04')
 	transfer 1
 Synset('interrupt.v.01')
 	interrupt 1
-	interrupted 3
-Synset('fortify.v.02')
-	fortified 4
-	fortify 1
+	interrupted 2
 Synset('bang.n.04')
 	thrill 2
 Synset('idle.v.02')
 	idling 2
 Synset('contribution.n.01')
-	Part 8
-	share 10
+	Part 5
+	share 9
 	parts 20
-	part 143
+	part 144
 	contribution 1
 	contributions 1
 Synset('pencil.n.01')
@@ -2773,18 +2798,18 @@ Synset('infection.n.07')
 Synset('get.v.03')
 	letting 5
 	Has 3
-	Have 17
+	Have 25
 	Had 11
 	had 2931
 	Having 29
 	lets 1
 	let 85
 	have 1260
-	Let 37
+	Let 38
 	has 190
 	having 199
 Synset('knit.n.02')
-	plain 11
+	plain 9
 	plains 1
 Synset('dark_blue.n.01')
 	navy 2
@@ -2798,16 +2823,17 @@ Synset('par.v.01')
 	paring 1
 	pared 1
 Synset('mass.n.09')
-	mass 15
-Synset('feudal_lord.n.01')
-	seigneur 3
-	seigneurs 1
+	mass 16
+Synset('grate.v.03')
+	grates 1
+	grated 4
+	grating 2
 Synset('king.n.08')
 	king 55
-	King 641
+	King 32
+	Kings 42
+	KINGS 2
 	kings 25
-Synset('mill.v.01')
-	milled 1
 Synset('retain.v.02')
 	retain 5
 	retained 2
@@ -2815,14 +2841,12 @@ Synset('rehearse.v.01')
 	rehearsed 1
 	practising 1
 	practise 1
-	practised 4
+	practised 6
 Synset('formally.r.02')
 	formally 6
 Synset('caprice.n.01')
 	caprice 1
 	whims 1
-Synset('rig.n.03')
-	rigging 1
 Synset('barn.n.02')
 	b 2
 	barn 2
@@ -2845,9 +2869,10 @@ Synset('search.v.04')
 	search 2
 	searched 2
 Synset('much.r.04')
-	much 191
-	Much 3
+	much 148
+	Much 2
 Synset('toll.v.02')
+	tolling 2
 	tolled 1
 Synset('interchange.n.01')
 	interchange 4
@@ -2860,7 +2885,7 @@ Synset('care.n.04')
 Synset('ship.n.01')
 	ship 42
 	ships 49
-	Ship 2
+	Ship 4
 Synset('brake_drum.n.01')
 	drums 9
 Synset('tempter.n.01')
@@ -2876,13 +2901,13 @@ Synset('page.n.04')
 Synset('subside.v.02')
 	subsided 1
 Synset('high.r.01')
-	high 2
+	high 3
 Synset('quarter.n.09')
 	Quarter 7
 	quarter 16
 	quarters 8
 Synset('estate_of_the_realm.n.01')
-	estates 14
+	estates 15
 	estate 4
 Synset('business.n.04')
 	Business 4
@@ -2890,8 +2915,8 @@ Synset('business.n.04')
 Synset('trim.v.05')
 	trimmed 1
 	trimming 4
-Synset('hollowness.n.02')
-	hollowness 1
+Synset('abstraction.n.01')
+	abstraction 3
 Synset('tripper.n.04')
 	trip 2
 Synset('education.n.04')
@@ -2905,18 +2930,18 @@ Synset('accession.n.01')
 Synset('lodge.v.01')
 	lodge 2
 	lodged 10
-	lodging 3
 Synset('alcove.n.01')
 	alcove 1
 Synset('shop.n.01')
 	shop 52
+	SHOP 1
 	shops 9
 Synset('export.n.01')
 	exportation 1
 Synset('organization.n.01')
 	organisation 1
 Synset('set.n.08')
-	set 10
+	set 9
 	sets 1
 Synset('wick.n.02')
 	wick 1
@@ -2931,6 +2956,7 @@ Synset('reverentially.r.01')
 Synset('defender.n.01')
 	defenders 5
 	protector 2
+	Defender 1
 	guardian 2
 Synset('relatively.r.01')
 	comparatively 3
@@ -2959,6 +2985,7 @@ Synset('example.n.01')
 Synset('dance_band.n.01')
 	band 6
 	bands 5
+	Band 8
 Synset('example.n.04')
 	lesson 1
 Synset('smoke.n.02')
@@ -2966,6 +2993,8 @@ Synset('smoke.n.02')
 Synset('promptly.r.02')
 	promptly 3
 	readily 18
+Synset('immature.a.01')
+	immature 1
 Synset('adventure.n.01')
 	adventures 4
 Synset('universe.n.03')
@@ -2974,8 +3003,9 @@ Synset('arraign.v.02')
 	arraigned 1
 Synset('beggar.n.01')
 	beggars 3
-	Beggars 1
 	beggar 5
+Synset('inclined.a.01')
+	inclined 2
 Synset('timbre.n.01')
 	timber 1
 Synset('cask.n.01')
@@ -2989,16 +3019,15 @@ Synset('comment.v.01')
 	remark 2
 	commenting 1
 	notice 6
-	noticed 4
+	noticed 6
 	remarked 10
 	noticing 2
 Synset('brand.v.01')
-	branding 1
 	branded 3
 Synset('more.a.01')
-	More 6
+	More 3
 	MORE 1
-	more 268
+	more 221
 Synset('spouse.n.01')
 	partners 3
 	partner 2
@@ -3010,7 +3039,7 @@ Synset('caravan.n.01')
 	trains 1
 Synset('crave.v.01')
 	starve 2
-	starving 4
+	starving 3
 	hungered 2
 	starved 12
 	thirsting 1
@@ -3024,8 +3053,8 @@ Synset('porringer.n.01')
 	porringer 1
 Synset('barrage.n.02')
 	batteries 3
-Synset('enrage.v.01')
-	enraged 2
+Synset('sixtieth.n.01')
+	sixtieth 1
 Synset('excommunicate.v.02')
 	excommunicated 10
 Synset('neutralize.v.04')
@@ -3039,7 +3068,7 @@ Synset('loft.n.04')
 Synset('attainment.n.02')
 	attainments 1
 Synset('polonium.n.01')
-	pos 1
+	pos 2
 Synset('thickly.r.04')
 	thickly 1
 Synset('bannister.n.02')
@@ -3047,17 +3076,15 @@ Synset('bannister.n.02')
 Synset('combine.v.05')
 	combined 3
 Synset('condom.n.01')
-	safe 1
 	safety 26
 Synset('clown.v.01')
-	clown 5
+	clown 2
 Synset('settle.v.16')
 	settling 7
 	settle 8
-	settled 25
+	settled 26
 	settles 1
 Synset('free.a.02')
-	Free 1
 	free 47
 Synset('retainer.n.01')
 	retainer 1
@@ -3066,17 +3093,13 @@ Synset('bridget.n.01')
 	bride 3
 	brides 1
 Synset('shout.v.01')
-	shouts 11
-	shouting 5
-	shout 2
+	shouting 8
+	shout 4
 	shouted 3
 Synset('radiance.n.01')
 	radiance 2
 Synset('stick.n.09')
 	stick 4
-Synset('painting.n.03')
-	painting 1
-	paintings 1
 Synset('sleeve.n.01')
 	sleeve 6
 Synset('top.v.05')
@@ -3085,36 +3108,39 @@ Synset('bonnet.n.01')
 	bonnet 4
 	bonnets 1
 Synset('clearing.n.01')
+	clearing 1
 	glades 1
 Synset('at.n.02')
-	at 7
 	At 1
+	at 7
+	AT 2
 Synset('englishman.n.01')
-	Englishmen 5
+	Englishmen 3
 Synset('masthead.n.01')
 	masthead 2
 	flag 16
 	flags 2
 Synset('order.n.15')
 	Order 2
-	order 39
+	order 37
 	orders 22
 Synset('bye.n.01')
-	pass 14
+	pass 13
 Synset('heart.n.08')
 	hearts 23
 	HEART 1
 	heart 130
 Synset('beatnik.n.01')
-	beat 2
+	beat 1
 Synset('matter.n.01')
-	matters 19
 	affair 8
-	Matters 1
 	affairs 23
+	MATTER 1
+	Matters 1
+	matters 19
 	matter 64
 Synset('message.n.02')
-	content 2
+	content 5
 	Substance 1
 	contents 2
 	CONTENTS 2
@@ -3133,13 +3159,17 @@ Synset('encircle.v.01')
 	circled 2
 Synset('continual.a.01')
 	continual 2
+Synset('young.n.04')
+	Young 2
 Synset('rustle.v.01')
 	rustled 5
 	Rustling 1
 Synset('cry.n.01')
-	shout 8
+	shouts 11
+	shout 6
 	outcry 3
 Synset('plot.n.01')
+	Plot 3
 	plot 33
 	plots 13
 Synset('citation.n.03')
@@ -3148,14 +3178,12 @@ Synset('citation.n.03')
 	acknowledgments 1
 Synset('discovery.n.04')
 	discovery 9
-Synset('hiss.n.01')
-	hissing 1
 Synset('gamble.v.01')
 	risked 1
 	gambled 1
 	hazarded 1
 	chancing 1
-	chanced 8
+	chanced 7
 Synset('angiotensin_converting_enzyme.n.01')
 	Ace 2
 Synset('evasion.n.01')
@@ -3173,14 +3201,14 @@ Synset('pink.v.02')
 Synset('coachman.n.01')
 	coachman 11
 Synset('asleep.r.01')
-	asleep 13
+	asleep 25
 Synset('contagion.n.03')
 	contagion 2
 Synset('alike.r.02')
 	alike 8
 Synset('associate.v.01')
 	connected 10
-	associated 2
+	associated 4
 	associating 2
 Synset('chestnut.n.06')
 	chestnuts 1
@@ -3191,27 +3219,34 @@ Synset('nobly.r.01')
 	nobly 8
 Synset('future.n.02')
 	future 12
-Synset('simpleton.n.01')
-	Simple 1
-	simpleton 1
+Synset('obscure.v.04')
+	obscured 2
+Synset('asleep.a.01')
+	asleep 1
 Synset('solitaire.n.04')
 	patience 4
 Synset('begin.v.10')
 	Beginning 1
 	began 158
-	beginning 5
+	beginning 7
 	begin 10
 	begun 21
-Synset('millivolt.n.01')
-	Mv 1
+Synset('give.v.41')
+	given 58
+	give 89
+	giving 26
+	Give 11
+	Giving 1
+	gives 5
+	gave 150
 Synset('understand.v.03')
 	translating 1
 	understood 14
 	translate 1
 	understand 33
-	understanding 4
-Synset('earth.v.01')
-	earths 1
+	understanding 5
+Synset('spaniel.n.01')
+	spaniel 1
 Synset('pasture.n.01')
 	pasture 1
 Synset('holster.n.01')
@@ -3229,14 +3264,17 @@ Synset('admit.v.08')
 	admit 14
 	admitted 17
 Synset('cash_register.n.01')
-	registers 3
 	register 4
 Synset('offer.v.07')
 	offered 27
 	offering 8
 	offer 12
-Synset('form.v.07')
-	form 5
+Synset('shrivel.v.01')
+	shrivelled 5
+	shrunk 1
+	withered 4
+	wither 1
+	shrink 3
 Synset('observatory.n.01')
 	observatory 1
 Synset('claret.n.01')
@@ -3246,8 +3284,8 @@ Synset('form.v.03')
 	sprang 2
 	sprung 4
 Synset('close.a.01')
-	closer 5
-	close 22
+	closer 7
+	close 24
 	closest 1
 Synset('badly.r.08')
 	badly 5
@@ -3256,13 +3294,15 @@ Synset('sty.n.02')
 Synset('thirteenth.n.01')
 	thirteenth 2
 Synset('thought.n.03')
-	thought 19
+	thought 18
 	thoughts 21
 Synset('excite.v.01')
-	excited 2
+	excited 3
 Synset('trial.n.04')
 	trial 54
+	Trial 1
 	trials 1
+	Trials 1
 Synset('broadcast.n.02')
 	broadcast 1
 Synset('strap.n.04')
@@ -3275,16 +3315,23 @@ Synset('thick.a.01')
 	thickest 2
 Synset('cesspool.n.01')
 	cesspools 1
+Synset('club.n.02')
+	GUILDS 3
 Synset('beloved.n.01')
-	dearest 5
-	love 61
+	Love 1
+	dearest 4
+	love 60
 Synset('concert.n.01')
 	concert 4
+Synset('feudal_lord.n.01')
+	seigneur 3
 Synset('prison.n.02')
 	prisons 18
+	Prison 1
+	PRISON 1
 	prison 123
 Synset('burst.n.03')
-	burst 9
+	burst 13
 Synset('gout.n.01')
 	gout 1
 Synset('subject.n.01')
@@ -3293,22 +3340,24 @@ Synset('subject.n.01')
 Synset('drift.n.07')
 	galleries 3
 	gallery 2
-Synset('swing.v.02')
-	sway 1
-	swaying 1
+Synset('plant.v.05')
+	plant 1
+	planted 2
 Synset('deviation.n.01')
 	differences 1
 	difference 7
 	departure 4
 Synset('defeat.n.01')
 	defeat 11
+Synset('fourth.n.01')
+	FOURTH 4
 Synset('equality.n.02')
 	equality 2
 	par 2
 	Equality 1
 	Par 1
-Synset('jealousy.n.01')
-	jealousy 4
+Synset('sharply.r.02')
+	crisply 1
 Synset('alliance.n.02')
 	alliance 14
 Synset('accurate.a.01')
@@ -3327,17 +3376,15 @@ Synset('farrier.n.01')
 Synset('railroad_track.n.01')
 	railway 1
 Synset('miser.n.01')
-	miser 1
-Synset('shadow.v.02')
-	SHADOWS 1
+	miser 2
+Synset('shutter.n.02')
+	shutters 2
 Synset('sweat.n.03')
 	sweat 1
 Synset('teammate.n.01')
 	mate 1
 Synset('nay.n.01')
 	nay 1
-Synset('masquerade.v.01')
-	masquerading 1
 Synset('scend.v.01')
 	surging 1
 Synset('burial.n.01')
@@ -3347,9 +3394,8 @@ Synset('smack.v.01')
 	smacked 1
 Synset('ride.v.13')
 	ridden 2
-	ride 18
+	ride 19
 	rode 66
-	Ride 1
 Synset('wet.a.01')
 	wet 16
 Synset('glide.v.02')
@@ -3365,25 +3411,25 @@ Synset('regard.n.03')
 	wish 5
 	regard 2
 	wishes 3
-Synset('patrician.n.01')
-	patrician 1
+Synset('enjoyment.n.01')
+	enjoyment 5
+	enjoyments 1
 Synset('deflect.v.02')
 	bending 5
 	bend 1
 Synset('deletion.n.03')
-	cut 3
+	cut 2
 Synset('catechist.n.01')
 	catechist 1
 Synset('foreboding.n.01')
 	presentiment 1
-Synset('reel.v.03')
-	reeled 2
 Synset('gallop.v.01')
 	galloping 1
 	galloped 9
+	gallop 2
 Synset('bear.n.02')
 	bears 1
-	bear 5
+	bear 6
 Synset('usage.n.03')
 	usage 4
 Synset('veil.n.02')
@@ -3423,15 +3469,14 @@ Synset('haunch.n.02')
 Synset('phonograph_record.n.01')
 	record 3
 Synset('walk.n.06')
-	walk 4
+	walk 5
 Synset('spear.v.01')
 	spearing 1
 Synset('brother.n.01')
 	brother 149
-	Brother 2
 	brothers 43
 Synset('die.n.01')
-	die 2
+	die 1
 	dice 1
 Synset('likelihood.n.01')
 	likelihood 3
@@ -3441,6 +3486,8 @@ Synset('portrait.n.02')
 Synset('plant.n.02')
 	plants 2
 	plant 1
+Synset('leicester.n.02')
+	Leicester 1
 Synset('salesclerk.n.01')
 	clerks 7
 	clerk 8
@@ -3462,7 +3509,7 @@ Synset('bunch.n.01')
 	bunch 1
 Synset('bring.v.05')
 	landed 20
-	land 2
+	land 3
 	landing 1
 Synset('antecedent.n.02')
 	antecedents 2
@@ -3481,19 +3528,18 @@ Synset('puzzle.n.01')
 Synset('scuffle.n.02')
 	scuffle 3
 Synset('madame.n.01')
-	Madames 1
-	madame 57
+	madame 60
 Synset('undertaking.n.02')
 	undertaking 1
 Synset('piloting.n.02')
 	pilotage 1
-Synset('mayor.n.01')
-	mayor 3
+Synset('empire.n.05')
+	Empire 1
 Synset('footstep.n.03')
 	Footsteps 1
 	footstep 1
 	pace 6
-	step 20
+	step 19
 	paces 4
 	footsteps 16
 Synset('wayside.n.01')
@@ -3503,7 +3549,8 @@ Synset('wayside.n.01')
 	roadside 4
 Synset('grave.n.01')
 	graves 5
-	grave 21
+	GRAVE 1
+	grave 22
 Synset('grave.n.02')
 	tomb 16
 	tombs 1
@@ -3516,12 +3563,13 @@ Synset('wait.v.04')
 	Wait 3
 Synset('net_income.n.01')
 	profit 1
+	NET 1
 	net 2
 	profits 1
 Synset('concede.v.01')
 	confessing 3
 	professing 2
-	confess 4
+	confess 5
 	confessed 8
 	conceded 1
 	professed 3
@@ -3536,37 +3584,37 @@ Synset('dilute.v.01')
 Synset('amusement.n.01')
 	amusements 4
 	amusement 2
+Synset('ash-grey.s.01')
+	ashy 1
 Synset('unite.v.05')
 	uniting 5
-	united 11
+	united 10
 	unite 2
 Synset('delinquent.n.01')
 	Delinquents 1
 Synset('soup.n.02')
 	soup 1
 Synset('head.n.09')
-	HEADS 1
 	head 341
 	heads 67
 Synset('desire.v.01')
 	wants 2
 	wanting 10
-	wanted 76
+	wanted 77
 	want 56
 	Wanting 1
 Synset('left.n.05')
-	left 15
+	left 8
 Synset('grant.n.02')
 	grants 2
 	grant 2
-Synset('freeze.n.01')
-	freezing 1
 Synset('penance.n.02')
 	penance 4
 Synset('endowment.n.03')
 	endowments 1
 Synset('gleam.v.02')
 	gleamed 4
+	gleams 1
 	gleaming 2
 	glimmering 1
 Synset('circulate.v.06')
@@ -3577,6 +3625,8 @@ Synset('boastfully.r.01')
 Synset('dish.n.05')
 	saucer 1
 	saucers 1
+Synset('stuff.v.01')
+	stuffed 1
 Synset('league.v.01')
 	leagued 3
 Synset('blameworthiness.n.01')
@@ -3592,11 +3642,12 @@ Synset('tramp_steamer.n.01')
 	tramp 2
 Synset('grease-gun.n.01')
 	guns 8
+	Gun 1
 	gun 4
 Synset('scud.v.02')
 	racked 1
 Synset('cast.v.03')
-	cast 18
+	cast 19
 	casting 6
 	Casting 1
 Synset('overture.n.03')
@@ -3606,15 +3657,18 @@ Synset('corkscrew.n.01')
 	corkscrew 1
 Synset('fellow.n.06')
 	fellows 6
-	fellow 59
+	fellow 58
 Synset('tan.n.01')
 	burns 1
 Synset('pound.v.08')
 	pounding 1
 	pounded 1
+Synset('turning.n.03')
+	turning 1
 Synset('safely.r.01')
 	safely 24
 Synset('glen.n.01')
+	glen 2
 	glens 1
 Synset('ad.n.01')
 	ad 4
@@ -3630,7 +3684,6 @@ Synset('outer.a.01')
 	outer 10
 Synset('spur.v.03')
 	spurred 2
-	spur 1
 	spurs 6
 	spurring 3
 Synset('fag.v.01')
@@ -3664,13 +3717,16 @@ Synset('navigator.n.03')
 	navigator 1
 Synset('cord.n.04')
 	cords 2
+Synset('sanction.n.02')
+	sanction 1
 Synset('wound.n.02')
 	injury 5
 	injuries 2
 Synset('up.r.01')
-	up 563
-	upward 8
+	up 567
+	upward 10
 Synset('suspicion.n.04')
+	Suspicion 1
 	suspicion 15
 	suspicions 5
 Synset('bond.n.07')
@@ -3682,9 +3738,9 @@ Synset('malodor.n.01')
 	reek 1
 	stench 1
 Synset('answer.v.10')
-	answer 27
+	answer 29
 	answered 67
-	answering 9
+	answering 5
 	Answering 1
 Synset('apparition.n.01')
 	apparitions 2
@@ -3704,7 +3760,7 @@ Synset('cheerfulness.n.02')
 Synset('adjuration.n.01')
 	adjuration 1
 Synset('south.n.04')
-	south 3
+	south 4
 Synset('balcony.n.02')
 	balcony 2
 Synset('plug.v.01')
@@ -3721,20 +3777,17 @@ Synset('above.r.02')
 	Above 4
 	above 34
 Synset('hope.n.01')
-	hopes 15
-	hope 49
-Synset('output.n.02')
-	yield 2
+	hopes 16
+	hope 47
 Synset('actress.n.01')
 	actress 1
 Synset('trace.v.07')
 	Tracing 1
 	traced 3
-	trace 6
+	trace 3
 Synset('trace.v.02')
 	lined 5
 Synset('substitute.n.01')
-	substitutes 1
 	substitute 1
 Synset('denote.v.02')
 	denoted 1
@@ -3751,18 +3804,16 @@ Synset('make.v.08')
 	make 230
 	Made 3
 	Making 1
-	making 91
-	makes 5
+	making 92
+	makes 4
 	Make 3
 Synset('hackney.n.01')
 	hackney 2
-Synset('incitement.n.03')
-	provocation 2
-Synset('itch.v.04')
-	spoil 2
+Synset('silicon.n.01')
+	si 1
 Synset('priest.n.02')
 	priest 31
-	priests 52
+	priests 54
 	Priests 1
 Synset('then.r.02')
 	then 435
@@ -3772,12 +3823,11 @@ Synset('suggest.v.03')
 	suggesting 1
 	suggest 1
 Synset('mouton.n.01')
-	mutton 1
+	mutton 2
 Synset('brief.n.01')
 	brief 1
-	Brief 1
 Synset('uranium.n.01')
-	u 8
+	u 11
 	us 102
 Synset('succeed.v.01')
 	won 19
@@ -3804,15 +3854,16 @@ Synset('every.s.01')
 Synset('stormily.r.01')
 	passionately 5
 	turbulently 1
-Synset('patient.n.01')
-	patients 5
-	patient 11
+Synset('complete.v.01')
+	finished 13
+	finish 9
 Synset('gentleman.n.01')
-	Gentlemen 4
 	gentlemen 64
-	gentleman 102
-	gentlemans 5
 	Gentlemans 1
+	Gentleman 2
+	gentleman 102
+	Gentlemen 5
+	gentlemans 5
 Synset('elasticity.n.01')
 	snap 3
 Synset('tenant.n.01')
@@ -3826,16 +3877,18 @@ Synset('banish.v.02')
 	banish 2
 Synset('gram.n.01')
 	g 3
+	G 1
 Synset('wrench.v.02')
 	wrenched 1
 Synset('turn.v.07')
 	grown 17
 	grew 22
-	turning 28
+	turning 29
+	Turn 2
 	growed 2
 	turned 145
-	turn 18
-	growing 14
+	turn 19
+	growing 15
 	grow 9
 Synset('attract.v.03')
 	attracted 8
@@ -3846,8 +3899,6 @@ Synset('pot.n.07')
 	corporations 3
 Synset('fender.n.02')
 	pilot 1
-Synset('smolder.v.01')
-	smouldering 1
 Synset('morsel.n.02')
 	morsels 1
 	morsel 2
@@ -3862,14 +3913,15 @@ Synset('license.n.04')
 	permission 13
 Synset('survey.n.01')
 	survey 1
-Synset('sultan.n.01')
-	Sultan 2
-Synset('cathedral.a.01')
-	cathedral 4
+Synset('one-third.n.01')
+	THIRD 8
 Synset('ligature.n.03')
 	ligatures 1
 Synset('unexpectedly.r.01')
 	unexpectedly 5
+Synset('fifth.n.01')
+	fifth 1
+	FIFTH 6
 Synset('bite.v.03')
 	biting 3
 	bite 1
@@ -3889,10 +3941,12 @@ Synset('helm.n.02')
 Synset('fourth_dimension.n.01')
 	Time 2
 	times 95
+	TIME 1
+	TIMES 1
 	time 546
 Synset('assume.v.03')
 	acquired 7
-	assumed 5
+	assumed 6
 	acquire 1
 	adopted 1
 	assume 4
@@ -3913,13 +3967,14 @@ Synset('profession.n.01')
 	profession 7
 Synset('dejectedly.r.01')
 	dejectedly 1
-Synset('pray.v.01')
-	pray 12
-	prayed 14
-	Pray 1
-	praying 16
-Synset('drive.n.06')
-	driving 2
+Synset('prisoner.n.01')
+	Captive 1
+	prisoners 81
+	PRISONER 2
+	captive 8
+	prisoner 153
+	captives 4
+	Prisoner 1
 Synset('facility.n.04')
 	facilities 1
 Synset('facility.n.03')
@@ -3937,8 +3992,8 @@ Synset('discontinue.v.01')
 	cease 2
 	quitted 3
 Synset('there.n.01')
-	there 388
-	There 183
+	there 494
+	There 185
 Synset('lieutenant.n.04')
 	lieutenant 2
 	Lieutenant 3
@@ -3949,20 +4004,22 @@ Synset('realize.v.06')
 Synset('abroad.r.01')
 	abroad 41
 Synset('likely.a.01')
-	likely 29
+	likely 30
 Synset('second.a.02')
 	second 60
-	SECOND 4
-	Second 9
+	SECOND 5
+	Second 10
 Synset('glow.v.05')
 	shine 1
-	shone 7
+	shone 8
 	shining 20
 Synset('party_favor.n.01')
-	favour 57
-	favours 5
+	favour 52
+	favours 1
 Synset('get.v.19')
 	caught 24
+Synset('fog.n.02')
+	fogs 2
 Synset('tremulously.r.01')
 	tremulously 1
 Synset('player.n.04')
@@ -3979,9 +4036,10 @@ Synset('rut.n.01')
 	ruts 2
 Synset('love.v.01')
 	loved 33
-	love 13
+	love 14
 	loves 7
-	loving 7
+Synset('blemish.n.01')
+	mar 1
 Synset('issue.v.03')
 	issued 21
 	issuing 1
@@ -3989,7 +4047,7 @@ Synset('issue.v.03')
 Synset('instrument.n.03')
 	pawn 1
 Synset('abound.v.02')
-	burst 7
+	burst 3
 	abounding 1
 	bursting 8
 	bristled 1
@@ -4003,7 +4061,6 @@ Synset('let.v.01')
 	permits 1
 Synset('disintegrate.v.03')
 	decomposing 1
-	decayed 1
 Synset('central.a.02')
 	central 1
 Synset('heatedly.r.01')
@@ -4025,9 +4082,10 @@ Synset('hood.n.09')
 Synset('develop.v.19')
 	develop 1
 Synset('privilege.v.01')
-	favoured 14
+	favoured 16
 	favouring 5
-	favour 7
+	favours 4
+	favour 13
 Synset('retreat.n.01')
 	retreats 1
 	retreat 3
@@ -4037,22 +4095,23 @@ Synset('yawp.v.01')
 	bawling 1
 	bawled 1
 Synset('leave.v.03')
-	leave 44
 	Leave 2
-	leaves 4
-	left 154
+	leaves 6
+	LEAVING 1
+	leave 47
 	leaving 22
+	left 163
 Synset('leave.v.07')
 	leads 2
-	leading 17
+	leading 18
 	Led 1
 	led 41
-	lead 7
+	lead 8
 Synset('form.n.03')
 	shapes 3
 	shape 7
 Synset('armor.n.02')
-	armour 27
+	armour 28
 Synset('lane.n.01')
 	lane 6
 	lanes 2
@@ -4060,14 +4119,14 @@ Synset('circumstance.n.03')
 	conditions 11
 	condition 34
 Synset('complete.s.05')
-	over 262
+	over 324
 	Over 4
 	OVER 1
 Synset('vicinity.n.01')
 	neighbourhood 6
 	locality 1
 Synset('fell.n.03')
-	fell 1
+	fell 2
 Synset('sexual_intercourse.n.01')
 	intercourse 1
 	congress 1
@@ -4075,8 +4134,8 @@ Synset('satin.n.01')
 	satin 1
 Synset('viscount.n.02')
 	viscount 1
-Synset('winker.n.02')
-	blinder 1
+Synset('reel.v.03')
+	reeled 2
 Synset('recall.n.01')
 	recall 2
 Synset('striving.n.01')
@@ -4103,14 +4162,14 @@ Synset('comb.v.03')
 Synset('willfully.r.01')
 	wilfully 3
 Synset('jesuit.n.01')
-	Jesuits 3
-	Jesuit 1
+	Jesuit 2
 Synset('masse.n.01')
 	masses 1
 Synset('delicacy.n.06')
 	DELICACY 1
-	finesse 1
 	delicacy 8
+	Delicacy 1
+	finesse 1
 	diplomacy 2
 Synset('contemporary.n.01')
 	contemporaries 1
@@ -4119,15 +4178,16 @@ Synset('injunction.n.02')
 Synset('ebb.n.01')
 	ebb 1
 Synset('early.a.01')
-	early 11
+	early 10
 	earlier 5
 	earliest 1
 Synset('count.v.07')
-	count 2
-	counting 5
+	count 3
+	counting 6
 	counted 7
 Synset('cathedral.n.02')
-	cathedral 9
+	cathedral 13
+	Cathedral 4
 Synset('outline.n.03')
 	scheme 4
 	schemes 4
@@ -4135,7 +4195,7 @@ Synset('eaves.n.01')
 	eaves 1
 Synset('score.n.10')
 	Scores 1
-	score 6
+	score 5
 	scores 6
 Synset('carbon_monoxide.n.01')
 	co 1
@@ -4145,6 +4205,7 @@ Synset('pouch.n.03')
 Synset('food.n.02')
 	food 10
 Synset('aside.r.05')
+	APART 1
 	Apart 2
 	aside 31
 	apart 16
@@ -4160,9 +4221,8 @@ Synset('frost.n.03')
 	frost 3
 Synset('breach.n.01')
 	breach 1
-Synset('circuit.n.01')
-	circuit 2
-	Circuit 1
+Synset('hellion.n.01')
+	devils 2
 Synset('one-tenth.n.01')
 	tenth 7
 Synset('cult.n.05')
@@ -4174,8 +4234,6 @@ Synset('agency.n.02')
 Synset('dexterously.r.01')
 	deftly 1
 	dexterously 1
-Synset('inference.n.01')
-	Inference 1
 Synset('doctor.n.01')
 	physician 13
 	physicians 4
@@ -4195,11 +4253,12 @@ Synset('mount.v.01')
 	mount 7
 	mounted 27
 Synset('home.n.01')
+	Place 1
 	place 244
-	places 46
+	places 45
 Synset('through.s.02')
 	Through 9
-	through 286
+	through 287
 Synset('cat-o'-nine-tails.n.01')
 	cat 3
 Synset('hearse.n.01')
@@ -4215,7 +4274,8 @@ Synset('thunder.v.04')
 Synset('elegantly.r.01')
 	elegantly 3
 Synset('present.a.02')
-	present 45
+	Present 1
+	present 73
 Synset('preference.n.01')
 	taste 10
 	tastes 1
@@ -4229,16 +4289,16 @@ Synset('tiling.n.01')
 	tilings 1
 	tiling 1
 Synset('falsehood.n.01')
-	falsehood 3
+	falsehood 4
 	untruth 1
 Synset('guillotine.v.01')
 	guillotined 1
 Synset('carriage.n.02')
 	equipages 2
-Synset('obscure.v.04')
-	obscured 2
 Synset('male_child.n.01')
 	boy 84
+	Boy 1
+	BOY 1
 	boys 13
 Synset('bunch.v.02')
 	clustered 3
@@ -4254,49 +4314,52 @@ Synset('parental.a.02')
 	maternal 1
 Synset('less.a.01')
 	lesser 1
-	less 32
+	less 38
 Synset('wide.r.04')
 	widely 4
 Synset('governor.n.01')
 	governors 2
+	Governor 11
 	governor 10
 Synset('wrench.n.01')
 	pull 1
+	Pull 1
 Synset('despotic.a.01')
 	despotic 2
 Synset('pitchfork.n.01')
 	pitchforks 1
+Synset('reader.n.03')
+	reader 1
 Synset('notch.v.02')
 	notched 1
 Synset('ob.n.01')
 	ob 1
-Synset('formed.a.01')
-	formed 1
 Synset('rally.v.04')
 	rallied 6
 	rally 1
 Synset('island.n.01')
 	island 5
 	islands 1
+	Island 11
 Synset('happily.r.01')
 	happily 15
 	Happily 5
 	merrily 4
 Synset('eyepatch.n.01')
-	Patches 1
 	patches 4
 	patch 1
 Synset('concussion.n.01')
 	concussion 1
 Synset('cheep.n.01')
 	peep 4
-Synset('ingratitude.n.01')
-	ingratitude 1
+Synset('writ.n.01')
+	writ 1
+	writs 1
 Synset('plow.v.01')
 	ploughed 3
 	plough 1
 Synset('tolerate.v.03')
-	tolerated 3
+	tolerated 4
 	tolerate 1
 Synset('starer.n.01')
 	starers 1
@@ -4304,7 +4367,7 @@ Synset('overshadow.v.03')
 	overshadowed 3
 Synset('air.n.03')
 	atmosphere 3
-	airs 2
+	airs 1
 	air 86
 Synset('master_of_ceremonies.n.01')
 	host 5
@@ -4323,7 +4386,7 @@ Synset('about.r.05')
 Synset('triumphantly.r.01')
 	triumphantly 5
 Synset('scepter.n.01')
-	sceptre 5
+	sceptre 4
 Synset('coldness.n.02')
 	coolness 1
 Synset('perch.n.02')
@@ -4336,20 +4399,24 @@ Synset('pressure.n.01')
 Synset('defect.v.01')
 	deserted 19
 	deserting 2
-	desert 3
+	desert 2
+Synset('sunday.n.01')
+	Sundays 1
 Synset('claimant.n.01')
 	claimants 3
 Synset('vividly.r.01')
 	vividly 2
-Synset('dismally.r.02')
-	dreadfully 4
-	dismally 2
+Synset('snap.v.10')
+	snapped 1
+	snapping 1
 Synset('certificate.n.01')
 	credentials 1
 	certificate 4
+Synset('furnished.a.01')
+	furnished 2
 Synset('tittup.v.01')
 	swaggered 1
-	swaggering 2
+	swaggering 1
 Synset('vagrant.n.01')
 	vagabond 1
 	vagabonds 3
@@ -4357,7 +4424,7 @@ Synset('chariot.n.02')
 	chariot 2
 	chariots 4
 Synset('do.v.08')
-	Does 5
+	Does 7
 	do 341
 	Do 33
 	did 314
@@ -4379,8 +4446,6 @@ Synset('canonize.v.01')
 	canonised 1
 Synset('grandchild.n.01')
 	grandchildren 1
-Synset('following.n.01')
-	following 1
 Synset('ransom.n.01')
 	ransom 10
 Synset('washwoman.n.01')
@@ -4389,7 +4454,6 @@ Synset('term.n.01')
 	term 5
 	terms 18
 Synset('friend.n.01')
-	Friends 1
 	friends 86
 	friend 116
 Synset('chicken.n.04')
@@ -4399,22 +4463,23 @@ Synset('composition.n.03')
 Synset('gas_constant.n.01')
 	R 1
 	r 2
-Synset('rioting.n.01')
-	rioting 3
+Synset('bid.n.03')
+	tender 7
 Synset('drive.v.18')
-	Driven 2
-	driving 6
-	drive 8
+	Driven 1
+	driving 8
+	Drive 1
 	drives 1
-	driven 21
+	drive 8
+	driven 22
 	drove 24
 Synset('interdict.n.02')
-	Interdict 1
+	Interdict 3
 Synset('garrison.n.03')
 	garrison 8
 	garrisons 1
 Synset('natural.a.05')
-	natural 33
+	natural 35
 Synset('holder.n.03')
 	holder 3
 	bearer 8
@@ -4431,42 +4496,44 @@ Synset('ravage.n.01')
 Synset('sack.v.04')
 	sacked 1
 Synset('britisher.n.01')
-	Britons 3
+	Britons 1
+Synset('city.n.01')
+	city 53
+	cities 5
+	Cities 2
+	CITIES 84
+	City 2
 Synset('ringleader.n.01')
 	ringleader 1
-Synset('snap.v.10')
-	snapped 1
-	snapping 1
-Synset('observation.n.02')
-	watching 1
+Synset('abbey.n.01')
+	abbeys 2
+	abbey 12
 Synset('belt.n.06')
 	belt 3
 Synset('grace.n.01')
-	Grace 1
 	grace 10
-	graces 3
 Synset('context.n.02')
 	circumstance 14
 	circumstances 25
-Synset('compact.n.03')
-	compact 2
 Synset('lookout.n.01')
 	sentinel 3
 	sentries 1
 Synset('grace.n.06')
 	blessing 12
+	BLESSING 1
 Synset('flat.a.06')
 	flat 1
 Synset('caste.n.04')
 	caste 2
 Synset('six.s.01')
+	SIX 2
 	six 95
 	Six 6
 	6 4
 Synset('collection.n.01')
 	collection 4
-Synset('steed.n.01')
-	steed 1
+Synset('crowbar.n.01')
+	crowbar 3
 Synset('weed.n.02')
 	weeds 4
 Synset('treatise.n.01')
@@ -4474,15 +4541,17 @@ Synset('treatise.n.01')
 Synset('bed.n.07')
 	beds 3
 	bed 81
-	Bed 1
 Synset('disease.n.01')
 	diseases 3
 	disease 11
 Synset('mon.n.02')
-	mon 1
 	mons 1
+	Mon 3
+	mon 1
+Synset('orange.n.02')
+	orange 1
 Synset('earnest.n.01')
-	earnest 8
+	earnest 9
 Synset('furniture.n.01')
 	furniture 4
 Synset('penny.n.02')
@@ -4498,6 +4567,7 @@ Synset('buy.v.01')
 	buy 9
 	purchasing 1
 	purchased 2
+	buying 1
 	bought 14
 Synset('drinker.n.02')
 	drinkers 1
@@ -4511,7 +4581,7 @@ Synset('joint.v.02')
 Synset('carving.n.02')
 	carvings 1
 Synset('bearing.n.06')
-	bearing 8
+	bearing 6
 	bearings 1
 Synset('settler.n.01')
 	settlers 1
@@ -4526,13 +4596,15 @@ Synset('monad.n.02')
 	monas 1
 Synset('quiet.a.06')
 	quieter 1
-	quiet 53
-Synset('humor.v.01')
-	humoured 1
+	quiet 55
+Synset('miner.n.01')
+	miners 1
 Synset('convinced.a.02')
 	convinced 1
-Synset('turning.n.03')
-	turning 2
+Synset('count.n.03')
+	count 1
+	Count 14
+	Counts 2
 Synset('mission.n.01')
 	missions 1
 	mission 4
@@ -4556,9 +4628,7 @@ Synset('stake.n.03')
 	stake 12
 	stakes 5
 Synset('ringing.n.02')
-	ringing 10
-Synset('cleansing_agent.n.01')
-	cleaner 1
+	ringing 8
 Synset('intoxicated.a.01')
 	drunk 17
 Synset('mechanically.r.02')
@@ -4577,11 +4647,10 @@ Synset('moat.n.01')
 Synset('ally.n.01')
 	allies 1
 	ally 3
-Synset('gutter.n.03')
-	gutter 1
-	gutters 2
+Synset('release.n.11')
+	discharge 1
 Synset('wall.v.01')
-	surrounding 3
+	surrounding 4
 	surrounded 21
 	surround 1
 Synset('goose.n.03')
@@ -4602,23 +4671,24 @@ Synset('meanly.r.04')
 Synset('fourpence.n.01')
 	groats 1
 Synset('hawaii.n.01')
-	hi 2
+	hi 6
 	Hi 2
 Synset('ballad.n.01')
 	ballads 1
+	Lay 1
 	ballad 3
 Synset('indicate.v.02')
 	shown 31
 	showed 40
 	pointing 13
-	show 43
+	show 44
 	showing 12
 	point 2
 	indicates 1
 	indicate 1
 	indicated 3
 	pointed 9
-	shows 1
+	shows 2
 Synset('flint.n.03')
 	flint 1
 	flints 1
@@ -4627,8 +4697,10 @@ Synset('coffin.n.01')
 	coffin 5
 Synset('cover.n.09')
 	cover 1
-Synset('lorry.n.01')
-	Lorrys 5
+Synset('inning.n.01')
+	frame 6
+Synset('hypocrite.n.01')
+	Pretender 5
 Synset('flambeau.n.01')
 	flambeau 5
 	flambeaux 1
@@ -4637,10 +4709,9 @@ Synset('wink.n.02')
 Synset('excuse.v.03')
 	explaining 2
 	excused 1
-	Excuse 1
 	explain 12
 	explained 7
-	excuse 2
+	Excuse 1
 	excusing 1
 Synset('type.n.01')
 	types 1
@@ -4650,8 +4721,6 @@ Synset('crop.v.05')
 Synset('study.v.02')
 	studying 1
 	studied 3
-Synset('colony.n.06')
-	colony 1
 Synset('conjunction.n.04')
 	conjunction 1
 Synset('column_inch.n.01')
@@ -4660,8 +4729,6 @@ Synset('column_inch.n.01')
 Synset('speck.n.01')
 	specks 2
 	speck 1
-Synset('torture.n.05')
-	torturing 1
 Synset('eddy.n.02')
 	eddy 1
 Synset('clang.v.01')
@@ -4670,29 +4737,31 @@ Synset('clang.v.01')
 Synset('hog.n.01')
 	hog 3
 Synset('out.r.02')
-	Out 1
-	out 474
+	out 470
 Synset('shuffle.v.03')
 	mixing 1
 	mixed 5
-	shuffling 2
 Synset('time.v.05')
 	timed 1
-	TIMES 1
 Synset('grandson.n.01')
 	grandson 4
+Synset('cannibal.n.01')
+	cannibal 1
 Synset('mumble.v.01')
-	muttered 6
+	muttered 7
 	muttering 1
-	mutter 2
+	mutter 1
 	mumbled 1
+Synset('heterosexual.n.01')
+	Straight 1
 Synset('tower.n.01')
 	towers 15
 	tower 15
+	Tower 10
+	TOWER 1
 Synset('english.n.04')
+	side 118
 	sides 17
-	side 116
-	English 16
 Synset('clique.n.01')
 	camps 1
 	camp 17
@@ -4717,10 +4786,11 @@ Synset('objection.n.04')
 	objection 4
 	objections 1
 Synset('wrinkle.v.02')
-	wrinkled 1
 	creasing 1
+Synset('howl.n.01')
+	howl 2
 Synset('reformer.n.01')
-	Reformers 3
+	Reformers 1
 Synset('rant.v.01')
 	rave 1
 	raving 4
@@ -4741,6 +4811,7 @@ Synset('sight.n.04')
 Synset('ramp.v.01')
 	raging 18
 	raged 7
+	rAGE 1
 	stormed 3
 Synset('kennel.v.01')
 	kennel 1
@@ -4759,10 +4830,14 @@ Synset('release.v.08')
 	relinquish 1
 	relinquished 5
 	free 1
+Synset('miss.n.03')
+	MISS 1
 Synset('serenely.r.01')
 	serenely 2
-Synset('housebreaker.n.01')
-	housebreaker 1
+Synset('join.v.01')
+	join 15
+	joined 43
+	joining 7
 Synset('bleakness.n.01')
 	nakedness 2
 	desolation 2
@@ -4772,7 +4847,7 @@ Synset('nurse.n.01')
 Synset('support.n.04')
 	reinforcement 1
 Synset('standard.n.04')
-	standard 13
+	standard 12
 Synset('relish.n.03')
 	relish 4
 Synset('grudge.n.01')
@@ -4801,14 +4876,15 @@ Synset('supporter.n.01')
 Synset('convulsion.n.03')
 	turmoil 1
 Synset('out.s.03')
-	Out 5
-	out 280
+	Out 6
+	out 287
 Synset('chew_over.v.01')
 	meditating 2
 	pondering 3
 	contemplating 4
-	meditate 2
+	meditate 1
 	ruminated 1
+	musing 2
 	ruminating 1
 	meditated 1
 	mused 5
@@ -4816,7 +4892,7 @@ Synset('block.n.05')
 	blocks 1
 	block 17
 Synset('council.n.01')
-	Council 8
+	Council 1
 	council 42
 Synset('drop_curtain.n.01')
 	drop 3
@@ -4828,10 +4904,13 @@ Synset('confirmation.n.04')
 Synset('plate.n.14')
 	shell 1
 Synset('joule.n.01')
+	J 3
 	j 5
 Synset('scruple.n.01')
 	scruple 2
 	scruples 2
+Synset('forebear.n.01')
+	forbear 1
 Synset('circular.n.01')
 	bill 16
 	bills 1
@@ -4854,7 +4933,7 @@ Synset('glance.n.01')
 	glimpses 3
 	glimpse 1
 Synset('nearer.r.01')
-	closer 5
+	closer 3
 Synset('crucial.a.01')
 	important 28
 Synset('contrast.n.05')
@@ -4863,8 +4942,8 @@ Synset('sur.n.01')
 	sur 4
 Synset('confinement.n.02')
 	confinement 2
-Synset('open.n.03')
-	open 7
+Synset('orange_group.n.01')
+	OV 1
 Synset('capture.n.04')
 	capture 2
 Synset('path.n.04')
@@ -4874,29 +4953,32 @@ Synset('path.n.04')
 Synset('possibility.n.01')
 	possibility 4
 Synset('lady.n.03')
+	Lady 4
 	ladies 34
 	lady 117
-	ladys 3
+	ladys 5
 Synset('period.n.04')
 	periods 1
-	PERIOD 1
 	period 9
+	Period 1
+	PERIOD 1
 Synset('crisscross.n.01')
 	crosses 4
-	cross 21
+	Cross 6
+	cross 19
 Synset('horse.n.02')
 	horses 84
 	Horses 2
 	horse 93
+	Horse 4
 Synset('stagger.v.03')
 	staggered 1
+	staggering 1
 	distribute 1
 	distributed 2
 Synset('fully.r.01')
 	fully 15
-	full 1
 Synset('steadily.r.02')
-	steady 1
 	steadily 27
 Synset('queer.v.02')
 	endanger 1
@@ -4910,6 +4992,7 @@ Synset('bacon.n.01')
 Synset('rock.n.01')
 	rocks 5
 	rock 5
+	Rock 1
 Synset('spine.n.03')
 	thorns 1
 	thorn 1
@@ -4928,8 +5011,7 @@ Synset('dredge.v.02')
 Synset('revelation.n.03')
 	revelations 2
 Synset('cavalier.n.02')
-	Royalists 4
-	Cavaliers 1
+	Royalists 1
 Synset('digit.n.01')
 	figures 19
 	Figure 1
@@ -4937,8 +5019,9 @@ Synset('digit.n.01')
 Synset('quality.n.03')
 	quality 4
 	character 42
-	qualities 9
 	characters 4
+	CHARACTERS 1
+	qualities 9
 Synset('penis.n.01')
 	member 8
 	Members 2
@@ -4946,7 +5029,7 @@ Synset('penis.n.01')
 Synset('commission.v.03')
 	commissioned 2
 Synset('sinking.n.03')
-	sinking 2
+	sinking 1
 Synset('weapon.n.02')
 	weapons 16
 	weapon 10
@@ -4963,12 +5046,11 @@ Synset('usurpation.n.02')
 Synset('insurgent.n.01')
 	insurgents 1
 	rebels 7
-	Rebels 1
-	rebel 5
+	rebel 4
 Synset('behalf.n.02')
 	behalf 13
 Synset('druid.n.01')
-	Druids 3
+	Druids 2
 Synset('completion.n.02')
 	completion 2
 Synset('infamy.n.01')
@@ -4977,7 +5059,7 @@ Synset('gravely.r.01')
 	gravely 4
 Synset('excommunication.n.02')
 	excommunication 5
-	Excommunication 1
+	Excommunication 3
 Synset('pauper.n.01')
 	paupers 1
 Synset('ribbon.n.01')
@@ -4987,10 +5069,10 @@ Synset('ribbon.n.01')
 Synset('man.n.06')
 	Men 3
 	men 381
-	mans 16
+	mans 23
 	man 569
 	Man 6
-	MAN 1
+	MAN 2
 Synset('weave.v.04')
 	wandered 9
 	woven 3
@@ -4998,7 +5080,7 @@ Synset('weave.v.04')
 	wandering 10
 	wander 4
 Synset('thymine.n.01')
-	T 3
+	T 12
 	t 7
 Synset('weave.v.02')
 	weaving 1
@@ -5024,13 +5106,12 @@ Synset('birdcall.n.01')
 	songs 12
 	song 9
 Synset('swing.v.05')
+	sweeping 1
 	Swinging 1
 	swung 4
 	swept 5
 	swinging 9
 Synset('foot.v.03')
-	foot 1
-	footed 1
 	footing 1
 Synset('nod.n.01')
 	nod 2
@@ -5059,16 +5140,18 @@ Synset('doorway.n.01')
 	doorways 3
 Synset('smooth.a.03')
 	smoother 1
-	smooth 5
+	smooth 4
 Synset('celebrate.v.02')
 	celebrated 6
 Synset('answer.n.03')
-	answer 52
+	answer 50
 	answers 2
 Synset('philosophy.n.03')
 	philosophy 5
 Synset('answer.n.01')
 	reply 13
+Synset('pop.n.03')
+	pop 1
 Synset('liking.n.01')
 	liking 4
 Synset('ceremony.n.01')
@@ -5081,7 +5164,7 @@ Synset('cartridge.n.04')
 Synset('interrogate.v.02')
 	interrogate 2
 Synset('native.n.02')
-	native 2
+	native 1
 	natives 1
 Synset('wig.n.02')
 	wig 19
@@ -5094,23 +5177,23 @@ Synset('newspaper.n.03')
 	papers 35
 Synset('mail.n.03')
 	mail 28
+	MAIL 1
 Synset('stubbornly.r.01')
 	obstinately 1
 Synset('by_and_large.r.01')
 	generally 14
 	mostly 7
 Synset('country.n.02')
-	Land 1
-	State 5
 	states 3
 	state 107
 	lands 21
-	land 53
+	State 8
+	land 52
 Synset('nan.n.03')
 	nan 1
 Synset('front.v.01')
 	looked 226
-	look 71
+	look 74
 	looking 140
 	Looking 7
 	fronting 1
@@ -5124,39 +5207,40 @@ Synset('draw_a_bead_on.v.02')
 	aspired 4
 	aspiring 1
 Synset('prowl.v.01')
-	prowling 2
+	prowling 1
 	prowled 1
 Synset('whimper.n.01')
 	whine 1
 Synset('retraction.n.01')
 	recantations 1
 	recantation 1
+Synset('steed.n.01')
+	steed 1
 Synset('beautifully.r.01')
 	beautifully 2
 Synset('deputy.n.04')
 	deputy 1
 Synset('housework.n.01')
-	housekeeping 2
+	housekeeping 1
 Synset('ball.n.03')
 	globe 1
 	ball 5
 	balls 2
 Synset('ruffle.v.09')
 	ruffled 1
-Synset('curling.n.01')
-	curling 1
+Synset('drunkard.n.01')
+	drunkard 1
 Synset('lecture.v.01')
-	talking 14
+	talking 13
 	talked 17
-	talk 9
+	talk 10
 Synset('commoner.n.01')
 	commoner 1
 Synset('firm.n.01')
-	firm 10
+	firm 15
 Synset('sloth.n.01')
 	sloth 1
 Synset('book.n.11')
-	Book 3
 	book 24
 	books 17
 	BOOK 1
@@ -5164,6 +5248,8 @@ Synset('nutriment.n.01')
 	nourishment 1
 Synset('enthrone.v.02')
 	enthroned 1
+Synset('kite.n.01')
+	Kite 1
 Synset('inaugurate.v.03')
 	inaugurated 1
 Synset('birdlime.n.01')
@@ -5177,23 +5263,22 @@ Synset('dagger.n.02')
 	dagger 11
 Synset('key.n.09')
 	keys 13
-	Keys 1
-	key 12
+	key 9
 Synset('pierce.v.04')
-	thrust 6
+	thrust 7
+Synset('jacobin.n.01')
+	Jacobin 1
 Synset('politics.n.05')
 	politics 1
 Synset('slang.n.02')
-	cant 2
+	Cant 1
 Synset('priestly.a.02')
 	priestly 1
 Synset('methodically.r.01')
 	methodically 1
-Synset('parliament.n.01')
-	parliament 2
-	Parliaments 2
-Synset('saxon.n.01')
-	Saxons 15
+Synset('cerium.n.01')
+	cesses 2
+	cess 1
 Synset('womanly.a.01')
 	feminine 1
 	womanly 2
@@ -5213,7 +5298,7 @@ Synset('potent.a.03')
 	strongest 3
 	strong 128
 	stronger 10
-	stiff 3
+	stiff 4
 Synset('guide.n.06')
 	guide 1
 Synset('heartlessly.r.01')
@@ -5222,15 +5307,14 @@ Synset('aspiration.n.01')
 	aspirations 2
 Synset('miserably.r.01')
 	miserably 5
-Synset('inning.n.01')
-	frame 6
+Synset('lorry.n.01')
+	Lorry 39
+	Lorrys 1
 Synset('hell.n.02')
 	hell 6
 	blaze 3
 Synset('power_shovel.n.01')
 	digger 1
-Synset('bung.n.01')
-	bung 1
 Synset('perch.v.01')
 	perched 3
 	roosted 1
@@ -5261,6 +5345,7 @@ Synset('heresy.n.02')
 	heresy 3
 Synset('sharp.a.10')
 	sharp 16
+	Sharp 1
 Synset('minster.n.01')
 	minster 2
 Synset('compliment.n.01')
@@ -5269,7 +5354,7 @@ Synset('compliment.n.01')
 Synset('grocer.n.01')
 	grocer 2
 Synset('walk.v.10')
-	walking 22
+	walking 27
 	Walking 3
 	walked 55
 Synset('bow.n.03')
@@ -5284,10 +5369,12 @@ Synset('dissolve.v.02')
 Synset('property.n.02')
 	property 35
 	properties 1
+Synset('megabyte.n.02')
+	M 1
 Synset('cocoa.n.01')
 	chocolate 13
 Synset('covered.a.01')
-	covered 2
+	covered 1
 Synset('property.n.04')
 	dimensions 1
 Synset('sagittarius.n.01')
@@ -5297,18 +5384,14 @@ Synset('stoutly.r.01')
 	stoutly 1
 Synset('graciously.r.01')
 	graciously 4
-Synset('amendment.n.02')
-	amendment 1
 Synset('shore_leave.n.01')
 	liberties 8
 	liberty 17
-Synset('grate.v.03')
-	grated 2
-	grating 1
 Synset('demote.v.01')
 	bumped 2
 Synset('promise.n.01')
-	promises 9
+	PROMISE 1
+	promises 8
 	promise 20
 Synset('treasure.n.04')
 	treasures 2
@@ -5319,6 +5402,7 @@ Synset('swim.v.04')
 	drowning 2
 	drown 2
 	drowned 9
+	swimming 1
 Synset('agitation.n.02')
 	agitation 11
 Synset('chant.n.01')
@@ -5333,50 +5417,46 @@ Synset('under.r.02')
 Synset('hanging.n.02')
 	hangings 1
 	Hangings 1
-	hanging 8
+	hanging 4
 Synset('widower.n.01')
 	widower 2
 Synset('corselet.n.01')
 	corselets 1
 Synset('corrode.v.02')
 	rusted 2
-	rust 2
 Synset('queerly.r.01')
 	strangely 5
 Synset('railing.n.01')
 	railings 2
 	railing 2
-Synset('bent.n.04')
-	bent 10
-Synset('natural.n.03')
-	natural 2
+Synset('shame.v.04')
+	shaming 1
 Synset('lobby.n.03')
 	lobby 2
+Synset('hebdomadally.r.01')
+	weekly 1
 Synset('sacrament.n.01')
 	sacrament 2
+	Sacrament 2
 Synset('symbol.n.01')
 	symbols 1
 Synset('lustily.r.01')
 	lustily 2
-Synset('fumble.v.05')
-	fumbled 1
 Synset('down.r.01')
 	downward 2
 Synset('rake.v.02')
 	raked 1
-Synset('shame.v.04')
-	shaming 1
 Synset('slab.n.01')
 	slab 1
 Synset('slow.a.04')
-	slow 12
+	slow 11
 Synset('fleet.n.04')
 	fleet 31
 	fleets 1
 Synset('spirit.n.02')
-	feeling 16
+	feeling 15
 	flavour 3
-	look 52
+	look 49
 	feel 1
 	Spirit 2
 	feelings 5
@@ -5391,18 +5471,18 @@ Synset('politely.r.01')
 Synset('fill.n.01')
 	fill 1
 Synset('corner.v.02')
-	corner 3
+	cornered 1
 Synset('lend.v.02')
 	lending 1
 	lend 2
 Synset('pay_up.v.01')
 	paying 6
-	pay 37
+	pay 36
 	paid 36
 	Pay 1
 Synset('lend.v.01')
 	Bring 5
-	added 39
+	added 40
 	adds 1
 	bestowed 11
 	imparts 1
@@ -5419,9 +5499,9 @@ Synset('lend.v.01')
 	brings 2
 Synset('curl.v.01')
 	curved 1
-	curls 1
-	curling 1
+	curling 2
 Synset('fortune.n.02')
+	Fortune 2
 	fortunes 9
 	fortune 28
 Synset('rein.n.01')
@@ -5431,19 +5511,18 @@ Synset('regenerate.v.01')
 	renew 4
 	renewed 4
 Synset('standard.a.03')
-	standard 2
+	standard 3
 Synset('jack.n.05')
 	jack 2
 Synset('induce.v.02')
 	caused 46
-	stimulated 1
 	induce 5
-	Stimulated 2
+	stimulated 1
 	causing 12
 	causes 1
 	inducing 1
 	induced 10
-	cause 9
+	cause 17
 	stimulate 1
 	stimulating 1
 Synset('putrescence.n.01')
@@ -5453,7 +5532,7 @@ Synset('tell.v.03')
 	tells 2
 	recounted 1
 	tell 89
-	telling 16
+	telling 17
 	Tell 12
 	told 130
 Synset('suitor.n.01')
@@ -5472,25 +5551,31 @@ Synset('hear.v.03')
 	heard 132
 	Hear 1
 	hear 67
-	Hearing 3
-	hearing 9
+	Hearing 2
+	hearing 7
+Synset('affray.n.02')
+	frays 1
+	fray 1
 Synset('misdemeanor.n.01')
 	infraction 1
 Synset('serial.n.01')
 	series 3
 Synset('expiation.n.02')
 	atonement 1
+	EXPIATION 1
 	expiation 1
 Synset('drawing_card.n.02')
 	leader 21
 Synset('message.n.01')
 	message 15
 	messages 6
+	MESSAGE 1
 Synset('strike.v.01')
 	strike 15
 	struck 92
 	Struck 1
-	striking 8
+	strikes 1
+	striking 3
 Synset('writhe.v.01')
 	twist 1
 	wrestle 1
@@ -5501,14 +5586,14 @@ Synset('ascend.v.08')
 	ascending 2
 Synset('fair.a.04')
 	fairer 1
-	fair 48
+	fair 49
 Synset('musingly.r.01')
 	musingly 1
-Synset('raise.v.02')
-	raised 69
-	raise 25
-	raising 21
-	elevated 2
+Synset('blow.v.05')
+	blow 5
+	blew 10
+	blowing 4
+	blown 8
 Synset('absent.a.01')
 	absent 7
 Synset('complain.v.02')
@@ -5516,19 +5601,18 @@ Synset('complain.v.02')
 	complained 7
 	complain 6
 Synset('read.v.09')
-	read 61
+	read 62
 Synset('read.v.08')
-	reading 6
 	registered 2
 	register 1
 	recorded 4
+	recording 1
 	record 1
-	Reading 1
+	registers 3
+	reading 6
 Synset('distinction.n.04')
 	distinction 3
 	distinctions 1
-Synset('cardinal.a.02')
-	cardinal 1
 Synset('redundancy.n.03')
 	redundancy 1
 Synset('billow.n.01')
@@ -5539,18 +5623,20 @@ Synset('backward.r.02')
 	backward 2
 Synset('test.n.06')
 	tests 1
+Synset('republic.n.02')
+	Republic 1
 Synset('reign.n.01')
 	reigns 1
-	reign 92
-	Reign 2
+	reign 90
+	Reign 33
 Synset('windmill.n.01')
 	windmill 2
-Synset('common.a.01')
-	common 54
+Synset('bed.v.01')
+	Bed 1
 Synset('aloft.r.01')
 	aloft 3
 Synset('proud.a.01')
-	proud 47
+	proud 44
 	Proud 1
 Synset('babble.n.01')
 	babble 1
@@ -5599,20 +5685,22 @@ Synset('claim.n.01')
 Synset('garbage.n.01')
 	scraps 4
 	refuse 3
+Synset('crow.n.01')
+	crows 2
 Synset('aristocrat.n.01')
 	aristocrat 6
 	aristocrats 1
 Synset('end.n.13')
-	END 1
-	ends 6
-	end 87
+	END 2
+	ends 4
+	end 84
 	remainder 6
 Synset('signally.r.01')
 	signally 2
 Synset('scrape.n.01')
 	scrapings 1
 Synset('narrative.n.01')
-	narrative 3
+	narrative 2
 Synset('cylinder.n.01')
 	cylinder 1
 Synset('divert.v.04')
@@ -5625,21 +5713,19 @@ Synset('rein.v.03')
 Synset('doorbell.n.01')
 	bells 12
 	bell 26
-Synset('stableman.n.01')
-	ostler 1
 Synset('hollow.a.01')
 	hollow 11
 Synset('acuteness.n.02')
 	keenness 1
 	sharpness 1
 Synset('open_fire.v.01')
-	fire 2
+	fire 1
 	fired 12
 Synset('terror.n.03')
 	terror 13
 	terrors 8
 Synset('chapter.n.05')
-	CHAPTER 3
+	CHAPTER 54
 	chapter 4
 Synset('market.n.02')
 	markets 1
@@ -5649,8 +5735,6 @@ Synset('capital.n.08')
 	caps 12
 	cap 33
 	capital 11
-Synset('unknown.n.03')
-	unknown 2
 Synset('professional.a.01')
 	professional 2
 Synset('shepherd.n.01')
@@ -5660,12 +5744,10 @@ Synset('muteness.n.02')
 	Silence 2
 	silence 38
 Synset('vertical.a.01')
-	perpendicular 2
-Synset('badly.r.05')
-	bad 1
+	perpendicular 3
 Synset('hearth.n.03')
 	hearths 1
-	hearth 7
+	hearth 8
 	fireside 2
 	firesides 1
 Synset('curse.n.05')
@@ -5678,8 +5760,7 @@ Synset('sphere.n.01')
 	domains 1
 	area 1
 Synset('general.a.01')
-	General 2
-	general 61
+	general 74
 Synset('granary.n.01')
 	granaries 1
 Synset('doctrine.n.01')
@@ -5692,8 +5773,6 @@ Synset('factory.n.01')
 	mills 1
 Synset('abdication.n.01')
 	abdication 2
-Synset('iron.v.01')
-	iron 1
 Synset('willingly.r.01')
 	Willingly 2
 	willingly 6
@@ -5715,11 +5794,14 @@ Synset('warhead.n.01')
 	loads 4
 Synset('thoughtfully.r.01')
 	thoughtfully 4
+Synset('anchor.n.01')
+	anchor 2
 Synset('forte.a.01')
 	Loud 1
+	Louder 2
 	loud 26
 Synset('stab.n.02')
-	thrust 5
+	thrust 4
 	stabs 2
 Synset('smasher.n.02')
 	beauties 1
@@ -5731,65 +5813,63 @@ Synset('manfully.r.01')
 	manfully 3
 Synset('floor.n.03')
 	base 14
-Synset('orange.n.02')
-	orange 2
+Synset('kiss.n.04')
+	kiss 10
 Synset('honor.n.04')
 	purity 1
 Synset('shoot.v.18')
-	Shoot 1
+	Shoot 2
 	shoot 3
 	shooting 2
-	shot 18
+	shot 22
 Synset('unfold.v.04')
-	open 5
+	open 8
 	opening 5
 Synset('actually.r.04')
 	actually 21
 Synset('stay.v.09')
 	stay 8
-Synset('north.r.01')
-	northward 1
+Synset('masquerade.v.01')
+	masquerading 1
 Synset('idaho.n.01')
 	Id 3
 Synset('stay.v.04')
 	remains 3
 	remain 22
-	remaining 13
+	remaining 14
 	remained 49
 Synset('odds.n.01')
 	odds 1
 Synset('disappointment.n.01')
 	Disappointment 1
 	disappointment 2
-Synset('unchristian.a.01')
-	unchristian 1
+Synset('indirectly.r.01')
+	indirectly 1
 Synset('mother.n.04')
+	Mother 2
 	mother 80
 	mothers 19
 Synset('carom.n.02')
 	cannon 6
-Synset('back.n.08')
-	back 41
-	backs 4
+Synset('couple.n.01')
+	couples 2
+	couple 4
 Synset('tumble.v.09')
 	tumbled 5
 	tumbling 3
 	tumble 1
-Synset('count.n.03')
-	count 2
-	Count 13
-	Counts 2
 Synset('contemptuously.r.01')
 	contemptuously 3
 	scornfully 3
 Synset('park.n.02')
+	Park 1
 	park 1
 	commons 2
 Synset('magazine.n.01')
 	magazine 2
 	magazines 1
 Synset('like.n.01')
-	like 276
+	like 278
 	Like 9
 Synset('clatter.v.01')
 	clatter 2
@@ -5805,17 +5885,20 @@ Synset('thrashing.n.01')
 Synset('volume.n.06')
 	intensity 2
 Synset('public.a.01')
-	public 62
+	public 64
 Synset('mercifully.r.01')
 	mercifully 1
 Synset('down.s.02')
-	down 26
+	down 29
+	Down 1
 Synset('fork.n.04')
 	fork 1
 Synset('girdle.v.01')
 	deaden 1
 Synset('therefore.r.01')
+	thence 10
 	Thus 26
+	Thence 3
 	thus 44
 	hence 8
 	therefore 27
@@ -5823,26 +5906,28 @@ Synset('therefore.r.01')
 	Therefore 8
 Synset('girlhood.n.01')
 	girlhood 1
-Synset('gossip.n.02')
-	gossip 3
-Synset('backed.a.01')
-	backed 1
+Synset('list.v.01')
+	named 73
+	Name 1
+	naming 2
+Synset('pretext.n.01')
+	pretext 1
 Synset('perfectly.r.02')
 	perfectly 12
 	Perfectly 4
 Synset('dislike.v.01')
 	disliking 1
 	dislike 3
-	disliked 6
+	disliked 7
 Synset('baby.n.07')
 	baby 7
 	babies 2
 Synset('baby.n.05')
 	sisters 6
-	sister 54
+	sister 56
 Synset('baby.n.01')
 	infants 1
-	infant 3
+	infant 1
 Synset('well.a.01')
 	better 2
 	Well 1
@@ -5861,13 +5946,13 @@ Synset('hoot.n.01')
 Synset('baggage.n.02')
 	baggage 3
 Synset('behave.v.02')
-	bearing 10
+	bearing 12
 	conducting 2
 	acquit 1
 	ACQUITTED 1
 	bears 2
 	Acquitted 1
-	bear 43
+	bear 42
 	born 22
 	conducted 9
 	acquitted 6
@@ -5876,15 +5961,15 @@ Synset('behave.v.02')
 	behaved 6
 	borne 12
 Synset('last.v.01')
-	last 9
-	enduring 2
+	last 5
+	enduring 1
 	lasted 32
 	LASTED 1
 	endure 4
 	lasts 1
 	endured 1
 Synset('float.v.09')
-	floating 1
+	floating 2
 	floated 4
 Synset('colonel.n.01')
 	colonels 1
@@ -5893,16 +5978,17 @@ Synset('anxiety.n.02')
 	anxiety 11
 Synset('ham.n.01')
 	ham 1
-	Ham 1
+	Ham 2
 Synset('doctor_of_the_church.n.01')
 	Doctors 22
 	doctors 7
+	DOCTOR 2
 	doctor 4
-	Doctor 14
+	Doctor 62
 Synset('touch.v.07')
 	touch 9
 	Touch 1
-	touching 15
+	touching 12
 	touched 23
 	Touching 2
 Synset('sincerely.r.02')
@@ -5913,8 +5999,6 @@ Synset('assassination.n.02')
 	assassination 1
 Synset('becomingly.r.01')
 	becomingly 1
-Synset('pensiveness.n.01')
-	brooding 2
 Synset('cutlas.n.01')
 	cutlass 1
 Synset('morally.r.02')
@@ -5922,7 +6006,7 @@ Synset('morally.r.02')
 Synset('gregarious.a.01')
 	gregarious 1
 Synset('amobarbital_sodium.n.01')
-	blue 3
+	blue 1
 Synset('testimony.n.02')
 	testimony 2
 Synset('apparatus.n.01')
@@ -5934,8 +6018,9 @@ Synset('cook.v.01')
 Synset('fore.r.01')
 	forward 41
 	Forward 4
-Synset('extort.v.03')
-	extorted 2
+Synset('porter.n.01')
+	porters 2
+	porter 4
 Synset('lapse.v.03')
 	lapsed 1
 Synset('decay.n.05')
@@ -5946,7 +6031,7 @@ Synset('dirk.n.01')
 	dirks 1
 Synset('gleam.n.02')
 	gleam 1
-	gleams 2
+	gleams 1
 Synset('sandbag.v.03')
 	stunned 1
 Synset('wild_boar.n.01')
@@ -5960,6 +6045,7 @@ Synset('ambition.n.01')
 	dream 11
 	dreams 3
 Synset('closure_by_compartment.n.01')
+	Guillotine 7
 	guillotine 3
 Synset('mire.n.01')
 	mire 6
@@ -5969,34 +6055,40 @@ Synset('streamer.n.02')
 	banner 14
 Synset('strawberry.n.03')
 	strawberries 1
+Synset('new_world_chat.n.01')
+	chat 1
 Synset('unglazed.a.02')
 	unglazed 2
 Synset('trustfully.r.01')
 	confidingly 1
 Synset('meet.v.10')
 	play 17
-	playing 3
+	playing 5
 	played 15
 Synset('pony.n.03')
 	pony 2
+Synset('unfolding.n.01')
+	flowering 1
 Synset('price.n.05')
 	price 11
 Synset('foreigner.n.02')
 	foreigner 4
 	foreigners 9
 Synset('law.n.02')
+	Laws 3
 	law 68
-	Law 1
+	Law 2
 	laws 38
 Synset('godfather.n.01')
 	godfather 1
 Synset('lord.n.03')
-	nobleman 22
+	nobleman 23
 	lords 61
-	nobles 50
-	noblemen 31
-	lord 37
-	Nobles 3
+	nobles 51
+	noblemen 32
+	lord 39
+	Nobles 1
+	Lord 18
 Synset('wedding.n.03')
 	wedding 5
 Synset('ma.n.01')
@@ -6008,10 +6100,12 @@ Synset('heel.n.05')
 Synset('vociferate.v.01')
 	vociferating 1
 Synset('stop.v.01')
-	halting 2
 	halted 1
-	stop 15
 	halt 1
+	stop 16
+	Stop 1
+	stops 1
+	halting 2
 Synset('claim.v.03')
 	claimed 17
 	claim 9
@@ -6023,10 +6117,10 @@ Synset('thanksgiving.n.01')
 Synset('heiress.n.01')
 	heiress 1
 Synset('wolf.n.04')
-	wolf 3
+	wolf 4
 Synset('wild.a.02')
 	wild 52
-	wildest 2
+	wildest 3
 Synset('pension.n.01')
 	pension 6
 Synset('carry.v.30')
@@ -6043,17 +6137,16 @@ Synset('fight.v.03')
 	struggling 3
 	struggle 2
 Synset('elizabeth.n.02')
-	Elizabeths 1
-Synset('mortar.n.01')
-	mortar 1
-Synset('master.v.04')
-	master 1
+	ELIZABETH 11
+	Elizabeths 4
+Synset('withdrawal.n.01')
+	withdrawal 1
 Synset('value.v.01')
 	valued 3
 Synset('brass.n.02')
 	brass 1
 Synset('settled.a.02')
-	settled 2
+	settled 1
 Synset('connection.n.04')
 	connections 1
 	connection 1
@@ -6062,6 +6155,8 @@ Synset('connection.n.06')
 	connexion 4
 Synset('mirror.n.02')
 	mirror 2
+Synset('footstool.n.01')
+	footstool 1
 Synset('pall.n.02')
 	shroud 1
 	pall 1
@@ -6071,6 +6166,7 @@ Synset('maltster.n.01')
 	maltsters 1
 Synset('cobbler.n.01')
 	shoemakers 6
+	Shoemaker 1
 	shoemaker 9
 Synset('staff.n.05')
 	staff 2
@@ -6081,10 +6177,9 @@ Synset('staff.n.03')
 	faculty 1
 Synset('brotherly.a.01')
 	brotherly 1
-Synset('down.n.04')
-	down 1
-	downs 3
-	Downs 1
+Synset('back.n.08')
+	back 37
+	backs 4
 Synset('swiftly.r.01')
 	swiftly 3
 Synset('parent.n.01')
@@ -6094,34 +6189,31 @@ Synset('girdle.n.02')
 	waistband 3
 	sashes 1
 Synset('bard.n.01')
+	Bards 1
 	bards 1
 Synset('paternal.a.02')
 	paternal 1
 Synset('bequest.n.01')
 	Bequests 1
 	legacies 1
-Synset('give.v.41')
-	given 58
-	give 89
-	giving 26
-	Give 11
-	Giving 1
-	gives 5
-	gave 150
+Synset('indictment.n.01')
+	Indictment 1
+	indictment 2
 Synset('harvest.n.03')
 	harvests 1
 	harvest 2
 Synset('breasted.a.01')
 	breasted 1
 Synset('admiral.n.01')
-	admiral 2
 	admirals 3
+	admiral 2
+	Admiral 18
 Synset('harmonica.n.01')
 	harps 1
 	harp 4
 Synset('take.v.39')
 	takes 6
-	taking 55
+	taking 56
 	took 283
 	Taken 1
 	take 178
@@ -6133,14 +6225,14 @@ Synset('nature.n.04')
 Synset('duchy.n.01')
 	dukedom 2
 	duchy 1
-Synset('spaniel.n.01')
-	spaniel 1
 Synset('expense.n.02')
 	expense 3
 	expenses 5
 Synset('vote.v.03')
 	vote 1
 	voted 8
+Synset('eightieth.n.01')
+	eightieth 1
 Synset('parcel.v.03')
 	parcelled 1
 Synset('memorial.n.01')
@@ -6148,25 +6240,24 @@ Synset('memorial.n.01')
 	memorials 2
 	remembrances 3
 Synset('duke.n.01')
-	duke 13
+	dukes 7
 	DuKe 1
-	Dukes 1
-	dukes 6
+	Dukes 2
+	duke 13
 Synset('memorial.n.03')
 	monument 2
 Synset('calendar.n.01')
 	calendar 1
 Synset('sedately.r.01')
 	calmly 6
-Synset('bomber.n.03')
-	grinders 1
-	hero 2
-	sub 4
+Synset('inside.a.01')
+	inside 5
 Synset('cruise.v.02')
 	cruising 1
 Synset('however.r.01')
 	However 26
 	still 187
+	withal 1
 	Nevertheless 7
 	however 96
 	yet 137
@@ -6184,9 +6275,9 @@ Synset('raggedly.r.02')
 Synset('name.v.01')
 	calls 4
 	called 329
-	Call 2
-	call 44
-	calling 22
+	Call 4
+	call 45
+	calling 23
 	CALLED 2
 Synset('strange.a.01')
 	strangest 3
@@ -6198,9 +6289,9 @@ Synset('ferociously.r.01')
 Synset('book.n.02')
 	volumes 1
 Synset('toast.v.02')
-	drink 14
+	drink 16
 	saluted 2
-	drank 25
+	drank 35
 	drinking 13
 	toasting 1
 	salute 3
@@ -6208,7 +6299,7 @@ Synset('viewgraph.n.01')
 	overhead 1
 Synset('target.v.01')
 	place 5
-	places 1
+	places 2
 Synset('shake.v.08')
 	shaking 19
 	Shaken 1
@@ -6219,8 +6310,9 @@ Synset('achiever.n.01')
 	success 15
 Synset('litter.v.03')
 	littered 2
-Synset('abstraction.n.01')
-	abstraction 3
+Synset('conductor.n.04')
+	conductors 2
+	conductor 2
 Synset('pitch.v.04')
 	pitch 1
 Synset('shake.v.02')
@@ -6230,7 +6322,7 @@ Synset('visit.v.07')
 	visited 5
 	visit 2
 Synset('harbor.n.02')
-	harbour 10
+	harbour 9
 Synset('specimen.n.02')
 	specimens 1
 Synset('shock.n.07')
@@ -6243,6 +6335,7 @@ Synset('ear.n.05')
 	ears 33
 Synset('throne.n.03')
 	throne 69
+	Throne 2
 Synset('fact.n.04')
 	facts 1
 	fact 23
@@ -6254,14 +6347,12 @@ Synset('fern.n.01')
 	fern 1
 Synset('wide.r.01')
 	wide 5
-Synset('spaniard.n.01')
-	Spaniards 5
 Synset('appoint.v.02')
 	appoint 12
 	appointing 9
-	appointed 34
+	appointed 41
 	charge 1
-	charging 3
+	charging 4
 	charged 22
 Synset('massacre.v.01')
 	massacred 1
@@ -6270,7 +6361,7 @@ Synset('massacre.v.01')
 Synset('thinness.n.05')
 	thinness 1
 Synset('ill.r.01')
-	ill 15
+	ill 31
 Synset('gender.n.01')
 	gender 1
 Synset('glance.v.01')
@@ -6278,33 +6369,30 @@ Synset('glance.v.01')
 	glancing 12
 	Glancing 1
 	glanced 18
-Synset('shrivel.v.01')
-	shrivelled 3
-	shrunk 1
-	withered 3
-	wither 1
-	shrink 3
+Synset('form.v.07')
+	form 6
 Synset('keep.v.01')
 	maintained 6
 	maintain 7
 	maintaining 2
+Synset('hilt.n.01')
+	hilt 1
 Synset('public_treasury.n.01')
 	till 16
 	Till 1
 Synset('wit.n.01')
 	wit 4
 	wits 1
-Synset('cellular_telephone.n.01')
-	cell 16
-	cells 3
+Synset('plate.v.01')
+	plated 1
 Synset('smear.n.02')
-	smear 2
+	smear 1
 Synset('lantern.n.01')
 	lanterns 3
 	lantern 3
 Synset('social_station.n.01')
 	ranks 6
-	rank 7
+	rank 9
 Synset('active.a.06')
 	active 15
 	Active 1
@@ -6313,8 +6401,8 @@ Synset('mist.n.01')
 	mists 3
 Synset('foray.n.01')
 	forays 1
-Synset('charge.v.18')
-	saddle 1
+Synset('bull.n.10')
+	bull 4
 Synset('grimly.r.01')
 	grimly 1
 Synset('corset.n.01')
@@ -6332,23 +6420,22 @@ Synset('sag.n.01')
 Synset('walk.v.05')
 	Walk 1
 	walks 1
-	walk 10
+	walk 9
 Synset('smite.v.01')
 	smite 2
 	smiting 1
-	smote 2
+	smote 1
 Synset('rise.v.02')
-	rose 63
+	rose 66
+	Climb 1
 	climbed 6
 	risen 15
 	climbing 1
 Synset('opinion.n.04')
 	judgment 7
-	Judgment 1
-Synset('military_unit.n.01')
-	force 61
-	Forces 1
-	forces 24
+	Judgment 2
+Synset('epicure.n.01')
+	epicure 1
 Synset('parole.n.01')
 	Word 2
 	word 83
@@ -6357,7 +6444,9 @@ Synset('nightgown.n.01')
 	gown 6
 Synset('spy.n.01')
 	spy 45
-	Spies 6
+	Spy 11
+	Spies 5
+	SPY 2
 	spies 11
 Synset('aggravation.n.03')
 	aggravation 1
@@ -6368,7 +6457,7 @@ Synset('stage.v.01')
 	represents 1
 	represented 18
 	representing 7
-	present 5
+	present 3
 Synset('plow.n.01')
 	ploughs 1
 	plough 2
@@ -6379,13 +6468,14 @@ Synset('speaker.n.01')
 Synset('kick.n.06')
 	kick 2
 Synset('kick.n.01')
-	Boot 2
+	Boot 1
 	boot 8
 	boots 13
 Synset('untempered.a.01')
 	unhardened 1
 Synset('raven.n.01')
 	ravens 1
+	Raven 1
 Synset('embankment.n.01')
 	embankments 1
 Synset('impression.n.01')
@@ -6393,7 +6483,7 @@ Synset('impression.n.01')
 	belief 7
 	notion 3
 Synset('underground.n.01')
-	underground 3
+	underground 2
 Synset('insult.n.02')
 	affront 1
 	affronts 1
@@ -6409,8 +6499,6 @@ Synset('peroration.n.01')
 Synset('exile.n.03')
 	exile 3
 	exiles 2
-Synset('colored.a.01')
-	coloured 2
 Synset('notification.n.03')
 	notice 18
 Synset('check.v.22')
@@ -6421,10 +6509,8 @@ Synset('check.v.22')
 	check 2
 Synset('corn.n.04')
 	corn 8
-Synset('clown.n.01')
-	clown 5
 Synset('glower.v.01')
-	glaring 5
+	glaring 3
 Synset('pulsation.n.02')
 	pulsation 2
 Synset('stake.v.03')
@@ -6437,12 +6523,13 @@ Synset('anneal.v.01')
 Synset('jewel.n.02')
 	jewels 18
 Synset('formulation.n.01')
+	Preparation 1
 	PREPARATION 1
+	preparations 8
 	preparation 8
 	Preparations 1
-	preparations 8
 Synset('deoxidize.v.01')
-	reduced 16
+	reduced 17
 Synset('analyze.v.02')
 	analyse 1
 Synset('traverse.v.03')
@@ -6470,13 +6557,14 @@ Synset('shield.n.01')
 Synset('hob.n.03')
 	hob 1
 Synset('feel.v.12')
-	feeling 6
+	feeling 7
 	feel 25
 	feels 2
 	felt 27
 Synset('clean.v.06')
-	clean 2
+	clean 1
 Synset('end.n.06')
+	Death 21
 	death 190
 	deaths 7
 	destruction 11
@@ -6492,11 +6580,11 @@ Synset('jail.n.01')
 	gaol 5
 Synset('proof.n.05')
 	proofs 2
-	proof 6
+	proof 7
 Synset('spade.v.01')
 	spade 1
-Synset('missionary.a.01')
-	Missionary 1
+Synset('heretic.n.01')
+	heretics 4
 Synset('dethrone.v.01')
 	dethroned 1
 	dethrone 3
@@ -6510,13 +6598,11 @@ Synset('narrator.n.01')
 	narrator 1
 Synset('postmaster.n.01')
 	postmaster 7
-	Postmaster 1
 Synset('personally.r.02')
 	personally 1
 Synset('pastor.n.02')
 	pastors 1
 Synset('party.n.03')
-	companys 1
 	company 46
 	companies 3
 Synset('experiment.n.03')
@@ -6524,12 +6610,14 @@ Synset('experiment.n.03')
 	experiment 1
 Synset('acorn.n.01')
 	acorns 1
+Synset('daily.r.01')
+	daily 3
 Synset('pinnacle.n.03')
 	pinnacles 1
 Synset('subject.n.06')
 	Subjects 1
 	subjects 33
-	subject 21
+	subject 20
 Synset('partnership.n.02')
 	partnership 2
 Synset('discover.v.07')
@@ -6554,10 +6642,9 @@ Synset('curtsy.n.01')
 	curtseys 1
 Synset('warden.n.01')
 	warden 2
-Synset('suck.v.01')
-	suck 1
-	sucking 2
-	sucked 2
+Synset('common.a.01')
+	common 54
+	Common 2
 Synset('nobility.n.01')
 	nobility 14
 Synset('requisition.n.02')
@@ -6565,18 +6652,23 @@ Synset('requisition.n.02')
 Synset('rumor.n.01')
 	rumour 4
 	rumours 1
+Synset('countess.n.01')
+	Countess 5
 Synset('strike.v.14')
 	scratch 1
 Synset('trey.n.02')
 	threes 2
-	Three 11
-	three 222
 	THREE 1
+	Three 37
+	three 222
+Synset('sixteenth.n.01')
+	sixteenth 1
 Synset('two.n.01')
+	ii 1
 	TWO 70
 	Two 28
 	two 438
-	ii 1
+	II 2
 	2 12
 	twos 2
 Synset('raise.v.15')
@@ -6590,8 +6682,8 @@ Synset('chink.n.01')
 	chink 1
 Synset('nation.n.04')
 	nations 6
+	Nation 1
 	nation 20
-	Nation 2
 Synset('scullery.n.01')
 	sculleries 1
 Synset('nation.n.02')
@@ -6601,7 +6693,7 @@ Synset('nation.n.02')
 	countries 12
 Synset('whisper.v.01')
 	whispered 17
-	whispering 3
+	whispering 5
 	whisper 5
 Synset('halter.n.01')
 	halters 1
@@ -6631,9 +6723,8 @@ Synset('fathom.v.02')
 Synset('ring.v.06')
 	rang 16
 	rung 1
-	ringing 5
+	ringing 7
 	ring 3
-	ringed 1
 Synset('refreshment.n.01')
 	refreshment 5
 Synset('tangle.n.01')
@@ -6675,8 +6766,6 @@ Synset('fin.n.05')
 	fins 1
 Synset('come.v.21')
 	came 498
-Synset('adjective.n.01')
-	adjective 1
 Synset('behind.r.02')
 	behind 6
 Synset('modestly.r.01')
@@ -6692,6 +6781,9 @@ Synset('faineance.n.01')
 	idleness 1
 Synset('occasion.n.04')
 	occasions 13
+Synset('tapestry.n.01')
+	tapestries 1
+	tapestry 1
 Synset('debate.n.02')
 	debates 2
 	debate 1
@@ -6738,9 +6830,8 @@ Synset('wide.a.01')
 	broader 1
 	wide 13
 Synset('reverse.n.01')
-	contrary 4
+	contrary 3
 	reverse 1
-	opposite 5
 Synset('concourse.n.03')
 	concourses 1
 	concourse 7
@@ -6749,7 +6840,7 @@ Synset('testily.r.01')
 Synset('outcast.n.01')
 	outcast 2
 Synset('right.n.02')
-	right 51
+	right 43
 	Rights 1
 	rights 19
 Synset('preliminary.n.02')
@@ -6762,11 +6853,11 @@ Synset('polish.n.02')
 Synset('shape.v.02')
 	forming 4
 	shape 2
-	formed 24
+	formed 25
 	shaping 1
 	shaped 2
 Synset('shoulder.v.03')
-	shoulder 4
+	shoulder 2
 	shouldered 6
 	shouldering 7
 	Shouldering 1
@@ -6777,7 +6868,7 @@ Synset('powder.n.01')
 Synset('err.v.01')
 	slipped 4
 	erring 1
-	mistaken 4
+	mistaken 1
 Synset('person.n.01')
 	somebody 11
 	Persons 1
@@ -6787,16 +6878,14 @@ Synset('person.n.01')
 	person 55
 	persons 28
 	individual 1
-	mortal 2
 	Somebody 2
+	Somebodys 1
 Synset('shoot.v.01')
 	hitting 1
 Synset('celerity.n.01')
 	quickness 3
-Synset('christening.n.01')
-	christening 1
 Synset('cheat.n.05')
-	cheating 2
+	cheating 3
 Synset('ambitious.a.01')
 	ambitious 8
 Synset('symptom.n.01')
@@ -6804,7 +6893,7 @@ Synset('symptom.n.01')
 Synset('torchlight.n.01')
 	torchlight 1
 Synset('confessor.n.01')
-	Confessors 1
+	CONFESSOR 1
 Synset('awed.a.02')
 	awed 1
 Synset('strip.v.10')
@@ -6820,17 +6909,17 @@ Synset('habit.n.04')
 	habits 5
 	habit 12
 Synset('habit.n.02')
-	use 17
+	use 16
 Synset('envy.n.01')
 	envy 1
 Synset('influence.n.03')
 	Influence 1
-	influence 38
+	influence 37
 Synset('population.n.04')
 	population 2
 Synset('pause.n.01')
 	intermission 1
-	pause 16
+	pause 15
 Synset('poultice.n.01')
 	plaster 1
 Synset('policy.n.02')
@@ -6855,27 +6944,27 @@ Synset('shame.n.01')
 	shame 6
 Synset('shame.n.02')
 	disgrace 11
-Synset('climb.n.02')
-	Climb 1
 Synset('pox.n.02')
 	pox 3
 Synset('precede.v.05')
-	preceded 2
+	preceding 2
 	introduced 6
-	preceding 1
+	preceded 2
 	introduce 2
 Synset('mangle.v.01')
 	mangle 1
-	mangled 3
 Synset('tenderness.n.01')
 	tenderness 6
 Synset('fever.n.01')
 	fever 18
 Synset('joke.v.01')
+	jesting 1
 	jested 1
 	joked 2
 Synset('dialect.n.01')
 	dialect 1
+Synset('sneeze.n.01')
+	sneezing 1
 Synset('accuse.v.01')
 	accusing 3
 	impeaching 1
@@ -6905,7 +6994,7 @@ Synset('secretary.n.04')
 	secretary 3
 Synset('home_plate.n.01')
 	plates 2
-	home 136
+	home 134
 	homes 6
 	plate 9
 	Home 3
@@ -6937,32 +7026,34 @@ Synset('condition.v.04')
 	conditioned 2
 Synset('restoration.n.02')
 	restoration 7
+	Restoration 1
 Synset('orthodoxy.n.02')
 	orthodoxy 1
 Synset('cough.v.01')
 	coughing 2
 	coughed 3
 Synset('a.n.07')
-	A 82
-	As 33
+	A 198
+	As 32
 Synset('profit.v.01')
 	gained 29
 	gaining 7
 	benefited 1
 	profit 1
 	benefit 1
-	gain 13
+	gain 14
 Synset('namesake.n.01')
 	namesake 2
 Synset('queen.n.02')
 	queen 14
 	queens 1
+	Queen 74
 Synset('bite.n.01')
 	bite 3
 Synset('formation.n.05')
 	formations 1
 Synset('desecrate.v.01')
-	outraged 1
+	outraged 2
 Synset('attitude.n.01')
 	attitude 11
 Synset('refectory.n.01')
@@ -6975,11 +7066,11 @@ Synset('meet.v.04')
 	fulfilled 2
 	filling 7
 	satisfied 13
-	fulfil 1
+	fulfil 2
 Synset('meet.v.05')
-	meeting 2
-	fit 2
+	meeting 1
 	fitted 8
+	fit 5
 Synset('lurch.v.05')
 	lurch 1
 Synset('miter_joint.n.01')
@@ -7014,15 +7105,16 @@ Synset('faith.n.04')
 Synset('book.v.03')
 	booked 2
 Synset('water.n.01')
-	water 78
+	water 79
 	waters 5
+Synset('one.n.01')
+	Ace 1
 Synset('intercession.n.01')
 	intercession 2
-Synset('enjoyment.n.01')
-	enjoyment 5
-	enjoyments 1
+Synset('pointed.a.01')
+	pointed 5
 Synset('faith.n.02')
-	trust 9
+	trust 13
 	trusts 1
 Synset('roughness.n.01')
 	roughness 1
@@ -7039,19 +7131,18 @@ Synset('build.v.06')
 	built 19
 	build 3
 Synset('hand.n.12')
-	hand 339
-	Hand 1
+	hand 340
 Synset('embrace.n.03')
 	bosom 15
-Synset('hand.n.09')
-	hands 1
+Synset('remedy.n.02')
+	cure 1
 Synset('necessarily.r.03')
 	Necessarily 1
 Synset('attack.n.08')
 	attacks 1
-	attack 7
+	attack 8
 Synset('credit_rating.n.01')
-	credit 6
+	credit 7
 Synset('leisure.n.02')
 	leisure 5
 Synset('settlement.n.03')
@@ -7062,7 +7153,7 @@ Synset('animosity.n.01')
 Synset('forgiveness.n.02')
 	pardons 6
 	forgiveness 3
-	Pardon 3
+	Pardon 2
 	pardon 20
 Synset('fortieth.n.01')
 	fortieth 1
@@ -7077,6 +7168,8 @@ Synset('guilty.a.01')
 Synset('eddy.v.01')
 	whirled 4
 	eddying 1
+Synset('ruthenium.n.01')
+	ru 1
 Synset('challenge.v.02')
 	challenged 3
 Synset('religious.a.02')
@@ -7085,9 +7178,8 @@ Synset('heavily.r.02')
 	heavily 29
 Synset('sleep.n.03')
 	sleep 13
-	sleeps 1
-Synset('gloweringly.r.01')
-	gloweringly 1
+Synset('brand.n.02')
+	makes 1
 Synset('result.v.01')
 	ensued 2
 Synset('kindling.n.01')
@@ -7096,11 +7188,10 @@ Synset('kindling.n.01')
 Synset('paroxysm.n.01')
 	fits 2
 	convulsions 1
-	fit 9
+	fit 8
 Synset('jewelry.n.01')
 	jewellery 1
 Synset('stuart.n.02')
-	Stuarts 2
 	STUARTS 1
 Synset('selenium.n.01')
 	se 1
@@ -7111,21 +7202,19 @@ Synset('pin.v.03')
 Synset('belly_laugh.n.02')
 	scream 1
 	screams 1
-Synset('cense.v.01')
-	incensed 1
+Synset('anecdote.n.01')
+	ANECDOTE 1
 Synset('stop.n.03')
-	Stop 1
-	stop 4
+	stop 3
 Synset('stand.v.03')
 	stands 11
 	stood 121
-	stand 29
+	stand 32
 	Stand 2
-Synset('complete.v.01')
-	finished 13
-	finish 9
+Synset('responsibility.n.03')
+	responsibility 2
 Synset('stand.v.06')
-	standing 25
+	standing 28
 	Standing 1
 Synset('cradle.n.03')
 	cradle 4
@@ -7148,8 +7237,6 @@ Synset('round.n.01')
 	rounds 2
 Synset('lyric.n.01')
 	language 19
-Synset('michigan.n.03')
-	stops 1
 Synset('annals.n.02')
 	annals 2
 Synset('mountain.n.01')
@@ -7162,13 +7249,13 @@ Synset('roast.n.01')
 Synset('harkat-ul-mujahidin.n.01')
 	hum 2
 Synset('red.n.02')
-	red 13
+	red 4
 Synset('cat.v.01')
 	cated 1
 Synset('lovingness.n.01')
-	caring 1
+	caring 2
 Synset('shoulder.n.05')
-	shoulder 21
+	shoulder 23
 	shoulders 16
 Synset('coach.v.01')
 	trained 4
@@ -7176,12 +7263,13 @@ Synset('brewer.n.02')
 	brewer 4
 Synset('imagination.n.01')
 	imagination 2
-Synset('address.n.07')
-	address 4
+Synset('painting.n.03')
+	painting 1
+	paintings 1
 Synset('pious.a.01')
 	pious 3
-Synset('harbor.v.04')
-	harboured 1
+Synset('rig.n.03')
+	rigging 1
 Synset('phase.n.01')
 	stage 6
 Synset('fancy.v.02')
@@ -7190,7 +7278,7 @@ Synset('fancy.v.02')
 Synset('fur.n.03')
 	fur 4
 Synset('rhenium.n.01')
-	re 15
+	re 22
 Synset('expressway.n.01')
 	pikes 4
 	pike 5
@@ -7201,12 +7289,13 @@ Synset('perception.n.02')
 	perception 3
 Synset('headman.n.02')
 	chiefs 6
-	chief 20
+	chief 23
 	chieftain 2
 Synset('scratch.v.07')
 	scratched 1
-Synset('pop.n.03')
-	pop 1
+Synset('swing.v.02')
+	sway 1
+	swaying 1
 Synset('enemy.n.02')
 	opposition 12
 Synset('enterprise.n.01')
@@ -7215,7 +7304,7 @@ Synset('enterprise.n.01')
 	endeavours 2
 	enterprises 1
 Synset('inside.r.01')
-	inside 4
+	inside 2
 Synset('maxim.n.01')
 	maxim 1
 Synset('discourtesy.n.03')
@@ -7231,13 +7320,13 @@ Synset('rough.a.08')
 	rough 26
 Synset('nail.n.03')
 	nail 4
-	nails 3
+	nails 4
 Synset('frog.n.03')
 	frog 1
 Synset('correspondingly.r.01')
 	correspondingly 1
 Synset('comfort.n.02')
-	comfort 15
+	comfort 12
 	comforts 2
 Synset('deny.v.03')
 	deny 2
@@ -7245,7 +7334,7 @@ Synset('deny.v.03')
 	denied 10
 Synset('lighter.n.02')
 	Light 1
-	light 83
+	light 78
 Synset('projector.n.01')
 	Projectors 1
 Synset('card.n.08')
@@ -7253,7 +7342,7 @@ Synset('card.n.08')
 	CARDS 1
 	card 9
 Synset('pale_yellow.n.01')
-	straw 23
+	straw 24
 	wheat 1
 Synset('combination.n.01')
 	combination 2
@@ -7263,15 +7352,15 @@ Synset('tame.a.03')
 	tame 4
 Synset('contra.n.01')
 	contra 1
-Synset('prematurely.r.02')
-	prematurely 2
-	untimely 1
+Synset('sudden.a.01')
+	sudden 25
+	SUDDEN 1
 Synset('intensify.v.04')
 	intensified 1
 Synset('retrospectively.r.01')
 	retrospectively 1
 Synset('short.a.06')
-	short 64
+	short 59
 	shortest 2
 Synset('uniform.n.01')
 	uniform 1
@@ -7285,7 +7374,6 @@ Synset('dutifully.r.01')
 Synset('terminal.n.02')
 	pole 5
 	poles 2
-	Pole 1
 Synset('throw.v.08')
 	throwing 6
 	thrown 40
@@ -7305,8 +7393,6 @@ Synset('tone.v.05')
 	strengthened 6
 Synset('curtsy.v.01')
 	curtseyed 1
-Synset('metempsychosis.n.01')
-	metempsychosis 1
 Synset('assassin.n.02')
 	assassin 3
 	assassins 5
@@ -7315,10 +7401,10 @@ Synset('turnspit.n.01')
 Synset('trumpet.v.01')
 	trumpeted 1
 	trumpets 6
-Synset('transfix.v.02')
-	spiked 1
+Synset('hollowness.n.02')
+	hollowness 1
 Synset('rust.n.01')
-	rust 4
+	rust 6
 Synset('abyss.n.01')
 	abyss 1
 Synset('space.n.07')
@@ -7335,16 +7421,13 @@ Synset('customs.n.01')
 	custom 22
 Synset('buddy.n.01')
 	chum 1
-Synset('little.n.01')
-	LITTLE 1
 Synset('fruit.n.01')
 	fruit 5
 	fruits 5
 Synset('football_team.n.01')
-	eleven 4
+	eleven 8
 Synset('hack.v.06')
 	hacked 3
-	hack 4
 Synset('locate.v.03')
 	placed 23
 	placing 5
@@ -7363,8 +7446,8 @@ Synset('accusation.n.02')
 	accusation 6
 	accusations 5
 Synset('use.v.01')
-	use 9
-	used 57
+	use 10
+	used 59
 	employ 5
 	employing 2
 	employed 14
@@ -7372,13 +7455,13 @@ Synset('use.v.01')
 Synset('bandage.n.01')
 	bandages 1
 Synset('flow.n.02')
+	Flow 1
 	flow 3
 Synset('harness.v.01')
 	tackle 1
-	harness 1
 	harnessed 1
 Synset('afresh.r.01')
-	afresh 3
+	afresh 11
 	anew 7
 Synset('dunce.n.01')
 	numskulls 1
@@ -7390,8 +7473,6 @@ Synset('sand.n.01')
 Synset('trench.n.02')
 	trench 1
 	trenches 1
-Synset('sally.n.03')
-	sally 1
 Synset('coverlet.n.01')
 	coverlet 1
 Synset('rioter.n.01')
@@ -7415,6 +7496,7 @@ Synset('haunt.v.02')
 	haunt 1
 Synset('thousand.s.01')
 	thousand 221
+	mer 2
 Synset('naval.a.01')
 	naval 1
 Synset('inquirer.n.01')
@@ -7424,8 +7506,8 @@ Synset('machinery.n.02')
 Synset('parade.n.01')
 	parade 3
 Synset('oxygen.n.01')
-	O 10
-	o 8
+	O 23
+	o 9
 Synset('parchment.n.01')
 	parchment 1
 	parchments 1
@@ -7439,7 +7521,7 @@ Synset('vice.n.02')
 	vices 2
 	vice 4
 Synset('royal.a.01')
-	royal 36
+	royal 29
 Synset('scaffold.n.01')
 	scaffold 33
 	scaffolds 1
@@ -7454,22 +7536,19 @@ Synset('perpetrate.v.01')
 	committed 30
 	commit 1
 	pulled 16
-Synset('tailor.n.01')
-	tailor 2
 Synset('spell.n.04')
 	charm 2
 	charms 2
 Synset('falconer.n.01')
 	falconers 2
-Synset('grey.n.06')
-	grey 10
+Synset('colony.n.06')
+	colony 1
 Synset('queasiness.n.01')
 	qualms 1
 Synset('import.n.01')
 	importation 1
-Synset('anchor.v.02')
-	anchored 1
-	anchor 2
+Synset('kink.n.02')
+	twist 1
 Synset('waif.n.01')
 	waifs 1
 Synset('mark.n.06')
@@ -7482,7 +7561,7 @@ Synset('commissariat.n.01')
 	provender 1
 	viands 1
 Synset('la.n.03')
-	la 1
+	la 2
 Synset('multitude.n.02')
 	throng 6
 Synset('delusion.n.02')
@@ -7504,6 +7583,8 @@ Synset('eccentricity.n.03')
 	eccentricity 1
 	eccentricities 1
 Synset('nobelium.n.01')
+	No 1
+	NO 1
 	no 3
 Synset('prevent.v.02')
 	prevented 13
@@ -7519,15 +7600,14 @@ Synset('comer.n.01')
 	comer 3
 Synset('name.n.04')
 	name 198
-	Name 1
-Synset('name.n.06')
-	epithets 1
+Synset('seventh.n.01')
+	SEVENTH 2
+Synset('shabbily.r.02')
+	shabbily 1
 Synset('smudge.n.02')
-	blot 2
+	blot 3
 	spot 24
 	spots 2
-Synset('opiate.n.01')
-	opiate 1
 Synset('tomahawk.n.01')
 	hatchet 1
 	Hatchets 1
@@ -7539,11 +7619,10 @@ Synset('surgeon.n.01')
 	surgeon 4
 Synset('protective_covering.n.01')
 	protection 13
-Synset('indirectly.r.01')
-	indirectly 1
 Synset('many.a.01')
-	many 335
+	many 336
 	Many 21
+	MANY 1
 Synset('nephew.n.01')
 	nephew 27
 	nephews 2
@@ -7553,51 +7632,56 @@ Synset('folk_singer.n.01')
 	minstrels 1
 	minstrel 1
 Synset('archbishop.n.01')
-	Archbishop 1
 	archbishop 1
 	archbishops 5
+	Archbishops 1
 Synset('quantity.n.03')
 	quantities 5
 	quantity 12
 Synset('landlady.n.01')
 	landlady 2
-Synset('couple.n.01')
-	couples 2
-	couple 4
+Synset('transfix.v.02')
+	spiked 1
 Synset('prince.n.01')
+	Prince 13
 	prince 20
 	princes 21
 Synset('event.n.01')
+	EVENTS 1
 	events 18
 	event 7
 Synset('factor.n.05')
 	factors 1
 Synset('project.v.06')
 	projecting 1
+	projected 1
 Synset('conspiracy.n.02')
 	conspiracy 12
 	Conspiracies 1
 	conspiracies 2
 Synset('giving_up.n.01')
-	surrender 4
+	surrender 3
 	yieldings 1
 Synset('branch.n.01')
 	Arms 2
 	branches 6
-	arm 76
+	arm 77
 	branch 3
 	arms 97
-Synset('tapestry.n.01')
-	tapestries 1
-	tapestry 1
+Synset('dressing.n.07')
+	binding 1
 Synset('grief.n.01')
 	grief 9
 Synset('reluctance.n.02')
 	reluctance 2
 	hesitation 3
 	disinclination 1
+Synset('defend.v.06')
+	defend 10
+	defending 4
+	defended 13
 Synset('part.n.11')
-	voice 99
+	voice 100
 	Voices 9
 	voices 23
 Synset('part.n.10')
@@ -7607,7 +7691,7 @@ Synset('marriage.n.01')
 Synset('partake.v.02')
 	shared 3
 	sharing 2
-	share 1
+	share 2
 Synset('unnaturally.r.03')
 	unnaturally 5
 Synset('ting.v.01')
@@ -7618,7 +7702,7 @@ Synset('peasant.n.02')
 	peasant 15
 	peasants 17
 Synset('sail.n.03')
-	sail 7
+	sail 5
 	sails 2
 Synset('lodger.n.01')
 	lodger 2
@@ -7631,15 +7715,12 @@ Synset('draw.n.08')
 	draw 2
 Synset('uncle.n.02')
 	uncle 35
-	uncles 1
-Synset('perpendicular.n.01')
-	perpendicular 1
+	uncles 4
 Synset('make.v.42')
 	pretended 33
 Synset('ruck.n.01')
 	herd 1
 Synset('lean.v.01')
-	lean 1
 	leaned 14
 	leaning 13
 Synset('waterfall.n.01')
@@ -7669,14 +7750,16 @@ Synset('reprieve.n.03')
 Synset('reach.v.02')
 	attained 1
 Synset('face.n.13')
-	faces 52
-	face 215
+	faces 53
+	face 217
 Synset('wire.n.02')
 	wires 1
-Synset('personality.n.02')
-	personality 1
+Synset('cellblock.n.01')
+	ward 5
+	wards 12
 Synset('mister.n.01')
-	MR 2
+	MR 5
+	Mr 39
 Synset('plead.v.03')
 	pleaded 6
 	pleading 2
@@ -7690,8 +7773,7 @@ Synset('ability.n.01')
 	abilities 6
 	ability 9
 Synset('tremble.n.01')
-	shiver 1
-	tremble 3
+	tremble 2
 	shake 2
 Synset('blockade.v.04')
 	blockaded 1
@@ -7700,6 +7782,10 @@ Synset('bishop.n.01')
 	bishop 15
 	Bishops 18
 	bishops 31
+Synset('tie.v.05')
+	tie 2
+	tying 2
+	tied 18
 Synset('victory.n.01')
 	triumphs 3
 	victories 4
@@ -7707,7 +7793,7 @@ Synset('victory.n.01')
 	triumph 20
 Synset('ax.n.01')
 	ax 1
-	axe 37
+	axe 36
 Synset('ache.n.01')
 	ache 1
 Synset('start.v.10')
@@ -7719,12 +7805,13 @@ Synset('canvas.n.01')
 Synset('coulomb.n.01')
 	c 1
 Synset('apology.n.03')
-	excuse 6
+	excuse 8
 	apology 2
 	excuses 1
 Synset('potato.n.02')
 	potato 1
 Synset('o.n.03')
+	O 2
 	o 4
 Synset('publicly.r.01')
 	publicly 24
@@ -7753,12 +7840,14 @@ Synset('dunk.v.01')
 	plunging 1
 	plunges 1
 	plunged 5
+Synset('mayor.n.01')
+	mayor 3
 Synset('texture.n.01')
 	texture 1
 Synset('break.v.25')
 	break 20
-	broken 40
-	breaking 8
+	broken 39
+	breaking 12
 	broke 49
 Synset('eccentric.a.02')
 	eccentric 2
@@ -7802,7 +7891,7 @@ Synset('cockade.n.01')
 	cockades 1
 	cockade 2
 Synset('workbench.n.01')
-	Bench 2
+	Bench 1
 	benches 1
 	bench 19
 Synset('baiting.n.01')
@@ -7823,7 +7912,7 @@ Synset('lamplight.n.01')
 Synset('deputation.n.01')
 	deputation 2
 Synset('fear.v.01')
-	fear 11
+	fear 14
 	fearing 2
 	feared 5
 Synset('convent.n.01')
@@ -7839,19 +7928,20 @@ Synset('inclination.n.05')
 	inclination 6
 Synset('proudly.r.01')
 	proudly 5
-Synset('wear.n.03')
-	wear 1
+Synset('gentry.n.01')
+	gentry 2
 Synset('confront.v.01')
 	faced 8
 	confronting 1
-	face 17
+	face 16
 	confronted 4
-	faces 13
+	faces 12
 Synset('coin.n.01')
 	coins 3
 	coin 6
 Synset('regency.n.03')
 	regency 1
+	Regency 1
 Synset('derive.v.04')
 	derive 1
 Synset('imprudence.n.01')
@@ -7861,28 +7951,31 @@ Synset('independence.n.03')
 Synset('ploy.n.02')
 	stratagem 1
 Synset('live.v.02')
-	living 14
-	live 41
+	living 9
+	live 46
 	lived 63
+	Live 1
+	LIVING 1
 Synset('live.v.07')
-	lives 2
+	lives 4
 Synset('strike.n.04')
 	strike 2
 	Strike 1
-	strikes 2
+	strikes 1
 Synset('adversity.n.01')
 	hardship 2
 	adversity 1
 	hardships 1
 Synset('confer.v.01')
 	conferred 2
-	consulting 1
+	consulting 2
 	confer 2
 	conferring 1
 Synset('puff.v.06')
 	puffed 1
 Synset('world_power.n.01')
 	powers 14
+	Power 1
 	power 114
 Synset('peaceably.r.01')
 	pacifically 1
@@ -7900,12 +7993,10 @@ Synset('baseball_swing.n.01')
 Synset('safe.a.03')
 	safest 4
 	safer 1
-	safe 41
+	safe 42
 Synset('prodigal.n.01')
-	profligate 1
 	profligates 1
 Synset('hand.n.06')
-	deals 1
 	deal 41
 Synset('friendliness.n.02')
 	friendliness 2
@@ -7920,28 +8011,25 @@ Synset('compromise.v.01')
 	compromised 1
 Synset('filth.n.03')
 	filth 1
-Synset('bridge.v.02')
-	bridge 1
 Synset('courage.n.01')
-	Courage 4
+	Courage 5
 	courage 24
 	bravery 11
-Synset('list.v.01')
-	named 73
-	naming 1
-Synset('covering.n.01')
-	covering 2
+Synset('gossip.n.02')
+	gossip 3
+Synset('hand.n.09')
+	hands 1
 Synset('million.n.02')
 	million 2
 	millions 7
 Synset('conjuring.n.01')
 	conjuration 1
 Synset('scale.v.01')
-	scaling 2
+	scaling 1
 	scaled 1
 	scale 1
 Synset('boil.v.01')
-	boiling 5
+	boiling 3
 Synset('felicitously.r.01')
 	felicitously 1
 Synset('mirage.n.01')
@@ -7954,18 +8042,18 @@ Synset('negligently.r.01')
 Synset('committee.n.01')
 	committees 2
 	committee 4
-	Committee 2
 Synset('helmet.n.02')
-	helmet 8
+	helmet 7
 Synset('pathetically.r.01')
 	pathetically 2
-Synset('hilt.n.01')
-	hilt 1
+Synset('harbor.v.04')
+	harbour 1
+	harboured 1
 Synset('cachet.n.03')
 	cachet 1
 Synset('corner.n.08')
 	box 14
-	corner 45
+	corner 48
 	boxes 2
 	corners 4
 Synset('fawkes.n.01')
@@ -7974,13 +8062,13 @@ Synset('chimney.n.01')
 	chimneys 3
 	chimney 7
 Synset('farthing.n.01')
-	farthing 1
+	farthing 2
 	farthings 1
 Synset('tone.n.10')
 	tone 25
 	tones 3
-Synset('bauble.n.01')
-	bauble 1
+Synset('scald.v.04')
+	scalds 1
 Synset('pig.n.06')
 	pigs 2
 	pig 4
@@ -7992,7 +8080,7 @@ Synset('beam.n.03')
 	beams 2
 	rays 2
 	beam 1
-	ray 5
+	ray 6
 Synset('sword.n.01')
 	swords 23
 	sword 43
@@ -8000,17 +8088,21 @@ Synset('batch.n.02')
 	batches 1
 	batch 2
 	slew 7
+Synset('extort.v.03')
+	extorted 2
 Synset('squire.n.03')
 	squires 3
 Synset('heat_content.n.01')
 	h 2
-Synset('shabbily.r.02')
-	shabbily 1
+	H 4
+Synset('polish.v.03')
+	polished 1
 Synset('spectacle.n.02')
 	spectacle 13
 Synset('friar.n.01')
 	friar 11
 	friars 6
+	Friar 2
 Synset('quarrel.n.02')
 	quarrels 10
 Synset('promote.v.02')
@@ -8041,18 +8133,18 @@ Synset('sale.n.05')
 Synset('aptness.n.01')
 	propensities 2
 Synset('hold.n.06')
-	hold 29
+	hold 27
 Synset('last_out.v.01')
-	staying 4
+	staying 6
 	stayed 13
 Synset('defend.v.03')
-	Hold 7
+	hold 56
 	holds 3
-	held 96
-	guard 4
+	held 97
+	guard 5
 	guarded 10
 	holding 33
-	hold 54
+	Hold 7
 Synset('fourteenth.n.01')
 	fourteenth 2
 Synset('predecessor.n.01')
@@ -8064,24 +8156,27 @@ Synset('benefactor.n.01')
 Synset('curiously.r.01')
 	curiously 4
 Synset('need.n.01')
-	demand 3
-	demands 4
+	demand 2
+	demands 5
 Synset('arsenal.n.01')
 	armoury 1
 Synset('pillory.n.01')
-	pillory 4
+	pillory 6
 Synset('flower.n.01')
 	flowers 10
 	flower 2
 Synset('picket.n.05')
-	pale 5
+	pale 1
 Synset('bleeding.n.01')
-	bleeding 6
+	bleeding 3
 Synset('descent.n.05')
 	fall 9
+Synset('dictionary.n.01')
+	dictionary 1
 Synset('get_the_better_of.v.01')
-	defeats 2
 	overcome 1
+	defeats 2
+	overcoming 1
 	defeated 32
 	defeat 1
 Synset('compete.v.01')
@@ -8100,10 +8195,8 @@ Synset('fill.v.09')
 Synset('fill.v.06')
 	fill 8
 Synset('back.r.04')
-	back 211
+	back 215
 	Back 1
-Synset('growth.n.01')
-	growing 1
 Synset('aid.n.01')
 	aid 26
 	assistance 10
@@ -8118,27 +8211,27 @@ Synset('rich.a.07')
 	richer 1
 Synset('tile.n.03')
 	tile 3
-Synset('lapin.n.01')
-	rabbits 1
-	rabbit 2
+Synset('mean.v.07')
+	meant 36
+	meaning 6
+	mean 35
 Synset('eternity.n.03')
 	eternity 1
 Synset('bring_around.v.02')
 	cure 2
 	cured 4
-	healing 2
+	healing 1
 	healed 1
 Synset('valuation_reserve.n.01')
 	allowance 3
 Synset('bar.n.03')
-	bar 7
+	bar 8
 	bars 9
-	Bar 4
+	Bar 7
 Synset('singly.r.01')
 	singly 1
-Synset('green.n.06')
-	Green 1
-	green 1
+Synset('page.v.01')
+	PAGE 1
 Synset('evening.n.02')
 	Evening 1
 	evening 31
@@ -8165,8 +8258,6 @@ Synset('danger.n.04')
 Synset('benefit.n.03')
 	benefit 3
 	benefits 1
-Synset('bloom.n.04')
-	blush 3
 Synset('dentition.n.02')
 	teeth 12
 Synset('garden.n.01')
@@ -8193,14 +8284,16 @@ Synset('affidavit.n.01')
 Synset('round_off.v.03')
 	Rounding 1
 	rounded 1
-Synset('bid.n.03')
-	tender 8
+Synset('military_unit.n.01')
+	force 61
+	Forces 1
+	forces 26
 Synset('invite.v.04')
-	bidden 1
+	bidden 2
 	invite 3
 	inviting 2
 	biding 2
-	bid 6
+	bid 5
 	bade 1
 	bidding 2
 	Biding 1
@@ -8209,7 +8302,7 @@ Synset('imputation.n.01')
 	imputation 1
 Synset('saw.v.01')
 	sawed 2
-	sawing 1
+	sawing 2
 	sawn 1
 Synset('aries.n.02')
 	aries 1
@@ -8229,8 +8322,8 @@ Synset('assembly.n.01')
 	Assembly 1
 	assembly 8
 Synset('tug.v.02')
-	labouring 3
-	laboured 1
+	labouring 4
+	laboured 3
 Synset('resident.a.01')
 	resident 1
 Synset('conservatively.r.01')
@@ -8238,11 +8331,11 @@ Synset('conservatively.r.01')
 Synset('sour.a.02')
 	sour 1
 Synset('lead.n.05')
-	lead 11
+	lead 10
 Synset('cinder.n.01')
 	cinders 1
 Synset('appointment.n.01')
-	naming 2
+	naming 1
 	designation 1
 Synset('intercede.v.01')
 	mediate 1
@@ -8251,8 +8344,10 @@ Synset('comment.n.02')
 	comment 1
 Synset('foreword.n.01')
 	preface 2
-Synset('reader.n.03')
-	reader 1
+Synset('fortify.v.02')
+	Fortified 1
+	fortify 1
+	fortified 4
 Synset('woman.n.02')
 	womans 8
 	womens 3
@@ -8263,15 +8358,16 @@ Synset('president.n.05')
 	president 4
 Synset('liter.n.01')
 	l 5
+	L 3
 Synset('bowling_alley.n.02')
 	alleys 1
 	alley 1
 Synset('coil.n.02')
-	curls 1
+	curls 2
 Synset('yoke.v.02')
 	linked 3
 Synset('rest.v.01')
-	rest 9
+	rest 8
 Synset('tor.n.02')
 	tor 1
 Synset('rest.v.02')
@@ -8280,7 +8376,7 @@ Synset('rest.v.02')
 	Breathing 1
 Synset('mercilessly.r.01')
 	mercilessly 1
-	unmercifully 1
+	unmercifully 2
 Synset('draft.n.06')
 	draught 1
 	draughts 1
@@ -8294,9 +8390,9 @@ Synset('butter.n.02')
 Synset('cuff.n.01')
 	cuffs 1
 Synset('personal.a.01')
-	personal 11
+	personal 12
 Synset('tellurium.n.01')
-	te 1
+	te 2
 Synset('arm.n.02')
 	limbs 8
 Synset('bag.n.05')
@@ -8306,14 +8402,15 @@ Synset('durance.n.01')
 	durance 1
 Synset('rung.n.01')
 	staves 2
+Synset('tyne.n.01')
+	Tyne 1
 Synset('wealth.n.04')
 	wealth 11
 Synset('seriously.r.01')
-	earnestly 3
-Synset('caparison.v.01')
-	caparisoned 1
+	earnestly 4
 Synset('spin.v.06')
 	spun 6
+	spinning 1
 	spin 1
 Synset('greet.v.03')
 	Greeted 1
@@ -8326,7 +8423,7 @@ Synset('hare.n.01')
 	hare 1
 	hares 1
 Synset('michigan.n.01')
-	mis 4
+	mis 6
 	mi 1
 Synset('fold.v.02')
 	folded 10
@@ -8337,8 +8434,9 @@ Synset('clear.v.19')
 Synset('attraction.n.04')
 	attraction 3
 Synset('particular.n.03')
-	particular 1
 	particulars 3
+Synset('hack.n.08')
+	hack 4
 Synset('invade.v.04')
 	invaded 8
 	invade 9
@@ -8347,21 +8445,28 @@ Synset('delay.n.02')
 	delay 12
 Synset('combustion.n.01')
 	burnings 3
-	burning 27
+	burning 17
+Synset('sharpen.v.07')
+	sharpening 1
+	sharpened 2
 Synset('style.n.03')
 	style 1
+Synset('invade.v.03')
+	overrun 1
 Synset('sound.v.03')
 	sound 3
 	sounding 4
 	sounded 7
 	Sounding 1
 Synset('reprise.v.01')
-	repeated 37
-	repeat 10
+	repeated 45
+	repeat 9
 	repeating 3
 	Repeated 1
-Synset('resin.n.01')
-	resin 1
+Synset('clown.n.01')
+	clown 10
+Synset('sixth.n.01')
+	SIXTH 8
 Synset('ripple.v.02')
 	rippling 2
 Synset('door.n.03')
@@ -8374,10 +8479,10 @@ Synset('study.n.10')
 	study 2
 Synset('fall.v.07')
 	falls 5
-	fell 99
+	fell 100
 	fall 19
 	falling 21
-	fallen 36
+	fallen 44
 	Falling 1
 Synset('incidentally.r.02')
 	accidentally 5
@@ -8390,7 +8495,7 @@ Synset('pick.v.10')
 	Pick 1
 	Picking 1
 	picked 9
-	pick 8
+	pick 7
 Synset('bump.n.01')
 	bump 1
 Synset('farmer.n.01')
@@ -8410,7 +8515,7 @@ Synset('finger.n.02')
 	fingers 28
 	finger 21
 Synset('attack.v.05')
-	attack 8
+	attack 7
 	attacking 1
 	attacked 19
 Synset('foul.a.04')
@@ -8425,26 +8530,25 @@ Synset('steep.n.01')
 Synset('foe.n.02')
 	foes 2
 	enemy 39
-	enemies 36
-	enemys 2
 	foe 7
+	Enemy 1
+	enemys 1
+	enemies 36
 Synset('hook.n.01')
 	hook 1
 Synset('arm.v.01')
 	Armed 1
-	armed 21
-	arm 3
+	armed 20
+	arm 2
 	girded 2
 Synset('bark.v.03')
-	bark 1
 	barked 1
+Synset('headlong.r.03')
+	Headlong 1
 Synset('commonwealth.n.03')
 	COMMONWEALTH 1
-	Commonwealth 1
 Synset('frontier.n.03')
 	frontier 1
-Synset('parry.v.01')
-	parried 2
 Synset('populace.n.01')
 	populace 12
 Synset('nest.n.01')
@@ -8492,6 +8596,7 @@ Synset('theme.n.02')
 Synset('start.n.08')
 	start 4
 Synset('mender.n.01')
+	MENDER 2
 	mender 49
 Synset('foam.n.02')
 	foam 3
@@ -8507,7 +8612,8 @@ Synset('dress.n.01')
 Synset('start.n.03')
 	starting 1
 Synset('carton.n.02')
-	Carton 47
+	CARTON 1
+	Carton 48
 	cartons 1
 	Cartons 8
 Synset('counselor.n.02')
@@ -8519,6 +8625,7 @@ Synset('below.r.01')
 	beneath 15
 	Beneath 1
 Synset('retreat.v.04')
+	withdraws 1
 	retreated 6
 	withdrawing 1
 	withdrew 8
@@ -8567,16 +8674,17 @@ Synset('finish.n.04')
 	destination 7
 	destinations 1
 Synset('bazaar.n.03')
-	Fair 4
-	fair 3
+	Fair 1
+	fair 2
 Synset('paleness.n.02')
 	paleness 3
 Synset('countenance.n.01')
-	countenances 3
+	countenances 2
 	visage 5
 	visages 1
 Synset('mho.n.01')
-	s 1
+	s 10
+	S 18
 Synset('preference.n.04')
 	preference 3
 Synset('mask.v.02')
@@ -8587,13 +8695,13 @@ Synset('fix.n.01')
 	hole 3
 	holes 4
 Synset('progress.n.02')
-	advance 14
+	advance 16
 	advancement 1
 	progress 10
 	procession 19
 	processions 1
-Synset('purity.n.02')
-	whiteness 2
+Synset('jackal.n.01')
+	jackal 15
 Synset('cruiser.n.01')
 	cruisers 1
 Synset('fusion.n.05')
@@ -8602,21 +8710,21 @@ Synset('request.n.01')
 	petitions 4
 	requests 1
 	request 9
-	Petition 2
+	Petition 3
 	petition 19
 Synset('chapel_service.n.01')
 	chapel 10
+	Chapel 1
 	chapels 4
 Synset('separation.n.06')
 	separation 5
 Synset('one.s.01')
-	I 2042
+	I 2048
 	i 19
 	1 65
-Synset('spend.v.01')
-	spending 1
-	spend 3
-	spent 2
+Synset('era.n.01')
+	epoch 2
+	era 2
 Synset('pleasantly.r.01')
 	pleasantly 4
 Synset('fortress.n.01')
@@ -8633,18 +8741,18 @@ Synset('warehouse.n.01')
 Synset('tin.n.01')
 	tin 4
 	tins 1
+Synset('hooks.n.01')
+	hooks 1
 Synset('instruction.n.04')
-	command 24
+	command 25
 	commands 3
 	statements 1
+	Command 1
 	statement 3
 Synset('thinly.r.03')
 	lightly 8
-Synset('blow.v.05')
-	blow 5
-	blew 10
-	blowing 3
-	blown 8
+Synset('metempsychosis.n.01')
+	metempsychosis 1
 Synset('rebellion.n.02')
 	insurrection 4
 	risings 7
@@ -8654,14 +8762,12 @@ Synset('rebellion.n.02')
 Synset('aisle.n.01')
 	aisles 1
 Synset('fib.n.01')
-	TALE 30
+	TALE 51
 	tale 4
 	tales 4
 Synset('indigence.n.01')
-	need 15
+	need 14
 	needs 1
-Synset('kiss.n.04')
-	kiss 2
 Synset('sweep.n.01')
 	sweep 6
 	sweeps 1
@@ -8669,8 +8775,10 @@ Synset('portentously.r.01')
 	portentously 1
 Synset('branch.v.02')
 	branched 1
+Synset('bid.n.04')
+	bid 1
 Synset('harness.n.02')
-	harness 6
+	harness 7
 Synset('cravat.n.01')
 	cravat 2
 Synset('keenly.r.01')
@@ -8678,19 +8786,16 @@ Synset('keenly.r.01')
 Synset('loanword.n.01')
 	loan 1
 Synset('domestic.a.01')
-	domestic 5
-Synset('footing.n.02')
-	grounds 11
-	ground 74
+	domestic 6
+Synset('memo.n.01')
+	memoranda 1
 Synset('pass.v.14')
 	passes 1
-	pass 36
+	pass 37
 	passed 127
 	Pass 4
-	passing 17
+	passing 27
 	Passing 1
-Synset('affectation.n.01')
-	affectation 1
 Synset('necked.a.01')
 	necked 1
 Synset('receive.v.02')
@@ -8700,6 +8805,7 @@ Synset('receive.v.02')
 	obtaining 1
 	obtain 7
 	finds 3
+	Got 1
 	incur 1
 	obtains 1
 	Getting 1
@@ -8732,7 +8838,7 @@ Synset('obliterate.v.04')
 	obliterating 1
 	obliterated 1
 Synset('actinium.n.01')
-	ac 3
+	ac 5
 	Ac 1
 Synset('now.r.06')
 	Now 89
@@ -8747,13 +8853,15 @@ Synset('christian.n.01')
 	Christians 15
 Synset('family.n.01')
 	household 7
-Synset('city.n.01')
-	City 16
-	CITIES 78
-	cities 5
-	city 53
+Synset('season.n.01')
+	season 8
+	seasons 2
 Synset('comically.r.01')
 	comically 1
+Synset('enough.n.01')
+	enough 1
+Synset('churr.v.01')
+	whirrs 1
 Synset('disingenuous.a.01')
 	artful 11
 Synset('peer.n.02')
@@ -8764,16 +8872,14 @@ Synset('tun.n.01')
 	tun 1
 Synset('dissenter.n.01')
 	dissenters 2
-	Dissenters 1
 	dissenter 1
 Synset('supergrass.n.01')
 	grasses 1
 	grass 25
 Synset('revolve.v.01')
 	revolved 1
-Synset('affray.n.02')
-	frays 1
-	fray 1
+Synset('bankruptcy.n.03')
+	Bankruptcy 1
 Synset('royally.r.01')
 	royally 1
 Synset('crisis.n.02')
@@ -8785,7 +8891,6 @@ Synset('resoundingly.r.01')
 Synset('cadaver.n.01')
 	remains 7
 	corpse 2
-	stiff 1
 	clays 2
 	clay 6
 Synset('twilight.n.03')
@@ -8803,14 +8908,15 @@ Synset('peculiarity.n.02')
 Synset('apple_polisher.n.01')
 	fawners 2
 Synset('away.s.03')
-	outside 21
+	outside 22
 	Outside 1
 Synset('commission.n.02')
 	commission 10
 Synset('conviction.n.02')
+	sentence 20
 	sentences 2
 	conviction 3
-	sentence 20
+	Sentence 1
 Synset('caldron.n.01')
 	caldron 2
 	caldrons 2
@@ -8819,18 +8925,16 @@ Synset('threaten.v.02')
 Synset('faintly.r.01')
 	faintly 7
 Synset('savage.n.01')
-	savage 12
-	barbarians 2
 	savages 5
-Synset('probability.n.01')
-	chances 4
-	chance 19
+	barbarians 2
+Synset('vest.n.01')
+	waistcoat 4
 Synset('typify.v.01')
 	typified 1
 Synset('border.n.05')
 	border 3
 	borders 3
-	Border 2
+	Border 5
 Synset('commend.v.04')
 	commend 1
 	recommended 3
@@ -8845,7 +8949,7 @@ Synset('fist.n.01')
 	fists 1
 	fist 2
 Synset('gallop.n.01')
-	gallop 8
+	gallop 7
 Synset('boldly.r.01')
 	boldly 3
 Synset('conventionally.r.01')
@@ -8856,21 +8960,28 @@ Synset('frowningly.r.01')
 	frowningly 1
 Synset('spurt.v.01')
 	spurting 1
-Synset('white.n.09')
-	white 1
+Synset('assistant.n.01')
+	assistants 2
+	assistant 1
+Synset('gutter.n.03')
+	gutter 1
+	gutters 2
 Synset('privilege.n.03')
 	privilege 7
 	privileges 3
+Synset('flush.n.06')
+	flush 2
 Synset('standing.a.04')
-	standing 3
+	standing 1
 Synset('successful.a.01')
 	Successful 2
 	successful 10
 Synset('holy.a.01')
+	Holiest 1
 	holy 9
 Synset('shriek.v.01')
 	shrieked 2
-	shrieking 4
+	shrieking 5
 Synset('repose.v.01')
 	reposed 1
 Synset('reflectively.r.01')
@@ -8879,8 +8990,6 @@ Synset('ledge.n.01')
 	ledges 1
 	ledge 4
 	shelves 1
-Synset('gateway.n.01')
-	gateway 2
 Synset('carry.v.04')
 	conveying 2
 	conveyed 7
@@ -8909,7 +9018,6 @@ Synset('rack.n.05')
 Synset('stupidly.r.01')
 	stupidly 3
 Synset('rustle.n.01')
-	whispering 2
 	whisper 12
 	rustle 2
 	rustling 1
@@ -8917,18 +9025,19 @@ Synset('rustle.n.01')
 Synset('precipitously.r.01')
 	sharply 1
 Synset('temper.n.04')
-	temper 12
+	temper 13
 	tempers 1
 Synset('appointment.n.03')
 	appointments 2
 	appointment 5
-	fitting 1
 Synset('press_out.v.03')
 	extracted 1
 	extract 2
 	expressing 5
 	expressed 6
 	extracting 1
+Synset('roundhead.n.02')
+	Roundheads 1
 Synset('challenge.n.01')
 	challenges 1
 	challenge 2
@@ -8951,8 +9060,6 @@ Synset('mandate.n.02')
 	mandate 1
 Synset('crane.n.04')
 	crane 1
-Synset('original.n.02')
-	original 2
 Synset('dip.v.10')
 	dipped 4
 	ducked 1
@@ -8961,26 +9068,25 @@ Synset('least.a.01')
 Synset('window.n.08')
 	windows 32
 Synset('browbeat.v.02')
-	bullying 4
+	bullying 3
 	bullied 2
 Synset('adornment.n.01')
 	adornments 1
 Synset('ending.n.01')
 	termination 1
 Synset('margin_call.n.01')
-	call 4
-	Call 2
-Synset('tax.n.01')
-	taxation 1
-	tax 18
+	call 3
+Synset('organism.n.01')
+	being 2
+	Beings 1
+	beings 1
 Synset('scepter.n.02')
 	wands 2
 	wand 2
 Synset('feint.n.01')
 	feint 1
-Synset('einsteinium.n.01')
-	E 1
-	e 12
+Synset('national.a.01')
+	national 18
 Synset('refuge.n.03')
 	asylum 1
 	sanctuary 9
@@ -8998,11 +9104,14 @@ Synset('exclusive.a.02')
 	exclusive 1
 Synset('sea.n.01')
 	seas 1
+	SEA 1
 	sea 101
+	Sea 3
 Synset('torrent.n.02')
 	torrent 1
 	torrents 1
 Synset('examination.n.02')
+	Examination 1
 	examination 5
 Synset('forfeit.n.01')
 	forfeiture 1
@@ -9013,7 +9122,7 @@ Synset('curie.n.01')
 	ci 1
 Synset('fix.v.12')
 	fix 1
-	fixed 12
+	fixed 13
 Synset('talus.n.01')
 	tali 1
 Synset('abuse.n.02')
@@ -9035,8 +9144,6 @@ Synset('trade_name.n.01')
 Synset('distant.a.01')
 	distant 18
 	Distant 1
-Synset('senior_high_school.n.01')
-	high 2
 Synset('fatigue_duty.n.01')
 	fatigue 2
 Synset('refer.v.07')
@@ -9061,6 +9168,7 @@ Synset('truncheon.n.01')
 	truncheon 2
 Synset('blood.n.05')
 	blood 68
+	Blood 3
 Synset('building.n.04')
 	building 10
 	buildings 7
@@ -9074,7 +9182,7 @@ Synset('liquor.n.02')
 Synset('clause.n.01')
 	clause 1
 Synset('over.r.01')
-	over 123
+	over 61
 Synset('ministry.n.04')
 	ministry 1
 Synset('omega.n.01')
@@ -9085,7 +9193,7 @@ Synset('perturbation.n.03')
 	disturbance 4
 	Disturbances 1
 Synset('surprise.n.02')
-	surprise 17
+	surprise 18
 	surprises 1
 Synset('wisdom_of_solomon.n.01')
 	wisdom 7
@@ -9121,13 +9229,14 @@ Synset('jolt.v.01')
 Synset('plowed.a.01')
 	ploughed 1
 Synset('log.n.01')
+	log 4
 	logs 1
 Synset('episode.n.03')
 	instalment 1
 Synset('hart.n.03')
 	stags 1
 	hart 1
-	stag 3
+	stag 4
 Synset('rather.r.01')
 	instead 47
 	Instead 2
@@ -9139,18 +9248,19 @@ Synset('copper.n.01')
 	copper 1
 Synset('clear.v.02')
 	clears 1
-	clearing 3
+	clearing 2
 	clear 3
 	cleared 5
 Synset('slenderly.r.01')
 	Slightly 1
 	slightly 6
-Synset('shutter.n.02')
-	shutters 2
+Synset('simpleton.n.01')
+	simpleton 1
 Synset('disinherit.v.01')
 	disinherited 1
 Synset('banquet.n.01')
-	feast 11
+	Feast 1
+	feast 12
 	banquets 1
 	feasts 4
 Synset('incorporate.v.02')
@@ -9172,6 +9282,8 @@ Synset('plot.v.04')
 	plotted 6
 Synset('prodigy.n.03')
 	prodigy 1
+Synset('threescore.n.01')
+	threescore 1
 Synset('broadsword.n.01')
 	broadswords 1
 Synset('leap.n.01')
@@ -9193,7 +9305,7 @@ Synset('measuredly.r.01')
 	deliberately 3
 Synset('ten-spot.n.01')
 	Ten 6
-	ten 49
+	ten 64
 Synset('prowl.n.01')
 	prowl 1
 Synset('position.n.03')
@@ -9206,7 +9318,7 @@ Synset('conception.n.02')
 Synset('messenger.n.01')
 	messenger 24
 	courier 3
-	messengers 11
+	messengers 12
 Synset('depression.n.08')
 	impression 10
 Synset('tantalum.n.01')
@@ -9220,9 +9332,11 @@ Synset('stature.n.02')
 Synset('guarantor.n.01')
 	surety 1
 Synset('supplication.n.02')
-	supplication 3
+	Pleas 1
+	SUPPLICATION 1
 	plea 1
 	Plea 1
+	supplication 3
 Synset('dysphemistic.a.01')
 	offensive 1
 Synset('chop.v.05')
@@ -9231,10 +9345,7 @@ Synset('hole.n.05')
 	hollows 1
 Synset('poet.n.01')
 	poet 6
-	Poet 1
 	poets 1
-Synset('cramp.v.01')
-	Cramped 1
 Synset('luminary.n.01')
 	notabilities 1
 Synset('rule_out.v.03')
@@ -9246,7 +9357,7 @@ Synset('shrine.n.01')
 Synset('mournfully.r.01')
 	mournfully 4
 Synset('plump.v.04')
-	go 156
+	go 158
 	Go 11
 	goes 16
 	plump 1
@@ -9269,9 +9380,6 @@ Synset('imposter.n.01')
 	impostors 3
 	fraud 1
 	sham 5
-Synset('cerium.n.01')
-	cesses 2
-	cess 1
 Synset('jump.v.03')
 	jumped 3
 	jumping 2
@@ -9304,7 +9412,7 @@ Synset('beard.n.02')
 Synset('replace.v.01')
 	replaced 3
 Synset('court.n.06')
-	Court 32
+	Court 9
 	court 111
 	courts 4
 Synset('boundary.n.02')
@@ -9313,10 +9421,9 @@ Synset('boundary.n.02')
 	bounds 3
 Synset('cake.n.03')
 	cakes 2
-Synset('recording.n.03')
-	recording 1
 Synset('kraut.n.01')
 	hun 1
+	Jerrys 1
 Synset('opportunity.n.01')
 	opportunity 25
 	opportunities 1
@@ -9325,9 +9432,8 @@ Synset('dispose.v.04')
 	disposed 8
 	Disposing 1
 Synset('turn.n.09')
-	turn 24
-	round 62
-	Turn 2
+	turn 23
+	round 52
 	turns 4
 Synset('initial.n.01')
 	initials 2
@@ -9342,8 +9448,8 @@ Synset('recall.v.05')
 	recall 9
 	recalled 14
 Synset('mean.n.01')
-	mean 7
-	means 59
+	mean 12
+	means 64
 Synset('completeness.n.02')
 	completeness 1
 Synset('liver.n.03')
@@ -9367,7 +9473,7 @@ Synset('watchband.n.01')
 Synset('kindly.r.01')
 	kindly 6
 Synset('set.v.06')
-	set 131
+	set 133
 	setting 15
 	sets 1
 Synset('fitfully.r.01')
@@ -9383,7 +9489,7 @@ Synset('persuade.v.02')
 	persuade 10
 	persuaded 15
 Synset('spell.v.03')
-	spelt 1
+	spelt 2
 Synset('plume.n.01')
 	plumes 1
 Synset('introduction.n.05')
@@ -9395,6 +9501,8 @@ Synset('sedate.v.01')
 	calm 2
 Synset('reddish_brown.n.01')
 	mahogany 1
+Synset('c.n.10')
+	C 1
 Synset('adjourn.v.02')
 	adjourn 1
 	adjourned 8
@@ -9408,24 +9516,29 @@ Synset('nightmare.n.01')
 Synset('curator.n.01')
 	curator 1
 Synset('need.v.03')
-	need 10
+	need 11
 	needed 4
 	needs 1
 	needing 1
+Synset('anchor.v.02')
+	anchored 1
 Synset('far.r.03')
-	far 147
-	further 11
+	far 150
+	further 8
 	farther 7
 	Further 2
-	Far 1
-Synset('fast.r.01')
-	fast 46
+	Far 2
+Synset('long.r.01')
+	long 141
 Synset('raid.v.01')
-	Bust 1
+	Bust 2
 Synset('low.a.02')
 	lowest 3
-	lower 7
-	low 61
+	lower 8
+	Lower 1
+	low 63
+Synset('picking.n.01')
+	pick 1
 Synset('rouleau.n.01')
 	rouleau 2
 Synset('lisle.n.02')
@@ -9433,8 +9546,9 @@ Synset('lisle.n.02')
 Synset('sluice.v.02')
 	flushed 2
 	flushing 1
-Synset('shooting.n.01')
-	shooting 1
+Synset('boo.v.01')
+	hissing 1
+	hissed 1
 Synset('devoutly.r.01')
 	piously 1
 	devoutly 1
@@ -9451,10 +9565,10 @@ Synset('while.n.01')
 	pieces 33
 Synset('kingdom.n.06')
 	kingdom 39
+	Kingdoms 1
 	kingdoms 8
-Synset('indictment.n.01')
-	Indictment 1
-	indictment 2
+Synset('united_states.n.01')
+	us 2
 Synset('review.v.03')
 	reviewed 1
 	survey 2
@@ -9463,13 +9577,11 @@ Synset('review.v.03')
 Synset('partisan.n.01')
 	partisans 1
 Synset('ostrich.n.01')
-	ostrich 2
+	ostrich 1
 Synset('confusion.n.04')
 	confusion 16
 Synset('nigger.n.01')
 	spade 2
-Synset('heretic.n.01')
-	heretics 5
 Synset('collar.n.04')
 	collar 3
 Synset('brink.n.01')
@@ -9478,6 +9590,7 @@ Synset('gentleness.n.02')
 	gentleness 3
 Synset('money.n.03')
 	money 136
+	Money 1
 	moneys 2
 Synset('insufficient.a.01')
 	deficient 2
@@ -9509,9 +9622,8 @@ Synset('reasonably.r.01')
 	reasonably 2
 	moderately 1
 	somewhat 2
-	pretty 42
+	pretty 51
 Synset('battle.v.01')
-	battle 2
 	combated 1
 Synset('wholly.r.01')
 	all 1239
@@ -9556,7 +9668,6 @@ Synset('darkly.r.02')
 Synset('computer_architecture.n.02')
 	architecture 4
 Synset('menace.v.02')
-	menacing 1
 	menaced 1
 Synset('loft.n.02')
 	garret 16
@@ -9571,19 +9682,18 @@ Synset('pitched.a.01')
 	pitched 1
 Synset('impound.v.01')
 	attaching 1
-	attached 14
+	attached 16
 	confiscated 4
-Synset('survival.n.01')
-	endurance 5
 Synset('cloud.n.04')
 	clouds 7
 	cloud 12
 Synset('conclude.v.04')
 	concluded 8
+	closed 31
+	Close 1
 	concluding 1
+	close 7
 	closing 8
-	closed 32
-	close 1
 Synset('conclude.v.02')
 	conclude 2
 Synset('conclude.v.03')
@@ -9599,7 +9709,7 @@ Synset('oblige.v.03')
 	oblige 3
 	obliged 37
 	accommodating 1
-	obliging 1
+	obliging 3
 Synset('troop.n.01')
 	troops 36
 	troop 4
@@ -9617,13 +9727,11 @@ Synset('error.n.07')
 Synset('simplicity.n.02')
 	simplicity 1
 Synset('follow.v.10')
-	following 13
+	following 19
 	follow 22
 	followed 50
 	Follow 2
 	follows 2
-Synset('clutter.n.01')
-	jumble 1
 Synset('entail.v.02')
 	implicating 1
 	implicated 1
@@ -9640,7 +9748,7 @@ Synset('rule.n.01')
 	regulations 1
 Synset('acts_of_the_apostles.n.01')
 	Acts 1
-	acts 5
+	acts 4
 Synset('runner.n.03')
 	runner 1
 Synset('trope.n.01')
@@ -9648,6 +9756,9 @@ Synset('trope.n.01')
 	image 5
 Synset('threshold.n.01')
 	threshold 1
+Synset('reform.v.05')
+	reforming 2
+	reformed 8
 Synset('cabin.n.01')
 	cabin 2
 Synset('shoe.n.01')
@@ -9667,18 +9778,15 @@ Synset('controversy.n.01')
 Synset('association.n.01')
 	associations 5
 	association 6
-Synset('flanders.n.01')
-	Flanders 1
 Synset('implement.v.01')
 	implements 1
 Synset('tournament.n.02')
 	tournament 8
 	tournaments 2
 Synset('dig.n.03')
-	Dig 1
-	dig 5
+	dig 3
 Synset('yelling.n.01')
-	shouting 6
+	shouting 3
 	shoutings 1
 Synset('dip.n.08')
 	plunge 2
@@ -9686,9 +9794,8 @@ Synset('stockade.n.01')
 	stockades 1
 Synset('dam.v.01')
 	dammed 1
-Synset('drawbridge.n.01')
-	drawbridges 1
-	drawbridge 7
+Synset('incitement.n.03')
+	provocation 2
 Synset('contend.v.06')
 	fought 57
 Synset('bandit.n.01')
@@ -9715,7 +9822,7 @@ Synset('write.v.01')
 	Write 2
 	compose 2
 	composing 1
-	writing 13
+	writing 22
 	write 26
 	written 34
 	wrote 38
@@ -9730,23 +9837,23 @@ Synset('dance.n.02')
 	dances 1
 Synset('knock.n.04')
 	Knock 2
-Synset('kink.n.02')
-	twist 1
 Synset('write.v.08')
 	Saving 2
 	save 52
 	saving 5
 	saved 21
+	Save 6
 Synset('lotion.n.02')
 	application 3
 Synset('beard.v.01')
-	bearded 2
+	bearded 1
 Synset('nonsense.n.01')
-	nonsense 13
+	nonsense 12
 Synset('consultation.n.02')
 	consultation 1
 Synset('dark.a.02')
-	dark 104
+	dark 118
+	DARK 1
 	darkest 1
 	darker 2
 Synset('incidental.a.01')
@@ -9755,8 +9862,8 @@ Synset('support.v.09')
 	support 8
 Synset('backgammon.n.01')
 	backgammon 1
-Synset('boldface.n.01')
-	Boldface 1
+Synset('resin.n.01')
+	resin 1
 Synset('galley.n.04')
 	galley 2
 Synset('mourner.n.01')
@@ -9767,26 +9874,31 @@ Synset('philosopher.n.01')
 	philosopher 3
 Synset('trained.a.01')
 	trained 2
-Synset('inside.a.01')
-	inside 1
+Synset('bomber.n.03')
+	grinders 1
+	hero 2
+	sub 5
 Synset('noise.n.02')
 	dissonance 1
 	noise 36
 	noises 2
 Synset('offal.n.01')
-	offal 1
+	offal 2
 Synset('client.n.01')
 	client 4
 	clients 1
 Synset('age.n.03')
 	age 70
 	ages 8
+	Age 1
 Synset('barrier.n.01')
 	barrier 11
+	Barriers 1
+	Barrier 5
 	BARRIER 1
 Synset('fifty_dollar_bill.n.01')
-	Fifty 1
-	fifty 22
+	Fifty 4
+	fifty 53
 Synset('hurricane.n.01')
 	hurricane 1
 Synset('hostel.n.01')
@@ -9801,17 +9913,19 @@ Synset('bronze.n.02')
 	bronze 1
 Synset('dispatch.v.01')
 	despatch 3
-	despatched 16
+	despatched 17
 Synset('charger.n.01')
 	charger 2
 Synset('beat.v.08')
-	beating 8
-	beaten 19
+	beating 9
+	beaten 20
 Synset('fairy.n.01')
 	fairy 1
 	Fairy 1
+	sprites 1
 Synset('opposite.a.02')
-	opposite 15
+	paired 1
+	opposite 20
 Synset('slide.v.03')
 	slid 2
 	sliding 1
@@ -9819,7 +9933,7 @@ Synset('inhabitant.n.01')
 	inhabitants 15
 Synset('beat.v.01')
 	shell 1
-	beat 32
+	beat 33
 	crushing 1
 	crushed 2
 	vanquished 2
@@ -9829,7 +9943,6 @@ Synset('repayment.n.02')
 	repayment 1
 Synset('joke.n.01')
 	jests 3
-	laughs 1
 	laugh 11
 	jest 4
 Synset('snort.v.02')
@@ -9844,17 +9957,18 @@ Synset('stray.v.02')
 	strayed 4
 Synset('peal.n.01')
 	peal 1
+Synset('scaling.n.03')
+	scaling 1
 Synset('snooze.v.01')
-	dozing 1
+	dozing 3
 Synset('coquette.n.01')
 	coquette 1
 Synset('countrywoman.n.02')
 	countrywomen 2
-Synset('personal.n.01')
-	personal 1
 Synset('tip.v.03')
 	feed 2
 	tipped 1
+	bung 1
 Synset('bay.n.07')
 	bay 3
 Synset('outpost.n.03')
@@ -9878,7 +9992,7 @@ Synset('plantagenet.n.01')
 Synset('halberdier.n.01')
 	halberdiers 1
 Synset('bow.v.05')
-	bowing 2
+	bowing 4
 	bowed 9
 	bow 1
 Synset('pulsate.v.02')
@@ -9891,9 +10005,9 @@ Synset('date.n.07')
 Synset('dolefully.r.01')
 	sorrowfully 1
 Synset('off.r.02')
-	off 210
+	off 213
 Synset('flop.n.03')
-	flop 3
+	flop 5
 Synset('hostility.n.01')
 	hostilities 3
 Synset('gaily.r.01')
@@ -9913,7 +10027,7 @@ Synset('beating-reed_instrument.n.01')
 	reeds 2
 Synset('attire.n.01')
 	garb 1
-	dress 38
+	dress 39
 	dresses 6
 Synset('consumptive.n.01')
 	lunger 1
@@ -9925,6 +10039,8 @@ Synset('storm.n.01')
 Synset('accommodation.n.02')
 	accommodation 1
 	accommodations 1
+Synset('name.n.06')
+	epithets 1
 Synset('vessel.n.03')
 	vessel 12
 	vessels 10
@@ -9949,9 +10065,9 @@ Synset('hatband.n.01')
 	hatband 2
 Synset('learn.v.04')
 	learns 1
-	learnt 5
+	learnt 6
 	study 2
-	learning 2
+	learning 5
 	learn 7
 	learned 23
 Synset('nursery.n.01')
@@ -9962,10 +10078,10 @@ Synset('ingress.n.01')
 Synset('seventeenth.n.01')
 	seventeenth 1
 Synset('down.r.05')
-	down 335
-	Down 3
+	down 332
+	Down 2
 Synset('valet.n.01')
-	valet 7
+	valet 5
 Synset('negative.a.04')
 	negative 1
 Synset('load.v.05')
@@ -9975,7 +10091,7 @@ Synset('load.v.05')
 	stretching 1
 	stretched 14
 Synset('space.n.05')
-	blank 5
+	blank 3
 Synset('affliction.n.02')
 	afflictions 1
 	affliction 6
@@ -9993,10 +10109,12 @@ Synset('render.v.06')
 Synset('statue.n.01')
 	statues 3
 	statue 4
+Synset('sen.n.01')
+	sen 1
 Synset('news.n.02')
 	news 14
 Synset('back.v.10')
-	backed 1
+	backed 2
 Synset('orchestra_pit.n.01')
 	pits 4
 	pit 1
@@ -10004,8 +10122,12 @@ Synset('passage.n.06')
 	passages 14
 	passage 14
 Synset('commissioner.n.01')
+	Commissioners 1
 	commissioner 1
 	commissioners 7
+Synset('cellular_telephone.n.01')
+	cell 16
+	cells 3
 Synset('possibly.r.02')
 	Possibly 2
 	possibly 12
@@ -10019,18 +10141,15 @@ Synset('identical.a.03')
 Synset('ply.v.03')
 	ran 48
 	running 27
-	run 17
+	run 18
 	runs 1
 	plied 2
 Synset('roadblock.n.02')
 	barricades 1
 Synset('qualification.n.01')
 	makings 1
-	making 1
 Synset('counterpart.n.02')
 	counterpart 1
-Synset('passage.n.08')
-	passing 10
 Synset('apparent_motion.n.01')
 	motion 5
 	motions 1
@@ -10049,11 +10168,10 @@ Synset('check_mark.n.01')
 	check 7
 Synset('doubly.r.02')
 	doubly 2
-Synset('charles.n.03')
-	CHARLES 4
 Synset('toothpick.n.01')
 	toothpick 5
 Synset('road.n.02')
+	ROAD 1
 	road 66
 Synset('correct.v.08')
 	correcting 1
@@ -10061,12 +10179,12 @@ Synset('correct.v.08')
 	correct 2
 Synset('wrong.n.02')
 	wrongs 6
-	damage 2
+	damage 1
 Synset('suffer.v.11')
 	Suffer 1
 	suffered 33
 	suffer 10
-	suffering 6
+	suffering 10
 Synset('feebly.r.01')
 	feebly 1
 Synset('wickedly.r.01')
@@ -10097,15 +10215,17 @@ Synset('vane.n.02')
 Synset('accompaniment.n.02')
 	support 3
 	accompaniment 2
-Synset('sulk.v.01')
-	brooding 3
+Synset('condescension.n.02')
+	patronage 3
+	condescension 1
+	disdain 1
 Synset('displacement.n.04')
 	displacements 1
 Synset('perplex.v.01')
 	sticking 2
-	stupefied 1
-	bewildered 2
-	perplexed 1
+	baffled 1
+	bewildered 1
+	vexed 3
 	posed 6
 	stuck 6
 	posing 1
@@ -10125,7 +10245,7 @@ Synset('excessively.r.01')
 Synset('medley.n.01')
 	medley 2
 Synset('tree.n.02')
-	Tree 1
+	Tree 2
 	tree 35
 	trees 21
 Synset('inversion.n.03')
@@ -10135,9 +10255,8 @@ Synset('wayfarer.n.01')
 Synset('roar.v.01')
 	howling 1
 	howled 1
-Synset('famine.n.02')
-	famine 7
-	Famine 1
+Synset('b-complex_vitamin.n.01')
+	B 3
 Synset('prorogation.n.01')
 	prorogation 1
 Synset('crush.n.02')
@@ -10149,6 +10268,8 @@ Synset('loss.n.05')
 	losses 2
 Synset('stubble.n.02')
 	stubble 1
+Synset('unclean.a.02')
+	impure 1
 Synset('wrongdoer.n.01')
 	offenders 1
 Synset('erection.n.02')
@@ -10157,14 +10278,16 @@ Synset('mystery.n.02')
 	mystery 9
 	mysteries 4
 Synset('proceeding.n.01')
-	proceeding 6
+	proceeding 4
 Synset('kilobyte.n.01')
+	K 1
 	k 1
 Synset('so_far.r.01')
-	heretofore 1
-	hitherto 1
+	heretofore 7
+	hitherto 2
 Synset('act.v.10')
 	acting 1
+	acts 1
 	acted 21
 	act 6
 Synset('healthily.r.01')
@@ -10179,8 +10302,8 @@ Synset('ripple.n.02')
 	ripples 1
 Synset('power_saw.n.01')
 	saw 5
-Synset('straightway.r.02')
-	straightway 1
+Synset('parliament.n.01')
+	parliament 2
 Synset('health.n.01')
 	healths 2
 	health 21
@@ -10192,10 +10315,7 @@ Synset('five-spot.n.03')
 	five 124
 	Five 21
 Synset('casement.n.01')
-	Casement 1
 	casements 2
-Synset('unmade.a.01')
-	unmade 1
 Synset('uniformity.n.01')
 	uniformity 1
 Synset('dull.a.09')
@@ -10204,7 +10324,7 @@ Synset('dull.a.09')
 Synset('repetition.n.03')
 	repetition 4
 Synset('travel.v.05')
-	travelling 14
+	travelling 22
 	travelled 12
 	travel 5
 Synset('kindness.n.03')
@@ -10212,7 +10332,7 @@ Synset('kindness.n.03')
 Synset('fan.v.01')
 	fanned 3
 Synset('stout.n.01')
-	stout 3
+	stout 11
 Synset('intrigue.n.01')
 	intrigues 1
 Synset('perplexedly.r.01')
@@ -10220,24 +10340,24 @@ Synset('perplexedly.r.01')
 Synset('decide.v.01')
 	decides 1
 	decided 18
-	determined 16
+	determined 23
 	decide 6
 	deciding 1
 Synset('restraint.n.04')
 	restraints 1
 	restraint 2
-Synset('howl.n.01')
-	howling 1
-	howl 2
+Synset('conversation_stopper.n.01')
+	stoppers 1
 Synset('slave.n.02')
 	slave 10
-	slaves 8
+	slaves 9
 Synset('excursion.n.01')
+	expedition 10
 	expeditions 1
 	excursion 1
-	expedition 10
+	EXPEDITION 1
 Synset('progress.v.01')
-	advance 3
+	advance 1
 	progresses 1
 	Advancing 1
 	advanced 26
@@ -10251,7 +10371,7 @@ Synset('consideration.n.06')
 	consideration 17
 	considerations 2
 Synset('axis.n.05')
-	axes 2
+	axes 6
 Synset('arbiter.n.02')
 	arbitrators 1
 Synset('discerp.v.02')
@@ -10269,10 +10389,12 @@ Synset('luster.n.03')
 	lustre 1
 Synset('stairway.n.01')
 	staircases 2
-	staircase 24
+	staircase 25
 Synset('payment.n.01')
 	payment 4
 Synset('massachusetts.n.01')
+	Mas 1
+	ma 2
 	mas 1
 Synset('addition.n.05')
 	addition 6
@@ -10301,27 +10423,27 @@ Synset('goad.v.02')
 Synset('worship.n.02')
 	worship 3
 Synset('native.a.03')
-	native 8
+	native 9
 Synset('systematically.r.01')
 	systematically 2
 	consistently 1
 Synset('orgy.n.03')
 	orgies 1
 	debauchery 2
-Synset('tartan.n.01')
-	plaid 1
+Synset('famine.n.02')
+	famine 7
+	Famine 1
 Synset('stern.n.01')
 	tail 2
 	tails 6
 Synset('disorder.n.03')
 	disorder 7
+	DISORDER 1
 	disorders 1
 Synset('thrash.v.01')
 	lamed 1
 Synset('sober.a.01')
 	sober 7
-Synset('millimeter.n.01')
-	Mm 1
 Synset('dodger.n.01')
 	fox 2
 Synset('whisk.v.04')
@@ -10355,13 +10477,15 @@ Synset('shave.v.01')
 	shaved 3
 Synset('metrical_foot.n.01')
 	feet 61
-	foot 46
+	foot 47
 Synset('approach.v.05')
 	approach 5
 	approached 9
 	approaching 1
 Synset('parley.n.01')
 	parley 1
+Synset('bitterness.n.04')
+	bitterness 4
 Synset('material.n.01')
 	stuff 2
 Synset('disparage.v.01')
@@ -10382,14 +10506,13 @@ Synset('ensnare.v.01')
 Synset('question.v.03')
 	question 1
 	questioned 4
-Synset('mean.v.07')
-	meant 36
-	meaning 4
-	mean 33
+Synset('address.n.07')
+	addresses 1
+	address 5
 Synset('fellowship.n.03')
 	fellowship 2
 Synset('mean.v.05')
-	means 14
+	means 9
 Synset('buckle.v.01')
 	clasps 1
 	clasping 5
@@ -10409,8 +10532,9 @@ Synset('faithlessly.r.01')
 	treasonably 1
 	traitorously 2
 Synset('overlord.n.01')
+	Master 2
 	masters 9
-	master 35
+	master 36
 Synset('provincial.a.01')
 	provincial 1
 	Provincial 1
@@ -10419,6 +10543,7 @@ Synset('latitude.n.01')
 Synset('titanium.n.01')
 	ti 3
 Synset('dictate.v.03')
+	dictating 1
 	DICTATES 1
 	dictated 1
 	dictate 1
@@ -10427,7 +10552,7 @@ Synset('scrimp.v.01')
 Synset('foully.r.02')
 	foully 4
 Synset('point_of_view.n.01')
-	stand 7
+	stand 4
 Synset('robber.n.01')
 	robbers 7
 	robber 14
@@ -10440,10 +10565,11 @@ Synset('monomania.n.01')
 Synset('courtier.n.01')
 	courtier 2
 	courtiers 17
+	Courtiers 1
 Synset('relate.v.04')
 	relate 10
 	relating 3
-	related 16
+	related 4
 	relates 2
 Synset('means.n.01')
 	way 328
@@ -10451,7 +10577,7 @@ Synset('foal.v.01')
 	foaled 1
 Synset('either.r.01')
 	either 54
-	Either 2
+	Either 3
 Synset('bottomland.n.01')
 	bottom 10
 Synset('store.n.02')
@@ -10460,7 +10586,7 @@ Synset('store.n.02')
 Synset('narrowly.r.01')
 	narrowly 3
 Synset('talk.n.03')
-	talk 11
+	talk 10
 Synset('borderland.n.01')
 	march 2
 Synset('important_person.n.01')
@@ -10476,40 +10602,40 @@ Synset('flip.v.06')
 	tossed 6
 	toss 1
 Synset('far.a.01')
-	far 4
+	far 1
 Synset('extremity.n.05')
 	extremity 1
 	extremities 1
 Synset('rose.n.03')
-	rose 9
+	rose 6
 	roses 1
 Synset('break.n.14')
 	break 2
 Synset('mourn.v.02')
 	mourned 3
-	mourn 2
-	mourning 6
+	mourn 3
+	mourning 2
 Synset('rejoinder.n.01')
 	rejoinder 2
 Synset('bb.n.01')
 	Bb 1
+Synset('staining.n.01')
+	staining 1
 Synset('crusade.v.01')
 	Pressing 1
 	pushing 2
-	fighting 28
-	fight 19
+	fighting 30
+	fight 20
 	pushed 7
-	pressing 6
+	pressing 11
 	pressed 26
 	agitated 6
 	press 1
-Synset('darts.n.01')
-	darts 1
-Synset('welcome.n.02')
-	Welcome 1
+Synset('enclosure.n.01')
+	enclosure 1
 Synset('twist.v.04')
 	twisting 1
-	twisted 2
+	twisted 1
 	twined 2
 Synset('return.v.07')
 	returned 81
@@ -10522,8 +10648,9 @@ Synset('entangle.v.02')
 	tangled 1
 	entangling 1
 	mated 1
-Synset('bull.n.10')
-	bull 4
+	matted 1
+Synset('affectation.n.01')
+	affectation 1
 Synset('exception.n.01')
 	exception 4
 	exclusion 2
@@ -10533,22 +10660,21 @@ Synset('appropriate.a.01')
 	appropriate 3
 Synset('works.n.04')
 	workings 2
-Synset('male.n.02')
-	male 3
+Synset('parry.v.01')
+	parried 2
 Synset('motion.n.03')
 	move 2
 	moves 1
-Synset('organism.n.01')
-	being 6
-	Beings 1
-	beings 1
+Synset('tax.n.01')
+	taxation 1
+	tax 19
 Synset('apostasy.n.01')
 	renunciation 1
 Synset('bit.n.02')
 	scrap 5
 Synset('reward.n.02')
 	rewards 2
-	reward 4
+	reward 3
 Synset('climax.n.04')
 	climax 1
 Synset('wing.n.07')
@@ -10576,12 +10702,11 @@ Synset('plump.n.01')
 Synset('reminder.n.01')
 	reminder 4
 Synset('darkness.n.05')
+	DARKNESS 1
 	Darkness 4
 	darkness 28
 Synset('tramp.v.01')
 	tramping 2
-Synset('heavy.n.02')
-	heavy 3
 Synset('deposit.v.02')
 	deposited 2
 Synset('reticle.n.01')
@@ -10603,14 +10728,14 @@ Synset('enforce.v.02')
 	enforce 1
 Synset('aloneness.n.01')
 	loneliness 3
-Synset('patron.n.01')
-	patron 2
 Synset('fry.v.02')
 	frying 1
 	fried 2
+Synset('latin.n.03')
+	Latin 1
 Synset('seven-spot.n.01')
 	seven 66
-	Seven 5
+	Seven 6
 Synset('shift.v.11')
 	shifted 3
 	shift 1
@@ -10618,7 +10743,7 @@ Synset('poison.n.01')
 	poisons 1
 	poison 10
 Synset('tour.n.01')
-	tour 1
+	tour 2
 Synset('pursuit.n.02')
 	pursuits 1
 	quest 2
@@ -10628,28 +10753,29 @@ Synset('actor.n.01')
 	actor 1
 Synset('reduce.v.01')
 	cutting 5
-	cut 46
+	cut 47
 Synset('post.n.01')
 	station 10
 Synset('breath.n.03')
 	breath 28
 	Breath 1
 Synset('lineal.a.01')
-	direct 8
+	direct 9
 Synset('sole.n.01')
 	sole 1
 Synset('nap.v.01')
 	napping 1
 Synset('ringer.n.02')
-	clone 1
+	clone 3
 Synset('grumble.n.02')
 	murmuring 1
 	murmurs 1
 	grumbling 1
+	mutter 1
 	murmur 7
 Synset('dog.n.01')
 	dog 25
-	dogs 25
+	dogs 26
 Synset('charity.n.02')
 	charity 5
 Synset('tonnage.n.01')
@@ -10675,6 +10801,7 @@ Synset('hazard.n.01')
 	hazard 6
 	perils 1
 Synset('plenty.n.01')
+	Plenty 1
 	plenty 5
 Synset('troop.v.02')
 	trooping 2
@@ -10693,16 +10820,15 @@ Synset('wish.v.01')
 Synset('getaway.n.02')
 	lam 3
 Synset('quarrel.v.01')
-	quarrelling 8
+	quarrelling 10
 	dispute 3
-	disputed 1
+	disputed 3
 	quarrelled 11
 	quarrel 24
 Synset('kettle.n.02')
 	kettle 1
 Synset('southern.a.01')
 	southern 1
-	Southern 1
 Synset('trumpeter.n.04')
 	trumpeters 2
 Synset('encumbrance.n.02')
@@ -10715,6 +10841,9 @@ Synset('knife.n.01')
 	Knives 1
 	knives 11
 	knife 15
+Synset('shrive.v.01')
+	absolving 1
+	absolved 2
 Synset('arrow.n.01')
 	arrows 13
 	arrow 14
@@ -10728,10 +10857,8 @@ Synset('visit.n.04')
 	visits 1
 Synset('knickknack.n.01')
 	novelty 2
-Synset('epicure.n.01')
-	epicure 1
 Synset('restlessly.r.01')
-	restlessly 1
+	restlessly 2
 Synset('become.v.01')
 	become 47
 	becoming 14
@@ -10739,7 +10866,7 @@ Synset('become.v.01')
 	Became 1
 	becomes 1
 Synset('self.n.02')
-	selves 7
+	selves 8
 	self 36
 Synset('imprison.v.02')
 	imprisoning 3
@@ -10778,9 +10905,11 @@ Synset('wine.n.02')
 Synset('feast.v.02')
 	feasted 1
 	feast 2
-	feasting 3
+	feasting 6
+Synset('iodine.n.01')
+	I 1
 Synset('try_on.v.01')
-	try 15
+	try 16
 	Try 3
 	tries 1
 	trying 20
@@ -10794,6 +10923,11 @@ Synset('announcement.n.01')
 	declaration 11
 Synset('pathway.n.02')
 	footpath 1
+Synset('raise.v.02')
+	raised 69
+	raise 25
+	raising 21
+	elevated 2
 Synset('stress.n.01')
 	accents 1
 	accent 2
@@ -10806,14 +10940,15 @@ Synset('cipher.n.04')
 Synset('point.n.09')
 	dots 1
 Synset('more.r.02')
-	More 3
-	more 243
+	More 6
+	more 290
 Synset('speaker.n.03')
 	speakers 3
 	speaker 5
 	Speakers 1
 Synset('regent.n.01')
 	trustees 1
+	Regent 1
 	trustee 1
 Synset('beckon.v.03')
 	beckoned 5
@@ -10823,6 +10958,8 @@ Synset('county.n.02')
 Synset('forger.n.01')
 	forgers 1
 	forger 1
+Synset('regicide.n.01')
+	Regicides 1
 Synset('forcibly.r.01')
 	forcibly 2
 Synset('wife.n.01')
@@ -10831,7 +10968,7 @@ Synset('wife.n.01')
 	wife 163
 Synset('suspend.v.02')
 	suspend 1
-	suspended 5
+	suspended 6
 Synset('commitment.n.05')
 	consignment 1
 Synset('wreck.n.04')
@@ -10843,12 +10980,12 @@ Synset('trail.v.05')
 Synset('commitment.n.02')
 	loyalty 2
 	allegiance 10
-Synset('log.v.01')
-	log 4
 Synset('letter.n.01')
+	Letters 1
 	letters 30
-	LETTER 1
+	missive 1
 	letter 60
+	LETTER 2
 Synset('disturbance.n.03')
 	commotion 1
 	flutter 3
@@ -10861,31 +10998,31 @@ Synset('divorce.v.02')
 	divorced 2
 Synset('address.v.06')
 	addressing 5
-	addresses 1
 	addressed 15
-	address 6
+	address 5
 Synset('grapeshot.n.01')
 	grape 1
 	grapes 1
 Synset('address.v.02')
-	Speak 5
+	Speak 6
 	speaks 5
 	speak 61
 Synset('current.n.02')
 	current 4
 	streams 5
 	stream 6
-Synset('season.n.01')
-	season 8
-	seasons 2
 Synset('musket.n.01')
 	muskets 6
 	musket 3
+Synset('armada.n.01')
+	Armada 5
+Synset('tent-fly.n.01')
+	flies 8
 Synset('gravestone.n.01')
 	gravestones 1
 Synset('threaten.v.03')
 	threatened 10
-	threatening 4
+	threatening 5
 	threaten 5
 	THREATENS 1
 Synset('misrepresentation.n.01')
@@ -10896,12 +11033,13 @@ Synset('finely.r.03')
 	delicately 3
 Synset('expedient.n.01')
 	expedient 1
+Synset('alderman.n.01')
+	aldermen 4
 Synset('minute.n.01')
 	minutes 22
 	minute 13
 	min 1
 Synset('twinkle.v.02')
-	twinkling 1
 	twinkled 1
 Synset('voyager.n.01')
 	voyagers 2
@@ -10913,12 +11051,9 @@ Synset('ache.v.02')
 	pined 1
 Synset('directly.r.04')
 	directly 16
-Synset('abbey.n.01')
-	abbeys 2
-	abbey 10
 Synset('night.n.06')
 	nights 17
-	night 288
+	night 286
 Synset('hue.n.01')
 	hue 2
 Synset('boatman.n.01')
@@ -10934,8 +11069,8 @@ Synset('cavalryman.n.02')
 Synset('shirt.n.01')
 	shirt 5
 	shirts 1
-Synset('joke.v.02')
-	jest 1
+Synset('constance.n.01')
+	Constance 1
 Synset('plat.v.01')
 	plating 1
 Synset('limelight.n.01')
@@ -10959,16 +11094,15 @@ Synset('impression.n.06')
 Synset('bullbrier.n.01')
 	briers 1
 Synset('old.a.01')
-	oldest 8
 	old 385
+	oldest 8
+	Old 10
 	older 6
 Synset('whip.n.05')
 	lashes 2
 	whip 7
-Synset('long.a.05')
-	Long 4
-	longer 16
-	long 156
+Synset('brush.n.01')
+	coppice 1
 Synset('manger.n.01')
 	manger 1
 Synset('remove.v.02')
@@ -10977,32 +11111,31 @@ Synset('remove.v.02')
 	removed 25
 	remove 5
 Synset('fast.a.02')
-	faster 5
-	fast 8
 	fastest 2
+	fast 19
+	Faster 1
 Synset('group.v.02')
 	grouped 1
 Synset('hum.v.04')
 	hummed 1
-Synset('jackal.n.01')
-	jackal 13
+Synset('purity.n.02')
+	whiteness 2
 Synset('psalms.n.01')
 	psalms 2
 Synset('form.n.01')
 	forms 6
-	form 22
+	form 21
 Synset('act.n.04')
 	act 27
-	Act 3
+	Act 2
 	routine 3
 Synset('apostasy.n.02')
 	tergiversation 1
 Synset('duchess.n.01')
 	duchess 4
+	Duchess 1
 Synset('undergraduate.n.01')
 	undergraduates 1
-Synset('black.n.07')
-	black 3
 Synset('pattern.n.05')
 	pattern 6
 Synset('black.n.05')
@@ -11013,25 +11146,29 @@ Synset('gin.n.04')
 	gin 1
 Synset('trifle.n.01')
 	trifles 2
+Synset('tartan.n.01')
+	plaid 1
 Synset('ovolo.n.01')
 	thumb 4
 	thumbs 1
-Synset('slave.v.01')
-	slaves 1
+Synset('negotiation.n.01')
+	negotiation 3
+	Negotiations 1
+	negotiations 2
 Synset('ecstasy.n.01')
 	rapture 1
 	ecstasy 1
 Synset('be.v.08')
 	be 1334
 	Be 11
-	being 389
-	Was 9
+	being 393
+	Am 4
 	is 950
 	Were 3
 	am 269
-	Am 1
 	been 938
 	Being 17
+	Was 9
 	were 1549
 	was 4849
 	Is 47
@@ -11070,6 +11207,7 @@ Synset('championship.n.01')
 	title 16
 Synset('baseball_club.n.01')
 	nine 34
+	NINE 1
 	Nine 4
 Synset('kennel.n.01')
 	kennel 2
@@ -11077,10 +11215,8 @@ Synset('declare.v.06')
 	declaring 19
 	declare 19
 	declared 86
-Synset('bridge.n.01')
-	bridge 19
-	Bridge 1
-	bridges 3
+Synset('hold_forth.v.01')
+	discoursing 1
 Synset('fall.n.06')
 	downfall 3
 Synset('hinge.n.02')
@@ -11093,18 +11229,16 @@ Synset('nuisance.n.01')
 	nuisances 1
 Synset('kill.v.15')
 	Kill 1
-	kill 19
+	kill 21
 	killed 99
-	killing 8
+	killing 7
 Synset('scrag.n.03')
 	scrags 1
-Synset('enclosure.n.01')
-	enclosure 1
-Synset('sisterhood.n.03')
-	sisterhood 1
-Synset('era.n.01')
-	epoch 2
-	era 2
+Synset('champion.n.01')
+	champion 4
+Synset('spend.v.01')
+	spend 3
+	spent 2
 Synset('design.v.07')
 	designed 5
 	designing 2
@@ -11124,10 +11258,10 @@ Synset('century.n.01')
 Synset('column.n.03')
 	columns 1
 Synset('gallows.n.01')
-	gallows 12
+	gallows 14
 Synset('spatter.v.01')
-	splashing 2
-	splashed 2
+	splashed 3
+	splashing 1
 Synset('column.n.07')
 	pillars 3
 	pillar 1
@@ -11136,11 +11270,11 @@ Synset('levity.n.02')
 Synset('put_out.v.07')
 	retiring 2
 	retire 11
-	retired 17
+	retired 20
 Synset('knight.n.01')
-	Knights 6
-	knight 15
 	knights 46
+	Knights 4
+	knight 15
 Synset('threat.n.02')
 	threat 2
 Synset('decree.n.01')
@@ -11156,6 +11290,8 @@ Synset('incident.n.01')
 	Incident 1
 Synset('cough.n.01')
 	cough 5
+Synset('kind.a.01')
+	kind 2
 Synset('put_on.v.07')
 	applied 12
 	applies 1
@@ -11165,7 +11301,7 @@ Synset('necessitate.v.02')
 	necessitated 1
 	necessitate 1
 Synset('pallidly.r.01')
-	dimly 3
+	dimly 4
 Synset('beach.n.01')
 	beach 7
 Synset('scope.n.01')
@@ -11176,7 +11312,7 @@ Synset('domestic_fowl.n.01')
 	fowl 1
 	fowls 1
 Synset('maker.n.01')
-	Maker 1
+	Maker 8
 	Makers 1
 	makers 2
 	maker 6
@@ -11184,13 +11320,13 @@ Synset('promise.v.01')
 	Promises 1
 	assured 7
 	assures 1
-	promises 2
+	promises 3
 	assure 7
 	promise 4
-	promised 17
+	promised 18
 	promising 3
 Synset('honor.n.03')
-	honour 54
+	honour 53
 	honours 4
 Synset('pint.n.02')
 	pint 1
@@ -11219,8 +11355,6 @@ Synset('upstairs.r.01')
 	upstairs 2
 Synset('phosphorus.n.01')
 	p 2
-Synset('signed.a.01')
-	signed 1
 Synset('swear.v.04')
 	depose 3
 	deposed 4
@@ -11228,22 +11362,26 @@ Synset('swear.v.04')
 	Swear 2
 	deposing 1
 	swear 21
-	sworn 16
+	sworn 17
 Synset('plainly.r.02')
 	simply 3
 	Simply 1
 	plainly 5
-Synset('leadership.n.02')
-	leaders 12
+Synset('shower.n.03')
+	shower 3
+	Showers 1
+	showers 3
 Synset('embody.v.02')
 	are 390
 	Are 12
 Synset('prosecution.n.01')
 	prosecution 3
+Synset('chap.n.01')
+	chap 1
 Synset('reservoir.n.01')
 	reservoirs 1
-Synset('alderman.n.01')
-	aldermen 4
+Synset('joke.v.02')
+	jest 1
 Synset('conspirator.n.01')
 	conspirators 25
 	conspirator 3
@@ -11254,7 +11392,8 @@ Synset('elaborate.v.01')
 	dilated 2
 	expounded 2
 Synset('eighth.n.01')
-	eighth 4
+	eighth 1
+	EIGHTH 6
 Synset('knuckle.n.01')
 	knuckles 2
 	knuckle 1
@@ -11275,15 +11414,14 @@ Synset('principal.n.06')
 Synset('descendants.n.01')
 	posterity 1
 Synset('handmaid.n.01')
-	servant 35
+	servant 37
 	servants 29
 Synset('white.a.02')
-	whiter 1
-	white 62
-	White 2
-Synset('man.v.01')
-	mans 3
-	manned 2
+	white 63
+Synset('suck.v.01')
+	suck 1
+	sucking 2
+	sucked 2
 Synset('job.n.04')
 	job 7
 Synset('route.v.03')
@@ -11293,7 +11431,6 @@ Synset('churchyard.n.01')
 Synset('monsieur.n.01')
 	monsieurs 1
 	messieurs 8
-	Monsieur 12
 	monsieur 13
 Synset('measles.n.01')
 	measles 1
@@ -11309,10 +11446,6 @@ Synset('rumble.v.01')
 	rumbling 2
 	grumbling 1
 	rumbled 2
-Synset('bourbon.n.04')
-	Bourbon 1
-Synset('cataleptic.n.01')
-	cataleptic 1
 Synset('wistfully.r.01')
 	wistfully 1
 Synset('flap.n.04')
@@ -11320,12 +11453,12 @@ Synset('flap.n.04')
 Synset('lower.v.01')
 	lowering 2
 	lower 2
-	lowered 4
+	lowered 3
 Synset('chest.n.02')
 	chests 2
 	chest 8
 Synset('standing.n.02')
-	standing 14
+	standing 13
 Synset('solicit.v.01')
 	tapping 1
 	tapped 1
@@ -11344,26 +11477,25 @@ Synset('revive.v.04')
 	revive 2
 	reviving 1
 Synset('fire.n.07')
-	fire 86
-	Fire 5
+	fire 87
+	Fire 8
 	fires 12
+	FIRE 1
 Synset('gate.n.01')
 	gates 15
 	gate 48
 Synset('return.n.05')
-	return 25
-Synset('antipathy.n.01')
-	aversion 2
+	return 24
 Synset('ducal.a.01')
 	ducal 1
 Synset('reserved.a.01')
-	reserved 2
+	reserved 1
 Synset('wearer.n.01')
 	wearers 2
 	wearer 2
 Synset('volt.n.01')
 	v 1
-	V 3
+	V 7
 Synset('code.n.02')
 	code 1
 Synset('egress.n.01')
@@ -11373,11 +11505,14 @@ Synset('abolition.n.01')
 Synset('needlework.n.02')
 	needlework 1
 Synset('hang.v.05')
-	hung 12
+	hung 15
 	hang 6
 	hanged 50
 Synset('effect.n.04')
 	essence 1
+Synset('manuscript.n.01')
+	Ms 1
+	MANUSCRIPT 1
 Synset('effect.n.06')
 	effect 23
 Synset('describe.v.01')
@@ -11391,20 +11526,21 @@ Synset('melt.v.01')
 	melted 4
 	melt 3
 Synset('henry.n.03')
-	Henrys 1
 	HENRY 2
-Synset('brush.n.01')
-	coppice 1
+Synset('long.a.05')
+	Long 8
+	long 173
+	longer 8
 Synset('know.v.04')
 	knowing 31
 	knowed 1
 	knows 23
 	knew 134
 	know 247
-	known 114
+	known 111
 	Knowing 1
-Synset('bastille.n.02')
-	Bastille 1
+Synset('believer.n.02')
+	worshippers 1
 Synset('tooth.n.04')
 	tooth 5
 Synset('pursuer.n.02')
@@ -11412,9 +11548,11 @@ Synset('pursuer.n.02')
 	pursuer 1
 Synset('annual.a.01')
 	annual 1
-Synset('hellion.n.01')
-	devil 8
-	devils 2
+Synset('crucify.v.01')
+	crucified 1
+Synset('slice.v.02')
+	sliced 1
+	slicing 1
 Synset('nose.n.04')
 	nose 21
 	noses 5
@@ -11423,9 +11561,9 @@ Synset('lease.v.04')
 	hire 2
 	engage 3
 	engaged 37
-	rents 1
+	rent 2
 Synset('female.n.02')
-	female 6
+	female 4
 Synset('interpretation.n.01')
 	reading 8
 	version 1
@@ -11438,13 +11576,14 @@ Synset('reside.v.01')
 	resided 1
 	residing 2
 Synset('highlander.n.02')
-	Highlanders 2
+	Highlanders 1
 Synset('distress.n.04')
 	distress 17
 	distresses 2
 Synset('brush.v.01')
 	brushed 1
 Synset('river.n.01')
+	River 1
 	river 48
 	rivers 4
 Synset('legibly.r.01')
@@ -11474,7 +11613,6 @@ Synset('swearer.n.02')
 	swearers 1
 Synset('corrective.n.01')
 	restoratives 1
-	restorative 1
 Synset('commanding_officer.n.01')
 	commanders 3
 	commander 7
@@ -11482,11 +11620,11 @@ Synset('loosely.r.04')
 	loosely 1
 Synset('cleave.v.01')
 	riving 1
-	split 4
+	split 3
 	splits 1
 Synset('peace.n.05')
 	peace 61
-	Peace 5
+	Peace 3
 Synset('invent.v.01')
 	forge 4
 	devise 1
@@ -11500,9 +11638,12 @@ Synset('ancestor.n.01')
 Synset('gloom.n.01')
 	gloom 5
 Synset('northern.a.01')
+	Northern 1
 	northern 4
-Synset('headless.a.01')
-	headless 2
+Synset('express.v.02')
+	uttered 9
+	express 11
+	uttering 3
 Synset('vine.n.01')
 	vines 1
 Synset('smack.v.03')
@@ -11516,19 +11657,19 @@ Synset('contempt.n.04')
 	contempt 3
 Synset('menace.n.02')
 	menace 1
-Synset('fivepence.n.01')
-	fivepence 1
 Synset('carp.n.01')
 	carp 1
-Synset('memo.n.01')
-	memoranda 1
+Synset('footing.n.02')
+	grounds 11
+	ground 75
 Synset('clap.v.07')
 	clapping 3
 	clapped 5
 Synset('marry.v.02')
 	marrying 11
+	Marry 1
+	married 107
 	marry 35
-	married 108
 	wedded 2
 Synset('forfeit.n.03')
 	sacrifices 2
@@ -11554,30 +11695,31 @@ Synset('pea.n.01')
 Synset('deliverer.n.04')
 	deliverer 1
 Synset('respite.n.04')
-	rest 78
+	rest 79
 Synset('pull.v.09')
 	draw 17
+	Draw 1
 Synset('pore.n.01')
-	pore 1
-Synset('hayfield.n.01')
-	meadow 1
-	meadows 1
+	pore 2
+Synset('unready.a.01')
+	Unready 2
 Synset('chop.n.05')
 	chopper 1
-Synset('ironside.n.01')
-	Ironsides 1
 Synset('sir.n.01')
-	sir 61
+	sir 59
 Synset('sidereal_day.n.01')
-	DAY 1
-	days 148
-	Day 3
+	DAYS 1
 	Days 1
+	days 148
+	Day 4
+	DAY 1
 	day 421
 Synset('speak.v.05')
 	spoken 31
 	spoke 46
-	speaking 10
+	speaking 12
+Synset('deposition.n.01')
+	Deposition 1
 Synset('precipitate.v.02')
 	precipitate 1
 	precipitating 1
@@ -11585,8 +11727,8 @@ Synset('precipitate.v.02')
 Synset('field_glass.n.01')
 	glass 32
 	glasses 2
-Synset('paneling.n.01')
-	pane 2
+Synset('spatter.n.02')
+	splashing 1
 Synset('apostrophe.n.02')
 	apostrophe 1
 Synset('addendum.n.01')
@@ -11614,8 +11756,8 @@ Synset('bodyguard.n.01')
 Synset('ordain.v.02')
 	ordering 5
 	ordained 1
-Synset('squash_racket.n.01')
-	bats 1
+Synset('falsify.v.01')
+	distorted 1
 Synset('strongly.r.01')
 	strongly 30
 Synset('knee.n.03')
@@ -11640,7 +11782,6 @@ Synset('reduce.v.15')
 Synset('screech.n.01')
 	shrieks 6
 	shriek 1
-	shrieking 1
 Synset('brim.n.01')
 	lips 43
 	lip 4
@@ -11651,7 +11792,7 @@ Synset('dancer.n.02')
 	dancer 1
 	dancers 2
 Synset('syllable.n.01')
-	syllable 1
+	syllable 3
 	syllables 2
 Synset('elbow.n.03')
 	elbow 7
@@ -11664,7 +11805,7 @@ Synset('due.n.02')
 Synset('episcopal.a.02')
 	episcopal 1
 Synset('choose.v.01')
-	chosen 8
+	chosen 10
 	choosing 1
 	choose 9
 	select 1
@@ -11673,6 +11814,7 @@ Synset('hem.v.01')
 	hemmed 3
 	Hemmed 1
 Synset('north.n.06')
+	North 3
 	north 6
 Synset('quench.v.03')
 	quench 1
@@ -11681,7 +11823,7 @@ Synset('rattle.v.02')
 	rattled 4
 	rattling 1
 Synset('evaluate.v.02')
-	judge 6
+	judge 5
 	judged 1
 	Judged 1
 Synset('response.n.07')
@@ -11701,12 +11843,13 @@ Synset('coating.n.01')
 	coat 18
 	coats 2
 Synset('die.v.07')
-	die 53
+	DYING 2
+	die 54
 	dying 27
 	died 145
 	dies 1
 Synset('gain.n.04')
-	gain 4
+	gain 3
 Synset('bellow.n.01')
 	bellowings 1
 Synset('conflagration.n.01')
@@ -11719,6 +11862,7 @@ Synset('decision.n.03')
 	decision 1
 	decisions 1
 Synset('decision.n.02')
+	CONCLUSION 1
 	determination 13
 	conclusion 5
 Synset('resource.n.02')
@@ -11727,7 +11871,6 @@ Synset('resource.n.02')
 Synset('abundance.n.03')
 	abundance 3
 Synset('saying.n.01')
-	saying 1
 	expressions 3
 	expression 29
 Synset('carol.n.02')
@@ -11738,10 +11881,6 @@ Synset('system.n.04')
 	system 4
 Synset('sheep.n.03')
 	sheep 6
-Synset('negotiation.n.01')
-	negotiation 3
-	Negotiations 1
-	negotiations 2
 Synset('deliver.v.02')
 	delivered 26
 	deliver 10
@@ -11761,17 +11900,18 @@ Synset('cornet.n.01')
 Synset('pier.n.03')
 	pier 1
 Synset('rate.v.01')
-	range 1
 	ordered 51
-	order 6
+	order 8
 	rank 2
 Synset('pier.n.01')
 	dock 3
 Synset('pistol.n.01')
 	pistols 5
 	pistol 3
+Synset('cense.v.01')
+	incensed 1
 Synset('rule.v.04')
-	rule 2
+	rule 3
 	ruled 9
 Synset('truth.n.05')
 	truths 1
@@ -11788,9 +11928,9 @@ Synset('poisoning.n.01')
 Synset('respectability.n.01')
 	respectability 1
 Synset('guard.n.10')
-	guards 15
 	Guards 2
-	guard 59
+	guards 15
+	guard 58
 	Guard 1
 Synset('mediation.n.02')
 	mediation 2
@@ -11810,10 +11950,10 @@ Synset('reprovingly.r.01')
 Synset('history.n.05')
 	History 6
 	histories 3
-	HISTORY 1
+	HISTORY 59
 	history 47
 Synset('history.n.02')
-	account 37
+	account 36
 	accounts 4
 	chronicle 1
 Synset('talent.n.02')
@@ -11830,7 +11970,6 @@ Synset('asterisk.n.01')
 	stars 6
 Synset('cleric.n.01')
 	ecclesiastics 1
-	divine 1
 	churchman 1
 Synset('compassion.n.01')
 	compassion 13
@@ -11841,32 +11980,28 @@ Synset('wreath.n.01')
 	wreaths 2
 	chaplet 1
 Synset('killing.n.02')
-	kill 2
-	killing 1
+	killing 2
 Synset('fagot.n.02')
 	faggots 1
 	fagots 2
 Synset('grizzle.v.01')
 	brooded 1
-Synset('pair.v.01')
-	paired 1
 Synset('operation.n.06')
 	surgery 1
 Synset('playfully.r.01')
 	playfully 1
 Synset('house.n.04')
-	house 134
+	house 135
 	Houses 3
-	House 1
 	houses 49
 Synset('relieve.v.08')
-	relieved 7
+	relieved 6
 	relieve 6
 	relieving 2
 Synset('closely.r.01')
 	closely 10
 Synset('silver.n.01')
-	silver 18
+	silver 19
 Synset('closely.r.03')
 	nearly 33
 	Nearly 1
@@ -11879,7 +12014,7 @@ Synset('tightly.r.01')
 	tightly 1
 Synset('shout.v.02')
 	yelling 1
-	cried 57
+	cried 65
 	cry 15
 	screamed 3
 	cries 12
@@ -11907,22 +12042,23 @@ Synset('station.v.01')
 	Send 1
 	sent 164
 Synset('general.n.02')
+	Generals 4
 	generals 4
-	general 21
+	general 8
 Synset('lion.n.01')
 	Lions 1
 	lion 12
 	lions 5
 Synset('clothing.n.01')
 	clothing 2
-Synset('plant.v.05')
-	plant 1
-	planted 2
+Synset('short.r.06')
+	short 5
 Synset('domicile.n.01')
 	domicile 1
 Synset('stroke.n.03')
 	apoplexy 1
 Synset('prance.v.04')
+	Prance 2
 	prancing 2
 Synset('indignation.n.01')
 	outrage 1
@@ -11967,11 +12103,10 @@ Synset('profoundly.r.01')
 	profoundly 3
 Synset('coffee_bean.n.01')
 	coffee 9
-Synset('theatrical_performance.n.01')
-	theatrical 1
 Synset('refusal.n.02')
 	refusal 2
 Synset('class.n.01')
+	familys 2
 	classes 2
 	families 9
 	class 6
@@ -11983,17 +12118,17 @@ Synset('cursed.a.01')
 	cursed 2
 Synset('monster.n.04')
 	demon 1
+	Ogre 1
 	demons 5
 	fiend 1
 Synset('monster.n.05')
-	monster 3
 	monsters 3
+	monster 3
+	Monsters 1
 Synset('class.n.06')
 	years 365
 	YEARS 1
 	Years 1
-Synset('distance.v.01')
-	distance 1
 Synset('caparison.n.01')
 	trappings 2
 Synset('faction.n.02')
@@ -12003,6 +12138,7 @@ Synset('executor.n.01')
 	executors 1
 Synset('grove.n.02')
 	grove 3
+	Groves 1
 Synset('ruff.n.04')
 	ruff 1
 Synset('soliloquy.n.02')
@@ -12017,14 +12153,16 @@ Synset('step.n.04')
 	stairs 40
 	stair 5
 Synset('delaware.n.04')
-	de 20
+	de 36
 Synset('merchant.n.01')
 	merchant 16
 	merchants 7
 Synset('coach.n.02')
 	coaches 4
 	coach 67
+	Tutor 1
 	tutor 6
+	COACH 1
 Synset('caution.n.02')
 	caution 2
 Synset('lot.n.02')
@@ -12061,16 +12199,14 @@ Synset('ohio.n.01')
 Synset('comic_strip.n.01')
 	strips 1
 	strip 1
-Synset('ala.n.02')
-	Alas 1
 Synset('boom.n.01')
 	roar 13
 	thunder 5
 	roaring 4
 	Roar 1
 Synset('earshot.n.01')
-	Hearing 1
-	hearing 17
+	Hearing 2
+	hearing 19
 Synset('refrain.n.01')
 	chorus 1
 Synset('originate.v.03')
@@ -12081,7 +12217,6 @@ Synset('chaise.n.02')
 	chaise 1
 Synset('criminal.n.01')
 	outlaws 3
-	criminal 1
 	outlaw 3
 	criminals 5
 	felons 1
@@ -12090,12 +12225,12 @@ Synset('indecisiveness.n.02')
 Synset('lunch.n.01')
 	lunch 1
 Synset('fear.n.01')
-	fear 40
+	fear 37
 	fears 15
 	Fear 1
 	fright 6
 Synset('fear.n.03')
-	awe 1
+	awe 3
 	veneration 3
 	reverence 1
 Synset('malice.n.01')
@@ -12108,13 +12243,12 @@ Synset('speed.n.02')
 	swiftness 1
 Synset('emergency.n.01')
 	emergency 1
-Synset('writ.n.01')
-	writ 1
-	writs 1
+Synset('down.n.04')
+	down 1
+	Down 4
+	downs 3
 Synset('instinctively.r.01')
 	instinctively 2
-Synset('champion.n.01')
-	champion 4
 Synset('tool.n.01')
 	tools 14
 Synset('snare.n.03')
@@ -12144,6 +12278,7 @@ Synset('caress.v.01')
 	fondled 1
 	caressing 2
 Synset('funeral.n.01')
+	funeral 11
 	Funerals 1
 Synset('denunciation.n.01')
 	Denunciation 1
@@ -12159,6 +12294,7 @@ Synset('squawk.v.01')
 	screeching 1
 Synset('crowd.n.01')
 	crowds 11
+	CROWD 1
 	crowd 65
 Synset('historian.n.01')
 	historian 1
@@ -12173,13 +12309,14 @@ Synset('unfit.a.01')
 Synset('hunter.n.04')
 	hunters 4
 Synset('black.a.02')
-	black 66
+	Black 22
+	black 69
 	blackest 1
 Synset('angstrom.n.01')
-	A 237
-	a 6130
-	As 172
-	as 1945
+	A 393
+	a 6131
+	As 171
+	as 1992
 Synset('cup.n.08')
 	cups 2
 	cup 11
@@ -12198,18 +12335,20 @@ Synset('entrust.v.01')
 	confide 5
 	trusting 4
 	confiding 1
-	trust 12
+	trust 8
 	trusted 16
 Synset('vinegar.n.01')
 	vinegar 2
 Synset('pro.n.02')
-	pro 10
+	pro 9
 	pros 2
+	PROSS 1
 Synset('holiday.n.02')
 	holiday 3
 	holidays 1
-Synset('vest.n.01')
-	waistcoat 4
+Synset('probability.n.01')
+	chances 4
+	chance 19
 Synset('competently.r.01')
 	ably 2
 Synset('earthquake.n.01')
@@ -12218,11 +12357,12 @@ Synset('lament.n.01')
 	lamentation 1
 	lamentations 1
 Synset('postpone.v.01')
-	deferred 3
 	remitted 2
-	postponed 2
-	prorogued 2
+	shelving 1
 	proroguing 1
+	deferred 3
+	prorogued 2
+	postponed 2
 Synset('ceiling.n.04')
 	ceiling 11
 Synset('murder.n.01')
@@ -12231,7 +12371,6 @@ Synset('murder.n.01')
 	murder 38
 	Murder 1
 Synset('bow.n.06')
-	bowing 2
 	bows 3
 	bow 9
 Synset('expect.v.05')
@@ -12258,28 +12397,29 @@ Synset('negligee.n.01')
 Synset('meditation.n.01')
 	meditations 1
 Synset('roman.n.01')
-	Romans 2
+	ROMANS 2
 Synset('conscience.n.03')
 	conscience 7
 Synset('world.n.06')
 	world 76
 	worlds 1
-	World 3
+	World 2
 Synset('delicatessen.n.02')
 	deli 1
 Synset('pave.v.01')
-	paving 1
 	pave 4
+	paved 2
 Synset('eagle.n.02')
 	eagles 3
 Synset('hoax.v.01')
 	hoaxed 1
 Synset('pro.r.01')
+	pro 2
 	Pro 3
 Synset('install.v.02')
 	installed 1
-Synset('neighbor.v.01')
-	neighbouring 1
+Synset('bourbon.n.04')
+	Bourbon 1
 Synset('detachment.n.04')
 	detachment 1
 Synset('shade.n.08')
@@ -12299,9 +12439,10 @@ Synset('acuteness.n.03')
 Synset('rag.n.01')
 	tatters 1
 Synset('hard.a.07')
-	hardest 2
-	hard 58
-	harder 1
+	concentrated 1
+	hardest 1
+	hard 63
+	harder 2
 Synset('intellectual.n.01')
 	intellectual 1
 Synset('vegetate.v.04')
@@ -12317,12 +12458,11 @@ Synset('deluge.v.01')
 Synset('provision.n.01')
 	proviso 1
 Synset('hang.v.13')
-	hanging 15
-Synset('object.n.03')
-	object 33
-	objects 11
+	hanging 19
+Synset('unchristian.a.01')
+	unchristian 1
 Synset('sling.v.04')
-	slung 1
+	slung 2
 Synset('raceway.n.01')
 	races 3
 	race 24
@@ -12330,7 +12470,7 @@ Synset('coolly.r.01')
 	coolly 3
 Synset('commemorate.v.02')
 	remembering 4
-	remembered 29
+	remembered 24
 	remember 39
 	Remember 5
 Synset('busily.r.01')
@@ -12339,11 +12479,17 @@ Synset('ship.v.05')
 	shipped 1
 Synset('backpack.v.01')
 	packed 2
-Synset('porter.n.01')
-	porters 2
-	porter 4
-Synset('first_gear.n.01')
-	low 2
+Synset('rebel.v.01')
+	RISES 2
+	rise 9
+	rebel 3
+	rising 34
+	arose 51
+	arise 12
+	Rises 1
+	arising 1
+	arisen 5
+	rebelled 7
 Synset('minutes.n.01')
 	proceedings 16
 Synset('relationship.n.01')
@@ -12353,11 +12499,9 @@ Synset('wedge.v.02')
 	forcing 1
 	force 8
 	squeezing 3
-	forces 2
 	squeezed 6
 	squeeze 1
 Synset('domestic.n.01')
-	domestic 1
 	domestics 2
 Synset('war_cry.n.01')
 	Cries 1
@@ -12365,6 +12509,9 @@ Synset('war_cry.n.01')
 Synset('gauntlet.n.01')
 	gauntlet 1
 	gauntlets 2
+Synset('lapin.n.01')
+	rabbits 1
+	rabbit 2
 Synset('complexion.n.05')
 	complexions 2
 	complexion 5
@@ -12375,8 +12522,10 @@ Synset('hail.v.02')
 	Hailing 1
 	come 226
 	Coming 1
+	COMING 1
 	hailed 2
-	coming 79
+	hail 2
+	coming 80
 	Come 14
 	comes 13
 Synset('dean.n.03')
@@ -12412,29 +12561,27 @@ Synset('puree.v.01')
 	Straining 1
 	strain 1
 Synset('frame.v.04')
-	put 222
+	put 224
 	Put 4
 	puting 1
 	putting 24
 Synset('catch.v.01')
-	catch 5
+	catch 6
 	catching 2
 Synset('rejoicing.n.01')
 	rejoicings 6
-	rejoicing 8
+	rejoicing 7
 Synset('nineteenth.n.01')
 	nineteenth 1
 Synset('detriment.n.01')
 	detriment 1
 	hurt 1
-Synset('assistant.n.01')
-	assistants 2
-	assistant 1
 Synset('tick.v.02')
 	ticking 1
-Synset('immolate.v.01')
-	immolate 1
+Synset('device.n.02')
+	device 1
 Synset('cubic_yard.n.01')
+	Yard 3
 	yard 51
 	yards 6
 Synset('flippantly.r.01')
@@ -12450,6 +12597,8 @@ Synset('highway.n.01')
 	highway 4
 Synset('lift.n.06')
 	lift 1
+Synset('jealousy.n.01')
+	jealousy 4
 Synset('butler.n.02')
 	butler 2
 Synset('hoop.n.01')
@@ -12468,14 +12617,15 @@ Synset('hour.n.01')
 	hours 49
 	hour 71
 Synset('rent.n.01')
-	rent 7
-Synset('awake.a.01')
-	awake 5
+	rent 5
+	rents 1
+Synset('patent.n.02')
+	Patent 1
 Synset('follower.n.01')
 	follower 5
 	followers 29
 Synset('maid.n.01')
-	Maid 2
+	Maid 18
 	maid 4
 	maids 2
 Synset('landing.n.01')
@@ -12485,7 +12635,6 @@ Synset('scavenger.n.01')
 Synset('flare.v.03')
 	flare 1
 	flaring 4
-	flaming 1
 	flamed 1
 Synset('attic.n.03')
 	beans 1
@@ -12498,12 +12647,12 @@ Synset('pair.n.04')
 Synset('scrupulous.a.01')
 	scrupulous 2
 Synset('frenchman.n.01')
-	Frenchman 4
+	Frenchman 7
 Synset('crackle.v.03')
 	crackled 1
 Synset('will.n.03')
-	will 305
-	Will 17
+	will 306
+	Will 18
 Synset('cadence.n.03')
 	cadence 1
 Synset('banking.n.02')
@@ -12522,11 +12671,14 @@ Synset('breed.n.01')
 	strain 3
 Synset('one.n.02')
 	ones 4
-	One 78
+	One 83
 	ONE 2
 	one 891
-Synset('pride.n.03')
-	pride 23
+Synset('table.n.05')
+	Tables 1
+	tables 6
+	TABLE 3
+	table 61
 Synset('belong_to.v.01')
 	belongs 1
 	belonged 14
@@ -12542,20 +12694,20 @@ Synset('school.n.05')
 	schools 1
 	school 1
 Synset('note.v.04')
-	noted 3
+	noted 4
 Synset('jew.n.01')
-	Jews 15
+	Jew 6
+	Jews 1
 Synset('toothache.n.01')
 	toothache 1
-Synset('withdrawal.n.01')
-	withdrawal 1
 Synset('subsequently.r.01')
-	later 7
-	Afterwards 1
 	Later 1
-	After 66
-	after 314
 	afterwards 160
+	LATER 1
+	After 66
+	later 7
+	after 314
+	Afterwards 1
 Synset('kin.n.01')
 	kin 1
 Synset('dependant.n.01')
@@ -12574,7 +12726,7 @@ Synset('furiously.r.02')
 Synset('agony.n.02')
 	sufferings 5
 	agony 13
-	suffering 15
+	suffering 11
 	agonies 2
 Synset('dispute.n.01')
 	disputes 5
@@ -12589,26 +12741,29 @@ Synset('piano.r.01')
 Synset('petition.v.01')
 	petitioned 2
 	petition 2
-Synset('dye.n.01')
-	dye 4
 Synset('flagon.n.01')
 	flagon 1
 Synset('reckoning.n.02')
 	reckoning 2
 	reckonings 1
-Synset('kind.a.01')
-	kind 9
+Synset('object.n.03')
+	object 33
+	objects 11
 Synset('antipathy.n.02')
 	antipathies 1
 	antipathy 1
-Synset('believer.n.02')
-	worshippers 1
+Synset('antipathy.n.01')
+	aversion 2
 Synset('review.n.04')
 	review 1
 Synset('skidder.n.01')
 	slippers 1
+Synset('ridley.n.01')
+	Ridleys 1
 Synset('suction.n.01')
 	suction 1
+Synset('fula.n.02')
+	ful 2
 Synset('move.v.02')
 	displaced 4
 	move 4
@@ -12619,18 +12774,17 @@ Synset('move.v.02')
 Synset('sill.n.02')
 	sill 1
 Synset('cloud.v.03')
-	clouded 3
+	clouded 2
 Synset('craw.n.01')
 	crops 4
 Synset('darling.n.01')
 	pet 3
 	darling 16
-	darlings 2
+	darlings 3
 Synset('emblem.n.02')
 	emblem 3
 Synset('screw.v.02')
 	screwed 2
-	screwing 1
 Synset('treat.v.01')
 	handle 4
 	handled 1
@@ -12649,6 +12803,8 @@ Synset('substrate.n.02')
 Synset('towel.n.01')
 	towel 2
 	towels 3
+Synset('shamble.n.01')
+	shuffling 2
 Synset('bulk.n.03')
 	bulk 1
 Synset('pastime.n.01')
@@ -12659,8 +12815,7 @@ Synset('badly.r.01')
 	seriously 1
 Synset('grate.n.03')
 	grate 1
-	grates 2
-	grating 2
+	grates 1
 Synset('inevitably.r.01')
 	inevitably 3
 Synset('chair.n.01')
@@ -12669,15 +12824,16 @@ Synset('chair.n.01')
 	Chair 1
 Synset('understudy.v.01')
 	alternating 1
-Synset('crowned.a.01')
-	crowned 4
 Synset('tavern.n.01')
 	tavern 4
 	taverns 1
 Synset('laurel.n.03')
 	laurel 1
+Synset('desiccant.n.01')
+	drier 1
 Synset('newton.n.02')
-	n 3
+	N 1
+	n 6
 Synset('freeze.v.07')
 	frozen 1
 Synset('mast.n.01')
@@ -12690,7 +12846,6 @@ Synset('miller.n.01')
 	miller 1
 Synset('present.n.03')
 	presents 7
-	present 25
 Synset('preternaturally.r.01')
 	supernaturally 1
 Synset('solution.n.02')
@@ -12700,11 +12855,12 @@ Synset('wiccan.n.01')
 	witch 4
 Synset('infect.v.02')
 	tainted 1
+Synset('retard.v.01')
+	retarded 1
 Synset('picture.v.02')
 	pictured 4
 Synset('stable.n.01')
 	stables 3
-	stable 4
 Synset('alteration.n.02')
 	alterations 1
 	alteration 1
@@ -12720,15 +12876,16 @@ Synset('cadaverous.a.02')
 Synset('pest.n.03')
 	pest 1
 Synset('bark.n.03')
-	bark 1
+	bark 2
 Synset('sweetly.r.01')
 	sweetly 1
 Synset('myriad.n.01')
 	myriads 1
 Synset('one-half.n.01')
 	halves 1
+	halfs 1
 	Half 1
-	half 62
+	half 66
 Synset('heating_system.n.01')
 	heat 6
 Synset('abjure.v.01')
@@ -12745,9 +12902,8 @@ Synset('adolescent.n.01')
 Synset('cane.n.02')
 	cane 2
 Synset('light.a.02')
-	light 17
+	light 24
 	lightest 1
-	Lighter 1
 	lighter 8
 Synset('buckle.n.01')
 	buckles 1
@@ -12759,6 +12915,7 @@ Synset('wake.n.03')
 	wake 1
 Synset('protest.n.01')
 	protest 4
+	PROTEST 1
 	protestations 1
 Synset('adieu.n.01')
 	adieu 1
@@ -12766,26 +12923,23 @@ Synset('bolt.n.05')
 	bolts 1
 Synset('moon.n.06')
 	moon 14
-Synset('shower.n.03')
-	Showers 1
-	showers 3
+Synset('leadership.n.02')
+	leaders 12
+Synset('male.n.02')
+	male 2
 Synset('shiner.n.01')
 	mouse 1
 	mouses 1
 Synset('refine.v.04')
 	refined 1
 Synset('intent.n.02')
-	intent 7
+	intent 11
 Synset('nook.n.01')
 	nook 1
 Synset('judgment_of_dismissal.n.01')
 	dismissal 4
 Synset('croak.n.01')
 	croak 1
-Synset('bastard.n.03')
-	mongrel 1
-Synset('scald.n.01')
-	scalds 1
 Synset('waiter.n.02')
 	waiter 3
 	waiters 1
@@ -12797,15 +12951,15 @@ Synset('none.n.01')
 	none 44
 	None 3
 Synset('four-spot.n.01')
+	Four 5
 	four 104
-	Four 2
 Synset('gemini.n.01')
-	twin 2
+	twin 1
 Synset('concession.n.01')
 	concessions 3
 	concession 2
 Synset('propose.v.01')
-	proposed 37
+	proposed 38
 	propose 6
 	advising 2
 	proposing 2
@@ -12849,7 +13003,7 @@ Synset('drove.n.02')
 Synset('scarecrow.n.01')
 	scarecrows 5
 Synset('upright.n.02')
-	upright 1
+	upright 2
 Synset('signature.n.05')
 	signature 3
 Synset('clot.v.02')
@@ -12858,7 +13012,6 @@ Synset('peer.n.01')
 	compeers 2
 Synset('fly.v.13')
 	fly 10
-	flies 8
 	flying 13
 	flew 4
 Synset('tea.n.04')
@@ -12878,11 +13031,10 @@ Synset('negligence.n.01')
 	negligence 1
 Synset('maniac.n.02')
 	maniac 1
-Synset('long.r.01')
-	Long 9
-	long 158
+Synset('fast.r.01')
+	fast 35
 Synset('fine.n.01')
-	fine 5
+	fine 3
 	fines 2
 Synset('ease.n.02')
 	ease 14
@@ -12897,12 +13049,12 @@ Synset('lamb.n.05')
 	lambs 1
 Synset('value.n.05')
 	value 4
-Synset('defend.v.06')
-	defend 10
-	defending 4
-	defended 13
+Synset('british_labour_party.n.01')
+	labours 2
+	labour 6
 Synset('fraternity.n.01')
 	fraternity 1
+	Fraternity 1
 Synset('pour.v.04')
 	pouring 8
 	poured 12
@@ -12918,6 +13070,7 @@ Synset('ruefully.r.01')
 Synset('away.r.01')
 	forth 37
 Synset('anteroom.n.01')
+	Hall 5
 	hall 22
 	halls 1
 Synset('floor.n.07')
@@ -12926,13 +13079,11 @@ Synset('floor.n.07')
 Synset('pardon.v.02')
 	pardoning 2
 	pardoned 13
-	Pardon 1
+	Pardon 2
 Synset('sixpence.n.01')
 	tanners 1
 	tanner 4
 	sixpence 2
-Synset('huguenot.n.01')
-	Huguenots 2
 Synset('engine.n.02')
 	engine 3
 	engines 1
@@ -12940,7 +13091,7 @@ Synset('obligation.n.05')
 	obligations 2
 	obligation 5
 Synset('valise.n.01')
-	valise 1
+	valise 2
 Synset('government.n.01')
 	authorities 7
 Synset('bluff.n.01')
@@ -12950,12 +13101,14 @@ Synset('rolling.n.02')
 Synset('journal.n.05')
 	journal 3
 Synset('child.n.04')
-	childs 15
-	children 70
-	Children 1
+	CHILDS 47
 	child 96
+	Children 1
+	childs 16
+	CHILD 24
+	children 70
 Synset('parliamentary.a.01')
-	Parliamentary 9
+	Parliamentary 11
 Synset('caster.n.01')
 	caster 2
 Synset('official.n.02')
@@ -12971,6 +13124,7 @@ Synset('envelop.v.01')
 Synset('gulf.n.01')
 	gulf 1
 Synset('oates.n.01')
+	Oatess 1
 	Oates 1
 Synset('sheet.n.07')
 	sheet 3
@@ -12990,8 +13144,10 @@ Synset('giant.n.04')
 Synset('privately.r.02')
 	privately 9
 Synset('juror.n.01')
-	juryman 1
 	jurymans 1
+	Juryman 1
+	juryman 1
+	Jurymen 1
 Synset('sneak.v.02')
 	sneaking 2
 	sneaked 2
@@ -13015,27 +13171,22 @@ Synset('heath.n.02')
 	heath 1
 Synset('earl.n.01')
 	earl 3
-	Earls 5
+	Earls 4
 Synset('front.n.03')
 	front 9
 	fronts 1
-Synset('rebel.v.01')
-	rise 8
-	rising 25
-	arose 51
-	arise 12
-	Rises 1
-	arising 1
-	arisen 5
-	rebelled 7
+Synset('drawbridge.n.01')
+	drawbridges 1
+	drawbridge 7
 Synset('indulgence.n.03')
-	Indulgences 1
+	Indulgences 2
 	Indulgence 1
 Synset('leg.n.08')
 	legs 20
 	leg 4
-Synset('national.a.01')
-	national 18
+Synset('einsteinium.n.01')
+	E 4
+	e 12
 Synset('bridesmaid.n.01')
 	bridesmaid 1
 Synset('victim.n.02')
@@ -13058,30 +13209,28 @@ Synset('dolphin.n.02')
 Synset('steel.n.03')
 	steel 6
 Synset('ahead.r.03')
-	onward 1
+	onward 2
 	forwards 2
 	ahead 2
 Synset('valiantly.r.01')
 	valiantly 2
 Synset('tread.v.05')
-	treading 1
 	tread 12
 	trod 5
 Synset('band.v.01')
 	banded 1
 Synset('cheer.n.01')
 	cheers 1
-	Cheer 1
 	cheer 3
 Synset('intelligence.n.02')
 	intelligence 17
+	INTELLIGENCE 1
 Synset('double-crosser.n.01')
 	traitors 14
 	traitor 36
 Synset('patrol.n.03')
 	patrols 1
 Synset('hop.v.04')
-	hopes 1
 	hoping 1
 	hopping 5
 	hoped 18
@@ -13092,7 +13241,7 @@ Synset('broom.n.01')
 	broom 3
 Synset('occupy.v.02')
 	occupy 5
-	occupied 19
+	occupied 21
 Synset('mathematics.n.01')
 	mathematics 1
 Synset('deed.n.01')
@@ -13106,8 +13255,9 @@ Synset('farmhouse.n.01')
 	farmhouses 1
 Synset('broach.v.01')
 	broaching 1
-Synset('dissemble.v.02')
-	dissembling 1
+Synset('man.v.01')
+	mans 1
+	manned 2
 Synset('seesaw.n.01')
 	seesaw 1
 Synset('anchorage.n.01')
@@ -13133,20 +13283,20 @@ Synset('booklet.n.01')
 	pamphlets 1
 	pamphlet 1
 Synset('fit.a.01')
-	fit 6
+	fit 4
 Synset('conical_buoy.n.01')
 	nun 2
 	nuns 2
 Synset('injection.n.03')
-	shot 10
+	shot 6
 Synset('cross.v.04')
 	crossed 21
-	cross 4
+	cross 5
 Synset('cross.v.07')
 	crossing 5
 	Crossing 1
 Synset('con.r.01')
-	con 1
+	con 5
 Synset('elect.v.01')
 	elected 4
 	electing 1
@@ -13165,9 +13315,11 @@ Synset('contract.v.01')
 	undertaking 1
 	contracted 3
 	contract 1
+Synset('rioting.n.01')
+	rioting 3
 Synset('well.r.07')
-	Well 9
-	well 230
+	Well 10
+	well 233
 	considerably 1
 Synset('murderer.n.01')
 	murderer 13
@@ -13176,15 +13328,13 @@ Synset('yell.v.02')
 	yells 1
 Synset('convention.n.02')
 	rules 2
-	rule 8
+	rule 7
 Synset('hurriedly.r.01')
 	Hastily 1
 	hurriedly 10
 	hastily 12
-Synset('express.v.02')
-	uttered 9
-	express 7
-	uttering 3
+Synset('headless.a.01')
+	headless 3
 Synset('celestial.a.02')
 	heavenly 2
 	celestial 1
@@ -13200,17 +13350,17 @@ Synset('express.v.04')
 	stating 3
 	stated 8
 Synset('deep.a.03')
-	Deep 1
-	deep 37
+	deep 34
+	Deep 3
 	deeper 5
 Synset('once.r.03')
 	Once 10
+	erst 1
 	Formerly 1
 	formerly 7
 	once 137
 Synset('blacksmith.n.01')
 	blacksmith 3
-	Blacksmiths 1
 Synset('londoner.n.01')
 	Londoners 1
 Synset('catastrophe.n.02')
@@ -13248,7 +13398,7 @@ Synset('method.n.01')
 	method 1
 	methods 1
 Synset('public.n.02')
-	public 10
+	public 8
 Synset('solemnly.r.01')
 	solemnly 16
 Synset('gram_molecule.n.01')
@@ -13257,7 +13407,7 @@ Synset('operation.n.03')
 	operations 2
 	operation 1
 Synset('edward.n.01')
-	EDWARD 2
+	EDWARD 1
 Synset('recklessly.r.01')
 	recklessly 2
 Synset('profit.v.02')
@@ -13266,16 +13416,14 @@ Synset('profit.v.02')
 Synset('fishing.n.01')
 	fishing 6
 Synset('audio.n.01')
-	sound 39
+	sound 38
 Synset('well.n.04')
-	well 10
-	Well 20
+	well 7
+	Well 21
 Synset('rabies.n.01')
-	madness 4
+	madness 5
 Synset('halfpenny.n.01')
 	halfpence 1
-Synset('scattering.n.03')
-	sprinkling 2
 Synset('accept.v.09')
 	accepting 2
 	accepted 13
@@ -13288,7 +13436,7 @@ Synset('dregs.n.01')
 	dregs 2
 Synset('dress.v.04')
 	dressed 32
-	dress 7
+	dress 6
 Synset('legend.n.01')
 	legend 4
 Synset('maturely.r.01')
@@ -13302,6 +13450,7 @@ Synset('byway.n.01')
 	byway 1
 Synset('browning_automatic_rifle.n.01')
 	bars 1
+	BAR 1
 Synset('faintness.n.01')
 	faintness 3
 Synset('agent.n.05')
@@ -13312,12 +13461,11 @@ Synset('captivation.n.02')
 	enchantment 2
 Synset('wheel.v.03')
 	wheeled 3
-Synset('german.n.01')
-	Germans 1
+Synset('paved.a.01')
+	paved 1
 Synset('eight-spot.n.01')
 	Eight 1
 	eight 57
-	Eights 1
 Synset('sun.n.04')
 	sun 36
 Synset('reputation.n.03')
@@ -13338,10 +13486,9 @@ Synset('dreadfully.r.01')
 	horribly 5
 	awfully 1
 Synset('mouth.n.05')
+	MOUTH 1
 	mouth 29
 	mouths 8
-Synset('nicholas.n.01')
-	Nicholas 1
 Synset('bank.n.09')
 	banks 5
 	bank 28
@@ -13354,7 +13501,6 @@ Synset('look_out_on.v.01')
 	overlooking 3
 Synset('dry.a.06')
 	dry 8
-	drier 1
 Synset('diligently.r.01')
 	diligently 1
 Synset('look.v.02')
@@ -13368,11 +13514,9 @@ Synset('look.v.02')
 	appear 21
 Synset('glitter.n.02')
 	glitter 2
-Synset('table.n.05')
-	Tables 1
-	tables 6
-	TABLE 1
-	table 61
+Synset('pride.n.03')
+	pride 23
+	Pride 1
 Synset('spectral.a.01')
 	spectral 4
 Synset('trade.v.02')
@@ -13389,7 +13533,7 @@ Synset('symmetry.n.01')
 Synset('roentgen.n.01')
 	r 17
 Synset('blight.v.01')
-	blight 1
+	Plague 1
 	plague 4
 Synset('glutton.n.01')
 	glutton 1
@@ -13398,32 +13542,29 @@ Synset('appeal.n.03')
 	appeal 5
 Synset('trot.n.04')
 	trot 3
-Synset('fifth.n.01')
-	FIFTH 1
-	fifth 5
+Synset('bayonet.n.01')
+	bayonets 3
 Synset('section.n.11')
 	Section 4
 Synset('reception.n.05')
 	reception 5
 Synset('sovereign.n.01')
 	monarchs 3
-	Sovereign 1
 	sovereigns 7
+	Sovereign 2
 	monarch 16
 Synset('realization.n.04')
 	realisation 2
 Synset('find.v.13')
-	finding 26
-	Finding 4
+	finding 25
+	Finding 2
 Synset('go_steady.v.01')
 	date 1
 	dates 1
-	dated 3
+	dated 4
 Synset('already.r.01')
 	already 61
 	Already 1
-Synset('blackening.n.01')
-	darkening 1
 Synset('grimace.n.01')
 	grimaces 1
 Synset('heir.n.01')
@@ -13432,6 +13573,7 @@ Synset('heir.n.01')
 	inheritor 2
 Synset('bathtub.n.01')
 	tub 3
+	Tub 1
 Synset('compatriot.n.01')
 	compatriot 2
 Synset('parade.v.02')
@@ -13462,10 +13604,11 @@ Synset('exterminate.v.01')
 	exterminating 1
 	exterminated 1
 	exterminate 1
+Synset('hammer.n.01')
+	Cock 2
 Synset('rigidly.r.01')
 	rigidly 1
 Synset('shower.v.03')
-	shower 3
 	showered 2
 	showering 1
 Synset('countryman.n.02')
@@ -13485,7 +13628,7 @@ Synset('go.v.03')
 	depart 12
 	departed 16
 	departing 1
-	going 121
+	going 126
 	Going 3
 	went 335
 	Gone 1
@@ -13514,19 +13657,16 @@ Synset('concern.n.04')
 	vexation 1
 	headache 1
 Synset('official.n.01')
-	functionary 6
+	functionary 5
 	functionaries 2
 	functionarys 1
 Synset('invitation.n.02')
 	invitation 2
 Synset('relative.n.02')
-	relative 2
 	relatives 2
 Synset('relative.n.01')
 	relation 7
 	relations 19
-Synset('skirmish.v.01')
-	skirmishing 1
 Synset('animal.n.01')
 	animals 8
 	beasts 10
@@ -13539,14 +13679,16 @@ Synset('proportion.n.05')
 Synset('girl.n.01')
 	girl 37
 	girls 6
+	GIRL 1
 Synset('congregation.n.01')
 	Congregation 1
+	faithful 12
 Synset('bath.n.05')
 	bath 1
 Synset('scum.n.02')
 	scum 1
 Synset('warm.a.01')
-	warm 10
+	warm 11
 	warmer 1
 Synset('enslavement.n.01')
 	captivity 10
