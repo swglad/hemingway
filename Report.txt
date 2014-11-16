@@ -1,0 +1,48 @@
+Write Like Hemingway
+
+Alex Gerstein, Scott Gladstone, & Vikram Narayan
+
+Computational Linguistics
+Department of Computer Science
+Fall 2014
+
+Problem Statement
+-----------------
+(** SCOPE **)
+- text replacement 
+---> in-depth: Word sense disambiguation, etc.
+
+
+Survey of Related Research
+--------------------------
+(1. Academic Research, 2. Citations to Algorithms, 3. Similar Existing Products)
+- academic papers/issues with word-sense disambiguation
+---> Lesk's algorithm
+---> NLTK
+- existing open source code/programs
+---> LingoJam
+
+
+Methods & Implementation
+------------------------
+(** FUNCTIONALITY **)
+- pseudocode: bi-layered model with interpolation
+- features: 4 corpuses, capitalization/punctuation preserved, direct mapping files for non-english words, command line interface, GUI with highlighted replacements, accuracy metrics (author replacement rate (ARR) and user survey data (qualtrics))
+----> build corpus, grab song lyrics, lesk/non-lesk
+
+- implemented with python, describe structure of thesaurus/corpus/mapping files and code flow when the files do/don't exist
+- Heroku GUI framework, with image
+- sample command line: python main.py -a hemingway_short -i data/input/sample.txt -o data/output/qq.out 
+
+User Feedback & Accuracy
+------------------------
+(** UTILITY **)
+- qualtrics data, author replacement rate
+
+Future Development
+------------------
+(1. Shortcomings, 2. Future Expansion)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Appendix
+- Functional structure / data flow schematic
