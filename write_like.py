@@ -80,7 +80,8 @@ class WriteLike:
                     line = line.decode('ascii','ignore')
                 except (UnicodeDecodeError, UnicodeEncodeError):
                     continue
-                line = line.split()
+                line = tokenize_string(line)
+
                 tagged_tuples = nltk.pos_tag(line)
 
                 tagged_string = '' # tagged string
