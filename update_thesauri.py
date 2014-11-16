@@ -67,7 +67,7 @@ def make_thesaurus_lesk(file_path):
     with open(file_path, 'r') as f:
 
         f = f.read().split()
-        for i,word_and_tag in enumerate(f):
+        for i, word_and_tag in enumerate(f):
 
             word = word_and_tag.split('_')[0]
             tag = word_and_tag.split('_')[1]
@@ -79,13 +79,13 @@ def make_thesaurus_lesk(file_path):
                 continue
 
             # look at a window of 9 words each time lesk is called
-            window=[i-4,i+4]
+            window = [i-4, i+4]
             if i<4:
-                window==[i,i+8]
+                window==[i, i+8]
             elif i > len(f)-5:
-                window=[i-8,i]
+                window=[i-8, i]
 
-            synset = lesk.my_lesk(f[window[0]:window[1]],word)
+            synset = lesk.my_lesk(f[window[0]:window[1]], word)
 
             # Ignore repeated book title headers
             # if _is_title(line):
@@ -100,18 +100,11 @@ def make_thesaurus_lesk(file_path):
             if synset is None:
                 continue
             try:
-                print "word =", word,"\t\tsynset =",synset#,"\t\tdef =",synset.definiton()
+                print "word =", word,"\t\tsynset =", synset#,"\t\tdef =",synset.definiton()
             except AttributeError:
                 continue
 
-            thesaurus[synset].update([word])
-
-                # note: adding in lemmas increases the possibility of using a word
-                # that the author never used, whereas if this is commented out,
-                # the thesaurus will only contain words that the author used
-                # for lemma in synset.lemmas():
-                #     thesaurus[synset].update([lemma.name()])
-
+            thesaurus[synset].update([word.lower()])
 
     # Update thesaurus with mappings, if map_file exists
     file_path = file_path.replace(config.CORPUS_FOLDER_LESK, config.MAPPING_FOLDER)
