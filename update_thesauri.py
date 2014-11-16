@@ -8,6 +8,7 @@ import lesk
 BOOK_TITLE_REGEX = '^[0-9]*\s?[A-Za-z\s]+[0-9]*$'
 
 MAP_WEIGHT = 1.65   # overweight directly-mapped word counts
+WINDOW = 4
 
 def _is_title(line):
     """
@@ -79,29 +80,17 @@ def make_thesaurus_lesk(file_path):
                 continue
 
             # look at a window of 9 words each time lesk is called
-            window = [i-4, i+4]
-            if i<4:
-                window==[i, i+8]
-            elif i > len(f)-5:
-                window=[i-8, i]
+            window = [i - WINDOW, i + WINDOW]
+            if i < WINDOW:
+                window = [i, i + 2 * WINDOW]
+            elif i >= len(f) - WINDOW:
+                window = [i - 2 * WINDOW, i]
 
             synset = lesk.my_lesk(f[window[0]:window[1]], word)
-
-            # Ignore repeated book title headers
-            # if _is_title(line):
-            #     continue
-
-            # Reject whitespace character
-            # if re.match("^[\s]*$", word):
-            #     continue
 
             # if lesk can decide on a meaning for that word, add
             # that meaning, i.e., that synset, to thesaurus
             if synset is None:
-                continue
-            try:
-                print "word =", word,"\t\tsynset =", synset#,"\t\tdef =",synset.definiton()
-            except AttributeError:
                 continue
 
             thesaurus[synset].update([word.lower()])
