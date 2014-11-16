@@ -10,11 +10,11 @@ from nltk.wsd import lesk as nltk_lesk
 from lesk import reduce_pos_tagset
 
 class WriteLike:
-    def __init__(self, author, fast=True):
+    def __init__(self, author, fast=False):
         self.author = author
 
         # added for Lesk
-        if fast is False:
+        if fast:
             self.thesaurus = self._read_thesaurus()
         else:
             self.thesaurus = self._read_thesaurus_lesk()

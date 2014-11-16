@@ -41,4 +41,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     wl = WriteLike(args.author, args.fast)
-    wl.style_convert_lesk(args.input, args.output)
+    if args.fast:
+        wl.style_convert(args.input, args.output)
+    else:
+        wl.style_convert_lesk(args.input, args.output)
