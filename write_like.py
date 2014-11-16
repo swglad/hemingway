@@ -10,10 +10,8 @@ from nltk.wsd import lesk as nltk_lesk
 from lesk import reduce_pos_tagset
 
 class WriteLike:
-    def __init__(self, author, debug=False, fast=True):
+    def __init__(self, author, fast=True):
         self.author = author
-        self.debug = debug
-        # self.thesaurus = self._read_thesaurus()
 
         # added for Lesk
         if fast is False:
@@ -33,9 +31,6 @@ class WriteLike:
                 # Tokenize full input file by spaces + punctuation (not apostrophe/hyphen)
                 text = tokenize_string(line)
 
-                if self.debug:
-                    print "text: ", text
-
                 for index, orig_word in enumerate(text):
                     was_title = orig_word.istitle()        # "Title"
                     was_capitalized = orig_word.isupper()  # "UPPER"
@@ -48,14 +43,6 @@ class WriteLike:
                         word = word.decode('ascii')
                     except (UnicodeDecodeError, UnicodeEncodeError):
                         continue
-
-                    if self.debug:
-                        print
-                        print word,
-                        if word in self.thesaurus:
-                            print "\t-->\t", self.thesaurus[word]
-                        else:
-                            print "\t-->\t Empty"
 
                     # Probabilistically choose a synonym in thesaurus[word]
                     weighted_key = self._weighted_choice(word)
