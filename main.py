@@ -1,7 +1,11 @@
 #!/usr/bin/env python
 """
+main.py
+
 Authors: Alex Gerstein, Scott Gladstone, Vikram Narayan
 CS 73 Final Project: Write Like Hemingway
+
+See README.md at https://github.com/swglad/hemingway.git
 
 Pseudocode:
 1. Read in a corpus X from author (e.g. Hemingway)
@@ -12,19 +16,30 @@ Pseudocode:
 6. Read in a user input Y
 7. For each word y in input Y:
 8.    If y is in thesaurus:
-9.        Use pdf to map y --> synonym(y)
+9.        Probabilistically map y --> synonym(y)
 
 Requirements:
-    Directories: corpus, thesauri, mappings, input, output
+    Directories: 
+        corpus
+        thesaurus
+        mapping
+    Modules: 
+        NLTK
+        NLTK-Data - WordNet
+        NLTK Punkt
+        NLTK tagging/max_ent_pos_tagger/english.pickle
+
+Input: 
+    Text file of user input to convert
 
 Output:
-
-Description:
+    Text file of replaced output using user text
 
 Parameters:
-
-Enhancements:
-
+    -author:    name of author to convert style to
+    -input:     user input  
+    -output:    output text
+    -fast:      non-Lesk, non-POS tagging mode
 """
 
 from write_like import WriteLike

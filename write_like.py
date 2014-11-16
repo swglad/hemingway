@@ -1,3 +1,12 @@
+"""
+write_like.py 
+
+Module to perform style conversion given author & user input.
+Clears and writes to specified output file.
+
+Runs in Lesk/POS-tagged or Fast mode, depending on parameters.
+"""
+
 import config
 import random
 import string
@@ -10,9 +19,11 @@ from nltk.wsd import lesk as nltk_lesk
 from lesk import reduce_pos_tagset
 
 class WriteLike:
+
     def __init__(self, author):
         self.author = author
         self.thesaurus = self._read_thesaurus()
+
 
     def style_convert(self, infile_name, outfile_name):
         """ For each word in input text, look up synonyms in the
@@ -157,7 +168,6 @@ class WriteLike:
         return mix_keys[-1]
 
 
-
     def _weighted_choice(self, word):
         """
         Returns a probabilistically-selected synonym for a word.
@@ -185,6 +195,7 @@ class WriteLike:
 
         # Return final word as best choice (e.g. tail 'n' value)
         return mix_keys[-1]
+
 
     def _read_thesaurus(self):
         """
