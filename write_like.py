@@ -10,14 +10,9 @@ from nltk.wsd import lesk as nltk_lesk
 from lesk import reduce_pos_tagset
 
 class WriteLike:
-    def __init__(self, author, fast=False):
+    def __init__(self, author):
         self.author = author
-
-        # added for Lesk
-        if fast:
-            self.thesaurus = self._read_thesaurus()
-        else:
-            self.thesaurus = self._read_thesaurus_lesk()
+        self.thesaurus = self._read_thesaurus()
 
     def style_convert(self, infile_name, outfile_name):
         """ For each word in input text, look up synonyms in the
@@ -185,23 +180,6 @@ class WriteLike:
 
         # Return final word as best choice (e.g. tail 'n' value)
         return mix_keys[-1]
-
-    def _read_thesaurus_lesk(self):
-        """
-        Store pre-processed thesaurus in dict object.
-        """
-        filename = config.THESAURI_FOLDER + "/" + self.author +'_interpolate'+ config.THES_TAG
-        thesaurus = defaultdict(lambda: Counter())
-
-        with open(filename, 'r') as f:
-            for line in f:
-                if not re.match('^[\s]', line):
-                    dict_key = line.strip()
-                    current_word = thesaurus[dict_key]
-                else:
-                    syn, count = line.strip().split()
-                    current_word.update({syn: int(count)})
-        return thesaurus
 
     def _read_thesaurus(self):
         """
