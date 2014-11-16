@@ -1,3 +1,12 @@
+"""
+write_like.py 
+
+Module to perform style conversion given author & user input.
+Clears and writes to specified output file.
+
+Runs in Lesk/POS-tagged or Fast mode, depending on parameters.
+"""
+
 import config
 import random
 import string
@@ -10,9 +19,11 @@ from nltk.wsd import lesk as nltk_lesk
 from lesk import reduce_pos_tagset
 
 class WriteLike:
+
     def __init__(self, author):
         self.author = author
         self.thesaurus = self._read_thesaurus()
+
 
     def style_convert(self, infile_name, outfile_name):
         """ For each word in input text, look up synonyms in the
@@ -79,8 +90,8 @@ class WriteLike:
 
                 tagged_tuples = nltk.pos_tag(line)
 
-                tagged_string = '' # tagged string
-                untagged_string = '' # normal string
+                tagged_string = ''      # tagged string
+                untagged_string = ''    # normal string
                 for word, tag in tagged_tuples:
                     untagged_string += word + ' '
                     tagged_string += word + '_' + tag + ' '
@@ -95,15 +106,20 @@ class WriteLike:
                     was_capitalized = orig_word.isupper()  # "UPPER"
                     was_lower = orig_word.islower()        # "lower"
 
-                    # converts penn tree bank parts of speech to wordnet parts of speech
-                    wordnet_pos = reduce_pos_tagset(temp_pos)
-                    if wordnet_pos is not None:
-                        synset = nltk_lesk(untagged_string, orig_word.strip().lower(), wordnet_pos)
+                    # Don't replace determinants
+                    if temp_pos == u'DT':
+                        weighted_key = word
                     else:
-                        synset = nltk_lesk(untagged_string, orig_word.strip().lower())
+                        # Replace word
+                        # Converts penn tree bank pos tag to wordnet pos tag
+                        wordnet_pos = reduce_pos_tagset(temp_pos)
+                        if not wordnet_pos:
+                            synset = nltk_lesk(untagged_string, orig_word.strip().lower(), wordnet_pos)
+                        else:
+                            synset = nltk_lesk(untagged_string, orig_word.strip().lower())
 
-                    # Probabilistically choose a synonym in thesaurus[synset]
-                    weighted_key = self._weighted_choice_lesk(str(synset), word)
+                        # Probabilistically choose a synonym in thesaurus[synset]
+                        weighted_key = self._weighted_choice_lesk(str(synset), word)
 
                     # Match capitalization of original word
                     if was_title:
@@ -152,7 +168,6 @@ class WriteLike:
         return mix_keys[-1]
 
 
-
     def _weighted_choice(self, word):
         """
         Returns a probabilistically-selected synonym for a word.
@@ -180,6 +195,7 @@ class WriteLike:
 
         # Return final word as best choice (e.g. tail 'n' value)
         return mix_keys[-1]
+
 
     def _read_thesaurus(self):
         """

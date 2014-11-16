@@ -1,8 +1,7 @@
 """
 wordnet.py
 
-API wrapper to lookup words on
-Princeton Wordnet.
+API wrapper to lookup words on Princeton Wordnet.
 """
 
 from nltk.corpus import wordnet

@@ -1,5 +1,6 @@
 """ 
 lesk.py
+
 Word sense disambiguation using Lesk algorithm and part of speech tagging. 
 """
 
@@ -15,7 +16,6 @@ def reduce_pos_tagset(ptb_tag):
     """
     Converts Penn Tree bank pos tags to wordnet pos tags.
     """
-
     if ptb_tag[0] == 'V':
         wn_pos = VERB
     elif ptb_tag[0] == 'N':

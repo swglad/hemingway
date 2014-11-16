@@ -1,3 +1,10 @@
+"""
+build_corpus.py
+
+Tokenzies an input file to build a corpus, which can be later
+converted into a thesaurus .thes file
+"""
+
 import argparse
 from nltk.tokenize import RegexpTokenizer
 from config import *
