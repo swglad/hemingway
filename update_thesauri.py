@@ -161,8 +161,6 @@ def _add_mappings(mapping_file, thesaurus):
 
     return thesaurus
 
-
-import pdb
 if __name__ == "__main__":
     print "Starting to make thesauri..."
     for file_name in glob.glob(config.CORPUS_FOLDER_LESK + "/*_tagged" + config.CORP_TAG):
