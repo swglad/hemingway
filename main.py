@@ -41,6 +41,6 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     # wl = WriteLike(args.author, args.DEBUG)
-    wl = WriteLike(args.author, args.DEBUG,lesk=True)
     # wl.style_convert(args.input, args.output)
+    wl = WriteLike(args.author, args.DEBUG,lesk=True)
     wl.style_convert_lesk(args.input, args.output)

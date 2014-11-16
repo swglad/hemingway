@@ -99,8 +99,6 @@ class WriteLike:
                 t_string=''
                 n_string=''
                 for word, tag in tagged_string:
-                    # word = word_and_tag.split('_')[0]
-                    # tag = word_and_tag.split('_')[1]
                     n_string+=word.decode('ascii','ignore')+' '
                     t_string+=word.decode('ascii','ignore')+'_'+tag+' '
 
@@ -142,6 +140,7 @@ class WriteLike:
                         else:
                             print "\t-->\t Empty"
 
+
                     # Probabilistically choose a synonym in thesaurus[synset]
                     weighted_key = self._weighted_choice_lesk(str(synset), word)
 
@@ -171,11 +170,11 @@ class WriteLike:
         synonyms in thesaurus[word] in random order, & decreasing
         'n' by the 'weight' (frequency) of each synonym.
         """
-        if synset is None: 
-            return orig_word
+        if synset is None:
+            return self._weighted_choice(orig_word) 
 
         if synset not in self.thesaurus:
-            return orig_word
+            return self._weighted_choice(orig_word)
 
 
         # Obtain random normal_pdf weight value from [0, total_weight]
@@ -229,8 +228,7 @@ class WriteLike:
         """
         Store pre-processed thesaurus in dict object.
         """
-        filename = config.THESAURI_FOLDER + "/" + self.author +'_tagged'+ config.THES_TAG
-
+        filename = config.THESAURI_FOLDER + "/" + self.author +'_interpolate'+ config.THES_TAG
         thesaurus = defaultdict(lambda: Counter())
 
         with open(filename, 'r') as f:
