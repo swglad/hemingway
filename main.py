@@ -40,7 +40,8 @@ if __name__ == '__main__':
     parser.add_argument('-fast', '--fast', '-nolesk', '--nolesk', '-f', '--f', action='store_true', required=False)
     args = parser.parse_args()
 
-    wl = WriteLike(args.author, args.fast)
+    wl = WriteLike(args.author)
+    
     if args.fast:
         wl.style_convert(args.input, args.output)
     else:

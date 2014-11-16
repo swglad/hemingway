@@ -29,7 +29,7 @@ def reduce_pos_tagset(ptb_tag):
 
     return wn_pos
 
-def my_lesk(tagged_string, desired_word):
+def my_lesk(tagged_strings, desired_word):
     """
     @tagged_string: the string of words in the format 'word1_pos1 word2_pos2...'
     @desired_word: the word we want disambiguated
@@ -37,18 +37,24 @@ def my_lesk(tagged_string, desired_word):
              - synset returned by lesk without pos specified if no pos (less accurate)
              - None if lesk returns nothing
     """
-    normal_string=''
-    desired_tag=''
-    for word_and_tag in tagged_string:
-        word = word_and_tag.split('_')[0]
-        tag = word_and_tag.split('_')[1]
-        if word==desired_word:
+    normal_string = ''
+    desired_tag = ''
+    for tagged_string in tagged_strings:
+        word, tag = tagged_string.rsplit("_", 1)
+
+        # Reject non-ASCII characters
+        try:
+            word = word.decode('ascii')
+        except (UnicodeDecodeError, UnicodeEncodeError):
+            continue
+
+        if word == desired_word:
             desired_tag = tag
 
-        normal_string+=word+' '
+        normal_string += word + ' '
 
     # ignore proper nouns and punctuation
-    if desired_tag=='NNP' or desired_tag=='NNPS' or desired_tag in string.punctuation:
+    if desired_tag == 'NNP' or desired_tag == 'NNPS' or desired_tag in string.punctuation:
         return None
 
     # if the POS can be resolved to a wordnet POS, call lesk with POS

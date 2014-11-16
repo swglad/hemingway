@@ -90,13 +90,13 @@ def make_thesaurus_lesk(file_path):
 
             # if lesk can decide on a meaning for that word, add
             # that meaning, i.e., that synset, to thesaurus
-            if synset is None:
+            if not synset:
                 continue
 
-            thesaurus[synset].update([word.lower()])
+            thesaurus[str(synset)].update([word.lower()])
 
     # Update thesaurus with mappings, if map_file exists
-    file_path = file_path.replace(config.CORPUS_FOLDER_LESK, config.MAPPING_FOLDER)
+    file_path = file_path.replace(config.CORPUS_FOLDER, config.MAPPING_FOLDER)
     map_file = file_path.replace(config.CORP_TAG, config.MAP_TAG)
     thesaurus = _add_mappings(map_file, thesaurus)
     return thesaurus
@@ -108,27 +108,12 @@ def write_thesaurus(file_path, thesaurus):
     file_path = file_path.replace(config.CORPUS_FOLDER, config.THESAURI_FOLDER)
     file_path = file_path.replace(config.CORP_TAG, config.THES_TAG)
 
-    with open(file_path, 'w') as f:
+    with open(file_path, 'a') as f:
         for word in thesaurus:
             f.write(word + "\n")
 
             for syn in thesaurus[word]:
                 f.write("\t" + syn + " " + str(thesaurus[word][syn]) + "\n")
-
-
-def write_thesaurus_lesk(file_path, thesaurus):
-    """
-    Writes thesaurus to output file as: Synset\n \tsyn1 38\n \tsyn2 12 ...
-    """
-    file_path = file_path.replace(config.CORPUS_FOLDER_LESK, config.THESAURI_FOLDER)
-    file_path = file_path.replace(config.CORP_TAG, config.THES_TAG)
-
-    with open(file_path, 'w') as f:
-        for synset in thesaurus:
-            f.write(str(synset) + "\n")
-
-            for syn in thesaurus[synset]:
-                f.write("\t" + syn + " " + str(thesaurus[synset][syn]) + "\n")
 
 def _add_mappings(mapping_file, thesaurus):
     """
@@ -163,11 +148,21 @@ def _add_mappings(mapping_file, thesaurus):
 
 if __name__ == "__main__":
     print "Starting to make thesauri..."
-    for file_name in glob.glob(config.CORPUS_FOLDER_LESK + "/*_tagged" + config.CORP_TAG):
+    for file_name in glob.glob(config.CORPUS_FOLDER + "/*_tagged" + config.CORP_TAG):
         print "Making Thesaurus:", file_name
-        author_thesaurus = make_thesaurus_lesk(file_name)
-        file_name = file_name.replace(config.CORPUS_FOLDER, config.THESAURI_FOLDER)
+        author_tagged_thesaurus = make_thesaurus_lesk(file_name)
+        
+        file_name = file_name.replace("_tagged", "")
+        author_untagged_thesaurus = make_thesaurus(file_name)
 
-        print "Writing To File:", file_name.replace(config.CORP_TAG, config.THES_TAG)
-        write_thesaurus_lesk(file_name, author_thesaurus)
+        file_name = file_name.replace(config.CORPUS_FOLDER, config.THESAURI_FOLDER)
+        file_name = file_name.replace(config.CORP_TAG, config.THES_TAG)
+
+        print "Writing To File:", file_name
+
+        # Clear file contents
+        open(file_name, 'w').close()
+
+        write_thesaurus(file_name, author_tagged_thesaurus)
+        write_thesaurus(file_name, author_untagged_thesaurus)
     print "Done!"
