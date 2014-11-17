@@ -1,0 +1,80 @@
+TEST DETAILS
+ITERATIONS: 50
+AUTHORS: ['dickens', 'hemingway', 'shakespeare', 'rappers']
+FILES: ['data/test_quotes/dickens.txt', 'data/test_quotes/hemingway.txt', 'data/test_quotes/rappers.txt', 'data/test_quotes/shakespeare.txt']
+====
+File: data/test_quotes/dickens.txt
+====
+Author:dickens	 + (no lesk):20.16
+Author:dickens	 - (no lesk):21.16
+Author:dickens	 + (lesk)   :40.36
+Author:dickens	 - (lesk)   :41.36
+Author:hemingway	 + (no lesk):20.48
+Author:hemingway	 - (no lesk):21.48
+Author:hemingway	 + (lesk)   :37.24
+Author:hemingway	 - (lesk)   :38.24
+Author:shakespeare	 + (no lesk):23.62
+Author:shakespeare	 - (no lesk):24.62
+Author:shakespeare	 + (lesk)   :41.68
+Author:shakespeare	 - (lesk)   :42.68
+Author:rappers	 + (no lesk):21.96
+Author:rappers	 - (no lesk):22.96
+Author:rappers	 + (lesk)   :44.88
+Author:rappers	 - (lesk)   :45.88
+====
+File: data/test_quotes/hemingway.txt
+====
+Author:dickens	 + (no lesk):46.8
+Author:dickens	 - (no lesk):42.8
+Author:dickens	 + (lesk)   :77.78
+Author:dickens	 - (lesk)   :73.78
+Author:hemingway	 + (no lesk):40.92
+Author:hemingway	 - (no lesk):36.92
+Author:hemingway	 + (lesk)   :62.94
+Author:hemingway	 - (lesk)   :58.94
+Author:shakespeare	 + (no lesk):45.72
+Author:shakespeare	 - (no lesk):41.72
+Author:shakespeare	 + (lesk)   :75.9
+Author:shakespeare	 - (lesk)   :71.9
+Author:rappers	 + (no lesk):54.4
+Author:rappers	 - (no lesk):50.4
+Author:rappers	 + (lesk)   :81.06
+Author:rappers	 - (lesk)   :77.06
+====
+File: data/test_quotes/rappers.txt
+====
+Author:dickens	 + (no lesk):29.68
+Author:dickens	 - (no lesk):29.68
+Author:dickens	 + (lesk)   :48.32
+Author:dickens	 - (lesk)   :48.32
+Author:hemingway	 + (no lesk):26.0
+Author:hemingway	 - (no lesk):26.0
+Author:hemingway	 + (lesk)   :42.94
+Author:hemingway	 - (lesk)   :42.94
+Author:shakespeare	 + (no lesk):26.52
+Author:shakespeare	 - (no lesk):26.52
+Author:shakespeare	 + (lesk)   :51.38
+Author:shakespeare	 - (lesk)   :51.38
+Author:rappers	 + (no lesk):42.68
+Author:rappers	 - (no lesk):42.68
+Author:rappers	 + (lesk)   :57.14
+Author:rappers	 - (lesk)   :57.14
+====
+File: data/test_quotes/shakespeare.txt
+====
+Author:dickens	 + (no lesk):54.52
+Author:dickens	 - (no lesk):54.52
+Author:dickens	 + (lesk)   :75.02
+Author:dickens	 - (lesk)   :75.02
+Author:hemingway	 + (no lesk):52.4
+Author:hemingway	 - (no lesk):52.4
+Author:hemingway	 + (lesk)   :75.08
+Author:hemingway	 - (lesk)   :75.08
+Author:shakespeare	 + (no lesk):46.62
+Author:shakespeare	 - (no lesk):46.62
+Author:shakespeare	 + (lesk)   :66.06
+Author:shakespeare	 - (lesk)   :66.06
+Author:rappers	 + (no lesk):57.28
+Author:rappers	 - (no lesk):57.28
+Author:rappers	 + (lesk)   :73.66
+Author:rappers	 - (lesk)   :73.66
