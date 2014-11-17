@@ -115,6 +115,7 @@ class WriteLike:
                             synset = nltk_lesk(untagged_string, word)
 
                         # Probabilistically choose a synonym in thesaurus[synset]
+                        # -> Interpolates to non-WordNet/Synset if synset doesn't exist
                         weighted_key = self._weighted_choice_lesk(str(synset), word)
 
                     # Match capitalization of original word
