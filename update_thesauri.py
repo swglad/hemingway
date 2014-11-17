@@ -1,3 +1,10 @@
+"""
+update_thesauri.py
+
+Builds and updates .thes thesaurus files from author corpuses.
+Handles both Lesk/POS-tagged and non-POS tagged corpuses.
+"""
+
 import config
 import glob
 import wordnet as wn
@@ -8,13 +15,15 @@ import lesk
 BOOK_TITLE_REGEX = '^[0-9]*\s?[A-Za-z\s]+[0-9]*$'
 
 MAP_WEIGHT = 1.65   # overweight directly-mapped word counts
-WINDOW = 4
+WINDOW = 4          # number of context words for Lesk
+
 
 def _is_title(line):
     """
     Ignore book title if repeated in corpus
     """
     return re.match(BOOK_TITLE_REGEX, line) is not None
+
 
 def make_thesaurus(file_path):
     """
@@ -57,6 +66,7 @@ def make_thesaurus(file_path):
     thesaurus = _add_mappings(map_file, thesaurus)
 
     return thesaurus
+
 
 def make_thesaurus_lesk(file_path):
     """
@@ -101,6 +111,7 @@ def make_thesaurus_lesk(file_path):
     thesaurus = _add_mappings(map_file, thesaurus)
     return thesaurus
 
+
 def write_thesaurus(file_path, thesaurus):
     """
     Writes thesaurus to output file as: word\n \tsyn1 38\n \tsyn2 12 ...
@@ -114,6 +125,7 @@ def write_thesaurus(file_path, thesaurus):
 
             for syn in thesaurus[word]:
                 f.write("\t" + syn + " " + str(thesaurus[word][syn]) + "\n")
+
 
 def _add_mappings(mapping_file, thesaurus):
     """
@@ -145,6 +157,7 @@ def _add_mappings(mapping_file, thesaurus):
         pass
 
     return thesaurus
+
 
 if __name__ == "__main__":
     print "Starting to make thesauri..."

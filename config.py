@@ -1,3 +1,9 @@
+"""
+config.py
+
+Useful definitions and regular expressions.
+"""
+
 from string import punctuation
 
 CORPUS_FOLDER = "data/corpus"

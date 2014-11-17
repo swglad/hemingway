@@ -1,11 +1,16 @@
-from config import *
+"""
+build_lyric_corpus.py
 
+Web scraper to obtain corpus of lyrics given list of artists from genius.com.
+Command line interface, only.
+"""
+
+from config import *
 from urlparse import urljoin
 from bs4 import BeautifulSoup
 import requests
 import argparse
 from build_corpus import tokenize_string
-
 
 BASE_URL = "http://genius.com"
 artist_url = BASE_URL + "/artists/"
@@ -35,6 +40,7 @@ def compile_lyrics(artist_name, output_filename):
 
                 if not re.match(ASIDE_REGEX, line):
                     f.write(" ".join(tokenize_string(line)) + '\n')
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
