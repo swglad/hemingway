@@ -143,6 +143,7 @@ class WriteLike:
         synonyms in thesaurus[word] in random order, & decreasing
         'n' by the 'weight' (frequency) of each synonym.
         """
+        # Interpolation to word-word thesaurus if synset[word] does not exist
         if not synset or synset not in self.thesaurus:
             return self._weighted_choice(orig_word) 
 
