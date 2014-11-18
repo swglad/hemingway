@@ -124,7 +124,7 @@ def make_thesaurus_lesk(file_path):
             # if word is verb, only add present tense to thesaurus
             if tag[0] == 'V': 
                 word_tenses = tenses(word.lower())
-                if 'p' not in word_tenses and 'pl' not in word_tenses and 'part' not in word_tenses:
+                if 'inf' in word_tenses or '1sg' in word_tenses or '2sg' in word_tenses or '3sg' in word_tenses:
                     thesaurus[str(synset)].update([word.lower()])
             elif tag[0] == 'N':
                 synset_name = synset.name().split('.')[0]
