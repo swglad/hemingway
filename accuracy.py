@@ -12,8 +12,6 @@ def my_diff(filename1,filename2, output_filename, author, lesk):
 	file1 = open(filename1, 'r').read().strip().split()
 	file2 = open(filename2, 'r').read().strip().split()
 
-	# if len(file1) != len(file2):
-	# 	return (n, len(file1))
 	pluses = 0
 	minuses = 0
 	differences = list(Differ().compare(file1,file2))
@@ -22,19 +20,7 @@ def my_diff(filename1,filename2, output_filename, author, lesk):
 			pluses += 1
 		if item[0] == '-':
 			minuses += 1
-	# n = 0
-	# for i in xrange(len(file1)):
-	# 	print '\t\t\t' ,file1[i], file2[i]
-	# 	if file1[i]!=file2[i]:
-	# 		n += 1
 
-	# f = open(output_filename, 'a')
-	# f.write('Author: ' + author + '\n')
-	# f.write(filename1 + ' to ' + filename2 + '\n')
-	# f.write('lesk: ' + str(lesk) + '\n')
-	# f.write(str(n) + ' words converted out of ' + str(len(file1)) + '(' + str(1.0 * n / len(file1)) + '%)' + '\n')
-	# f.write('\n')
-	# f.close()
 	return (pluses, minuses)
 
 if __name__ == '__main__':
@@ -64,7 +50,14 @@ if __name__ == '__main__':
 	f.write('TEST DETAILS\nITERATIONS: ' + str(args.iterations) + '\n')
 	f.write('AUTHORS: ' + str(authors) + '\n')
 	f.write('FILES: ' + str(test_files) + '\n')
+	f.write('FILE DETAILS:\n')
+	# write test file details
+	for test_file in test_files:
+		tf = open(test_file, 'r')
+		f.write(test_file + ': ' + str(len(tf.read().split() ) ) + 'words\n')
+		tf.close()
 
+	# testing
 	for test_file in test_files:
 
 		f.write('====\nFile: ' + test_file + '\n====\n')
