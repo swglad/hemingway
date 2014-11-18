@@ -33,9 +33,9 @@ def make_thesaurus(file_path):
 
             parsed = parse(line)
 
-            for i, word in enumerate(line.split()):
-                word = word.strip().lower()
-                pos = parsed[i].split('/')[1][0] # get pos for word
+            for i, tagged_word in enumerate(parsed.split()):
+                word = tagged_word.split('/')[0].strip().lower()
+                pos = tagged_word.split('/')[1][0] # get pos for word
 
                 # Reject non-ASCII characters
                 try:
@@ -109,7 +109,7 @@ def make_thesaurus_lesk(file_path):
                 continue
 
             # if word is verb, only add present tense to thesaurus
-            if tag[0]=='V': 
+            if tag[0] =='V': 
                 if PRESENT in tenses(word.lower()):
                     thesaurus[str(synset)].update([word.lower()])
             elif tag[0] == 'N':
