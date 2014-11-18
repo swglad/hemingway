@@ -60,3 +60,8 @@ data/input/*
 
 .idea/*
 .DS_Store
+
+corpus_split.zip
+output_mind/
+test_quotes/
+output.txt

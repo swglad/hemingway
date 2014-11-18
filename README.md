@@ -12,6 +12,7 @@ Requirements
 1. NLTK
 2. NLTK-Data - wordnet
 3. NLTK Punkt
+4. pattern.en (pip install pattern)
 
 To Install Punkt
 ---------------------------------

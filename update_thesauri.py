@@ -11,7 +11,7 @@ import wordnet as wn
 from collections import defaultdict, Counter
 import re
 import lesk
-from pattern.en import tenses, PAST, PRESENT, pluralize, parse, singularize
+from pattern.en import tenses, PAST, PRESENT, pluralize, parse, singularize, conjugate
 
 BOOK_TITLE_REGEX = '^[0-9]*\s?[A-Za-z\s]+[0-9]*$'
 
@@ -42,9 +42,9 @@ def make_thesaurus(file_path):
 
             parsed = parse(line)
 
-            for tagged_word in parsed.split():
-                word = tagged_word.split('/')[0].strip().lower()
-                pos = tagged_word.split('/')[1][0] # get pos for word
+            for tagged_word in parsed.split()[0]:
+                word = tagged_word[0].strip().lower()
+                pos = tagged_word[1][0] # get pos for word
 
                 # Reject non-ASCII characters
                 try:
@@ -71,7 +71,11 @@ def make_thesaurus(file_path):
                             thesaurus[syn].update([word])
                     # if verb, conjugate synonyms to the right form before adding them to thes
                     elif pos == 'V':
-                        thesaurus[conjugate(syn, tense = tenses(word)[0][0] )].update([word])
+                        word_tenses = tenses(word)
+                        if word_tenses:
+                            thesaurus[conjugate(syn, tense=word_tenses[0][0])].update([word])
+                        else:
+                            thesaurus[syn].update([word])
                     else:
                         thesaurus[syn].update([word])
 
@@ -95,8 +99,7 @@ def make_thesaurus_lesk(file_path):
         f = f.read().split()
         for i, word_and_tag in enumerate(f):
 
-            word = word_and_tag.split('_')[0]
-            tag = word_and_tag.split('_')[1]
+            word, tag = word_and_tag.rsplit('_', 1)
 
             # Reject non-ASCII characters
             try:
@@ -120,15 +123,21 @@ def make_thesaurus_lesk(file_path):
 
             # if word is verb, only add present tense to thesaurus
             if tag[0] == 'V': 
-                if PRESENT in tenses(word.lower()):
+                word_tenses = tenses(word.lower())
+                if 'pl' not in word_tenses or 'part' not in word_tenses and 'p' not in word_tenses:
                     thesaurus[str(synset)].update([word.lower()])
             elif tag[0] == 'N':
-                thesaurus[str(synset)].update([singularize(word.lower())])
+                synset_name = synset.name().split('.')[0]
+                if synset_name == pluralize(synset_name):
+                    thesaurus[str(synset)].update([pluralize(word.lower())])
+                else:
+                    thesaurus[str(synset)].update([singularize(word.lower())])
             else:
                 thesaurus[str(synset)].update([word.lower()])
     # Update thesaurus with mappings, if map_file exists
     file_path = file_path.replace(config.CORPUS_FOLDER, config.MAPPING_FOLDER)
     map_file = file_path.replace(config.CORP_TAG, config.MAP_TAG)
+
     thesaurus = _add_mappings(map_file, thesaurus)
     return thesaurus
 
