@@ -113,7 +113,6 @@ class WriteLike:
                             # Replace word
                             # Converts penn tree bank pos tag to wordnet pos tag
                             wordnet_pos = reduce_pos_tagset(temp_pos)
-                            print temp_pos, word
                             if wordnet_pos:
                                 synset = nltk_lesk(untagged_string, word, wordnet_pos)
                             else:
