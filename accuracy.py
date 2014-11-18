@@ -7,8 +7,6 @@ import argparse
 
 
 def my_diff(filename1,filename2, output_filename, author, lesk):
-	print '\t\tmy_diff------'
-	n = float('inf')
 	file1 = open(filename1, 'r').read().strip().split()
 	file2 = open(filename2, 'r').read().strip().split()
 
@@ -41,16 +39,16 @@ if __name__ == '__main__':
 	authors = ['dickens', 'hemingway', 'shakespeare', 'rappers']
 	test_files = glob.glob(args.test_directory + '/*')
 
-
-	print test_files
+	print "Gathering test files..."
 
 	temp_array_nolesk = []
 	temp_array_lesk = []
 	f = open(args.output_filename, 'w')
 	f.write('TEST DETAILS\nITERATIONS: ' + str(args.iterations) + '\n')
-	f.write('AUTHORS: ' + str(authors) + '\n')
+	f.write('AUTHORS TESTED: ' + str(authors) + '\n')
 	f.write('FILES: ' + str(test_files) + '\n')
 	f.write('FILE DETAILS:\n')
+
 	# write test file details
 	for test_file in test_files:
 		tf = open(test_file, 'r')
@@ -58,19 +56,18 @@ if __name__ == '__main__':
 		tf.close()
 
 	# testing
+	print "Starting tests..."
+
 	for test_file in test_files:
 
+		print "\tCurrently testing", test_file
 		f.write('====\nFile: ' + test_file + '\n====\n')
 
 		for author in authors:
 			temp_array_nolesk = []
 			temp_array_lesk = []
 
-			print 'Author:', author
-
 			for iteration in xrange(args.iterations):
-				
-				print '\t', iteration
 
 				wl = WriteLike(author)
 
@@ -82,8 +79,6 @@ if __name__ == '__main__':
 				result = my_diff(test_file, o_file, args.output_filename, author, True)
 				temp_array_lesk.append(result)
 
-				print 'temp_array_lesk', temp_array_lesk
-				print 'temp_array_nolesk', temp_array_nolesk
 			f.write('Author:' + author + '\t + (no lesk):' + str(1.0 * sum([plus[0] for plus in temp_array_nolesk])/len(temp_array_nolesk)) + '\n' )
 			f.write('Author:' + author + '\t - (no lesk):' + str(1.0 * sum([minus[1] for minus in temp_array_nolesk])/len(temp_array_nolesk)) + '\n' )
 
@@ -91,3 +86,5 @@ if __name__ == '__main__':
 			f.write('Author:' + author + '\t - (lesk)   :' + str(1.0 * sum([minus[1] for minus in temp_array_lesk])/len(temp_array_lesk)) + '\n' )
 
 	f.close()
+	print 'Done!'
+
