@@ -4,7 +4,7 @@ import wordnet as wn
 from collections import defaultdict, Counter
 import re
 import lesk
-from pattern.en import tenses, PAST, PRESENT, pluralize, parse
+from pattern.en import tenses, PAST, PRESENT, pluralize, parse, singularize
 
 BOOK_TITLE_REGEX = '^[0-9]*\s?[A-Za-z\s]+[0-9]*$'
 
@@ -32,8 +32,8 @@ def make_thesaurus(file_path):
                 continue
 
             parsed = parse(line)
-            i = 0
-            for word in line.split():
+
+            for i, word in enumerate(line.split()):
                 word = word.strip().lower()
                 pos = parsed[i].split('/')[1][0] # get pos for word
 
@@ -56,7 +56,7 @@ def make_thesaurus(file_path):
 
                     # if noun, add plural form if word is plural, else add singular
                     if pos == 'N':
-                        if (word == pluralize(word)):
+                        if word == pluralize(word):
                             thesaurus[pluralize(syn)].update([word])
                         else:
                             thesaurus[syn].update([word])
@@ -65,8 +65,6 @@ def make_thesaurus(file_path):
                         thesaurus[conjugate(syn, tense = tenses(word)[0][0] )].update([word])
                     else:
                         thesaurus[syn].update([word])
-
-                i += 1
 
     # Update thesaurus with mappings, if map_file exists
     file_path = file_path.replace(config.CORPUS_FOLDER, config.MAPPING_FOLDER)
@@ -113,10 +111,9 @@ def make_thesaurus_lesk(file_path):
             # if word is verb, only add present tense to thesaurus
             if tag[0]=='V': 
                 if PRESENT in tenses(word.lower()):
-                    if (word == pluralize(word)):
-                        thesaurus[str(synset)].update([pluralize(word.lower())])
-                    else:
-                        thesaurus[str(synset)].update([word.lower()])
+                    thesaurus[str(synset)].update([word.lower()])
+            elif tag[0] == 'N':
+                thesaurus[str(synset)].update([singularize(word.lower())])
             else:
                 thesaurus[str(synset)].update([word.lower()])
     # Update thesaurus with mappings, if map_file exists
