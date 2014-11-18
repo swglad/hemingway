@@ -4,6 +4,7 @@ import wordnet as wn
 from collections import defaultdict, Counter
 import re
 import lesk
+from pattern.en import tenses, PAST, PRESENT, pluralize, parse
 
 BOOK_TITLE_REGEX = '^[0-9]*\s?[A-Za-z\s]+[0-9]*$'
 
@@ -32,6 +33,7 @@ def make_thesaurus(file_path):
 
             for word in line.split():
                 word = word.strip().lower()
+                pos = parse(word).split('/')[1][0] # get pos for word
 
                 # Reject non-ASCII characters
                 try:
@@ -45,11 +47,26 @@ def make_thesaurus(file_path):
 
                 # Increment word count of word w
                 thesaurus[word].update([word])
+                
+                # Check plurality of noun
+                plural = False
+                if pos=='N':
+                    plural = (word == pluralize(word))
 
                 # Retrieve syn = synonym[w], add to thesaurus[syn]
                 for syn in wn.get_synonyms(word):
                     syn = syn.name().split(".")[0]
-                    thesaurus[syn].update([word])
+                    # if noun, add plural form if word is plural, else add singular
+                    if pos == 'N':
+                        if plural:
+                            thesaurus[pluralize(syn)].update([word])
+                        else:
+                            thesaurus[syn].update([word])
+                    # if verb, conjugate synonyms to the right form before adding them to thes
+                    elif pos == 'V':
+                        thesaurus[conjugate(syn, tense = tenses(word)[0][0] )].update([word])
+                    else:
+                        thesaurus[syn].update([word])
 
     # Update thesaurus with mappings, if map_file exists
     file_path = file_path.replace(config.CORPUS_FOLDER, config.MAPPING_FOLDER)
@@ -93,8 +110,12 @@ def make_thesaurus_lesk(file_path):
             if not synset:
                 continue
 
-            thesaurus[str(synset)].update([word.lower()])
-
+            # if word is verb, only add present tense to thesaurus
+            if tag[0]=='V': 
+                if PRESENT in tenses(word.lower()):
+                    thesaurus[str(synset)].update([word.lower()])
+            else:
+                thesaurus[str(synset)].update([word.lower()])
     # Update thesaurus with mappings, if map_file exists
     file_path = file_path.replace(config.CORPUS_FOLDER, config.MAPPING_FOLDER)
     map_file = file_path.replace(config.CORP_TAG, config.MAP_TAG)
