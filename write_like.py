@@ -83,7 +83,7 @@ class WriteLike:
                 # POS tag, and then lesk-ify the input,
                 # look it up in the thesauri
                 try:
-                    line = line.decode('ascii')
+                    line = line.decode('ascii', 'ignore')
                 except (UnicodeDecodeError, UnicodeEncodeError):
                     continue
                 line = tokenize_string(line)
