@@ -21,6 +21,11 @@ To Install Punkt
 >>> nltk.download()
 Then an installation window appears. Go to the 'Models' tab and select 'punkt' from under the 'Identifier' column. Then click Download and it will install the necessary files. 
 
+WebApp
+------
+App: https://damp-peak-7452.herokuapp.com/
+Source: https://github.com/alexgerstein/hemingway-web
+
 Survey of Existing Work/Work Already Completed
 --------------
 We have started preliminary background research on writing style imitation. Our research has uncovered previous approaches to translating between writing styles. Sites like LINGOJAM allow users to create manual word/phrase mappings to convert text between authorial styles. For our project, we hope to automate this mapping process. Misha Denil’s “Structured Nonsense: Automatic Imitation of Writing Style” presents an automated system to generate nonsense sentences in a specified style. The article provides a system architecture to add context to given text, which will prove useful when we try to solve the issue of word sense disambiguation for Milestone 2.
