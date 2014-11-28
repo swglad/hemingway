@@ -29,7 +29,7 @@ Source: https://github.com/alexgerstein/hemingway-web
 
 Command Line
 ------------
-python main.py -a [author] -i [input] -o [output] [no_lesk_mode]
+python main.py -a [author] -i [input] -o [output] [no lesk mode]
 
 [author]: hemingway, shakespeare, dickens, rappers
 
@@ -37,4 +37,4 @@ python main.py -a [author] -i [input] -o [output] [no_lesk_mode]
 
 [output]: file name
 
-[no_lesk_node] (optional): '--fast' to run without word-sense disambiguation
+[no lesk mode] (optional): '--fast' to run without word-sense disambiguation
