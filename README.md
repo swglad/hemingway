@@ -37,4 +37,4 @@ python main.py -a [author] -i [input] -o [output] [no_lesk_mode]
 
 [output]: file name
 
-[no_lesk_node]: '--fast' to run without word-sense disambiguation
+[no_lesk_node] (optional): '--fast' to run without word-sense disambiguation
