@@ -14,7 +14,7 @@ Requirements
 3. NLTK Punkt
 4. pattern.en (pip install pattern)
 
-To Install Punkt
+To Install Punkt (+ other NLTK tools)
 ---------------------------------
 * Open Python interpreter
 >>> import nltk
@@ -24,39 +24,17 @@ Then an installation window appears. Go to the 'Models' tab and select 'punkt' f
 WebApp
 ------
 App: https://damp-peak-7452.herokuapp.com/
+
 Source: https://github.com/alexgerstein/hemingway-web
 
-Survey of Existing Work/Work Already Completed
---------------
-We have started preliminary background research on writing style imitation. Our research has uncovered previous approaches to translating between writing styles. Sites like LINGOJAM allow users to create manual word/phrase mappings to convert text between authorial styles. For our project, we hope to automate this mapping process. Misha Denil’s “Structured Nonsense: Automatic Imitation of Writing Style” presents an automated system to generate nonsense sentences in a specified style. The article provides a system architecture to add context to given text, which will prove useful when we try to solve the issue of word sense disambiguation for Milestone 2.
-To approach word sense disambiguation, we looked into the Lesk algorithm and how to integrate this with WordNet. This approach has been taken before, as written in Santanjeev Banerjee’s “Adapting the Lesk Algorithm for Word Sense Disambiguation to WordNet.”
+Command Line
+------------
+python main.py -a [author] -i [input] -o [output] [no_lesk_mode]
 
-Proposed Solution Description
------------------
-Our basic model is as follows:
+[author]: hemingway, shakespeare, dickens, rappers
 
-1. Read in a corpus X from author (e.g. Hemingway)
-2. For each word w in corpus X:
-3.    > > Increment count of w in dict thesaurus
-4.    > > Look up all synonyms of w in WordNet
-5.    > > Map all synonyms of w to thesaurus[w]
-6. Read in a user input Y
-7. For each word y in input Y:
-8.    > > If y is in thesarus:
-9.        > > > > Use pdf to map y --> synonym(y)
+[input]: .txt file name
 
-After developing this basic model, we will embellish it by adding word sense disambiguation, and part of speech tagging. For data, we will use corpuses from a couple different authors, including Hemingway. In terms of tools, we plan to use WordNet, a software that maps words to their synonyms, and Stanford’s part of speech tagger. 
+[output]: file name
 
-Responsibilities of Each Team Member
------------------------
-Alex: Write the functions to create a dictionary by parsing a corpus and look up the synonyms for each word
-
-Scott: Translate input into output using dictionary
-
-Vikram: Word sense disambiguation (Lesk algorithm)
-
-Everyone: Part of speech tagging, GUI 
-
-Milestones
--------------
-We plan to first implement the basic model described above (milestone 1), and then embellish it with features such as word sense disambiguation/part of speech recognition (milestone 2), and then add a user interface (milestone 3). By November 5, we will have completed milestone 1. The minimum outcome by the final submission date is a prototype that replaces words, similar to the English to Shakespearean generator mentioned above. It would be a command line interface. Our ideal outcome would include: (a) the minimum outcome previously described, (b) the minimum outcome embellished with word sense disambiguation, and (c) a graphical user interface.
+[no_lesk_node]: '--fast' to run without word-sense disambiguation
